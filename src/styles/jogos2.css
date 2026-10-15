@@ -103,3 +103,7 @@
   .btn:active:not(:disabled) { transform: scale(.96); }
 }
 .busca input { scroll-margin-top: 12px; }
+
+/* contador de sequência: o dígito rolante não pode descer da linha do texto */
+#streak-n { display: inline-flex; align-items: center; line-height: 1; height: 1em; }
+#streak-n .fx-d { vertical-align: top; }

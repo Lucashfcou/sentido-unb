@@ -1,8 +1,8 @@
 // Datas do jogo. O dia vira à meia-noite de Brasília, em qualquer aparelho.
 export const FUSO = "America/Sao_Paulo";
 
-// Data do desafio nº 1 (AAAA-MM-DD). Para publicar, mude aqui.
-export const LANCAMENTO = "2026-10-15";
+// Data do desafio nº 1 (AAAA-MM-DD). Para publicar, mude aqui. Está 10 dias antes do primeiro teste para o puzzle de hoje ser outro (edição nº 11).
+export const LANCAMENTO = "2026-10-05";
 
 const pad2 = (n) => String(n).padStart(2, "0");
 const fmt = new Intl.DateTimeFormat("en-CA", { timeZone: FUSO, year: "numeric", month: "2-digit", day: "2-digit" });
