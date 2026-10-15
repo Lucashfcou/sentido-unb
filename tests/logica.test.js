@@ -123,12 +123,13 @@ test("progresso: sequência e estatísticas (motor reaproveitado)", () => {
 });
 
 import { opcoesDoCaso, N_OPCOES } from "../src/lib/caso.js";
-test("caso: cartela tem 8 opções únicas, com a resposta e os vizinhos, igual para todos", () => {
-  const materiaDe = Object.fromEntries(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"].map((id) => [id, "Física"]));
+test("caso: cartela tem 12 opções únicas, com a resposta e os vizinhos, igual para todos", () => {
+  const materiaDe = Object.fromEntries([..."abcdefghij"].map((id) => [id, "Física"]).concat([..."klmnopqr"].map((id) => [id, "Química"])));
   const caso = { id: "k1", materia: "Física", answer: "a", near: { b: "x", c: "y" } };
   const o = opcoesDoCaso(caso, materiaDe);
   assert.equal(o.length, N_OPCOES);
   assert.equal(new Set(o).size, N_OPCOES);
   for (const id of ["a", "b", "c"]) assert.ok(o.includes(id));
+  assert.ok(o.filter((id) => materiaDe[id] === "Química").length >= 5, "outras matérias entram na cartela");
   assert.deepEqual(opcoesDoCaso(caso, materiaDe), o);
 });

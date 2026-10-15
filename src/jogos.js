@@ -17,7 +17,7 @@ export const GAMES = {
   caso: {
     id: "caso", name: "Caso do Dia", kicker: "Uma matéria por dia", cor: "--caso",
     desc: "Cinco pistas, cada uma mais fácil. Descubra o conceito com o menor número delas.",
-    rules: "Hoje tem uma matéria em destaque. Leia a primeira pista e tente descobrir o conceito, a pessoa ou a obra. Digite para buscar e escolha uma opção. Cada erro revela uma pista mais fácil. Você também pode pular uma pista. Quanto menos pistas, melhor a nota. Amarelo indica um conceito vizinho, com a explicação do porquê.",
+    rules: "Leia a primeira pista e descubra o assunto, entre 12 opções de várias matérias. A matéria só aparece na pista 3. Cada erro tira uma opção e revela uma pista mais fácil. Você também pode pular uma pista. Quanto menos pistas, melhor a nota. Amarelo indica um assunto vizinho, com a explicação do porquê.",
     humor: {
       ok: ["Na primeira pista? Você conhece esse trajeto de cor.", "Resolveu cedo e ainda pegou assento.", "Pista curta, resposta certeira."],
       near: ["Desceu no ponto certo, só que mais à frente.", "Pediu parada na última hora, mas pediu.", "Precisou de todas as pistas, e chegou."],

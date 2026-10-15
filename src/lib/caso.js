@@ -13,7 +13,8 @@ export function julgar(caso, palpite) {
 /** Quantas pistas já estão visíveis: uma a mais que as tentativas gastas, no máximo 5. */
 export const pistasVisiveis = (tentativas) => Math.min(MAX_PISTAS, tentativas + 1);
 
-export const N_OPCOES = 8;
+export const N_OPCOES = 12;
+const DA_MESMA_MATERIA = 7; // resposta, vizinhos e colegas de matéria; o resto vem de outras matérias, para a matéria não entregar a resposta
 
 /** Mistura estável: o mesmo puzzle mostra as mesmas opções, na mesma ordem, para todo mundo. */
 function embaralhar(ids, semente) {
@@ -28,7 +29,7 @@ function embaralhar(ids, semente) {
 }
 
 /**
- * Cartela fechada do caso: a resposta, os vizinhos conhecidos e conceitos da mesma matéria até 8 opções.
+ * Cartela fechada do caso: a resposta, os vizinhos conhecidos e conceitos da mesma matéria, completada com outras matérias até 12 opções.
  * Sem busca livre: o aluno elimina, não pesquisa.
  */
 export function opcoesDoCaso(caso, materiaDe) {
@@ -38,7 +39,7 @@ export function opcoesDoCaso(caso, materiaDe) {
     caso.id,
   );
   for (const id of mesmos) {
-    if (ids.length >= N_OPCOES) break;
+    if (ids.length >= DA_MESMA_MATERIA) break;
     ids.push(id);
   }
   const outros = embaralhar(

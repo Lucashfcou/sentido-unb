@@ -48,7 +48,7 @@ export function telaCaso(idx) {
     .join("");
   const entrada = fim
     ? ""
-    : `<p class="dica-op">Qual destes é o assunto? Cada erro tira uma opção e revela outra pista.</p>
+    : `<p class="dica-op">Qual destes é o assunto? As opções misturam matérias. Cada erro tira uma opção e revela outra pista.</p>
        <div class="opcoes" role="group" aria-label="Opções de resposta">${grade}</div>
        <div class="actions"><button class="btn ghost" data-skip ${usadas >= MAX_PISTAS - 1 ? "disabled" : ""}>Pular para a próxima pista</button></div>`;
 
@@ -64,8 +64,8 @@ export function telaCaso(idx) {
     : "";
 
   pintar(`<div class="game">
-    ${cabecalho("caso", idx, `Caso do Dia: ${P.materia}`)}
-    <p class="tema">Matéria de hoje: <b>${esc(P.materia)}</b> • ${esc(P.etapa)}</p>
+    ${cabecalho("caso", idx, visiveis >= 3 ? `Caso do Dia: ${P.materia}` : "Caso do Dia")}
+    <p class="tema">${visiveis >= 3 ? `Matéria: <b>${esc(P.materia)}</b>` : "Matéria: aparece na pista 3"} • ${esc(P.etapa)}</p>
     <div class="triesrow"><div class="tries" aria-hidden="true">${Array.from({ length: MAX_PISTAS }, (_, i) => `<i class="${i < usadas ? (julgar(P, s.guesses[i]) === "ok" ? "ok" : "bad") : ""}"></i>`).join("")}</div><span>Pista ${visiveis} de ${MAX_PISTAS}</span></div>
     <ol class="pistas" aria-label="Pistas reveladas">${pistas}</ol>
     ${entrada}
@@ -96,7 +96,7 @@ export function telaCaso(idx) {
   } else {
     const grid = grelhaCaso(P, s.guesses);
     ligarResultado("caso", idx, montarTexto({
-      jogo: `Caso do Dia (${P.materia})`, numero: idx + 1, placar: ganhou ? `${usadas}/${MAX_PISTAS}` : `X/${MAX_PISTAS}`, grade: grid, frase: frase("caso", tipo, idx),
+      jogo: "Caso do Dia", numero: idx + 1, placar: ganhou ? `${usadas}/${MAX_PISTAS}` : `X/${MAX_PISTAS}`, grade: grid, frase: frase("caso", tipo, idx),
     }));
   }
   void toast;
