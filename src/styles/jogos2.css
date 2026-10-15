@@ -50,7 +50,7 @@
 .dica-op { margin: 4px 0 8px; color: var(--muted); font-size: .9rem; }
 .opcoes { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
 .opcao { display: flex; align-items: center; gap: 8px; text-align: left; font: 700 .92rem/1.2 var(--f-ui); color: var(--ink); background: var(--panel); border: 2px solid var(--line); border-radius: var(--r); padding: 10px 12px; min-height: 56px; cursor: pointer; transition: border-color .15s, transform .12s; }
-.opcao:hover:not(:disabled) { border-color: var(--caso); }
+@media (hover: hover) and (pointer: fine) { .opcao:hover:not(:disabled) { border-color: var(--caso); } }
 .opcao:active:not(:disabled) { transform: scale(.97); }
 .opcao i { font-style: normal; display: inline-grid; place-items: center; flex: none; }
 .opcao i:empty { display: none; }
@@ -95,7 +95,7 @@
   .tries i { transition: background .3s, transform .3s cubic-bezier(.34, 1.56, .64, 1); }
   .tries i.ok, .tries i.bad { transform: scaleY(1.4); }
   .pz:not(.pending) i, .selo-linha { transition: transform .25s; }
-  .linha:hover .selo-linha { transform: scale(1.08) rotate(-4deg); }
+  @media (hover: hover) and (pointer: fine) { .linha:hover .selo-linha { transform: scale(1.08) rotate(-4deg); } }
   .brand-placa { animation: led-pisca 6s steps(1, end) infinite; }
   @keyframes led-pisca { 0%, 96%, 100% { opacity: 1; } 97% { opacity: .55; } 98% { opacity: 1; } 99% { opacity: .7; } }
   .cx-w { transition: transform .15s, background .2s, border-color .2s; }
@@ -141,5 +141,10 @@ dialog.fim-perdeu { border-color: var(--bad); }
 .lista-obras { display: grid; gap: 4px; }
 .obra-item { display: grid; gap: 1px; text-align: left; width: 100%; padding: 10px 12px; min-height: 48px; background: var(--bg); border: 1px solid var(--line); border-radius: var(--r); color: var(--ink); font: 700 .92rem/1.25 var(--f-ui); cursor: pointer; }
 .obra-item small { font-weight: 500; color: var(--muted); }
-.obra-item:hover:not(:disabled) { border-color: var(--obra); }
+@media (hover: hover) and (pointer: fine) { .obra-item:hover:not(:disabled) { border-color: var(--obra); } }
 .obra-item:disabled { opacity: .45; text-decoration: line-through; cursor: default; }
+
+/* toque: sem o sombreado azul do navegador e sem estado de "marcado" depois de tocar */
+* { -webkit-tap-highlight-color: transparent; }
+button:focus:not(:focus-visible), .btn:focus:not(:focus-visible) { outline: none; }
+button, .linha, .opcao, .cx-w, .tecla, .fslot, .obra-item { -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; }
