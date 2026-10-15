@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Para professores: revisão do Sentido UnB</title>
+<style>
+  :root { --bg: #f4f6f8; --ink: #10151b; --muted: #46515c; --line: #c2cbd3; --panel: #ffffff; --accent: #ffb000; --accent-ink: #17110a; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #0f1216; --ink: #edf0f3; --muted: #9ba6b2; --line: #2a333d; --panel: #171c23; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 400 17px/1.55 system-ui, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 720px; margin: 0 auto; padding: 24px 16px 56px; }
+  h1 { font-size: 1.9rem; line-height: 1.15; margin: 8px 0 12px; }
+  h2 { font-size: 1.25rem; margin: 32px 0 8px; }
+  p, li { max-width: 65ch; }
+  .nota { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; }
+  .botao { display: inline-block; background: var(--accent); color: var(--accent-ink); font-weight: 800; padding: 12px 18px; border-radius: 8px; text-decoration: none; min-height: 44px; }
+  a { color: inherit; }
+  table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+  th, td { border: 1px solid var(--line); padding: 8px 10px; text-align: left; vertical-align: top; }
+  .rolagem { overflow-x: auto; }
+  small { color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Revisão de conteúdo do Linha PAS</h1>
+  <p>O Sentido UnB é um conjunto de minijogos diários para quem vai fazer o PAS da UnB. Cada jogo dura de 1 a 3 minutos e termina com uma explicação curta e a origem do item no próprio PAS. Antes de qualquer aluno jogar, todo o conteúdo precisa ser revisado por um professor. É para isso que esta página existe.</p>
+  <p class="nota"><b>Projeto independente.</b> Não é material oficial da UnB nem do Cebraspe. Usa só documentos públicos do PAS (Matriz de Referência, Guia, edital e listas de obras) e conteúdo original. Não copia questões de provas.</p>
+
+  <h2>O que preciso de você</h2>
+  <ol>
+    <li>Abra o pacote de revisão, escolha as linhas da sua matéria e etapa (PAS 1, 2 ou 3).</li>
+    <li>Em cada linha, escreva <b>OK</b> ou <b>erro</b> na coluna "OK ou erro".</li>
+    <li>Se houver erro, diga na coluna "Comentário" o que corrigir e, se puder, a fonte.</li>
+    <li>Devolva o arquivo preenchido a quem enviou este link.</li>
+  </ol>
+  <p><a class="botao" href="../revisao/pacote-de-revisao.html">Abrir o pacote de revisão</a></p>
+  <p><small>Também há planilhas para Excel: <a href="../revisao/revisao-puzzles.csv">puzzles</a> e <a href="../revisao/revisao-obras.csv">obras</a> (separador ponto e vírgula).</small></p>
+
+  <h2>Como ler cada linha</h2>
+  <div class="rolagem"><table>
+    <tr><th>Coluna</th><th>O que é</th></tr>
+    <tr><td>Jogo, Id, Etapa</td><td>Qual jogo, qual puzzle e para qual etapa do PAS ele vale.</td></tr>
+    <tr><td>Item</td><td>O que o aluno vê: pistas, cena, grupo de termos ou fórmula.</td></tr>
+    <tr><td>Resposta</td><td>A resposta certa do puzzle.</td></tr>
+    <tr><td>Explicação</td><td>O texto que aparece depois que o aluno joga.</td></tr>
+    <tr><td>Origem no PAS</td><td>O trecho da Matriz, do Guia ou da lista de obras que justifica o item. Item sem origem não entra.</td></tr>
+    <tr><td>Fonte</td><td>De onde vêm os fatos do texto.</td></tr>
+    <tr><td>A verificar?</td><td>"Sim" quando há fato que não vem do PAS (data, biografia, classificação). É onde sua conferência é mais valiosa.</td></tr>
+  </table></div>
+
+  <h2>O que olhar com mais atenção</h2>
+  <ul>
+    <li><b>Fatos marcados "a verificar":</b> datas, nomes, o que cada obra trata, classificação em escola literária.</li>
+    <li><b>Se o item é mesmo da etapa indicada</b> (PAS 1, 2 ou 3), segundo a Matriz.</li>
+    <li><b>Se a pista deixa o item justo:</b> nem óbvio demais nem impossível para um aluno daquela etapa.</li>
+    <li><b>Os atributos das obras</b> (ano, país, forma, estilo), na segunda tabela do pacote.</li>
+    <li><b>Fórmulas:</b> a notação usada é a convencional? A Matriz cita o assunto, quase nunca a fórmula escrita.</li>
+  </ul>
+
+  <h2>O que já sabemos que está em aberto</h2>
+  <ul>
+    <li>As listas de obras do <b>PAS 2 e do PAS 3</b> usadas são as versões preliminares de junho de 2024. A do PAS 2 passou por consulta pública em 2026. Qual lista vale para a prova de 2026?</li>
+    <li>A Matriz de referência usada é a de dezembro de 2022. Existe versão mais nova?</li>
+    <li>Os cinco jogos têm 30 itens por etapa. Os itens novos foram escritos a partir da Matriz e das listas de obras e ainda não foram revisados por professor. Se achar que falta um tema que o PAS cobra, avise.</li>
+  </ul>
+
+  <h2>Privacidade</h2>
+  <p>O site não tem cadastro nem anúncios. O progresso fica só no aparelho de cada aluno. A medição de uso, se for ligada, é agregada, sem nome, sem e-mail e sem identificador, e a escola é avisada antes.</p>
+</main>
+</body>
+</html>

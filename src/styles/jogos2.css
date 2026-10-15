@@ -1,0 +1,105 @@
+/* Que ano foi?, Fórmula misteriosa e Onde fica? */
+.cena { margin: 0 0 12px; padding: 14px 16px; background: var(--panel); border: 1px solid var(--line); border-radius: var(--r); font-size: 1.1rem; font-weight: 600; line-height: 1.4; }
+
+/* Que ano foi? */
+.anoform { display: flex; gap: 8px; align-items: stretch; flex-wrap: wrap; }
+.anoform input[type="text"], .anoform input:not([type]) { flex: 1; min-width: 120px; font: inherit; font-size: 1.2rem; padding: 10px 14px; min-height: 48px; border-radius: 8px; border: 2px solid var(--line); background: var(--panel); color: var(--ink); }
+.ac { display: inline-flex; align-items: center; gap: 6px; font-weight: 700; padding: 0 6px; min-height: 48px; }
+.ac input { width: 22px; height: 22px; }
+.palpsano { list-style: none; padding: 0; margin: 12px 0 0; display: grid; gap: 6px; }
+.palpano { display: grid; grid-template-columns: 90px 1fr; gap: 2px 10px; padding: 8px 12px; border-radius: 8px; background: var(--nobg); }
+.palpano b { grid-row: span 2; font-size: 1.15rem; align-self: center; }
+.palpano small { opacity: .85; }
+.f-certo { background: var(--okbg); color: var(--ok); }
+.f-pertinho { background: var(--nearbg); color: var(--near); }
+.f-perto { background: var(--nearbg); color: var(--near); }
+.f-morno { background: var(--badbg); color: var(--bad); }
+
+/* Fórmula misteriosa */
+.legenda { color: var(--muted); font-size: .9rem; margin-bottom: 8px; }
+.fgrade { display: grid; gap: 6px; margin-bottom: 8px; }
+.frow { display: flex; flex-wrap: nowrap; gap: 5px; }
+.fslot { position: relative; flex: 1 1 0; min-width: 0; max-width: 110px; min-height: 48px; padding: 8px 2px; white-space: nowrap; display: grid; place-items: center; border-radius: 8px; background: var(--nobg); color: var(--no); font-weight: 700; font-size: 1.05rem; border: 2px solid transparent; }
+.fslot i { position: absolute; top: 1px; right: 4px; font-size: .65rem; font-style: normal; }
+.fslot.ok { background: var(--okbg); color: var(--ok); border-color: var(--ok); }
+.fslot.near { background: var(--nearbg); color: var(--near); border-color: var(--near); }
+.fslot.cur { background: var(--panel); color: var(--ink); border: 2px dashed var(--line); }
+.fatual { margin: 8px 0 12px; }
+.teclado { display: flex; flex-wrap: wrap; gap: 6px; }
+.tecla { position: relative; min-width: 46px; min-height: 48px; padding: 8px 10px; border-radius: 8px; border: 2px solid var(--line); background: var(--panel); font-weight: 700; font-size: 1.05rem; }
+.tecla i { position: absolute; top: 1px; right: 4px; font-size: .65rem; font-style: normal; }
+.tecla.ok { background: var(--okbg); color: var(--ok); border-color: var(--ok); }
+.tecla.near { background: var(--nearbg); color: var(--near); border-color: var(--near); }
+.tecla.no { opacity: .45; }
+.tecla[disabled] { cursor: not-allowed; opacity: .55; }
+.formula-final { font-size: 1.3rem; font-weight: 800; margin: 6px 0; overflow-wrap: anywhere; }
+
+/* Onde fica? */
+.palpslug { list-style: none; padding: 0; margin: 12px 0 0; display: grid; gap: 8px; }
+.palplug { display: grid; grid-template-columns: 44px 1fr 86px; gap: 10px; align-items: center; padding: 8px 10px; border-radius: 8px; background: var(--nobg); }
+.palplug.ok { background: var(--okbg); color: var(--ok); }
+.bus { display: grid; place-items: center; }
+.bussola { width: 34px; height: 34px; fill: currentColor; }
+.lt { display: grid; min-width: 0; }
+.lt small { color: var(--muted); }
+.prox { position: relative; height: 22px; border-radius: 999px; background: var(--line); overflow: hidden; }
+.prox i { position: absolute; inset: 0 auto 0 0; background: var(--lugar); opacity: .55; }
+.prox em { position: absolute; inset: 0; display: grid; place-items: center; font-style: normal; font-weight: 800; font-size: .8rem; }
+
+/* Caso do Dia: cartela de opções */
+.dica-op { margin: 4px 0 8px; color: var(--muted); font-size: .9rem; }
+.opcoes { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.opcao { display: flex; align-items: center; gap: 8px; text-align: left; font: 700 .92rem/1.2 var(--f-ui); color: var(--ink); background: var(--panel); border: 2px solid var(--line); border-radius: var(--r); padding: 10px 12px; min-height: 56px; cursor: pointer; transition: border-color .15s, transform .12s; }
+.opcao:hover:not(:disabled) { border-color: var(--caso); }
+.opcao:active:not(:disabled) { transform: scale(.97); }
+.opcao i { font-style: normal; display: inline-grid; place-items: center; flex: none; }
+.opcao i:empty { display: none; }
+.opcao i .sim svg { width: 1rem; height: 1rem; }
+.opcao:disabled { cursor: default; background: var(--nobg); color: var(--no); text-decoration: line-through; text-decoration-thickness: 2px; }
+.opcao.near:disabled { background: var(--nearbg); color: var(--near); text-decoration: none; }
+@media (min-width: 640px) { .opcoes { grid-template-columns: repeat(4, 1fr); } }
+
+/* movimento (fx.js) */
+.fx-m { display: inline-block; overflow: hidden; vertical-align: top; padding-bottom: .12em; margin-bottom: -.12em; }
+.fx-m > span { display: inline-block; }
+.fx-d { display: inline-block; height: 1em; overflow: hidden; vertical-align: bottom; }
+.fx-col { display: flex; flex-direction: column; line-height: 1; }
+.fx-col > span { height: 1em; display: block; }
+#fxcamada { position: fixed; inset: 0; pointer-events: none; z-index: 30; overflow: hidden; contain: strict; }
+.fx-peca { position: absolute; width: 10px; height: 10px; border-radius: 2px; }
+.fx-peca.redonda { border-radius: 50%; }
+@media (prefers-reduced-motion: no-preference) {
+  .linha:not(.pronta).proxima .selo-linha { animation: espera 2.8s ease-out infinite; }
+  @keyframes espera { 0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--c, var(--led)) 55%, transparent); } 70%, 100% { box-shadow: 0 0 0 10px transparent; } }
+  .result { animation: bilhete .5s var(--sai, cubic-bezier(.16, 1, .3, 1)) both; }
+  @keyframes bilhete { from { opacity: 0; transform: translateY(14px) scale(.98); } to { opacity: 1; transform: none; } }
+  .opcao { animation: pop-op .3s ease-out both; }
+  @keyframes pop-op { from { opacity: .4; } }
+}
+
+#fxcamada .fx-fagulha { position: absolute; width: 10px; height: 2px; border-radius: 1px; transform-origin: 0 50%; }
+.fx-onda { position: fixed; border-radius: 50%; z-index: 40; pointer-events: none; will-change: transform, opacity; }
+@media (prefers-reduced-motion: no-preference) {
+  .hoje h1 { animation: falha 9s steps(1, end) infinite; }
+  @keyframes falha {
+    0%, 92%, 100% { text-shadow: none; transform: none; }
+    93% { text-shadow: -3px 0 var(--conex), 3px 0 var(--caso); transform: translateX(-2px); }
+    95% { text-shadow: 3px 0 var(--ano), -3px 0 var(--formula); transform: translateX(2px); }
+    97% { text-shadow: -2px 0 var(--obra), 2px 0 var(--lugar); transform: translateX(-1px); }
+    99% { text-shadow: none; transform: none; }
+  }
+  dialog[open] { animation: folha .4s cubic-bezier(.16, 1, .3, 1) both; }
+  dialog[open]::backdrop { animation: some .2s ease; }
+  @keyframes folha { from { opacity: .4; transform: translateY(18px) scale(.97); } to { opacity: 1; transform: none; } }
+  @keyframes some { from { opacity: 0; } }
+  .tries i { transition: background .3s, transform .3s cubic-bezier(.34, 1.56, .64, 1); }
+  .tries i.ok, .tries i.bad { transform: scaleY(1.4); }
+  .pz:not(.pending) i, .selo-linha { transition: transform .25s; }
+  .linha:hover .selo-linha { transform: scale(1.08) rotate(-4deg); }
+  .brand-placa { animation: led-pisca 6s steps(1, end) infinite; }
+  @keyframes led-pisca { 0%, 96%, 100% { opacity: 1; } 97% { opacity: .55; } 98% { opacity: 1; } 99% { opacity: .7; } }
+  .cx-w { transition: transform .15s, background .2s, border-color .2s; }
+  .cx-w.sel { transform: translateY(-3px) scale(1.03); }
+  .btn:active:not(:disabled) { transform: scale(.96); }
+}
+.busca input { scroll-margin-top: 12px; }

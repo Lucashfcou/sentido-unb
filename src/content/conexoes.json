@@ -1,0 +1,5423 @@
+{
+ "_nota": "RASCUNHO. Cada grupo traz origem_pas (documento e trecho do PAS que o justifica) e a etapa. Os agrupamentos são editoriais; os termos vêm da Matriz de dez/2022 e das listas de obras. Nada daqui foi revisado por professor.",
+ "desafios": [
+  {
+   "id": "c01",
+   "etapa": "PAS 1",
+   "tema": "Literatura, Matemática e Física da etapa 1",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Autores da lista de literaturas do PAS 1",
+     "words": [
+      "Camões",
+      "Gregório de Matos",
+      "Cláudio Manuel da Costa",
+      "Pero Vaz de Caminha"
+     ],
+     "explain": "Todos estão na lista oficial de literaturas do PAS 1 (2026-2028), do Quinhentismo ao Arcadismo.",
+     "origem_pas": "Lista de obras do PAS 1 2026-2028, Literaturas, itens 7, 8, 10 a 17",
+     "fonte": "Lista de obras do PAS 1, jan/2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Funções da Matemática do PAS 1",
+     "words": [
+      "Afim",
+      "Quadrática",
+      "Exponencial",
+      "Logarítmica"
+     ],
+     "explain": "A Matriz do PAS 1 pede funções afins, quadráticas, exponenciais e logarítmicas. As duas últimas vieram da etapa 2 para a 1.",
+     "origem_pas": "Matriz PAS 1, Matemática, conhecimento essencial 07 e nota de mudanças",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Estilos de época da etapa 1",
+     "words": [
+      "Trovadorismo",
+      "Humanismo",
+      "Classicismo",
+      "Barroco"
+     ],
+     "explain": "A Matriz do PAS 1 lista Trovadorismo, Humanismo, Classicismo, Quinhentismo, Barroco e Arcadismo.",
+     "origem_pas": "Matriz PAS 1, Linguagens, conhecimento essencial 16",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Onde a Matriz usa a função logarítmica",
+     "words": [
+      "pH",
+      "Abalos sísmicos",
+      "Intensidade do som",
+      "Datação"
+     ],
+     "explain": "A Matriz cita a intensidade de abalos sísmicos, a intensidade do som, o pH e a datação como contextos da função logarítmica.",
+     "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT11",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c02",
+   "etapa": "PAS 1",
+   "tema": "Ciências da Natureza da etapa 1",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Mecânica newtoniana (Física PAS 1)",
+     "words": [
+      "Leis de Newton",
+      "Trabalho e energia",
+      "Impulso e momentum",
+      "Gravitação universal"
+     ],
+     "explain": "São os tópicos da Mecânica Newtoniana listados na Matriz do PAS 1.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 01",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Ligações químicas (Química PAS 1)",
+     "words": [
+      "Iônica",
+      "Metálica",
+      "Covalente",
+      "Polaridade"
+     ],
+     "explain": "A Matriz lista ligações iônica, metálica e covalente, além da estrutura espacial e da polaridade das moléculas.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, Químicos 08",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Citologia (Biologia PAS 1)",
+     "words": [
+      "Teoria celular",
+      "Teoria endossimbiótica",
+      "Membrana",
+      "Organelas"
+     ],
+     "explain": "A Matriz de Citologia cita as teorias celular e endossimbiótica, a membrana e as organelas citoplasmáticas.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, Biológicos 12",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Ecologia (Biologia PAS 1)",
+     "words": [
+      "Cadeias alimentares",
+      "Teias alimentares",
+      "Ciclos biogeoquímicos",
+      "Sucessão ecológica"
+     ],
+     "explain": "Fazem parte da lista de Ecologia da etapa 1. A pegadinha: Membrana e Organelas parecem Biologia 'de célula', mas Ecologia é outro eixo.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, Biológicos 13",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c03",
+   "etapa": "PAS 2 e 3",
+   "tema": "Literatura da etapa 2 e a Revista Darcy",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Estilos de época da etapa 2",
+     "words": [
+      "Realismo",
+      "Naturalismo",
+      "Simbolismo",
+      "Parnasianismo"
+     ],
+     "explain": "A Matriz do PAS 2 lista Romantismo, Realismo, Naturalismo, Simbolismo e Parnasianismo.",
+     "origem_pas": "Matriz PAS 2, Linguagens, conhecimento essencial 17",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Autores românticos da lista do PAS 2",
+     "words": [
+      "Álvares de Azevedo",
+      "Castro Alves",
+      "Gonçalves Dias",
+      "Maria Firmina dos Reis"
+     ],
+     "explain": "Os quatro estão na lista de literaturas do PAS 2. A classificação como Romantismo é do redator e deve ser confirmada pelo professor.",
+     "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Literaturas 3, 6, 9, 14",
+     "fonte": "Lista de obras PAS 2, jun/2024 (preliminar)",
+     "verificar": true
+    },
+    {
+     "lvl": 3,
+     "name": "Poemas da lista do PAS 2",
+     "words": [
+      "Mal secreto",
+      "Ismália",
+      "Profissão de fé",
+      "O assinalado"
+     ],
+     "explain": "Poemas parnasianos e simbolistas da lista de literaturas do PAS 2.",
+     "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Literaturas 1, 2, 4, 5",
+     "fonte": "Lista de obras PAS 2, jun/2024 (preliminar)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Textos da Revista Darcy (UnB) nas listas do PAS",
+     "words": [
+      "O cerrado está morrendo",
+      "A fome que nos atravessa",
+      "Oceano turbulento",
+      "O despertar dos robôs"
+     ],
+     "explain": "A Revista Darcy, da UnB, aparece nas listas de textos do PAS 2 e do PAS 3. 'O cerrado está morrendo' está também na lista do PAS 1.",
+     "origem_pas": "Listas de obras PAS 1 (Textos 15), PAS 2 (Textos 4, 7, 9), PAS 3 (Textos 4)",
+     "fonte": "Listas de obras do PAS",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c04",
+   "etapa": "PAS 3",
+   "tema": "Ciências e Matemática da etapa 3",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Matemática do PAS 3",
+     "words": [
+      "Números complexos",
+      "Polinômios",
+      "Determinantes",
+      "Geometria analítica"
+     ],
+     "explain": "Os temas gerais de Matemática da etapa 3 incluem geometria analítica, matrizes e determinantes, números complexos e polinômios.",
+     "origem_pas": "Matriz PAS 3, Matemática, conhecimentos essenciais 01 a 05",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Leis e nomes do eletromagnetismo e dos circuitos",
+     "words": [
+      "Ampère",
+      "Faraday",
+      "Lenz",
+      "Kirchhoff"
+     ],
+     "explain": "A Física do PAS 3 cita as leis de Ampère, Faraday e Lenz (eletromagnetismo) e de Kirchhoff (circuitos).",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 03 e 04",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Cinética e equilíbrio químico",
+     "words": [
+      "Le Chatelier",
+      "Catalisadores",
+      "Teoria das colisões",
+      "Lei da ação das massas"
+     ],
+     "explain": "Estão na Química do PAS 3: cinética (colisões, catalisadores, ação das massas) e equilíbrio (Le Chatelier).",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 09 e 10",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Genética (Biologia PAS 3)",
+     "words": [
+      "Genética clássica",
+      "Genética molecular",
+      "Expressão gênica",
+      "Mutações"
+     ],
+     "explain": "A genética da etapa 3 inclui a clássica, a molecular, a expressão gênica e as mutações.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 16",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c05",
+   "etapa": "PAS 1",
+   "tema": "Humanidades e textos da etapa 1",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Conceitos geográficos da etapa 1",
+     "words": [
+      "Lugar",
+      "Região",
+      "Rede",
+      "Paisagem"
+     ],
+     "explain": "A Matriz de Humanidades pede os conceitos de lugar, região, rede, paisagem, território e espaço geográfico.",
+     "origem_pas": "Matriz PAS 1, Humanidades, conhecimento essencial 22",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Marcadores sociais citados na Matriz",
+     "words": [
+      "Classe",
+      "Raça",
+      "Gênero",
+      "Religião"
+     ],
+     "explain": "A habilidade PAS1CH11 liga cultura, etnocentrismo e relativismo cultural aos marcadores de classe, raça, gênero e religião.",
+     "origem_pas": "Matriz PAS 1, Humanidades, PAS1CH11 e conhecimento 14",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Obras antigas e medievais da lista do PAS 1",
+     "words": [
+      "Apologia de Sócrates",
+      "Medeia",
+      "Gilgamesh",
+      "Discurso de Clermont"
+     ],
+     "explain": "Platão, Eurípides, a epopeia mesopotâmica e o discurso do papa Urbano II.",
+     "origem_pas": "Lista de obras PAS 1 2026-2028: Textos 1 e 8, Teatro 1, Literaturas 1",
+     "fonte": "Lista de obras do PAS 1, jan/2026",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Textos de ciência e ambiente da lista do PAS 1",
+     "words": [
+      "Garimpo Yanomami",
+      "Frutas do cerrado",
+      "Rio São Francisco",
+      "Prodes e Deter"
+     ],
+     "explain": "Reportagens e artigos sobre garimpo, frutas do Cerrado, o rio São Francisco e o monitoramento por satélite.",
+     "origem_pas": "Lista de obras PAS 1 2026-2028, Textos 3, 11, 12, 13",
+     "fonte": "Lista de obras do PAS 1, jan/2026",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c06",
+   "etapa": "PAS 1 e 2",
+   "tema": "Música e artes visuais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Compositores antigos da lista de músicas do PAS 1",
+     "words": [
+      "Hildegard von Bingen",
+      "Corelli",
+      "Purcell",
+      "Martin Codax"
+     ],
+     "explain": "Quatro autores de séculos XII a XVII da lista de músicas do PAS 1.",
+     "origem_pas": "Lista de obras PAS 1 2026-2028, Músicas 1, 2, 3, 12",
+     "fonte": "Lista de obras do PAS 1, jan/2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Artistas brasileiros da lista de músicas do PAS 1",
+     "words": [
+      "Adoniran Barbosa",
+      "Clementina de Jesus",
+      "Dona Onete",
+      "Emicida"
+     ],
+     "explain": "Sambista paulistano, cantora de partido-alto, rainha do carimbó chamegado e rapper.",
+     "origem_pas": "Lista de obras PAS 1 2026-2028, Músicas 4, 5, 6, 10",
+     "fonte": "Lista de obras do PAS 1, jan/2026",
+     "verificar": true
+    },
+    {
+     "lvl": 3,
+     "name": "Obras de artes visuais na Itália (PAS 1)",
+     "words": [
+      "Coliseu",
+      "Mosaico de Teodora",
+      "Juízo Final de Vasari",
+      "Cúpula de Brunelleschi"
+     ],
+     "explain": "Roma, Ravena e Florença: o Coliseu, o mosaico de Ravena e as obras da catedral de Florença.",
+     "origem_pas": "Lista de obras PAS 1 2026-2028, Artes Visuais 7, 8, 9, 10",
+     "fonte": "Lista de obras do PAS 1, jan/2026",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Artes visuais do Brasil nas listas do PAS",
+     "words": [
+      "Manto tupinambá",
+      "Serra da Capivara",
+      "Forró Pé de Serra",
+      "Aleijadinho"
+     ],
+     "explain": "O manto do Museu Nacional, a arte rupestre do Piauí, a xilogravura de J. Borges (PAS 1) e a Capela da Santa Ceia, em Congonhas (PAS 2).",
+     "origem_pas": "Lista PAS 1, Artes Visuais 1, 3, 4; Lista PAS 2, Artes Visuais 1",
+     "fonte": "Listas de obras do PAS",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c07",
+   "etapa": "PAS 2",
+   "tema": "Ciências e Matemática da etapa 2",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Seres vivos (Biologia PAS 2)",
+     "words": [
+      "Vírus",
+      "Bactérias",
+      "Fungos",
+      "Protozoários"
+     ],
+     "explain": "A lista de seres vivos da etapa 2 inclui vírus, bactérias, algas, protozoários, fungos, plantas e animais.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Biológicos 11",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Estatística (Matemática PAS 2)",
+     "words": [
+      "Média",
+      "Mediana",
+      "Variância",
+      "Desvio padrão"
+     ],
+     "explain": "A Matriz de Matemática da etapa 2 pede medidas de tendência central e de dispersão.",
+     "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT12",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Termoquímica (Química PAS 2)",
+     "words": [
+      "Lei de Hess",
+      "Entalpia",
+      "Calorimetria",
+      "Energia de ligação"
+     ],
+     "explain": "A Termoquímica da etapa 2 cita processos exo e endotérmicos, calorimetria, entalpia, Lei de Hess e energia de ligação.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 08",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Termodinâmica (Física PAS 2)",
+     "words": [
+      "Máquinas térmicas",
+      "Leis da Termodinâmica",
+      "Variáveis de estado",
+      "Mecânica estatística"
+     ],
+     "explain": "A Física da etapa 2 abre com Termodinâmica e Termologia. A pegadinha: Calorimetria é Química nesta matriz, no eixo da Termoquímica.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 01",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c08",
+   "etapa": "PAS 1 a 3",
+   "tema": "Geopolítica, pensadores, teatro e música",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Músicas da lista do PAS 3",
+     "words": [
+      "Caravanas",
+      "Negro Drama",
+      "Meu Guri",
+      "Perfume dela"
+     ],
+     "explain": "Chico Buarque, Racionais MC's e Martinha do Coco estão na lista de músicas do PAS 3.",
+     "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Música 1, 2, 4, 6",
+     "fonte": "Lista de obras PAS 3, jun/2024 (preliminar)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Peças de teatro nas listas do PAS",
+     "words": [
+      "Vestido de noiva",
+      "Eles não usam black-tie",
+      "Medeia",
+      "Um inimigo do povo"
+     ],
+     "explain": "Nelson Rodrigues e Guarnieri (PAS 3), Eurípides (PAS 1) e Ibsen (PAS 2).",
+     "origem_pas": "Listas de obras PAS 1 (Teatro 1), PAS 2 (Teatro 1), PAS 3 (Teatro 1 e 2)",
+     "fonte": "Listas de obras do PAS",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Pensadores da lista de textos do PAS 2 e 3",
+     "words": [
+      "Necropolítica",
+      "Epistemicídio",
+      "Sociedade do cansaço",
+      "A indústria cultural"
+     ],
+     "explain": "Mbembe, Sueli Carneiro, Byung-Chul Han e Adorno com Horkheimer.",
+     "origem_pas": "Lista PAS 2, Textos 1; Lista PAS 3, Textos 9, 10, 11",
+     "fonte": "Listas de obras do PAS",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Geografia da etapa 3: economia global",
+     "words": [
+      "Blocos econômicos",
+      "Organismos multilaterais",
+      "Divisão internacional do trabalho",
+      "Geopolítica mundial"
+     ],
+     "explain": "Conhecimentos essenciais de Humanidades do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 18, 21, 22, 23",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c09",
+   "etapa": "PAS 3",
+   "tema": "Linguagens e obras da etapa 3",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Estilos de época da etapa 3",
+     "words": [
+      "Pré-modernismo",
+      "Vanguardas",
+      "Modernismo",
+      "Pós-modernismo"
+     ],
+     "explain": "A Matriz do PAS 3 lista Pré-modernismo, vanguardas, Modernismo, Pós-modernismo e Literatura Contemporânea.",
+     "origem_pas": "Matriz PAS 3, Linguagens, conhecimento essencial 17",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Poetas da lista de literaturas do PAS 3",
+     "words": [
+      "Drummond",
+      "Cecília Meireles",
+      "Manuel Bandeira",
+      "João Cabral"
+     ],
+     "explain": "Quatro poetas modernistas da lista preliminar de literaturas do PAS 3.",
+     "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Literaturas 4, 7, 9, 18",
+     "fonte": "Lista de obras PAS 3, jun/2024 (preliminar)",
+     "verificar": true
+    },
+    {
+     "lvl": 3,
+     "name": "Músicas e peças de teatro do PAS 3",
+     "words": [
+      "Caravanas",
+      "Negro Drama",
+      "Vestido de noiva",
+      "Eles não usam black-tie"
+     ],
+     "explain": "Duas músicas e duas peças de teatro da lista do PAS 3.",
+     "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Música 1 e 2; Teatro 1 e 2",
+     "fonte": "Lista de obras PAS 3, jun/2024 (preliminar)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Conceitos dos textos de ciências humanas do PAS 3",
+     "words": [
+      "Necropolítica",
+      "Epistemicídio",
+      "Sociedade do cansaço",
+      "Racismo ambiental"
+     ],
+     "explain": "Mbembe, Sueli Carneiro e Byung-Chul Han nos textos, e o vídeo sobre racismo ambiental nos audiovisuais.",
+     "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Textos 9 a 11; Audiovisuais 8",
+     "fonte": "Lista de obras PAS 3, jun/2024 (preliminar)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c10",
+   "etapa": "PAS 2",
+   "tema": "Geometria, probabilidade e biologia da etapa 2",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Sólidos geométricos da Matemática do PAS 2",
+     "words": [
+      "Prismas",
+      "Pirâmides",
+      "Cilindros",
+      "Cones"
+     ],
+     "explain": "A Matriz de Matemática da etapa 2 pede as figuras planas presentes nesses sólidos e o cálculo de áreas e volumes.",
+     "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT4 e PAS2MAT7",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Probabilidade e combinatória (PAS 2)",
+     "words": [
+      "Espaço amostral",
+      "Evento independente",
+      "Princípio multiplicativo",
+      "Diagrama de árvore"
+     ],
+     "explain": "Termos de contagem e probabilidade citados nos objetivos de Matemática da etapa 2.",
+     "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT13 a PAS2MAT18",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Ótica geométrica (Física PAS 2)",
+     "words": [
+      "Espelhos",
+      "Lentes",
+      "Olho humano",
+      "Instrumentação ótica"
+     ],
+     "explain": "A Física da etapa 2 inclui a conjugação de imagens em espelhos e lentes, a instrumentação ótica e o olho humano.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 03",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Doenças por grupo de seres vivos (Biologia PAS 2)",
+     "words": [
+      "Viroses",
+      "Bacterioses",
+      "Micoses",
+      "Verminoses"
+     ],
+     "explain": "A lista de seres vivos da etapa 2 liga vírus, bactérias, fungos e animais às doenças que causam.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Biológicos 11",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c11",
+   "etapa": "PAS 1",
+   "tema": "Geometria plana, Textos de ciência e saúde da lista do PAS 1 e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Ciências e números da Parte 2 da prova",
+     "words": [
+      "Biologia",
+      "Física",
+      "Química",
+      "Matemática"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Geometria plana (PAS 1)",
+     "words": [
+      "Paralelismo",
+      "Perpendicularismo",
+      "Congruência",
+      "Semelhança"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Matemática, PAS1MAT1 e PAS1MAT2.",
+     "origem_pas": "Matriz de Referência PAS 1, Matemática, PAS1MAT1 e PAS1MAT2",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Textos de ciência e saúde da lista do PAS 1",
+     "words": [
+      "Linguagem humana (135 mil anos)",
+      "Biólogo e quadrinista",
+      "Frutas do cerrado",
+      "Prodes, Deter e TerraClass"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 1 2026-2028, Textos 2, 4, 12 e 13.",
+     "origem_pas": "Lista de obras PAS 1 2026-2028, Textos 2, 4, 12 e 13",
+     "fonte": "Lista de obras do PAS 1, jan/2026",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Contextos da função afim (PAS 1)",
+     "words": [
+      "Rendimento constante",
+      "Velocidade constante",
+      "Aceleração constante",
+      "Gasto energético"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Matemática, PAS1MAT8.",
+     "origem_pas": "Matriz de Referência PAS 1, Matemática, PAS1MAT8",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c12",
+   "etapa": "PAS 1",
+   "tema": "Medidas no plano, Autores de textos da lista do PAS 1 e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Humanidades da Parte 2 da prova",
+     "words": [
+      "Filosofia",
+      "Geografia",
+      "História",
+      "Sociologia"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Medidas no plano (PAS 1)",
+     "words": [
+      "Perímetro",
+      "Área",
+      "Ladrilhamento",
+      "Comprimento"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Matemática, PAS1MAT3 e PAS1MAT4.",
+     "origem_pas": "Matriz de Referência PAS 1, Matemática, PAS1MAT3 e PAS1MAT4",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Autores de textos da lista do PAS 1",
+     "words": [
+      "Platão",
+      "Bauman",
+      "Ailton Krenak",
+      "Lélia Gonzalez"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 1 2026-2028, Textos 1, 7, 9 e 10.",
+     "origem_pas": "Lista de obras PAS 1 2026-2028, Textos 1, 7, 9 e 10",
+     "fonte": "Lista de obras do PAS 1, jan/2026",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Contextos da função quadrática (PAS 1)",
+     "words": [
+      "Lançamento oblíquo",
+      "Faturamento",
+      "Lucro de um monopólio",
+      "Ponto de máximo"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Matemática, PAS1MAT9.",
+     "origem_pas": "Matriz de Referência PAS 1, Matemática, PAS1MAT9",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c13",
+   "etapa": "PAS 1",
+   "tema": "Elementos de uma função, Audiovisuais de história e política e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Artes e letras da Parte 2 da prova",
+     "words": [
+      "Artes Cênicas",
+      "Artes Visuais",
+      "Música",
+      "Literaturas de Língua Portuguesa"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Elementos de uma função (PAS 1)",
+     "words": [
+      "Domínio",
+      "Imagem",
+      "Crescimento",
+      "Decrescimento"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Matemática, PAS1MAT6.",
+     "origem_pas": "Matriz de Referência PAS 1, Matemática, PAS1MAT6",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Audiovisuais de história e política (PAS 1)",
+     "words": [
+      "Guerras do Brasil",
+      "Abuela Grillo",
+      "América Latina",
+      "Nego Bispo"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 1 2026-2028, Audiovisuais 1 a 4.",
+     "origem_pas": "Lista de obras PAS 1 2026-2028, Audiovisuais 1 a 4",
+     "fonte": "Lista de obras do PAS 1, jan/2026",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Contextos da função exponencial (PAS 1)",
+     "words": [
+      "Queda livre com atrito",
+      "Matemática financeira",
+      "Demografia",
+      "Matemática econômica"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Matemática, PAS1MAT10.",
+     "origem_pas": "Matriz de Referência PAS 1, Matemática, PAS1MAT10",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c14",
+   "etapa": "PAS 1",
+   "tema": "Índices e taxas citados na Matemática do PAS 1, Audiovisuais de ciência e clima e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Línguas da prova de conhecimentos",
+     "words": [
+      "Espanhol",
+      "Francês",
+      "Inglês",
+      "Língua Portuguesa"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Índices e taxas citados na Matemática do PAS 1",
+     "words": [
+      "Índice de Gini",
+      "IDH",
+      "Taxa de inflação",
+      "Taxa de desemprego"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Matemática, PAS1MAT5.",
+     "origem_pas": "Matriz de Referência PAS 1, Matemática, PAS1MAT5",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Audiovisuais de ciência e clima (PAS 1)",
+     "words": [
+      "Clima de Risco",
+      "GPS, como funciona",
+      "A física da corrida",
+      "Terraplanismo"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 1 2026-2028, Audiovisuais 5, 6, 7 e 9.",
+     "origem_pas": "Lista de obras PAS 1 2026-2028, Audiovisuais 5, 6, 7 e 9",
+     "fonte": "Lista de obras do PAS 1, jan/2026",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Alimentos (questões sociocientíficas do PAS 1)",
+     "words": [
+      "Produção de alimentos",
+      "Agronegócio",
+      "Agricultura familiar",
+      "Modais de transporte"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN6.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN6",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c15",
+   "etapa": "PAS 1",
+   "tema": "Artes na Matriz do PAS 1, Artes visuais antigas da lista do PAS 1 e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Os tipos de item da prova",
+     "words": [
+      "Item A (certo ou errado)",
+      "Item B (de 000 a 999)",
+      "Item C (quatro opções)",
+      "Item D (resposta construída)"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Artes na Matriz do PAS 1",
+     "words": [
+      "Elementos da composição",
+      "Processo de criação",
+      "Contextos de difusão",
+      "Sistemas de circulação"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Linguagens, conhecimentos essenciais 01 a 04.",
+     "origem_pas": "Matriz de Referência PAS 1, Linguagens, conhecimentos essenciais 01 a 04",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Artes visuais antigas da lista do PAS 1",
+     "words": [
+      "Laocoonte",
+      "Coliseu",
+      "Mosaico de Teodora",
+      "Tumba 181"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 1 2026-2028, Artes Visuais 5 a 8.",
+     "origem_pas": "Lista de obras PAS 1 2026-2028, Artes Visuais 5 a 8",
+     "fonte": "Lista de obras do PAS 1, jan/2026",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Origens (questões sociocientíficas do PAS 1)",
+     "words": [
+      "Origem da vida",
+      "Origem do Universo",
+      "Cosmogonias indígenas",
+      "Cosmogonias afrodiaspóricas"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN12.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN12",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c16",
+   "etapa": "PAS 1",
+   "tema": "Texto e língua, Biologia celular e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Gêneros literários da Matriz do PAS 1",
+     "words": [
+      "Lírico",
+      "Épico",
+      "Drama",
+      "Prosa moderna"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Linguagens, conhecimento essencial 18.",
+     "origem_pas": "Matriz de Referência PAS 1, Linguagens, conhecimento essencial 18",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Texto e língua (PAS 1)",
+     "words": [
+      "Coesão",
+      "Coerência",
+      "Variação linguística",
+      "Gêneros discursivos"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Linguagens, conhecimentos essenciais 10 e 11.",
+     "origem_pas": "Matriz de Referência PAS 1, Linguagens, conhecimentos essenciais 10 e 11",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Biologia celular (PAS 1)",
+     "words": [
+      "Tipos celulares",
+      "Organização nuclear",
+      "Divisão celular",
+      "Membrana plasmática"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, Biológicos 12.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, Biológicos 12",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Trabalho e saúde (PAS 1)",
+     "words": [
+      "Insalubridade",
+      "Qualidade de vida",
+      "Relações de trabalho",
+      "Direitos trabalhistas"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN10.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN10",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c17",
+   "etapa": "PAS 1",
+   "tema": "Gramática do PAS 1, Ecologia e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Progressões e juros da etapa 1",
+     "words": [
+      "PA",
+      "PG",
+      "Juros simples",
+      "Juros compostos"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Matemática, PAS1MAT13 a PAS1MAT16.",
+     "origem_pas": "Matriz de Referência PAS 1, Matemática, PAS1MAT13 a PAS1MAT16",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Gramática do PAS 1",
+     "words": [
+      "Morfossintaxe",
+      "Acentuação gráfica",
+      "Crase",
+      "Pontuação"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Linguagens, conhecimentos essenciais 12 a 14.",
+     "origem_pas": "Matriz de Referência PAS 1, Linguagens, conhecimentos essenciais 12 a 14",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Ecologia (PAS 1)",
+     "words": [
+      "Níveis de organização",
+      "Relações ecológicas",
+      "Dinâmica populacional",
+      "Conceitos ecológicos"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, Biológicos 13.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, Biológicos 13",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Resíduos e pragas (PAS 1)",
+     "words": [
+      "Descarte de resíduos",
+      "Controle de pragas",
+      "Ocupação urbana",
+      "Degradação ambiental"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN13.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN13",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c18",
+   "etapa": "PAS 1",
+   "tema": "Leitura em língua estrangeira, Mecânica e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Saberes e discursos de Humanidades (PAS 1)",
+     "words": [
+      "Mitologias",
+      "Saberes ancestrais",
+      "Lógica",
+      "Método científico"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Humanidades, conhecimentos essenciais 01, 02, 04 e 15.",
+     "origem_pas": "Matriz de Referência PAS 1, Humanidades, conhecimentos essenciais 01, 02, 04 e 15",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Leitura em língua estrangeira (PAS 1)",
+     "words": [
+      "Leitura geral",
+      "Leitura para informação específica",
+      "Inferência lexical",
+      "Léxico-gramática"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Linguagens, conhecimentos essenciais 05 a 08.",
+     "origem_pas": "Matriz de Referência PAS 1, Linguagens, conhecimentos essenciais 05 a 08",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Mecânica (Física PAS 1)",
+     "words": [
+      "Grandezas físicas",
+      "Equilíbrio de fluidos",
+      "Equilíbrio de corpos extensos",
+      "Impulso"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, Físicos 01.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, Físicos 01",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Clima (PAS 1)",
+     "words": [
+      "Inversão térmica",
+      "Chuva ácida",
+      "Efeito estufa",
+      "Mudanças climáticas"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN1.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN1",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c19",
+   "etapa": "PAS 1",
+   "tema": "Antes da Idade Moderna, Propriedades da matéria e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Trovadores da lista de literaturas do PAS 1",
+     "words": [
+      "Afonso Fernandes",
+      "Juião Bolseiro",
+      "Afonso Mendes de Besteiros",
+      "Fernão Velho"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 1 2026-2028, Literaturas 2 a 5.",
+     "origem_pas": "Lista de obras PAS 1 2026-2028, Literaturas 2 a 5",
+     "fonte": "Lista de obras do PAS 1, jan/2026",
+     "verificar": true
+    },
+    {
+     "lvl": 2,
+     "name": "Antes da Idade Moderna (Humanidades PAS 1)",
+     "words": [
+      "Pré-história africana",
+      "Pré-história pré-colombiana",
+      "Cidades-estado",
+      "Monarquias nacionais"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Humanidades, conhecimentos essenciais 16 e 19.",
+     "origem_pas": "Matriz de Referência PAS 1, Humanidades, conhecimentos essenciais 16 e 19",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Propriedades da matéria (PAS 1)",
+     "words": [
+      "Propriedades físicas",
+      "Propriedades químicas",
+      "Processos de separação",
+      "Extração de substâncias"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, Químicos 06.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, Químicos 06",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Leitura crítica (PAS 1)",
+     "words": [
+      "Fatos e opiniões",
+      "Credibilidade das fontes",
+      "Recursos verbais e não verbais",
+      "Progressão temática"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Linguagens, PAS1LING6 a PAS1LING14.",
+     "origem_pas": "Matriz de Referência PAS 1, Linguagens, PAS1LING6 a PAS1LING14",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c20",
+   "etapa": "PAS 1",
+   "tema": "O espaço Atlântico, Evolução da Química e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Poemas de Gregório de Matos na lista",
+     "words": [
+      "Aos vícios",
+      "Aos caramurus da Bahia",
+      "A última hora de vida",
+      "O soneto pela terceira vez"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 1 2026-2028, Literaturas 11 a 14.",
+     "origem_pas": "Lista de obras PAS 1 2026-2028, Literaturas 11 a 14",
+     "fonte": "Lista de obras do PAS 1, jan/2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "O espaço Atlântico (Humanidades PAS 1)",
+     "words": [
+      "Espaço Atlântico",
+      "Diáspora atlântica",
+      "Invasão europeia da América",
+      "Território americano"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Humanidades, conhecimentos essenciais 17 e 18.",
+     "origem_pas": "Matriz de Referência PAS 1, Humanidades, conhecimentos essenciais 17 e 18",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Evolução da Química (PAS 1)",
+     "words": [
+      "Evolução histórica da Química",
+      "Métodos da pesquisa científica",
+      "Linguagem química",
+      "Contribuições de Linus Pauling"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, Químicos 05 e 08.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, Químicos 05 e 08",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Representações na literatura (PAS 1)",
+     "words": [
+      "Natureza",
+      "Animais",
+      "Biodiversidade",
+      "Corpo"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Linguagens, conhecimento essencial 20.",
+     "origem_pas": "Matriz de Referência PAS 1, Linguagens, conhecimento essencial 20",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c21",
+   "etapa": "PAS 1",
+   "tema": "Geografia humana, Estrutura das ligações e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Energia e combustíveis (questões sociocientíficas do PAS 1)",
+     "words": [
+      "Energia elétrica",
+      "Combustíveis fósseis",
+      "Biocombustíveis",
+      "Fontes de energia"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN1 e PAS1CN2.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN1 e PAS1CN2",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Geografia humana (PAS 1)",
+     "words": [
+      "Distribuição da população",
+      "Urbanização",
+      "Impactos socioambientais",
+      "Questões econômicas contemporâneas"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Humanidades, conhecimentos essenciais 24 a 26.",
+     "origem_pas": "Matriz de Referência PAS 1, Humanidades, conhecimentos essenciais 24 a 26",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Estrutura das ligações (PAS 1)",
+     "words": [
+      "Estrutura espacial das moléculas",
+      "Polaridade",
+      "Tabela periódica",
+      "Ligação metálica"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, Químicos 08.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, Químicos 08",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Identidades na literatura (PAS 1)",
+     "words": [
+      "Gênero",
+      "LGBTQIA+",
+      "Afro-brasileiras",
+      "Indígenas"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Linguagens, conhecimento essencial 19.",
+     "origem_pas": "Matriz de Referência PAS 1, Linguagens, conhecimento essencial 19",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c22",
+   "etapa": "PAS 1",
+   "tema": "Instrumentos da Geografia, Representar funções e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Saúde e trabalho (questões sociocientíficas do PAS 1)",
+     "words": [
+      "Saúde pública",
+      "Saúde e sexualidade",
+      "Segurança no trabalho",
+      "Técnicas de saúde"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN7 a PAS1CN10.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN7 a PAS1CN10",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Instrumentos da Geografia (PAS 1)",
+     "words": [
+      "Raciocínio geográfico",
+      "Espaço geográfico",
+      "Território",
+      "Linguagem cartográfica"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Humanidades, conhecimentos essenciais 21 a 23.",
+     "origem_pas": "Matriz de Referência PAS 1, Humanidades, conhecimentos essenciais 21 a 23",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Representar funções (PAS 1)",
+     "words": [
+      "Representação gráfica",
+      "Representação algébrica",
+      "Tabelas",
+      "Plano cartesiano"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Matemática, PAS1MAT6 a PAS1MAT8.",
+     "origem_pas": "Matriz de Referência PAS 1, Matemática, PAS1MAT6 a PAS1MAT8",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Literaturas além da brasileira (PAS 1)",
+     "words": [
+      "Latino-americanas",
+      "Indígenas",
+      "Africanas",
+      "Europeias"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Linguagens, destaques gerais da área.",
+     "origem_pas": "Matriz de Referência PAS 1, Linguagens, destaques gerais da área",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c23",
+   "etapa": "PAS 1",
+   "tema": "Física Moderna e história da ciência, Trigonometria e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Riscos ambientais (questões sociocientíficas do PAS 1)",
+     "words": [
+      "Desmatamento",
+      "Assoreamento",
+      "Inundações",
+      "Deslizamento de encostas"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN11 e PAS1CN13.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN11 e PAS1CN13",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Física Moderna e história da ciência (PAS 1)",
+     "words": [
+      "Espaço-tempo",
+      "Princípio da incerteza",
+      "História da Mecânica",
+      "História da Astronomia"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, Físicos 03 e 04.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, Físicos 03 e 04",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Trigonometria (PAS 1)",
+     "words": [
+      "Triângulo retângulo",
+      "Lei do seno",
+      "Lei do cosseno",
+      "Triângulos quaisquer"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Matemática, PAS1MAT2.",
+     "origem_pas": "Matriz de Referência PAS 1, Matemática, PAS1MAT2",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Memória e cultura (PAS 1)",
+     "words": [
+      "Historicidade",
+      "Geograficidade",
+      "Cultura material",
+      "Cultura imaterial"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Humanidades, PAS1CH5 e PAS1CH19.",
+     "origem_pas": "Matriz de Referência PAS 1, Humanidades, PAS1CH5 e PAS1CH19",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c24",
+   "etapa": "PAS 1",
+   "tema": "Reações químicas, Povos e protagonismo e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Tecnologia e transporte (questões sociocientíficas do PAS 1)",
+     "words": [
+      "Transporte e mobilidade",
+      "Robótica",
+      "Corrida espacial",
+      "Tecnologias nucleares"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN3 a PAS1CN5.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, PAS1CN3 a PAS1CN5",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Reações químicas (PAS 1)",
+     "words": [
+      "Balanceamento",
+      "Estequiometria",
+      "Rendimento",
+      "Leis das reações"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, Químicos 09.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, Químicos 09",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Povos e protagonismo (Humanidades PAS 1)",
+     "words": [
+      "Populações indígenas",
+      "Populações negras",
+      "Protagonismo social",
+      "Diversidade sociocultural"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Humanidades, conhecimentos essenciais 09 e 10.",
+     "origem_pas": "Matriz de Referência PAS 1, Humanidades, conhecimentos essenciais 09 e 10",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Tecnologia e pensamento (PAS 1)",
+     "words": [
+      "Tecnologias digitais",
+      "Modos de pensar",
+      "Discursos das Humanidades",
+      "Correntes filosóficas"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Humanidades, PAS1CH22 a PAS1CH24.",
+     "origem_pas": "Matriz de Referência PAS 1, Humanidades, PAS1CH22 a PAS1CH24",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c25",
+   "etapa": "PAS 1",
+   "tema": "Bioquímica e investigação, Olhar decolonial e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Astronomia (Física PAS 1)",
+     "words": [
+      "Observações astronômicas",
+      "Modelos astronômicos",
+      "Geolocalização",
+      "Satélites artificiais"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, Físicos 02.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, Físicos 02",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Bioquímica e investigação (PAS 1)",
+     "words": [
+      "Métodos da investigação científica",
+      "Compostos orgânicos",
+      "Compostos inorgânicos",
+      "Bioquímica"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Ciências da Natureza, Biológicos 10 e 11.",
+     "origem_pas": "Matriz de Referência PAS 1, Ciências da Natureza, Biológicos 10 e 11",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Olhar decolonial (Humanidades PAS 1)",
+     "words": [
+      "Perspectiva decolonial",
+      "Etnocentrismo",
+      "Relativismo cultural",
+      "Marcadores sociais"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Humanidades, conhecimentos essenciais 06, 13 e 14.",
+     "origem_pas": "Matriz de Referência PAS 1, Humanidades, conhecimentos essenciais 06, 13 e 14",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Revoluções e cidades (PAS 1)",
+     "words": [
+      "Revoluções industriais",
+      "Revoluções tecnológicas",
+      "Sistema capitalista",
+      "Países periféricos"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 1, Humanidades, PAS1CH17.",
+     "origem_pas": "Matriz de Referência PAS 1, Humanidades, PAS1CH17",
+     "fonte": "Matriz de Referência PAS 1, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c26",
+   "etapa": "PAS 2",
+   "tema": "Medidas de dispersão, Racismo e patriarcalismo e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Ciências e números da Parte 2 da prova",
+     "words": [
+      "Biologia",
+      "Física",
+      "Química",
+      "Matemática"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Medidas de dispersão (Matemática PAS 2)",
+     "words": [
+      "Amplitude",
+      "Variância",
+      "Desvio padrão",
+      "Coeficiente de variação"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Matemática, PAS2MAT12.",
+     "origem_pas": "Matriz de Referência PAS 2, Matemática, PAS2MAT12",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Racismo e patriarcalismo (Humanidades PAS 2)",
+     "words": [
+      "Racismo brasileiro",
+      "Patriarcalismo",
+      "Minorias",
+      "Grupos minorizados"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Humanidades, conhecimentos essenciais 12 e 13.",
+     "origem_pas": "Matriz de Referência PAS 2, Humanidades, conhecimentos essenciais 12 e 13",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Obras românticas da lista do PAS 2",
+     "words": [
+      "Lembrança de morrer",
+      "Canto do Piaga",
+      "A canção do africano",
+      "A escrava"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 2 (prévia jun/2024), Literaturas 3, 6, 9 e 14.",
+     "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Literaturas 3, 6, 9 e 14",
+     "fonte": "Lista de obras do PAS 2, jun/2024 (preliminar)",
+     "verificar": true
+    }
+   ]
+  },
+  {
+   "id": "c27",
+   "etapa": "PAS 2",
+   "tema": "Termoquímica, Economia e trabalho e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Humanidades da Parte 2 da prova",
+     "words": [
+      "Filosofia",
+      "Geografia",
+      "História",
+      "Sociologia"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Termoquímica (Química PAS 2)",
+     "words": [
+      "Processos exotérmicos",
+      "Processos endotérmicos",
+      "Espontaneidade",
+      "Calorimetria"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Ciências da Natureza, Químicos 08.",
+     "origem_pas": "Matriz de Referência PAS 2, Ciências da Natureza, Químicos 08",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Economia e trabalho (Humanidades PAS 2)",
+     "words": [
+      "Capitalismo",
+      "Centro e periferia",
+      "Modo de produção industrial",
+      "Relações de produção e consumo"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Humanidades, conhecimentos essenciais 10, 24 e 26.",
+     "origem_pas": "Matriz de Referência PAS 2, Humanidades, conhecimentos essenciais 10, 24 e 26",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Prosa da lista de literaturas do PAS 2",
+     "words": [
+      "A Cartomante",
+      "Memórias póstumas de Brás Cubas",
+      "O caso da vara",
+      "A quadrilha de Jacob Patacho"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 2 (prévia jun/2024), Literaturas 10 a 13.",
+     "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Literaturas 10 a 13",
+     "fonte": "Lista de obras do PAS 2, jun/2024 (preliminar)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c28",
+   "etapa": "PAS 2",
+   "tema": "Soluções, Saberes de povos tradicionais e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Artes e letras da Parte 2 da prova",
+     "words": [
+      "Artes Cênicas",
+      "Artes Visuais",
+      "Música",
+      "Literaturas de Língua Portuguesa"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Soluções (Química PAS 2)",
+     "words": [
+      "Classificação das soluções",
+      "Solubilidade",
+      "Diluição e mistura",
+      "Propriedades coligativas"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Ciências da Natureza, Químicos 09.",
+     "origem_pas": "Matriz de Referência PAS 2, Ciências da Natureza, Químicos 09",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Saberes de povos tradicionais (Humanidades PAS 2)",
+     "words": [
+      "Povos indígenas",
+      "Quilombolas",
+      "Povos tradicionais",
+      "Contribuições tecnológicas"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Humanidades, conhecimento essencial 21.",
+     "origem_pas": "Matriz de Referência PAS 2, Humanidades, conhecimento essencial 21",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Sistema literário (PAS 2)",
+     "words": [
+      "Produção",
+      "Circulação",
+      "Recepção",
+      "Campo literário"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Linguagens, conhecimento essencial 18.",
+     "origem_pas": "Matriz de Referência PAS 2, Linguagens, conhecimento essencial 18",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c29",
+   "etapa": "PAS 2",
+   "tema": "Termologia, Ambiente e consumo e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Línguas da prova de conhecimentos",
+     "words": [
+      "Espanhol",
+      "Francês",
+      "Inglês",
+      "Língua Portuguesa"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Termologia (Física PAS 2)",
+     "words": [
+      "Temperatura e calor",
+      "Máquinas frigoríficas",
+      "Mecânica estatística",
+      "Equações de estado"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Ciências da Natureza, Físicos 01.",
+     "origem_pas": "Matriz de Referência PAS 2, Ciências da Natureza, Físicos 01",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Ambiente e consumo (Humanidades PAS 2)",
+     "words": [
+      "Biodiversidade",
+      "Práticas sustentáveis",
+      "Padrões de consumo",
+      "Recursos naturais"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Humanidades, conhecimentos essenciais 22 e 23.",
+     "origem_pas": "Matriz de Referência PAS 2, Humanidades, conhecimentos essenciais 22 e 23",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Tecnologias e literatura (PAS 2)",
+     "words": [
+      "Novas tecnologias",
+      "Técnicas",
+      "Representações",
+      "Momentos da história"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Linguagens, conhecimento essencial 27.",
+     "origem_pas": "Matriz de Referência PAS 2, Linguagens, conhecimento essencial 27",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c30",
+   "etapa": "PAS 2",
+   "tema": "Revoluções e Estados, Trabalho e tecnologia e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Os tipos de item da prova",
+     "words": [
+      "Item A (certo ou errado)",
+      "Item B (de 000 a 999)",
+      "Item C (quatro opções)",
+      "Item D (resposta construída)"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Revoluções e Estados (Humanidades PAS 2)",
+     "words": [
+      "Era das Revoluções",
+      "Estados nacionais",
+      "Nacionalismos",
+      "Guerras interestatais"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Humanidades, conhecimentos essenciais 09, 14 e 15.",
+     "origem_pas": "Matriz de Referência PAS 2, Humanidades, conhecimentos essenciais 09, 14 e 15",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Trabalho e tecnologia (Humanidades PAS 2)",
+     "words": [
+      "Trabalho",
+      "Cultura",
+      "Meio ambiente",
+      "Transformações técnico-científicas"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Humanidades, conhecimentos essenciais 20 e 25.",
+     "origem_pas": "Matriz de Referência PAS 2, Humanidades, conhecimentos essenciais 20 e 25",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Leitura em língua estrangeira (PAS 2)",
+     "words": [
+      "Leitura geral",
+      "Busca de informações específicas",
+      "Inferência lexical",
+      "Léxico-gramática"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Linguagens, conhecimentos essenciais 05 a 08.",
+     "origem_pas": "Matriz de Referência PAS 2, Linguagens, conhecimentos essenciais 05 a 08",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c31",
+   "etapa": "PAS 2",
+   "tema": "Resistências, Textos de ciência da lista do PAS 2 e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Gêneros literários da Matriz do PAS 2",
+     "words": [
+      "Lírico",
+      "Épico",
+      "Drama",
+      "Prosa moderna"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Linguagens, conhecimento essencial 19.",
+     "origem_pas": "Matriz de Referência PAS 2, Linguagens, conhecimento essencial 19",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Resistências (Humanidades PAS 2)",
+     "words": [
+      "Resistência ao escravismo",
+      "Resistência indígena",
+      "Conflitos sociais",
+      "Regiões colonizadas"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Humanidades, conhecimento essencial 11.",
+     "origem_pas": "Matriz de Referência PAS 2, Humanidades, conhecimento essencial 11",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Textos de ciência da lista do PAS 2",
+     "words": [
+      "Resenha energética brasileira",
+      "Raízes do conhecimento",
+      "A terra é redonda",
+      "Geometria e vírus"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 2 (prévia jun/2024), Textos 3, 8, 11 e 12.",
+     "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Textos 3, 8, 11 e 12",
+     "fonte": "Lista de obras do PAS 2, jun/2024 (preliminar)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Gramática (PAS 2)",
+     "words": [
+      "Período simples",
+      "Período composto",
+      "Acentuação gráfica",
+      "Crase"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Linguagens, conhecimentos essenciais 13 e 14.",
+     "origem_pas": "Matriz de Referência PAS 2, Linguagens, conhecimentos essenciais 13 e 14",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c32",
+   "etapa": "PAS 2",
+   "tema": "Identidade e diversidade, Textos de humanas da lista do PAS 2 e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Seres vivos (Biologia PAS 2)",
+     "words": [
+      "Algas",
+      "Protozoários",
+      "Plantas",
+      "Animais"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Ciências da Natureza, Biológicos 11.",
+     "origem_pas": "Matriz de Referência PAS 2, Ciências da Natureza, Biológicos 11",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Identidade e diversidade (Humanidades PAS 2)",
+     "words": [
+      "Diversidade",
+      "Identidade",
+      "Diferença",
+      "Visões de mundo urbanas e rurais"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Humanidades, conhecimentos essenciais 17 e 18.",
+     "origem_pas": "Matriz de Referência PAS 2, Humanidades, conhecimentos essenciais 17 e 18",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Textos de humanas da lista do PAS 2",
+     "words": [
+      "A indústria cultural",
+      "O que é o esclarecimento?",
+      "Colonizadores infectaram",
+      "Lei Maria da Penha"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 2 (prévia jun/2024), Textos 1, 2, 5 e 10.",
+     "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Textos 1, 2, 5 e 10",
+     "fonte": "Lista de obras do PAS 2, jun/2024 (preliminar)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Física Moderna e história (PAS 2)",
+     "words": [
+      "Interação luz-matéria",
+      "Dualidade onda-partícula",
+      "História da Termodinâmica",
+      "História da Ótica"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Ciências da Natureza, Físicos 04 e 05.",
+     "origem_pas": "Matriz de Referência PAS 2, Ciências da Natureza, Físicos 04 e 05",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c33",
+   "etapa": "PAS 2",
+   "tema": "Discursos analisados, Audiovisuais da lista do PAS 2 e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Compostos inorgânicos (Química PAS 2)",
+     "words": [
+      "Sais",
+      "Ácidos",
+      "Bases",
+      "Óxidos"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Ciências da Natureza, Químicos 06.",
+     "origem_pas": "Matriz de Referência PAS 2, Ciências da Natureza, Químicos 06",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Discursos analisados (Humanidades PAS 2)",
+     "words": [
+      "Discursos artísticos",
+      "Discursos midiáticos",
+      "Discursos propagandísticos",
+      "Discursos religiosos"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Humanidades, conhecimento essencial 05.",
+     "origem_pas": "Matriz de Referência PAS 2, Humanidades, conhecimento essencial 05",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Audiovisuais da lista do PAS 2",
+     "words": [
+      "Quilombos do século XXI",
+      "Histórias da fome no Brasil",
+      "Amazônia sem garimpo",
+      "Vinte ideias para girar o mundo"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 2 (prévia jun/2024), Audiovisuais 2, 3, 4 e 6.",
+     "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Audiovisuais 2, 3, 4 e 6",
+     "fonte": "Lista de obras do PAS 2, jun/2024 (preliminar)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Botânica (PAS 2)",
+     "words": [
+      "Histologia vegetal",
+      "Morfologia",
+      "Fisiologia vegetal",
+      "Conquista do ambiente terrestre"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Ciências da Natureza, Biológicos 12.",
+     "origem_pas": "Matriz de Referência PAS 2, Ciências da Natureza, Biológicos 12",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c34",
+   "etapa": "PAS 2",
+   "tema": "Conhecimento e ciência, Músicas da lista do PAS 2 e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Ondulatória (Física PAS 2)",
+     "words": [
+      "Ondas mecânicas",
+      "Ondas eletromagnéticas",
+      "Som",
+      "Luz"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Ciências da Natureza, Físicos 02.",
+     "origem_pas": "Matriz de Referência PAS 2, Ciências da Natureza, Físicos 02",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Conhecimento e ciência (Humanidades PAS 2)",
+     "words": [
+      "Natureza do conhecimento",
+      "Teorias do conhecimento",
+      "Epistemologia",
+      "Métodos científicos"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Humanidades, conhecimentos essenciais 01 a 03.",
+     "origem_pas": "Matriz de Referência PAS 2, Humanidades, conhecimentos essenciais 01 a 03",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Músicas da lista do PAS 2",
+     "words": [
+      "Frevo Mulher",
+      "Súplica cearense",
+      "Habanera",
+      "A queda"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 2 (prévia jun/2024), Música 1, 2, 3 e 6.",
+     "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Música 1, 2, 3 e 6",
+     "fonte": "Lista de obras do PAS 2, jun/2024 (preliminar)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Probabilidade (PAS 2)",
+     "words": [
+      "Equiprobabilidade",
+      "Probabilidade condicional",
+      "Eventos independentes",
+      "Experimentos aleatórios"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Matemática, PAS2MAT14 a PAS2MAT18.",
+     "origem_pas": "Matriz de Referência PAS 2, Matemática, PAS2MAT14 a PAS2MAT18",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c35",
+   "etapa": "PAS 2",
+   "tema": "Literatura e sociedade, Artes visuais da lista do PAS 2 e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Princípios de contagem (Matemática PAS 2)",
+     "words": [
+      "Princípio aditivo",
+      "Princípio multiplicativo",
+      "Diagrama de árvore",
+      "Agrupamentos ordenáveis"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Matemática, PAS2MAT13.",
+     "origem_pas": "Matriz de Referência PAS 2, Matemática, PAS2MAT13",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Literatura e sociedade (PAS 2)",
+     "words": [
+      "Intertextualidade",
+      "Interdiscursividade",
+      "Engajamento social",
+      "Campo literário"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Linguagens, conhecimentos essenciais 18, 21 e 23.",
+     "origem_pas": "Matriz de Referência PAS 2, Linguagens, conhecimentos essenciais 18, 21 e 23",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Artes visuais da lista do PAS 2",
+     "words": [
+      "Suzana e os anciãos",
+      "Execução de punição e açoitamento",
+      "A balsa da Medusa",
+      "Torre Eiffel"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 2 (prévia jun/2024), Artes Visuais 2 a 5.",
+     "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Artes Visuais 2 a 5",
+     "fonte": "Lista de obras do PAS 2, jun/2024 (preliminar)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Literatura e cidades (PAS 2)",
+     "words": [
+      "Representações das cidades",
+      "Impacto da ação humana",
+      "Natureza",
+      "Biodiversidade"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 2, Linguagens, conhecimentos essenciais 25 e 26.",
+     "origem_pas": "Matriz de Referência PAS 2, Linguagens, conhecimentos essenciais 25 e 26",
+     "fonte": "Matriz de Referência PAS 2, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c36",
+   "etapa": "PAS 3",
+   "tema": "Circuitos e materiais, Política e leis e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Ciências e números da Parte 2 da prova",
+     "words": [
+      "Biologia",
+      "Física",
+      "Química",
+      "Matemática"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Circuitos e materiais (Física PAS 3)",
+     "words": [
+      "Dispositivos elétricos",
+      "Circuitos elétricos",
+      "Leis de Kirchhoff",
+      "Propriedades elétricas dos materiais"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Ciências da Natureza, Físicos 01 e 03.",
+     "origem_pas": "Matriz de Referência PAS 3, Ciências da Natureza, Físicos 01 e 03",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Política e leis (Humanidades PAS 3)",
+     "words": [
+      "Filosofia da política",
+      "Formação das leis",
+      "Participação política",
+      "Estado Democrático de Direito"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Humanidades, conhecimentos essenciais 01, 03 e 25.",
+     "origem_pas": "Matriz de Referência PAS 3, Humanidades, conhecimentos essenciais 01, 03 e 25",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Poetas contemporâneos da lista do PAS 3",
+     "words": [
+      "Adélia Prado",
+      "Cristiane Sobral",
+      "Nicolas Behr",
+      "Aka Poeta"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 3 (prévia jun/2024), Literaturas 11, 12, 14, 16 e 17.",
+     "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Literaturas 11, 12, 14, 16 e 17",
+     "fonte": "Lista de obras do PAS 3, jun/2024 (preliminar)",
+     "verificar": true
+    }
+   ]
+  },
+  {
+   "id": "c37",
+   "etapa": "PAS 3",
+   "tema": "Eletromagnetismo aplicado, Direitos e justiça e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Humanidades da Parte 2 da prova",
+     "words": [
+      "Filosofia",
+      "Geografia",
+      "História",
+      "Sociologia"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Eletromagnetismo aplicado (Física PAS 3)",
+     "words": [
+      "Força magnética",
+      "Campo magnético",
+      "Geradores",
+      "Transformadores"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Ciências da Natureza, Físicos 02 e 04.",
+     "origem_pas": "Matriz de Referência PAS 3, Ciências da Natureza, Físicos 02 e 04",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Direitos e justiça (Humanidades PAS 3)",
+     "words": [
+      "Direitos Humanos",
+      "Justiça",
+      "Valores",
+      "Ética"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Humanidades, conhecimentos essenciais 02, 04 e 13.",
+     "origem_pas": "Matriz de Referência PAS 3, Humanidades, conhecimentos essenciais 02, 04 e 13",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Prosadores da lista do PAS 3",
+     "words": [
+      "Conceição Evaristo",
+      "Guimarães Rosa",
+      "Clarice Lispector",
+      "Raquel de Queiroz"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 3 (prévia jun/2024), Literaturas 1, 2, 3 e 10.",
+     "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Literaturas 1, 2, 3 e 10",
+     "fonte": "Lista de obras do PAS 3, jun/2024 (preliminar)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c38",
+   "etapa": "PAS 3",
+   "tema": "Rapidez das reações, Poder e projetos políticos e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Artes e letras da Parte 2 da prova",
+     "words": [
+      "Artes Cênicas",
+      "Artes Visuais",
+      "Música",
+      "Literaturas de Língua Portuguesa"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Rapidez das reações (Química PAS 3)",
+     "words": [
+      "Teoria das colisões",
+      "Fatores de rapidez",
+      "Catalisadores",
+      "Lei da ação das massas"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Ciências da Natureza, Químicos 09.",
+     "origem_pas": "Matriz de Referência PAS 3, Ciências da Natureza, Químicos 09",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Poder e projetos políticos (Humanidades PAS 3)",
+     "words": [
+      "Conflitos imperialistas",
+      "Projetos democráticos",
+      "Projetos autoritários",
+      "Geopolítica"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Humanidades, conhecimentos essenciais 07, 08 e 21.",
+     "origem_pas": "Matriz de Referência PAS 3, Humanidades, conhecimentos essenciais 07, 08 e 21",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Autores de fora do Brasil na lista do PAS 3",
+     "words": [
+      "Kafka",
+      "Cortázar",
+      "Mbembe",
+      "Han"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 3 (prévia jun/2024), Literaturas 5, 6 e 15; Textos 9 e 11.",
+     "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Literaturas 5, 6 e 15; Textos 9 e 11",
+     "fonte": "Lista de obras do PAS 3, jun/2024 (preliminar)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c39",
+   "etapa": "PAS 3",
+   "tema": "Equilíbrio químico, Informação e democracia e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Línguas da prova de conhecimentos",
+     "words": [
+      "Espanhol",
+      "Francês",
+      "Inglês",
+      "Língua Portuguesa"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Equilíbrio químico (PAS 3)",
+     "words": [
+      "Reversibilidade",
+      "Alterações do equilíbrio",
+      "Princípio de Le Chatelier",
+      "Aspectos quantitativos"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Ciências da Natureza, Químicos 10.",
+     "origem_pas": "Matriz de Referência PAS 3, Ciências da Natureza, Químicos 10",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Informação e democracia (Humanidades PAS 3)",
+     "words": [
+      "Informação",
+      "Desinformação",
+      "Liberdades individuais",
+      "Limites democráticos"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Humanidades, conhecimento essencial 10.",
+     "origem_pas": "Matriz de Referência PAS 3, Humanidades, conhecimento essencial 10",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Teatro e dança na lista do PAS 3",
+     "words": [
+      "Vestido de noiva",
+      "Eles não usam black-tie",
+      "Sagração da Primavera",
+      "Pina Bausch"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 3 (prévia jun/2024), Teatro 1 e 2; Música 3.",
+     "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Teatro 1 e 2; Música 3",
+     "fonte": "Lista de obras do PAS 3, jun/2024 (preliminar)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c40",
+   "etapa": "PAS 3",
+   "tema": "Química orgânica, Capital e trabalho e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Os tipos de item da prova",
+     "words": [
+      "Item A (certo ou errado)",
+      "Item B (de 000 a 999)",
+      "Item C (quatro opções)",
+      "Item D (resposta construída)"
+     ],
+     "explain": "Termos que aparecem em Guia do PAS 2026, Composição das provas (p. 22).",
+     "origem_pas": "Guia do PAS 2026, Composição das provas (p. 22)",
+     "fonte": "Guia do PAS 2026",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Química orgânica (PAS 3)",
+     "words": [
+      "Funções orgânicas",
+      "Nomenclatura",
+      "Isomeria",
+      "Reações orgânicas"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Ciências da Natureza, Químicos 11.",
+     "origem_pas": "Matriz de Referência PAS 3, Ciências da Natureza, Químicos 11",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Capital e trabalho (Humanidades PAS 3)",
+     "words": [
+      "Capital e trabalho",
+      "Divisão internacional do trabalho",
+      "Territorialização do capital",
+      "Meio técnico-científico-informacional"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Humanidades, conhecimentos essenciais 12, 18, 19 e 20.",
+     "origem_pas": "Matriz de Referência PAS 3, Humanidades, conhecimentos essenciais 12, 18, 19 e 20",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Artes visuais da lista do PAS 3",
+     "words": [
+      "Morte",
+      "Palácio Capanema",
+      "Transfiguração",
+      "Sikka Magnum"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 3 (prévia jun/2024), Artes Visuais 1, 2, 4 e 5.",
+     "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Artes Visuais 1, 2, 4 e 5",
+     "fonte": "Lista de obras do PAS 3, jun/2024 (preliminar)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c41",
+   "etapa": "PAS 3",
+   "tema": "Novos materiais e biotecnologia, Cidadania e movimentos e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Eletricidade e magnetismo (Física PAS 3)",
+     "words": [
+      "Eletrostática",
+      "Magnetismo",
+      "Eletrodinâmica",
+      "Eletromagnetismo"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Ciências da Natureza, Físicos 01 a 04.",
+     "origem_pas": "Matriz de Referência PAS 3, Ciências da Natureza, Físicos 01 a 04",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Novos materiais e biotecnologia (PAS 3)",
+     "words": [
+      "Nanomateriais",
+      "Polímeros",
+      "Biocombustíveis",
+      "Biotecnologia"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Ciências da Natureza, Químicos 12 e Biológicos 19.",
+     "origem_pas": "Matriz de Referência PAS 3, Ciências da Natureza, Químicos 12 e Biológicos 19",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Cidadania e movimentos (Humanidades PAS 3)",
+     "words": [
+      "Lutas dos movimentos sociais",
+      "Cidadania brasileira",
+      "Cidadania digital",
+      "Violências e intolerância"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Humanidades, conhecimentos essenciais 06, 14, 15 e 26.",
+     "origem_pas": "Matriz de Referência PAS 3, Humanidades, conhecimentos essenciais 06, 14, 15 e 26",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Painéis e murais da lista do PAS 3",
+     "words": [
+      "Vacine COVID-19",
+      "Genial andar de bike",
+      "Ciclos Econômicos",
+      "Complexo arquitetônico"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 3 (prévia jun/2024), Artes Visuais 2, 3, 6 e 7.",
+     "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Artes Visuais 2, 3, 6 e 7",
+     "fonte": "Lista de obras do PAS 3, jun/2024 (preliminar)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c42",
+   "etapa": "PAS 3",
+   "tema": "Citologia, Conflitos na Geografia e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Sistemas do corpo humano (Biologia PAS 3)",
+     "words": [
+      "Sistema nervoso",
+      "Sistema endócrino",
+      "Sistema circulatório",
+      "Sistema digestório"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Ciências da Natureza, Biológicos 18.",
+     "origem_pas": "Matriz de Referência PAS 3, Ciências da Natureza, Biológicos 18",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Citologia (PAS 3)",
+     "words": [
+      "Membrana plasmática",
+      "Organelas citoplasmáticas",
+      "Bioenergética",
+      "Ciclo celular"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Ciências da Natureza, Biológicos 15.",
+     "origem_pas": "Matriz de Referência PAS 3, Ciências da Natureza, Biológicos 15",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Conflitos na Geografia (PAS 3)",
+     "words": [
+      "Conflitos étnicos",
+      "Conflitos migratórios",
+      "Conflitos raciais",
+      "Conflitos religiosos"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Humanidades, conhecimento essencial 17.",
+     "origem_pas": "Matriz de Referência PAS 3, Humanidades, conhecimento essencial 17",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Estilos de época da etapa 3",
+     "words": [
+      "Pré-modernismo",
+      "Pós-modernismo",
+      "Literatura Contemporânea",
+      "Vanguardas"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Linguagens, conhecimento essencial 17.",
+     "origem_pas": "Matriz de Referência PAS 3, Linguagens, conhecimento essencial 17",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c43",
+   "etapa": "PAS 3",
+   "tema": "Genética molecular, Textos de ciência da lista do PAS 3 e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Tecidos animais (Biologia PAS 3)",
+     "words": [
+      "Tecido epitelial",
+      "Tecido conjuntivo",
+      "Tecido muscular",
+      "Pele"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Ciências da Natureza, Biológicos 17.",
+     "origem_pas": "Matriz de Referência PAS 3, Ciências da Natureza, Biológicos 17",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Genética molecular (PAS 3)",
+     "words": [
+      "Genética molecular",
+      "Expressão gênica",
+      "Mutações",
+      "Manipulação do material genético"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Ciências da Natureza, Biológicos 16.",
+     "origem_pas": "Matriz de Referência PAS 3, Ciências da Natureza, Biológicos 16",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Textos de ciência da lista do PAS 3",
+     "words": [
+      "Galvani e Volta",
+      "Elétricos movidos a etanol",
+      "O despertar dos robôs",
+      "Cupuaçu"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 3 (prévia jun/2024), Textos 2, 3, 4 e 7.",
+     "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Textos 2, 3, 4 e 7",
+     "fonte": "Lista de obras do PAS 3, jun/2024 (preliminar)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "O corpo na literatura (PAS 3)",
+     "words": [
+      "Corpo",
+      "Autoria",
+      "Autocuidado",
+      "Representações identitárias"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Linguagens, conhecimento essencial 24.",
+     "origem_pas": "Matriz de Referência PAS 3, Linguagens, conhecimento essencial 24",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c44",
+   "etapa": "PAS 3",
+   "tema": "Origens e evolução, Saúde e ambiente na lista do PAS 3 e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Temas de Matemática do PAS 3",
+     "words": [
+      "Geometria analítica",
+      "Matrizes",
+      "Números complexos",
+      "Polinômios"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Matemática, temas gerais.",
+     "origem_pas": "Matriz de Referência PAS 3, Matemática, temas gerais",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Origens e evolução (Biologia PAS 3)",
+     "words": [
+      "Abiogênese",
+      "Biogênese",
+      "Evolução química gradual",
+      "Especiação"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Ciências da Natureza, Biológicos 13.",
+     "origem_pas": "Matriz de Referência PAS 3, Ciências da Natureza, Biológicos 13",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Saúde e ambiente na lista do PAS 3",
+     "words": [
+      "Anemia falciforme",
+      "Descoberta da radiação",
+      "Biotecnologia na Amazônia",
+      "Racismo ambiental"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 3 (prévia jun/2024), Textos 1, 5 e 6; Audiovisuais 8.",
+     "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Textos 1, 5 e 6; Audiovisuais 8",
+     "fonte": "Lista de obras do PAS 3, jun/2024 (preliminar)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Texto literário e sociedade (PAS 3)",
+     "words": [
+      "Intertextualidade",
+      "Interdiscursividade",
+      "Engajamento social",
+      "Campo literário"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Linguagens, conhecimentos essenciais 19 a 21.",
+     "origem_pas": "Matriz de Referência PAS 3, Linguagens, conhecimentos essenciais 19 a 21",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c45",
+   "etapa": "PAS 3",
+   "tema": "Matrizes e sistemas, Músicas da lista do PAS 3 e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Química do PAS 3",
+     "words": [
+      "Radioatividade",
+      "Eletroquímica",
+      "Cinética química",
+      "Equilíbrio químico"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Ciências da Natureza, Químicos 07 a 10.",
+     "origem_pas": "Matriz de Referência PAS 3, Ciências da Natureza, Químicos 07 a 10",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Matrizes e sistemas (Matemática PAS 3)",
+     "words": [
+      "Sistemas lineares",
+      "Determinantes",
+      "Matrizes",
+      "Transformações do plano"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Matemática, PAS3MAT2 a PAS3MAT7.",
+     "origem_pas": "Matriz de Referência PAS 3, Matemática, PAS3MAT2 a PAS3MAT7",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Músicas da lista do PAS 3",
+     "words": [
+      "Caravanas",
+      "Negro Drama",
+      "Girl from Rio",
+      "Ilumina o mundo"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 3 (prévia jun/2024), Música 1, 2, 5 e 7.",
+     "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Música 1, 2, 5 e 7",
+     "fonte": "Lista de obras do PAS 3, jun/2024 (preliminar)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Cidades e tecnologia na literatura (PAS 3)",
+     "words": [
+      "Representações das cidades",
+      "Impacto ambiental",
+      "Novas tecnologias",
+      "Técnicas e representações"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Linguagens, conhecimentos essenciais 22 e 23.",
+     "origem_pas": "Matriz de Referência PAS 3, Linguagens, conhecimentos essenciais 22 e 23",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c46",
+   "etapa": "PAS 3",
+   "tema": "Geometria analítica, Audiovisuais da lista do PAS 3 e mais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Ordem mundial (Humanidades PAS 3)",
+     "words": [
+      "Blocos econômicos",
+      "Organismos multilaterais",
+      "Geopolítica mundial",
+      "Ordem socioeconômica global"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Humanidades, conhecimentos essenciais 21 a 24.",
+     "origem_pas": "Matriz de Referência PAS 3, Humanidades, conhecimentos essenciais 21 a 24",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Geometria analítica (PAS 3)",
+     "words": [
+      "Retas no plano",
+      "Distância entre pontos",
+      "Circunferência",
+      "Paralelismo e perpendicularismo"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Matemática, PAS3MAT1 e PAS3MAT4.",
+     "origem_pas": "Matriz de Referência PAS 3, Matemática, PAS3MAT1 e PAS3MAT4",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Audiovisuais da lista do PAS 3",
+     "words": [
+      "Eclipse de Sobral",
+      "Algoritmo do Google",
+      "A mágica do GPS",
+      "Origem dos números complexos"
+     ],
+     "explain": "Termos que aparecem em Lista de obras PAS 3 (prévia jun/2024), Audiovisuais 1 a 4.",
+     "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Audiovisuais 1 a 4",
+     "fonte": "Lista de obras do PAS 3, jun/2024 (preliminar)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Sistemas do corpo humano, outros (PAS 3)",
+     "words": [
+      "Sistema imunológico",
+      "Sistema excretor",
+      "Sistema respiratório",
+      "Sistemas genitais"
+     ],
+     "explain": "Termos que aparecem em Matriz de Referência PAS 3, Ciências da Natureza, Biológicos 18.",
+     "origem_pas": "Matriz de Referência PAS 3, Ciências da Natureza, Biológicos 18",
+     "fonte": "Matriz de Referência PAS 3, dez/2022",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c47",
+   "etapa": "PAS 1",
+   "tema": "Filosofia, ambiente, Amazônia e verbos do PAS 1",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Pares de temas filosóficos",
+     "words": [
+      "Sofrimento e prazer",
+      "Justiça e violência",
+      "Religiosidade e erro",
+      "Sentido da vida e da morte"
+     ],
+     "explain": "A Matriz do PAS 1 pede problematizar filosoficamente estes pares de temas.",
+     "origem_pas": "Matriz PAS 1, Humanidades, PAS1CH2",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Fenômenos ligados à produção de energia",
+     "words": [
+      "Inundações",
+      "Inversão térmica",
+      "Chuva ácida",
+      "Efeito estufa"
+     ],
+     "explain": "São os fenômenos citados no objetivo sobre produção e fornecimento de energia elétrica.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, PAS1CN1",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Obras do PAS 1 ligadas à Amazônia",
+     "words": [
+      "Saga da Amazônia",
+      "Sinfonia das Florestas",
+      "Quatro Contas",
+      "Garimpo de ouro (Yanomami)"
+     ],
+     "explain": "A canção de Vital Farias e a sinfonia de Tacuchian falam da floresta; Dona Onete canta as encantarias do Pará; o artigo trata do garimpo na Amazônia.",
+     "origem_pas": "Lista de obras do PAS 1 2026-2028, Músicas 8, 9 e 10; Textos 3",
+     "fonte": "Lista de obras do PAS 1 (jan/2026)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Verbos dos objetivos de Linguagens",
+     "words": [
+      "Recordar",
+      "Descrever",
+      "Reconhecer",
+      "Associar"
+     ],
+     "explain": "São os verbos que abrem os objetivos PAS1LING1, 2, 3 e 5.",
+     "origem_pas": "Matriz PAS 1, Linguagens, PAS1LING1, 2, 3 e 5",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c48",
+   "etapa": "PAS 1",
+   "tema": "Matemática, alimentos, prosa antiga e obras fora do eixo Europa-América",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Campos da Matemática",
+     "words": [
+      "Aritmética",
+      "Álgebra",
+      "Grandezas e Medidas",
+      "Geometria"
+     ],
+     "explain": "A competência 03 da Matriz de Matemática lista esses campos, ao lado de Probabilidade e Estatística.",
+     "origem_pas": "Matriz PAS 1, Matemática, competência geral 03",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Temas da produção de alimentos",
+     "words": [
+      "Modais de transporte",
+      "Desmatamento",
+      "Agronegócio",
+      "Agricultura familiar"
+     ],
+     "explain": "São os contextos do objetivo sobre produção e distribuição de alimentos.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, PAS1CN6",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Prosa antiga da lista do PAS 1",
+     "words": [
+      "Carta de Caminha",
+      "Sermão do Bom Ladrão",
+      "Discurso de Clermont",
+      "Apologia de Sócrates"
+     ],
+     "explain": "Uma carta, um sermão, um discurso e uma defesa: textos antigos da lista.",
+     "origem_pas": "Lista de obras do PAS 1 2026-2028, Literaturas 10 e 15; Textos 1 e 8",
+     "fonte": "Lista de obras do PAS 1 (jan/2026)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Obras do PAS 1 de fora da Europa e da América",
+     "words": [
+      "Universidade de Sankore",
+      "Igreja de Lalibela",
+      "Ourives, Tumba 181",
+      "Epopeia de Gilgamesh"
+     ],
+     "explain": "Mali, Etiópia, Egito e Mesopotâmia: obras do PAS 1 nascidas na África e no Oriente Médio.",
+     "origem_pas": "Lista de obras do PAS 1 2026-2028, Artes Visuais 2, 5 e 11; Literaturas 1",
+     "fonte": "Lista de obras do PAS 1 (jan/2026)",
+     "verificar": true
+    }
+   ]
+  },
+  {
+   "id": "c49",
+   "etapa": "PAS 1",
+   "tema": "Línguas, saúde, sonetos e origens",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Leitura em língua estrangeira",
+     "words": [
+      "Leitura geral",
+      "Leitura de informações específicas",
+      "Inferência lexical",
+      "Conteúdos léxico-gramaticais"
+     ],
+     "explain": "São os conhecimentos de leitura em línguas estrangeiras modernas na Matriz.",
+     "origem_pas": "Matriz PAS 1, Linguagens, conhecimentos 05 a 08",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Temas de saúde e sexualidade",
+     "words": [
+      "Sistemas genitais",
+      "Gravidez na adolescência",
+      "Gênero",
+      "Diversidade sexual"
+     ],
+     "explain": "São os contextos do objetivo sobre saúde e sexualidade.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, PAS1CN8",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Sonetos da lista de literaturas do PAS 1",
+     "words": [
+      "Soneto XVIII",
+      "Soneto VII",
+      "Mudam-se os tempos, mudam-se as vontades",
+      "O poeta muda o soneto pela terceira vez"
+     ],
+     "explain": "Shakespeare, Cláudio Manuel da Costa, Camões e Gregório de Matos escreveram sonetos presentes na lista.",
+     "origem_pas": "Lista de obras do PAS 1 2026-2028, Literaturas 7, 9, 14 e 16",
+     "fonte": "Lista de obras do PAS 1 (jan/2026)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Cosmogonias e origem da vida",
+     "words": [
+      "Cosmogonias ocidentais",
+      "Cosmogonias indígenas",
+      "Cosmogonias afrodiaspóricas",
+      "Teoria endossimbiótica"
+     ],
+     "explain": "O objetivo sobre a origem da vida e do universo cita as três cosmogonias e conhecimentos de Biologia como a Teoria Endossimbiótica.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, PAS1CN12",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c50",
+   "etapa": "PAS 1",
+   "tema": "Gramática, trabalho, Brasília e cidades",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Gramática normativa",
+     "words": [
+      "Morfossintaxe do período simples",
+      "Acentuação gráfica",
+      "Uso da crase",
+      "Pontuação"
+     ],
+     "explain": "São conhecimentos de norma padrão da Matriz de Linguagens.",
+     "origem_pas": "Matriz PAS 1, Linguagens, conhecimentos 12 a 14",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Segurança e saúde no trabalho",
+     "words": [
+      "Insalubridade",
+      "Qualidade de vida",
+      "Relações de trabalho",
+      "Direitos trabalhistas"
+     ],
+     "explain": "São os contextos do objetivo sobre soluções de segurança e saúde no trabalho.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, PAS1CN10",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Obras do PAS 1 ligadas a Brasília e à UnB",
+     "words": [
+      "Sinfonia 2, Brasília",
+      "Libras (Surdodum)",
+      "Obrigado Darcy",
+      "O Cerrado está morrendo"
+     ],
+     "explain": "Uma sinfonia sobre a capital, a banda de alunos do DF, a homenagem a Darcy Ribeiro e uma reportagem da Revista Darcy, da UnB.",
+     "origem_pas": "Lista de obras do PAS 1 2026-2028, Músicas 4, 7 e 11; Textos 15",
+     "fonte": "Lista de obras do PAS 1 (jan/2026)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Geografia humana",
+     "words": [
+      "Distribuição da população",
+      "Apropriação do espaço",
+      "Processo de urbanização",
+      "Impactos socioambientais"
+     ],
+     "explain": "São os conhecimentos 24 e 25 da Matriz de Humanidades.",
+     "origem_pas": "Matriz PAS 1, Humanidades, conhecimentos 24 e 25",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c51",
+   "etapa": "PAS 1",
+   "tema": "Artes, Filosofia, divulgação científica e astronomia",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Conhecimentos de artes",
+     "words": [
+      "Elementos da composição",
+      "Processo de criação",
+      "Contextos de difusão",
+      "Sistemas de circulação"
+     ],
+     "explain": "Os quatro primeiros conhecimentos da Matriz de Linguagens tratam de artes visuais, música e teatro.",
+     "origem_pas": "Matriz PAS 1, Linguagens, conhecimentos 01 a 04",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Conhecimentos de Filosofia",
+     "words": [
+      "Mitologias",
+      "Existência humana",
+      "Lógica",
+      "Estética"
+     ],
+     "explain": "São os conhecimentos 01, 03, 04 e 05 da Matriz de Humanidades.",
+     "origem_pas": "Matriz PAS 1, Humanidades, conhecimentos 01, 03, 04 e 05",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Audiovisuais de ciência e tecnologia da lista do PAS 1",
+     "words": [
+      "GPS, como funciona",
+      "A física da corrida",
+      "Terraplanismo e pós-verdade",
+      "Clima de Risco"
+     ],
+     "explain": "Quatro audiovisuais de divulgação científica da lista.",
+     "origem_pas": "Lista de obras do PAS 1 2026-2028, Audiovisuais 5, 6, 7 e 9",
+     "fonte": "Lista de obras do PAS 1 (jan/2026)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Astronomia e satélites",
+     "words": [
+      "Observações astronômicas",
+      "Modelos astronômicos",
+      "Geolocalização",
+      "Satélites artificiais"
+     ],
+     "explain": "A Matriz de Física inclui Astronomia: Observações e Modelos astronômicos; Geolocalização e Satélites Artificiais.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 02",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c52",
+   "etapa": "PAS 1",
+   "tema": "Verbos de Humanidades, fiscalização, geometria e ecologia",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Verbos dos objetivos de Humanidades",
+     "words": [
+      "Aplicar",
+      "Analisar",
+      "Compreender",
+      "Avaliar"
+     ],
+     "explain": "Verbos que iniciam os objetivos PAS1CH1, CH2, CH3 e CH7.",
+     "origem_pas": "Matriz PAS 1, Humanidades, PAS1CH1, 2, 3 e 7",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Desmatamento dos biomas",
+     "words": [
+      "Conservação da matéria e da energia",
+      "Gases",
+      "Ecologia",
+      "Órgãos de fiscalização"
+     ],
+     "explain": "São conhecimentos citados no objetivo sobre o desmatamento dos biomas brasileiros.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, PAS1CN11",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Geometria plana com régua e compasso",
+     "words": [
+      "Paralelismo",
+      "Perpendicularismo",
+      "Congruência",
+      "Semelhança"
+     ],
+     "explain": "A Matriz de Matemática pede investigar esses resultados fundamentais da geometria plana.",
+     "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT1 e PAS1MAT2",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Ecologia",
+     "words": [
+      "Conceitos ecológicos",
+      "Níveis de organização",
+      "Relações ecológicas",
+      "Dinâmica populacional"
+     ],
+     "explain": "São os primeiros tópicos de Ecologia na Matriz de Biologia.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, Biológicos 13",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c53",
+   "etapa": "PAS 1",
+   "tema": "Cultura, transporte, autores estrangeiros e história da ciência",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Cultura e diversidade",
+     "words": [
+      "Cultura material",
+      "Cultura imaterial",
+      "Etnocentrismo",
+      "Relativismo cultural"
+     ],
+     "explain": "A Matriz pede analisar cultura material e imaterial e distinguir etnocentrismo de relativismo cultural.",
+     "origem_pas": "Matriz PAS 1, Humanidades, PAS1CH5 e PAS1CH11",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Transporte e mobilidade",
+     "words": [
+      "Mecânica newtoniana",
+      "Gases",
+      "Impactos ambientais",
+      "Planejamento urbano"
+     ],
+     "explain": "São os contextos do objetivo sobre tecnologias de transporte e mobilidade.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, PAS1CN3",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Autores de fora do Brasil em textos do PAS 1",
+     "words": [
+      "Platão",
+      "Zygmunt Bauman",
+      "Papa Urbano II",
+      "Dante Alighieri"
+     ],
+     "explain": "Autores da Apologia de Sócrates, da entrevista de Bauman, do discurso de Clermont e da Divina Comédia em HQ.",
+     "origem_pas": "Lista de obras do PAS 1 2026-2028, Textos 1, 5, 7 e 8",
+     "fonte": "Lista de obras do PAS 1 (jan/2026)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Filosofia e História das Ciências da Natureza",
+     "words": [
+      "História da Mecânica",
+      "História da Astronomia",
+      "Evolução da Química",
+      "Evolução da Biologia"
+     ],
+     "explain": "O objetivo final de Ciências da Natureza reúne a história dessas áreas.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, PAS1CN14",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c54",
+   "etapa": "PAS 1",
+   "tema": "Povos, energia, variação linguística e Matemática",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Povos e protagonismo",
+     "words": [
+      "Populações indígenas",
+      "Populações negras",
+      "Protagonismo social",
+      "Estudos decoloniais"
+     ],
+     "explain": "A Matriz pede avaliar o protagonismo de populações indígenas e negras e compreender os estudos decoloniais.",
+     "origem_pas": "Matriz PAS 1, Humanidades, PAS1CH7 e PAS1CH10",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Combustíveis e energia",
+     "words": [
+      "Combustíveis fósseis",
+      "Biocombustíveis",
+      "Gases",
+      "Fontes de energia"
+     ],
+     "explain": "São os contextos do objetivo sobre combustíveis fósseis e biocombustíveis.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, PAS1CN2",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Variação linguística",
+     "words": [
+      "Variedades sociais",
+      "Variedades regionais",
+      "Variedades de registro",
+      "Norma padrão"
+     ],
+     "explain": "A Matriz pede identificar marcas dessas variedades e recorrer à norma padrão.",
+     "origem_pas": "Matriz PAS 1, Linguagens, PAS1LING10 e PAS1LING11",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Conhecimentos de Matemática da etapa 1",
+     "words": [
+      "Conjuntos e Funções",
+      "Plano Cartesiano e Produto",
+      "Medida de Área",
+      "Comprimento e Números Reais"
+     ],
+     "explain": "São conhecimentos 01, 03, 04 e 05 da Matriz de Matemática do PAS 1.",
+     "origem_pas": "Matriz PAS 1, Matemática, conhecimentos 01, 03, 04 e 05",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c55",
+   "etapa": "PAS 1",
+   "tema": "Memória, leitura crítica, Itália e propriedades da matéria",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Memória e registro",
+     "words": [
+      "Historicidade",
+      "Geograficidade",
+      "Memória",
+      "Representação sociocultural"
+     ],
+     "explain": "O objetivo pede identificar formas de registro de memória para a representação sociocultural.",
+     "origem_pas": "Matriz PAS 1, Humanidades, PAS1CH19",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Leitura crítica de textos",
+     "words": [
+      "Fatos e opiniões",
+      "Credibilidade das fontes",
+      "Integridade das declarações",
+      "Público-alvo"
+     ],
+     "explain": "Objetivos de Linguagens sobre analisar credibilidade, integridade das declarações e público-alvo.",
+     "origem_pas": "Matriz PAS 1, Linguagens, competência 08; PAS1LING8, 13 e 14",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Obras do PAS 1 da Itália",
+     "words": [
+      "Mosaico de Teodora",
+      "Concerto Grosso",
+      "Divina Comédia (HQ)",
+      "Bendito seja o dia"
+     ],
+     "explain": "Ravena, Corelli, Dante e Petrarca: obras do PAS 1 de origem italiana.",
+     "origem_pas": "Lista de obras do PAS 1 2026-2028, Artes Visuais 8; Músicas 2; Textos 5; Literaturas 6",
+     "fonte": "Lista de obras do PAS 1 (jan/2026)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Propriedades e transformações da matéria",
+     "words": [
+      "Processos de separação",
+      "Extração de substâncias",
+      "Propriedades químicas",
+      "Propriedades físicas"
+     ],
+     "explain": "São tópicos da Química do PAS 1 sobre propriedades e transformações da matéria.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, Químicos 06",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c56",
+   "etapa": "PAS 1",
+   "tema": "Citologia, tecnologia nuclear, povos e autoria coletiva",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Citologia",
+     "words": [
+      "Membrana",
+      "Organelas citoplasmáticas",
+      "Organização nuclear",
+      "Divisão celular"
+     ],
+     "explain": "São tópicos de Citologia na Matriz de Biologia.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, Biológicos 12",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Corrida espacial e tecnologias nucleares",
+     "words": [
+      "Forças nucleares",
+      "Partículas elementares",
+      "Radioatividade",
+      "Ciclo celular"
+     ],
+     "explain": "São conhecimentos citados no objetivo sobre a Corrida Espacial e as tecnologias nucleares.",
+     "origem_pas": "Matriz PAS 1, Ciências da Natureza, PAS1CN5",
+     "fonte": "Matriz PAS 1 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Audiovisuais sobre povos e território",
+     "words": [
+      "Guerras do Brasil",
+      "Falas da Terra",
+      "Abuela Grillo",
+      "Nego Bispo"
+     ],
+     "explain": "Quatro audiovisuais da lista que tratam de povos originários, conquista e pensamento quilombola.",
+     "origem_pas": "Lista de obras do PAS 1 2026-2028, Audiovisuais 1, 2, 4 e 8",
+     "fonte": "Lista de obras do PAS 1 (jan/2026)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Obras do PAS 1 de autoria coletiva ou anônima",
+     "words": [
+      "Manto tupinambá",
+      "Toca do Baixão da Vaca",
+      "Epopeia de Gilgamesh",
+      "Ourives, Tumba 181"
+     ],
+     "explain": "Obras atribuídas a povos, comunidades ou a autoria desconhecida.",
+     "origem_pas": "Lista de obras do PAS 1 2026-2028, Artes Visuais 1, 4 e 5; Literaturas 1",
+     "fonte": "Lista de obras do PAS 1 (jan/2026)",
+     "verificar": true
+    }
+   ]
+  },
+  {
+   "id": "c57",
+   "etapa": "PAS 2",
+   "tema": "Estilos, química, teatro e resistências",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Estilos de época da etapa 2",
+     "words": [
+      "Romantismo",
+      "Realismo",
+      "Naturalismo",
+      "Simbolismo"
+     ],
+     "explain": "A Matriz do PAS 2 lista esses estilos de época, junto com o Parnasianismo.",
+     "origem_pas": "Matriz PAS 2, Linguagens, conhecimento 17",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Funções inorgânicas",
+     "words": [
+      "Sais",
+      "Ácidos",
+      "Bases",
+      "Óxidos"
+     ],
+     "explain": "São as funções dos compostos inorgânicos da Química do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 06",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Teatro e música europeus da lista do PAS 2",
+     "words": [
+      "Um inimigo do povo",
+      "O Burguês Fidalgo",
+      "Habanera de Carmen",
+      "Concerto para violoncelo de Haydn"
+     ],
+     "explain": "Ibsen (Noruega), Molière e Bizet (França) e Haydn (Áustria): obras de autores europeus da lista.",
+     "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), Teatro 1 e 2; Músicas 3 e 5",
+     "fonte": "Lista de obras do PAS 2 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Resistências na colonização",
+     "words": [
+      "Resistência ao escravismo",
+      "Resistência indígena",
+      "Conflitos sociais coloniais",
+      "Papel político das minorias"
+     ],
+     "explain": "A Matriz cita movimentos de resistência ao escravismo, indígenas e conflitos nas regiões colonizadas.",
+     "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos 11 e 12",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c58",
+   "etapa": "PAS 2",
+   "tema": "Gramática, ondas, poemas e capitalismo",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Gramática normativa",
+     "words": [
+      "Período simples",
+      "Período composto",
+      "Acentuação gráfica",
+      "Pontuação"
+     ],
+     "explain": "São conhecimentos de norma padrão da Matriz de Linguagens do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Linguagens, conhecimentos 13 a 15",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Ondulatória",
+     "words": [
+      "Fenômenos ondulatórios",
+      "Ondas mecânicas",
+      "Ondas eletromagnéticas",
+      "Som e Luz"
+     ],
+     "explain": "São os tópicos de Ondulatória na Matriz de Física do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 02",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Poemas da lista de literaturas do PAS 2",
+     "words": [
+      "Ismália",
+      "Profissão de fé",
+      "Remorso Póstumo",
+      "Sonhos"
+     ],
+     "explain": "Poemas de Alphonsus de Guimaraens, Olavo Bilac, Baudelaire e Bocage.",
+     "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), Literaturas 2, 4, 7 e 8",
+     "fonte": "Lista de obras do PAS 2 (prévia jun/2024)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Capitalismo: centro e periferia",
+     "words": [
+      "Centro",
+      "Periferia",
+      "Semiperiferia",
+      "Sistema capitalista"
+     ],
+     "explain": "A Matriz cita o desenvolvimento do sistema capitalista: centro, periferia e semiperiferia.",
+     "origem_pas": "Matriz PAS 2, Humanidades, conhecimento 10",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c59",
+   "etapa": "PAS 2",
+   "tema": "Contagem, comunicação, contos e revoluções",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Princípios de contagem",
+     "words": [
+      "Princípio multiplicativo",
+      "Princípio aditivo",
+      "Diagrama de árvore",
+      "Agrupamentos ordenáveis"
+     ],
+     "explain": "São recursos citados na Matemática do PAS 2 para problemas de contagem.",
+     "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT13",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Tecnologias de Informação e Comunicação",
+     "words": [
+      "Ondulatória",
+      "Ótica",
+      "História da escrita",
+      "História da fotografia"
+     ],
+     "explain": "O objetivo PAS2CN3 liga a Física a história da escrita, da fotografia e da imprensa.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, PAS2CN3",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Contos da lista do PAS 2",
+     "words": [
+      "A Cartomante",
+      "O caso da vara",
+      "A escrava",
+      "A quadrilha de Jacob Patacho"
+     ],
+     "explain": "Quatro contos da lista de literaturas.",
+     "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), Literaturas 10, 12, 13 e 14",
+     "fonte": "Lista de obras do PAS 2 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Era das Revoluções e Estados",
+     "words": [
+      "Revoluções (1780-1850)",
+      "Guerras interestatais",
+      "Guerras civis",
+      "Estados nacionais"
+     ],
+     "explain": "A Matriz do PAS 2 cita a Era das Revoluções, as guerras e a formação dos Estados nacionais.",
+     "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos 09, 14 e 15",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c60",
+   "etapa": "PAS 2",
+   "tema": "Literatura, soluções, ciência na tela e conhecimento",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Representações na literatura",
+     "words": [
+      "Natureza",
+      "Animais",
+      "Biodiversidade",
+      "Cidades"
+     ],
+     "explain": "A Matriz pede analisar representações da natureza, dos animais, da biodiversidade e das cidades na literatura.",
+     "origem_pas": "Matriz PAS 2, Linguagens, conhecimentos 25 e 26",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Soluções",
+     "words": [
+      "Classificação",
+      "Solubilidade",
+      "Diluição e mistura",
+      "Propriedades coligativas"
+     ],
+     "explain": "São os tópicos de Soluções na Química do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 09",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Audiovisuais de divulgação científica",
+     "words": [
+      "Eficácia de vacina",
+      "Motor do carro",
+      "Notícias falsas",
+      "Música nas esferas"
+     ],
+     "explain": "Quatro audiovisuais da lista que explicam ciência para o grande público.",
+     "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), Audiovisuais 7, 8, 9 e 10",
+     "fonte": "Lista de obras do PAS 2 (prévia jun/2024)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Conhecimento e ciência",
+     "words": [
+      "Natureza do conhecimento",
+      "Teorias do conhecimento",
+      "Epistemologia",
+      "Métodos científicos"
+     ],
+     "explain": "São temas de Filosofia da Matriz de Humanidades.",
+     "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos 01 a 03",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c61",
+   "etapa": "PAS 2",
+   "tema": "Trigonometria aplicada, seres vivos, música e diversidade",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Contextos das funções trigonométricas",
+     "words": [
+      "Ondas sonoras",
+      "Fases da Lua",
+      "Movimento circular uniforme",
+      "Sistema massa-mola"
+     ],
+     "explain": "São fenômenos periódicos citados na Matemática do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT2",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Seres vivos e doenças",
+     "words": [
+      "Vírus e viroses",
+      "Algas",
+      "Fungos e micoses",
+      "Animais e verminoses"
+     ],
+     "explain": "São grupos de seres vivos estudados na Matriz de Biologia do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Biológicos 11",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Músicas brasileiras da lista do PAS 2",
+     "words": [
+      "Frevo Mulher",
+      "Súplica cearense",
+      "Matança",
+      "A queda"
+     ],
+     "explain": "Músicas de Zé Ramalho, O Rappa, Augusto Jatobá e Gloria Groove.",
+     "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), Músicas 1, 2, 4 e 6",
+     "fonte": "Lista de obras do PAS 2 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Dimensões da diversidade",
+     "words": [
+      "Dimensão socioeconômica",
+      "Dimensão étnica",
+      "Dimensão religiosa",
+      "Dimensão simbólica"
+     ],
+     "explain": "A Matriz cita dimensões socioeconômicas, étnicas, religiosas, simbólicas e de gênero.",
+     "origem_pas": "Matriz PAS 2, Humanidades, conhecimento 16",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c62",
+   "etapa": "PAS 2",
+   "tema": "Probabilidade, calor, artistas europeus e povos tradicionais",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Probabilidade",
+     "words": [
+      "Espaço amostral",
+      "Evento equiprovável",
+      "Probabilidade condicional",
+      "Eventos independentes"
+     ],
+     "explain": "São conceitos de Probabilidade da Matemática do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT14 a PAS2MAT18",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Termodinâmica",
+     "words": [
+      "Temperatura e Calor",
+      "Equações de estado",
+      "Máquinas frigoríficas",
+      "Mecânica estatística"
+     ],
+     "explain": "São tópicos de Termodinâmica e Termologia na Física do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 01",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Artistas europeus da lista de artes visuais do PAS 2",
+     "words": [
+      "Artemisia Gentileschi",
+      "Georges Seurat",
+      "Théodore Géricault",
+      "Jean-Baptiste Debret"
+     ],
+     "explain": "Quatro artistas europeus (Debret era francês e viveu no Brasil) com obras na lista.",
+     "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), Artes Visuais 2 a 5",
+     "fonte": "Lista de obras do PAS 2 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Povos tradicionais",
+     "words": [
+      "Comunidades indígenas",
+      "Quilombolas",
+      "Povos tradicionais",
+      "Contribuições tecnológicas"
+     ],
+     "explain": "A Matriz cita contribuições tecnológicas e políticas de comunidades indígenas, quilombolas e povos tradicionais.",
+     "origem_pas": "Matriz PAS 2, Humanidades, conhecimento 21",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c63",
+   "etapa": "PAS 2",
+   "tema": "Estatística, ótica, território e consumo",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Representações de dados",
+     "words": [
+      "Tabelas",
+      "Gráficos",
+      "Diagramas",
+      "Amostras de pesquisas"
+     ],
+     "explain": "A Matemática do PAS 2 pede interpretar e avaliar essas formas de apresentar dados.",
+     "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT10 e PAS2MAT11",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Ótica",
+     "words": [
+      "Fenômenos óticos",
+      "Instrumentação ótica",
+      "Olho humano",
+      "Defeitos de visão"
+     ],
+     "explain": "São tópicos de Ótica Geométrica na Física do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 03",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Audiovisuais sobre povos e território no PAS 2",
+     "words": [
+      "Quilombos do século XXI",
+      "Histórias da fome no Brasil",
+      "Amazônia sem garimpo",
+      "A cidade é uma só?"
+     ],
+     "explain": "Quatro audiovisuais da lista sobre território, fome e quilombos.",
+     "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), Audiovisuais 1 a 4",
+     "fonte": "Lista de obras do PAS 2 (prévia jun/2024)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Produção e consumo",
+     "words": [
+      "Modelos produtivos",
+      "Padrões de consumo",
+      "Recursos naturais",
+      "Estratificação social"
+     ],
+     "explain": "A Matriz cita modelos produtivos, padrões de consumo e seus impactos na estratificação social.",
+     "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos 23 e 24",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c64",
+   "etapa": "PAS 2",
+   "tema": "Literatura, termoquímica, saúde e ideias",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Intertextualidade e engajamento",
+     "words": [
+      "Intertextualidade",
+      "Interdiscursividade",
+      "Engajamento social",
+      "Campo literário"
+     ],
+     "explain": "São conhecimentos de Literatura da Matriz de Linguagens do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Linguagens, conhecimentos 18, 21 e 23",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Termoquímica",
+     "words": [
+      "Entalpia",
+      "Lei de Hess",
+      "Espontaneidade",
+      "Energia de ligação"
+     ],
+     "explain": "São tópicos de Termoquímica na Química do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 08",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Textos de saúde e ambiente da lista do PAS 2",
+     "words": [
+      "Biossegurança em frigoríficos",
+      "Oceano turbulento",
+      "Raízes do conhecimento",
+      "Geometria e vírus"
+     ],
+     "explain": "Quatro textos científicos da lista que tratam de saúde, mar, ciência e vírus.",
+     "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), Textos 6, 8, 9 e 11",
+     "fonte": "Lista de obras do PAS 2 (prévia jun/2024)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Circulação de ideias",
+     "words": [
+      "Ideias",
+      "Crenças",
+      "Opiniões",
+      "Discursos midiáticos"
+     ],
+     "explain": "A Matriz pede estudar a formação e circulação de ideias, crenças e opiniões e analisar discursos midiáticos.",
+     "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos 04 e 05",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c65",
+   "etapa": "PAS 2",
+   "tema": "Trigonometria, botânica, textos de humanas e técnica",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Trigonometria",
+     "words": [
+      "Helicóide cilíndrico",
+      "Seno",
+      "Cosseno",
+      "Radiano"
+     ],
+     "explain": "São conceitos citados nos objetivos de funções trigonométricas.",
+     "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT3",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Botânica",
+     "words": [
+      "Histologia vegetal",
+      "Morfologia",
+      "Fisiologia",
+      "Conquista do ambiente terrestre"
+     ],
+     "explain": "São tópicos de Botânica na Matriz de Biologia do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Biológicos 12",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Textos de ciências humanas da lista do PAS 2",
+     "words": [
+      "Indústria cultural",
+      "Kant",
+      "Colonizadores e povos indígenas",
+      "Lei Maria da Penha"
+     ],
+     "explain": "Quatro textos da lista com temas de Sociologia, Filosofia, História e Direito.",
+     "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), Textos 1, 2, 5 e 10",
+     "fonte": "Lista de obras do PAS 2 (prévia jun/2024)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Transformações técnico-científicas",
+     "words": [
+      "Meio técnico-científico",
+      "Informacional",
+      "Mundo do trabalho",
+      "Relações sociais"
+     ],
+     "explain": "A Matriz cita transformações técnico-científicas informacionais nas relações sociais e no mundo do trabalho.",
+     "origem_pas": "Matriz PAS 2, Humanidades, conhecimento 25",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c66",
+   "etapa": "PAS 2",
+   "tema": "Cartografia, Física moderna, poetas e indústria",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Cartografia e geometria",
+     "words": [
+      "Projeção cilíndrica",
+      "Projeção cônica",
+      "Arcos de círculo máximo",
+      "Rotas de aeronaves"
+     ],
+     "explain": "A Matemática do PAS 2 liga geometria espacial à cartografia e às rotas aéreas.",
+     "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT8 e PAS2MAT9",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Física Moderna e história",
+     "words": [
+      "Interação luz-matéria",
+      "Dualidade onda-partícula",
+      "História da Termodinâmica",
+      "História da Óptica"
+     ],
+     "explain": "São tópicos de Física Moderna e História da Física na Matriz do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 04 e 05",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Poetas parnasianos e simbolistas da lista do PAS 2",
+     "words": [
+      "Raimundo Correia",
+      "Olavo Bilac",
+      "Alphonsus de Guimaraens",
+      "Cruz e Sousa"
+     ],
+     "explain": "Poetas do Parnasianismo e do Simbolismo presentes na lista de literaturas.",
+     "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), Literaturas 1, 2, 4 e 5",
+     "fonte": "Lista de obras do PAS 2 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Modo de produção industrial",
+     "words": [
+      "Modo de produção industrial",
+      "Manifestações político-ideológicas",
+      "Crises de produção",
+      "Circulação e consumo"
+     ],
+     "explain": "A Matriz cita as manifestações político-ideológicas e as crises do modo de produção industrial.",
+     "origem_pas": "Matriz PAS 2, Humanidades, conhecimento 26",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c67",
+   "etapa": "PAS 2",
+   "tema": "Combustíveis, racismo, escravidão e história da ciência",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Combustíveis e energia",
+     "words": [
+      "Máquina térmica",
+      "Termoquímica",
+      "Fisiologia vegetal",
+      "Cartel dos combustíveis"
+     ],
+     "explain": "São conhecimentos citados no objetivo sobre combustíveis fósseis e biocombustíveis.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, PAS2CN1",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Racismo e minorias",
+     "words": [
+      "Racismo brasileiro",
+      "Patriarcalismo brasileiro",
+      "Minorias",
+      "Grupos minorizados"
+     ],
+     "explain": "A Matriz cita a construção do racismo e do patriarcalismo e o papel político das minorias.",
+     "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos 12 e 13",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Obras do PAS 2 sobre a escravidão",
+     "words": [
+      "Execução de punição e açoitamento",
+      "A canção do africano",
+      "A escrava",
+      "Quilombos do século XXI"
+     ],
+     "explain": "Uma gravura de Debret, um poema de Castro Alves, um conto de Maria Firmina dos Reis e um audiovisual sobre quilombos.",
+     "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), Artes Visuais 3; Literaturas 6 e 14; Audiovisuais 2",
+     "fonte": "Lista de obras do PAS 2 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Filosofia e História das Ciências da Natureza",
+     "words": [
+      "História da Termodinâmica",
+      "Teorias ácido-base",
+      "Gases",
+      "Sistemática e taxonomia"
+     ],
+     "explain": "São conhecimentos citados no objetivo final de Ciências da Natureza do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, PAS2CN10",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c68",
+   "etapa": "PAS 2",
+   "tema": "Alimentos, trabalho, sustentabilidade e autoria",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Produção e distribuição de alimentos",
+     "words": [
+      "Termodinâmica e Termologia",
+      "Soluções químicas",
+      "Botânica",
+      "Microbiologia dos alimentos"
+     ],
+     "explain": "São conhecimentos citados no objetivo sobre alimentos.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, PAS2CN4",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Segurança e saúde no trabalho",
+     "words": [
+      "Risco biológico",
+      "Doenças infectocontagiosas",
+      "Insalubridade",
+      "Direitos trabalhistas"
+     ],
+     "explain": "São contextos do objetivo sobre segurança e saúde no trabalho.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, PAS2CN7",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Biodiversidade e sustentabilidade",
+     "words": [
+      "Proteção à biodiversidade",
+      "Práticas bioéticas",
+      "Práticas sustentáveis",
+      "Diferentes escalas"
+     ],
+     "explain": "A Matriz pede proteger a biodiversidade e analisar modelos produtivos em diferentes escalas.",
+     "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos 22 e 23",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Autoras e autores de textos de ciência da lista do PAS 2",
+     "words": [
+      "Gabriel Cafeu Brandão",
+      "Marco Moriconi",
+      "Maria Guimarães",
+      "Marina Simon"
+     ],
+     "explain": "Quem assina os textos sobre geometria e vírus, 'A terra é redonda', 'Raízes do conhecimento' e 'Oceano turbulento'.",
+     "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), Textos 8, 9, 11 e 12",
+     "fonte": "Lista de obras do PAS 2 (prévia jun/2024)",
+     "verificar": true
+    }
+   ]
+  },
+  {
+   "id": "c69",
+   "etapa": "PAS 2",
+   "tema": "Saúde pública, desmatamento, zoologia e sólidos",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Saúde pública",
+     "words": [
+      "Ácidos e bases",
+      "Cálculo de concentração",
+      "Saneamento básico",
+      "Modelagem estatística das epidemias"
+     ],
+     "explain": "São conhecimentos citados no objetivo sobre políticas de saúde pública.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, PAS2CN5",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Desmatamento dos biomas",
+     "words": [
+      "Ação do fogo no cerrado",
+      "Botânica",
+      "Morfologia",
+      "Negacionismo científico"
+     ],
+     "explain": "São conhecimentos citados no objetivo sobre o desmatamento dos biomas brasileiros.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, PAS2CN8",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Zoologia e classificação",
+     "words": [
+      "Embriologia animal",
+      "Fisiologia comparada",
+      "Órgãos dos sentidos",
+      "Sistemática e taxonomia"
+     ],
+     "explain": "São tópicos de Zoologia e Sistemática da Matriz de Biologia.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, Biológicos 10 e 13",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Figuras planas nos sólidos",
+     "words": [
+      "Prismas",
+      "Pirâmides",
+      "Cilindros",
+      "Cones"
+     ],
+     "explain": "A Matemática do PAS 2 pede reconhecer as figuras planas presentes nesses sólidos.",
+     "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT4",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c70",
+   "etapa": "PAS 2",
+   "tema": "Tecnologias de saúde, transporte, engajamento e diversidade",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Técnicas e tecnologias de saúde",
+     "words": [
+      "Olho humano",
+      "Radioterapia",
+      "Produção de antibióticos",
+      "Órgãos do sentido"
+     ],
+     "explain": "São conhecimentos citados no objetivo sobre técnicas e tecnologias de saúde.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, PAS2CN6",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Transporte e mobilidade",
+     "words": [
+      "Compostos inorgânicos",
+      "Gases",
+      "Termoquímica",
+      "Mobilidade urbana"
+     ],
+     "explain": "São conhecimentos citados no objetivo sobre tecnologias de transporte e mobilidade.",
+     "origem_pas": "Matriz PAS 2, Ciências da Natureza, PAS2CN2",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Identidades e engajamento na literatura",
+     "words": [
+      "Engajamento social",
+      "Identidades afro-brasileiras",
+      "Identidades indígenas",
+      "Gênero na literatura"
+     ],
+     "explain": "A Matriz de Linguagens cita literatura e engajamento e as identidades na literatura.",
+     "origem_pas": "Matriz PAS 2, Linguagens, conhecimentos 23 e 24",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Diversidade, identidade e diferença",
+     "words": [
+      "Diversidade",
+      "Identidade",
+      "Diferença",
+      "Identidades socioculturais"
+     ],
+     "explain": "São conceitos citados na Matriz de Humanidades do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos 17 e 19",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c71",
+   "etapa": "PAS 2",
+   "tema": "Dispersão, visões de mundo, autoria feminina e Matemática da etapa 2",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Medidas de dispersão",
+     "words": [
+      "Amplitude",
+      "Variância",
+      "Desvio padrão",
+      "Coeficiente de variação"
+     ],
+     "explain": "São as medidas de dispersão citadas na Matemática do PAS 2.",
+     "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT12",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Visões de mundo e trabalho",
+     "words": [
+      "Visão urbana",
+      "Visão rural",
+      "Trabalho",
+      "Cultura"
+     ],
+     "explain": "A Matriz cita visões de mundo urbanas e rurais e a interdependência entre trabalho, cultura e meio ambiente.",
+     "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos 18 e 20",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Obras do PAS 2 de autoria feminina",
+     "words": [
+      "A escrava",
+      "Suzana e os anciãos",
+      "A fome que nos atravessa",
+      "Oceano turbulento"
+     ],
+     "explain": "Um conto de Maria Firmina dos Reis, uma pintura de Artemisia Gentileschi e reportagens de Vanessa Vieira e Marina Simon.",
+     "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), Literaturas 14; Artes Visuais 2; Textos 7 e 9",
+     "fonte": "Lista de obras do PAS 2 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Assuntos de Matemática da etapa 2",
+     "words": [
+      "Geometria espacial",
+      "Estatística",
+      "Probabilidade",
+      "Análise combinatória"
+     ],
+     "explain": "A Matriz explica que a Geometria Espacial, a Estatística, a Probabilidade e a Análise Combinatória ficam na etapa 2.",
+     "origem_pas": "Matriz PAS 2, Matemática, destaques gerais e conhecimentos da etapa",
+     "fonte": "Matriz PAS 2 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c72",
+   "etapa": "PAS 3",
+   "tema": "Física, estilos, eletricidade em textos e imperialismo",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Ramos da Física do PAS 3",
+     "words": [
+      "Eletrostática",
+      "Magnetismo",
+      "Eletrodinâmica",
+      "Eletromagnetismo"
+     ],
+     "explain": "São os quatro primeiros blocos de Física da Matriz do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 01 a 04",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Estilos de época da etapa 3",
+     "words": [
+      "Pré-modernismo",
+      "Vanguardas",
+      "Modernismo",
+      "Pós-modernismo"
+     ],
+     "explain": "A Matriz do PAS 3 lista esses estilos de época, ao lado da Literatura Contemporânea.",
+     "origem_pas": "Matriz PAS 3, Linguagens, conhecimento 17",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Textos de eletricidade e tecnologia da lista do PAS 3",
+     "words": [
+      "Galvani e Volta",
+      "Elétricos movidos a etanol",
+      "O despertar dos robôs",
+      "Circuitos elétricos e sistemas lineares"
+     ],
+     "explain": "Quatro textos da lista que ligam eletricidade, energia e tecnologia.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Textos 2, 3, 4 e 8",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Conflitos e projetos de poder",
+     "words": [
+      "Imperialismo do século XIX",
+      "Imperialismo do século XX",
+      "Projetos autoritários",
+      "Projetos democráticos"
+     ],
+     "explain": "A Matriz cita conflitos imperialistas dos séculos XIX e XX e projetos de poder democráticos e autoritários.",
+     "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 07 e 08",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c73",
+   "etapa": "PAS 3",
+   "tema": "Sistemas lineares, orgânica, ciência na tela e conflitos",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Classificação de sistemas lineares",
+     "words": [
+      "Possível determinado",
+      "Possível indeterminado",
+      "Impossível",
+      "Forma matricial"
+     ],
+     "explain": "A Matemática do PAS 3 pede classificar sistemas lineares e descrevê-los na forma matricial.",
+     "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT3",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Química orgânica",
+     "words": [
+      "Funções orgânicas",
+      "Nomenclatura",
+      "Isomeria",
+      "Reações orgânicas"
+     ],
+     "explain": "São os tópicos de Química orgânica da Matriz do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 11",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Audiovisuais de ciência da lista do PAS 3",
+     "words": [
+      "Eclipse de Sobral",
+      "Algoritmo do Google",
+      "A mágica do GPS",
+      "Origem dos números complexos"
+     ],
+     "explain": "Quatro audiovisuais da lista que explicam ciência e matemática.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Audiovisuais 1 a 4",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Conflitos na Geografia",
+     "words": [
+      "Conflitos étnicos",
+      "Conflitos migratórios",
+      "Conflitos raciais",
+      "Conflitos religiosos"
+     ],
+     "explain": "A Matriz cita as dimensões geográficas dos conflitos étnicos, migratórios, raciais e religiosos.",
+     "origem_pas": "Matriz PAS 3, Humanidades, conhecimento 17",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c74",
+   "etapa": "PAS 3",
+   "tema": "Matemática, corpo humano, modernistas e violências",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Temas de Matemática da etapa 3",
+     "words": [
+      "Geometria analítica",
+      "Matrizes",
+      "Sistemas lineares",
+      "Determinantes"
+     ],
+     "explain": "São tópicos dos conhecimentos 01 e 02 da Matriz de Matemática.",
+     "origem_pas": "Matriz PAS 3, Matemática, conhecimentos 01 e 02",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Sistemas do corpo humano",
+     "words": [
+      "Sistema nervoso",
+      "Sistema endócrino",
+      "Sistema imunológico",
+      "Sistema excretor"
+     ],
+     "explain": "São sistemas citados em Fisiologia Humana na Matriz do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 18",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Modernistas da lista de literaturas do PAS 3",
+     "words": [
+      "Carlos Drummond de Andrade",
+      "Manuel Bandeira",
+      "Oswald de Andrade",
+      "João Cabral de Melo Neto"
+     ],
+     "explain": "Quatro autores brasileiros do Modernismo com obras na lista.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Literaturas 4, 9, 18 e 21",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Violências e intolerância",
+     "words": [
+      "Violências",
+      "Segregação étnico-racial",
+      "Intolerância",
+      "Propagação de ódio"
+     ],
+     "explain": "A Matriz cita estas formas de violência e discriminação.",
+     "origem_pas": "Matriz PAS 3, Humanidades, conhecimento 26",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c75",
+   "etapa": "PAS 3",
+   "tema": "Complexos, química, autores estrangeiros e ordem mundial",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Números complexos e polinômios",
+     "words": [
+      "Números complexos",
+      "Forma polar",
+      "Polinômios",
+      "Equações algébricas"
+     ],
+     "explain": "São conhecimentos 03 a 05 da Matemática do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Matemática, conhecimentos 03 a 05; PAS3MAT9",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Química da energia",
+     "words": [
+      "Radioatividade",
+      "Eletroquímica",
+      "Pilhas",
+      "Eletrólise ígnea e aquosa"
+     ],
+     "explain": "São tópicos de Radioatividade e Eletroquímica na Matriz do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 07 e 08",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Autores de fora do Brasil na lista do PAS 3",
+     "words": [
+      "Franz Kafka",
+      "Júlio Cortázar",
+      "Achille Mbembe",
+      "Byung-Chul Han"
+     ],
+     "explain": "Dois escritores e dois filósofos estrangeiros presentes na lista.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Literaturas 5, 6 e 15; Textos 9 e 11",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Ordem mundial",
+     "words": [
+      "Geopolítica mundial",
+      "Organismos multilaterais",
+      "Blocos econômicos",
+      "Ordem socioeconômica global"
+     ],
+     "explain": "São conhecimentos 21 a 24 da Matriz de Humanidades.",
+     "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 21 a 24",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c76",
+   "etapa": "PAS 3",
+   "tema": "Geometria analítica, tecidos, saúde em textos e capital",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Distâncias na geometria analítica",
+     "words": [
+      "Distância entre dois pontos",
+      "Distância entre reta e ponto",
+      "Distância entre duas retas",
+      "Equação da circunferência"
+     ],
+     "explain": "A Matemática do PAS 3 pede descrever essas distâncias com coordenadas cartesianas.",
+     "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT4",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Histologia animal",
+     "words": [
+      "Tecido epitelial",
+      "Tecido conjuntivo",
+      "Tecido nervoso",
+      "Tecido muscular"
+     ],
+     "explain": "São os tecidos listados em Histologia animal na Matriz do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 17",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Textos de saúde, biotecnologia e povos da lista do PAS 3",
+     "words": [
+      "Anemia falciforme",
+      "Biotecnologia na Amazônia",
+      "Cupuaçu e indígenas",
+      "Descoberta da radiação"
+     ],
+     "explain": "Quatro textos da lista que ligam saúde, biotecnologia, povos indígenas e radiação.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Textos 1, 5, 6 e 7",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Capital e trabalho",
+     "words": [
+      "Confrontos políticos e ideológicos",
+      "Territorialização do capital",
+      "Desterritorialização do trabalho",
+      "Divisão internacional do trabalho"
+     ],
+     "explain": "A Matriz cita os confrontos entre capital e trabalho e a divisão internacional do trabalho.",
+     "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 12, 18 e 19",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c77",
+   "etapa": "PAS 3",
+   "tema": "Aplicações de sistemas, genética, autoras e filosofia política",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Aplicações de sistemas lineares",
+     "words": [
+      "Circuitos elétricos",
+      "Balanceamento de equações químicas",
+      "Corpos em equilíbrio",
+      "Produção mínima de um item"
+     ],
+     "explain": "A Matemática do PAS 3 cita estas aplicações dos sistemas lineares.",
+     "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT3",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Genética",
+     "words": [
+      "Genética molecular",
+      "Expressão gênica",
+      "Mutações",
+      "Manipulação do material genético"
+     ],
+     "explain": "São tópicos de Genética na Matriz do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 16",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Autoras da lista de literaturas do PAS 3",
+     "words": [
+      "Clarice Lispector",
+      "Cecília Meireles",
+      "Raquel de Queiroz",
+      "Adélia Prado"
+     ],
+     "explain": "Quatro escritoras brasileiras com obras na lista.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Literaturas 3, 7, 10, 11 e 12",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Filosofia política e direitos",
+     "words": [
+      "Filosofia da política",
+      "Fundamentação dos Direitos Humanos",
+      "Cidadania",
+      "Justiça e valores"
+     ],
+     "explain": "A Matriz de Humanidades do PAS 3 cita estes temas.",
+     "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 01, 02 e 04",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c78",
+   "etapa": "PAS 3",
+   "tema": "Polinômios, cinética, artes visuais e cultura de massa",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Aplicações dos polinômios",
+     "words": [
+      "Lançamento oblíquo",
+      "Funcionamento de calculadoras",
+      "Previsão de preços",
+      "Propagação de doenças"
+     ],
+     "explain": "A Matemática do PAS 3 cita estas aplicações de polinômios e equações algébricas.",
+     "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT10 e PAS3MAT11",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Cinética química",
+     "words": [
+      "Teoria das colisões",
+      "Fatores de rapidez",
+      "Catalisadores",
+      "Lei da Ação das massas"
+     ],
+     "explain": "São tópicos de Cinética química na Matriz do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 09",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Artes visuais contemporâneas da lista do PAS 3",
+     "words": [
+      "Transfiguração",
+      "Sikka Magnum",
+      "Vacine COVID-19",
+      "Genial andar de bike"
+     ],
+     "explain": "Obras de Sagazan, Canogar e Kobra, todas do século XXI.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Artes Visuais 4 a 7",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Cultura de massa e informação",
+     "words": [
+      "Cultura de massa",
+      "Informação",
+      "Desinformação",
+      "Liberdades individuais"
+     ],
+     "explain": "A Matriz cita manifestações de cultura de massa e a relação entre informação, desinformação e liberdades.",
+     "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 09 e 10",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c79",
+   "etapa": "PAS 3",
+   "tema": "Computação gráfica, equilíbrio, poder em textos e movimentos",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Computação gráfica",
+     "words": [
+      "Transformações do plano",
+      "Rotações no plano",
+      "Composição de rotações",
+      "Videogames"
+     ],
+     "explain": "A Matemática do PAS 3 cita estas aplicações de matrizes.",
+     "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT5 e PAS3MAT6",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Equilíbrio químico",
+     "words": [
+      "Reversibilidade",
+      "Alterações do equilíbrio",
+      "Princípio de Le Chatelier",
+      "Aspectos quantitativos"
+     ],
+     "explain": "São tópicos de Equilíbrio químico na Matriz do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 10",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Textos do PAS 3 sobre racismo e poder",
+     "words": [
+      "Necropolítica",
+      "Epistemicídio",
+      "Anemia falciforme",
+      "Racismo ambiental"
+     ],
+     "explain": "Três textos e um audiovisual da lista que discutem racismo e poder.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Textos 1, 9 e 10; Audiovisuais 8",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Movimentos, cidadania e desenvolvimento",
+     "words": [
+      "Lutas dos movimentos sociais",
+      "Formação da cidadania brasileira",
+      "Desenvolvimento econômico",
+      "Direitos Humanos e justiça"
+     ],
+     "explain": "São conhecimentos 13 a 16 da Matriz de Humanidades.",
+     "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 13 a 16",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c80",
+   "etapa": "PAS 3",
+   "tema": "Gramática, Física moderna, músicas e Estado",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Gramática normativa",
+     "words": [
+      "Período simples",
+      "Período composto",
+      "Acentuação gráfica",
+      "Crase"
+     ],
+     "explain": "São conhecimentos de norma padrão da Matriz de Linguagens do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Linguagens, conhecimentos 13 e 14",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Física Moderna",
+     "words": [
+      "Teorias da Relatividade",
+      "Cosmologia",
+      "Interpretações da Mecânica Quântica",
+      "História da Física Moderna"
+     ],
+     "explain": "São tópicos de Física Moderna da Matriz do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 05 e 06",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Músicas brasileiras do século XXI na lista do PAS 3",
+     "words": [
+      "Negro Drama",
+      "Caravanas",
+      "Ilumina o Mundo",
+      "Girl from Rio"
+     ],
+     "explain": "Quatro músicas da lista lançadas a partir de 2002.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Músicas 1, 2, 5 e 7",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Estado e participação",
+     "words": [
+      "Estado Democrático de Direito",
+      "Formação das leis",
+      "Participação política",
+      "Cidadania digital"
+     ],
+     "explain": "A Matriz cita o Estado Democrático de Direito, a formação das leis e a participação do cidadão.",
+     "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 03, 06 e 25",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c81",
+   "etapa": "PAS 3",
+   "tema": "Novos materiais, origens, audiovisuais e participação",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Novos materiais",
+     "words": [
+      "Nanomateriais",
+      "Polímeros",
+      "Biocombustíveis",
+      "Biotecnologia"
+     ],
+     "explain": "São tópicos de Novos materiais e Biotecnologia na Matriz do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 12; Biológicos 19",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Origens da vida e evolução",
+     "words": [
+      "Abiogênese",
+      "Biogênese",
+      "Evolução química gradual",
+      "Especiação"
+     ],
+     "explain": "São tópicos de Origens da vida e evolução da Matriz do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 13",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Audiovisuais de memória e cidadania da lista do PAS 3",
+     "words": [
+      "Barra 68",
+      "Unicef: histórias nunca feitas para crianças",
+      "Mulamba",
+      "Racismo ambiental"
+     ],
+     "explain": "Quatro audiovisuais da lista sobre memória, infância, música e luta ambiental.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Audiovisuais 5 a 8",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Leis e cidadania",
+     "words": [
+      "Formação das leis",
+      "Participação do cidadão",
+      "Cidadania digital",
+      "Direitos Humanos"
+     ],
+     "explain": "A Matriz cita os processos de formação das leis, a participação política e a cidadania digital.",
+     "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 03, 06 e 13",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c82",
+   "etapa": "PAS 3",
+   "tema": "Citologia, história da eletricidade, obras brasileiras e meios de produção",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Citologia",
+     "words": [
+      "Membrana plasmática",
+      "Bioenergética",
+      "Ciclo celular",
+      "Divisões celulares"
+     ],
+     "explain": "São tópicos de Citologia da Matriz do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 15",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "História da eletricidade",
+     "words": [
+      "Fluido galvânico",
+      "Experiência de Volta",
+      "Pilhas eletroquímicas",
+      "Desenvolvimento dos biocombustíveis"
+     ],
+     "explain": "O objetivo de Filosofia e História das Ciências da Natureza cita estes elementos.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, PAS3CN12",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Teatro e artes brasileiras de meados do século XX",
+     "words": [
+      "Vestido de noiva",
+      "Eles não usam black-tie",
+      "Ciclos Econômicos",
+      "Palácio Capanema"
+     ],
+     "explain": "Duas peças e duas obras do Palácio Capanema, todas brasileiras.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Teatro 1 e 2; Artes Visuais 2 e 3",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Meios de produção e tecnologia",
+     "words": [
+      "Meios de produção",
+      "Recursos naturais",
+      "Meio técnico-científico-informacional",
+      "Cidadania digital"
+     ],
+     "explain": "A Matriz cita as transformações dos meios de produção e o meio técnico-científico-informacional.",
+     "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 06, 11 e 20",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c83",
+   "etapa": "PAS 3",
+   "tema": "Saúde, vacinas, prosa e justiça",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Técnicas e tecnologias de saúde",
+     "words": [
+      "Ressonância magnética",
+      "Marcapasso",
+      "Funções orgânicas dos fármacos",
+      "Assistência circulatória"
+     ],
+     "explain": "São conhecimentos citados no objetivo sobre técnicas e tecnologias de saúde.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, PAS3CN9",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Vacinas e saúde pública",
+     "words": [
+      "Mecanismo de ação das vacinas",
+      "Sistema imunológico",
+      "Política nacional de vacinação",
+      "Saneamento básico"
+     ],
+     "explain": "São conhecimentos citados no objetivo sobre políticas de saúde pública.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, PAS3CN7",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Prosa da lista de literaturas do PAS 3",
+     "words": [
+      "A gente combinamos de não morrer",
+      "Desenredo",
+      "Laços de Família",
+      "O quinze"
+     ],
+     "explain": "Contos e romance de Conceição Evaristo, Guimarães Rosa, Clarice Lispector e Raquel de Queiroz.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Literaturas 1, 2, 3 e 10",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Justiça e ética",
+     "words": [
+      "Justiça",
+      "Valores",
+      "Ética",
+      "Autodeterminação"
+     ],
+     "explain": "A Matriz cita justiça, valores, ética e autodeterminação no contexto cotidiano.",
+     "origem_pas": "Matriz PAS 3, Humanidades, conhecimento 04",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c84",
+   "etapa": "PAS 3",
+   "tema": "Robótica, trabalho, poemas de autoras e campos da Matemática",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Robótica e automação",
+     "words": [
+      "Linguagem de programação",
+      "Inteligência artificial",
+      "Substituição de mão de obra",
+      "Nanotecnologia"
+     ],
+     "explain": "São conhecimentos citados no objetivo sobre robótica e automação.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, PAS3CN4",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Segurança e saúde no trabalho",
+     "words": [
+      "Ergonomia",
+      "Insalubridade",
+      "Saúde mental",
+      "Relações de trabalho"
+     ],
+     "explain": "São contextos do objetivo sobre segurança e saúde no trabalho.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, PAS3CN10",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Poemas de autoras do PAS 3",
+     "words": [
+      "Casamento",
+      "Ensinamento",
+      "Quintal",
+      "Não vou mais lavar os pratos"
+     ],
+     "explain": "Poemas de Adélia Prado, Meimei Bastos e Cristiane Sobral.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Literaturas 11 a 14",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Conhecimentos de Matemática da etapa 3",
+     "words": [
+      "Geometria analítica",
+      "Matrizes e sistemas lineares",
+      "Números complexos",
+      "Equações algébricas"
+     ],
+     "explain": "São os cinco conhecimentos essenciais da Matemática do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Matemática, conhecimentos 01 a 05",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c85",
+   "etapa": "PAS 3",
+   "tema": "Mobilidade, energia elétrica, títulos com 'A' e tecnologia digital",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Mobilidade e transporte",
+     "words": [
+      "Magnetismo",
+      "Catalisadores",
+      "Mobilidade de pessoas com deficiência",
+      "Geolocalização"
+     ],
+     "explain": "São conhecimentos citados no objetivo sobre tecnologias de transporte e mobilidade.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, PAS3CN3",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Energia elétrica",
+     "words": [
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Eletroquímica",
+      "Sistema nervoso"
+     ],
+     "explain": "São conhecimentos citados no objetivo sobre produção e fornecimento de energia elétrica.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, PAS3CN1",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Obras do PAS 3 cujo título começa com 'A'",
+     "words": [
+      "A lágrima",
+      "A próxima aldeia",
+      "A mágica do GPS",
+      "A origem dos números complexos"
+     ],
+     "explain": "Brincadeira com a lista: nestas quatro obras, o título começa com 'A'.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Literaturas 6 e 8; Audiovisuais 3 e 4",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": false
+    },
+    {
+     "lvl": 4,
+     "name": "Tecnologia e cidadania digital",
+     "words": [
+      "Tecnologias",
+      "Cidadania digital",
+      "Experiências políticas",
+      "Desinformação"
+     ],
+     "explain": "A Matriz cita os impactos das tecnologias nas experiências políticas e a cidadania digital.",
+     "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 06 e 10",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    }
+   ]
+  },
+  {
+   "id": "c86",
+   "etapa": "PAS 3",
+   "tema": "Eletromagnetismo aplicado, sistemas do corpo, 2023 e estrangeiros nas artes",
+   "groups": [
+    {
+     "lvl": 1,
+     "name": "Eletromagnetismo aplicado",
+     "words": [
+      "Geradores",
+      "Transformadores",
+      "Motores",
+      "Ressonância magnética"
+     ],
+     "explain": "A Matriz do PAS 3 cita estes dispositivos e aplicações do Eletromagnetismo.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 04",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 2,
+     "name": "Sistemas do corpo",
+     "words": [
+      "Sistema respiratório",
+      "Sistema circulatório",
+      "Sistema digestório",
+      "Sistema muscular"
+     ],
+     "explain": "São sistemas citados em Fisiologia Humana na Matriz do PAS 3.",
+     "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 18",
+     "fonte": "Matriz PAS 3 (dez/2022)",
+     "verificar": false
+    },
+    {
+     "lvl": 3,
+     "name": "Textos do PAS 3 publicados em 2023",
+     "words": [
+      "Anemia falciforme",
+      "Galvani e Volta",
+      "Elétricos movidos a etanol",
+      "Cupuaçu e indígenas"
+     ],
+     "explain": "Quatro textos da lista com data de publicação em 2023.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Textos 1, 2, 3 e 7",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": true
+    },
+    {
+     "lvl": 4,
+     "name": "Obras de artistas estrangeiros nas artes do PAS 3",
+     "words": [
+      "Morte (Kollwitz)",
+      "Transfiguração (Sagazan)",
+      "Sikka Magnum (Canogar)",
+      "Sagração da Primavera (Stravinsky)"
+     ],
+     "explain": "Alemanha, França, Espanha e Rússia: obras de artistas estrangeiros da lista.",
+     "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Artes Visuais 1, 4 e 5; Músicas 3",
+     "fonte": "Lista de obras do PAS 3 (prévia jun/2024)",
+     "verificar": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4176 @@
+{
+ "_nota": "RASCUNHO. Lista = obras da lista oficial do PAS 1 (2026-2028, jan/2026) e listas de PAS 2 e PAS 3 (jun/2024). Os atributos (ano, país, forma, estilo) NÃO vêm do PAS: são do redator e devem ser conferidos. 'v' = verificar. Ano e país vêm de busca na web em 15/10/2026 quando preenchidos depois da primeira versão; estilo é classificação por período da história da arte, do redator. Valor null em estilo = a obra não tem estilo de época (reportagem, vídeo, música popular); em ano = sem data confirmada.",
+ "colunas": [
+  "id",
+  "titulo",
+  "autor",
+  "categoria",
+  "ano",
+  "pais",
+  "forma",
+  "estilo",
+  "v",
+  "apelidos",
+  "etapas"
+ ],
+ "continentes": {
+  "Brasil": "América do Sul",
+  "Bolívia": "América do Sul",
+  "Portugal": "Europa",
+  "Itália": "Europa",
+  "Inglaterra": "Europa",
+  "Alemanha": "Europa",
+  "França": "Europa",
+  "Espanha": "Europa",
+  "Polônia": "Europa",
+  "Grécia": "Europa",
+  "Iraque": "Ásia",
+  "Egito": "África",
+  "Mali": "África",
+  "Etiópia": "África",
+  "Noruega": "Europa",
+  "Áustria": "Europa",
+  "Rússia": "Europa",
+  "Camarões": "África",
+  "Argentina": "América do Sul",
+  "Tchéquia": "Europa",
+  "Estados Unidos": "América do Norte"
+ },
+ "obras": [
+  [
+   "o01",
+   "A Epopeia de Gilgamesh",
+   "Anônimo",
+   "Literatura",
+   -1800,
+   "Iraque",
+   "Epopeia",
+   "Antiguidade",
+   true,
+   [
+    "Gilgamesh"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o02",
+   "Senhora minha, desde que vos vi",
+   "Afonso Fernandes",
+   "Literatura",
+   1250,
+   "Portugal",
+   "Poesia",
+   "Trovadorismo",
+   true,
+   [],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o03",
+   "Estas noites longas que Deus fez num grave dia",
+   "Juião Bolseiro",
+   "Literatura",
+   1250,
+   "Portugal",
+   "Poesia",
+   "Trovadorismo",
+   true,
+   [],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o04",
+   "Dom Fulano, que eu sei que tem fama de covarde",
+   "Afonso Mendes de Besteiros",
+   "Literatura",
+   1250,
+   "Portugal",
+   "Poesia",
+   "Trovadorismo",
+   true,
+   [],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o05",
+   "Maria Peres se confessou dia desses",
+   "Fernão Velho",
+   "Literatura",
+   1250,
+   "Portugal",
+   "Poesia",
+   "Trovadorismo",
+   true,
+   [],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o06",
+   "Bendito seja o dia, o mês, o ano",
+   "Petrarca",
+   "Literatura",
+   1350,
+   "Itália",
+   "Poesia",
+   "Humanismo",
+   true,
+   [
+    "Petrarca"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o07",
+   "Mudam-se os tempos, mudam-se as vontades",
+   "Camões",
+   "Literatura",
+   1570,
+   "Portugal",
+   "Poesia",
+   "Classicismo",
+   false,
+   [
+    "Camões"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o08",
+   "Ao desconcerto do mundo",
+   "Camões",
+   "Literatura",
+   1570,
+   "Portugal",
+   "Poesia",
+   "Classicismo",
+   false,
+   [
+    "Camões"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o09",
+   "Soneto XVIII",
+   "Shakespeare",
+   "Literatura",
+   1609,
+   "Inglaterra",
+   "Poesia",
+   "Renascimento",
+   true,
+   [
+    "Shakespeare",
+    "Shall I compare thee"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o10",
+   "Carta a el-Rei Dom Manoel sobre o achamento do Brasil",
+   "Pero Vaz de Caminha",
+   "Literatura",
+   1500,
+   "Brasil",
+   "Prosa",
+   "Quinhentismo",
+   true,
+   [
+    "Carta de Caminha",
+    "Caminha"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o11",
+   "O poeta na sua última hora de vida",
+   "Gregório de Matos",
+   "Literatura",
+   1680,
+   "Brasil",
+   "Poesia",
+   "Barroco",
+   false,
+   [
+    "Gregório de Matos"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o12",
+   "Aos vícios",
+   "Gregório de Matos",
+   "Literatura",
+   1680,
+   "Brasil",
+   "Poesia",
+   "Barroco",
+   false,
+   [
+    "Gregório de Matos"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o13",
+   "Aos caramurus da Bahia",
+   "Gregório de Matos",
+   "Literatura",
+   1680,
+   "Brasil",
+   "Poesia",
+   "Barroco",
+   false,
+   [
+    "Gregório de Matos"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o14",
+   "O poeta muda o soneto pela terceira vez",
+   "Gregório de Matos",
+   "Literatura",
+   1680,
+   "Brasil",
+   "Poesia",
+   "Barroco",
+   false,
+   [
+    "Gregório de Matos"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o15",
+   "Sermão do Bom Ladrão",
+   "Padre Antônio Vieira",
+   "Literatura",
+   1655,
+   "Portugal",
+   "Prosa",
+   "Barroco",
+   true,
+   [
+    "Vieira",
+    "Sermão do bom ladrao"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o16",
+   "Soneto VII",
+   "Cláudio Manuel da Costa",
+   "Literatura",
+   1770,
+   "Brasil",
+   "Poesia",
+   "Arcadismo",
+   false,
+   [
+    "Cláudio Manuel"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o17",
+   "Leia a posteridade, ó pátrio Rio",
+   "Cláudio Manuel da Costa",
+   "Literatura",
+   1770,
+   "Brasil",
+   "Poesia",
+   "Arcadismo",
+   false,
+   [
+    "Cláudio Manuel"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o18",
+   "Canção Peregrina",
+   "Graça Graúna",
+   "Literatura",
+   2007,
+   "Brasil",
+   "Poesia",
+   "Contemporâneo",
+   true,
+   [
+    "Graça Graúna"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o19",
+   "Ogum à Beira-Mar",
+   "Jeferson Tenório",
+   "Literatura",
+   2021,
+   "Brasil",
+   "Prosa",
+   "Contemporâneo",
+   true,
+   [
+    "Jeferson Tenório"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o20",
+   "Apologia de Sócrates",
+   "Platão",
+   "Texto",
+   -399,
+   "Grécia",
+   "Texto filosófico",
+   null,
+   false,
+   [
+    "Platão",
+    "Sócrates"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o21",
+   "Linguagem humana existe há pelo menos 135 mil anos",
+   "Laura Segovia Tercic",
+   "Texto",
+   2025,
+   "Brasil",
+   "Reportagem",
+   null,
+   true,
+   [
+    "135 mil anos"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o22",
+   "Garimpo de ouro na Amazônia: a origem da crise sanitária Yanomami",
+   "Paulo Cesar Basta",
+   "Texto",
+   2023,
+   "Brasil",
+   "Artigo",
+   null,
+   true,
+   [
+    "Garimpo Yanomami"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o23",
+   "Biólogo e quadrinista transformam artigo científico sobre o ciclo de vida dos insetos em história em quadrinhos",
+   "Ana Carolina Moreno, Luciano Queiroz e Marco Merlin",
+   "Texto",
+   null,
+   "Brasil",
+   "HQ",
+   null,
+   true,
+   [
+    "Ciclo de vida dos insetos"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o24",
+   "A Divina Comédia (HQ)",
+   "Dante Alighieri",
+   "Texto",
+   1320,
+   "Itália",
+   "HQ",
+   null,
+   true,
+   [
+    "Divina Comédia",
+    "Dante"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o25",
+   "O que tem debaixo da Terra (HQ)",
+   "Erica Miranda Suckow",
+   "Texto",
+   null,
+   "Brasil",
+   "HQ",
+   null,
+   true,
+   [
+    "Debaixo da Terra"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o26",
+   "As redes sociais são uma armadilha",
+   "Zygmunt Bauman",
+   "Texto",
+   2016,
+   "Polônia",
+   "Entrevista",
+   null,
+   true,
+   [
+    "Bauman"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o27",
+   "Discurso no Concílio de Clermont",
+   "Papa Urbano II",
+   "Texto",
+   1095,
+   "França",
+   "Discurso",
+   null,
+   false,
+   [
+    "Clermont",
+    "Urbano II"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o28",
+   "A humanidade que pensamos ser",
+   "Ailton Krenak",
+   "Texto",
+   2019,
+   "Brasil",
+   "Ensaio",
+   null,
+   false,
+   [
+    "Krenak",
+    "Ideias para adiar o fim do mundo"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o29",
+   "A categoria político-cultural de amefricanidade",
+   "Lélia Gonzalez",
+   "Texto",
+   1988,
+   "Brasil",
+   "Ensaio",
+   null,
+   true,
+   [
+    "Amefricanidade",
+    "Lélia Gonzalez"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o30",
+   "Chuvas, erosão e represas moldaram o rio São Francisco",
+   "Carlos Fioravanti",
+   "Texto",
+   2023,
+   "Brasil",
+   "Reportagem",
+   null,
+   true,
+   [
+    "Rio São Francisco",
+    "Velho Chico"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o31",
+   "Monitoramento oficial da vegetação brasileira por imagens de satélite: o programa BiomasBR e os sistemas Prodes, Deter e TerraClass",
+   "Cláudio Aparecido de Almeida",
+   "Texto",
+   2025,
+   "Brasil",
+   "Artigo",
+   null,
+   true,
+   [
+    "Prodes",
+    "Deter",
+    "BiomasBR"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o32",
+   "Atividade antioxidante de frutas do cerrado",
+   "Roberta Roesler e outros",
+   "Texto",
+   2007,
+   "Brasil",
+   "Artigo",
+   null,
+   true,
+   [
+    "Frutas do cerrado"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o33",
+   "Artigo 5º da Constituição (incisos I a XII)",
+   "Assembleia Nacional Constituinte",
+   "Texto",
+   1988,
+   "Brasil",
+   "Lei",
+   null,
+   false,
+   [
+    "Constituição",
+    "Artigo 5"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o34",
+   "O Cerrado está morrendo",
+   "Revista Darcy (vários autores)",
+   "Texto",
+   2019,
+   "Brasil",
+   "Reportagem",
+   null,
+   false,
+   [
+    "Revista Darcy",
+    "Cerrado"
+   ],
+   [
+    "PAS 1",
+    "PAS 2"
+   ]
+  ],
+  [
+   "o35",
+   "Medeia",
+   "Eurípides",
+   "Teatro",
+   -431,
+   "Grécia",
+   "Teatro",
+   "Antiguidade",
+   true,
+   [
+    "Eurípides"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o36",
+   "Auto da Virtude e da Esperança (de A Pena e a Lei)",
+   "Ariano Suassuna",
+   "Teatro",
+   1959,
+   "Brasil",
+   "Teatro",
+   "Modernismo",
+   true,
+   [
+    "A Pena e a Lei",
+    "Suassuna"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o37",
+   "O Rubor Sanguinis",
+   "Hildegard von Bingen",
+   "Música",
+   1150,
+   "Alemanha",
+   "Música antiga",
+   "Medieval",
+   true,
+   [
+    "Hildegard"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o38",
+   "Concerto Grosso em sol menor, op. 6, II Allegro",
+   "Arcangelo Corelli",
+   "Música",
+   1700,
+   "Itália",
+   "Música erudita",
+   "Barroco",
+   true,
+   [
+    "Corelli"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o39",
+   "Dido e Eneias: When I am laid in earth (Lamento de Dido)",
+   "Henry Purcell",
+   "Música",
+   1688,
+   "Inglaterra",
+   "Música erudita",
+   "Barroco",
+   true,
+   [
+    "Purcell",
+    "Dido"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o40",
+   "Obrigado Darcy (O Brasil que vai além)",
+   "Emicida",
+   "Música",
+   null,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Emicida"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o41",
+   "Tiro ao Álvaro",
+   "Adoniran Barbosa",
+   "Música",
+   1960,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Adoniran",
+    "Demônios da Garoa"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o42",
+   "Canto dos Escravos, Canto I",
+   "Clementina de Jesus",
+   "Música",
+   1982,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Clementina"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o43",
+   "Libras",
+   "Banda Surdodum",
+   "Música",
+   null,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Surdodum"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o44",
+   "Sinfonia das Florestas",
+   "Ricardo Tacuchian",
+   "Música",
+   null,
+   "Brasil",
+   "Música erudita",
+   "Contemporâneo",
+   true,
+   [
+    "Tacuchian"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o45",
+   "Saga da Amazônia",
+   "Vital Farias",
+   "Música",
+   1982,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Vital Farias"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o46",
+   "Quatro Contas",
+   "Dona Onete",
+   "Música",
+   2025,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Dona Onete"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o47",
+   "Sinfonia 2, Brasília, II mov. Presto, Trabalho",
+   "César Guerra Peixe",
+   "Música",
+   1960,
+   "Brasil",
+   "Música erudita",
+   "Modernismo",
+   true,
+   [
+    "Guerra Peixe",
+    "Sinfonia Brasília"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o48",
+   "Ondas do mar de Vigo",
+   "Martin Codax",
+   "Música",
+   1270,
+   "Espanha",
+   "Música antiga",
+   "Trovadorismo",
+   true,
+   [
+    "Martin Codax"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o49",
+   "Palmares 1999",
+   "Natiruts",
+   "Música",
+   1999,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Natiruts"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o50",
+   "Manto tupinambá",
+   "Povo Tupinambá",
+   "Artes visuais",
+   null,
+   "Brasil",
+   "Arte em plumas",
+   null,
+   true,
+   [
+    "Manto Tupinambá"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o51",
+   "Universidade de Sankore (Mesquita/Madraça)",
+   "Mali medieval",
+   "Artes visuais",
+   1300,
+   "Mali",
+   "Arquitetura",
+   "Medieval",
+   true,
+   [
+    "Sankore"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o52",
+   "Forró Pé de Serra",
+   "J. Borges",
+   "Artes visuais",
+   null,
+   "Brasil",
+   "Gravura",
+   null,
+   true,
+   [
+    "J. Borges"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o53",
+   "Toca da Entrada do Baixão da Vaca (Serra da Capivara)",
+   "Povos pré-históricos",
+   "Artes visuais",
+   null,
+   "Brasil",
+   "Pintura rupestre",
+   "Pré-história",
+   true,
+   [
+    "Serra da Capivara"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o54",
+   "Ourives trabalhando, Tumba 181",
+   "Antigo Egito",
+   "Artes visuais",
+   -1400,
+   "Egito",
+   "Pintura",
+   "Antiguidade",
+   true,
+   [
+    "Tumba 181"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o55",
+   "Laocoonte e seus filhos",
+   "Agesandro, Atenodoro e Polidoro",
+   "Artes visuais",
+   -30,
+   "Itália",
+   "Escultura",
+   "Antiguidade",
+   true,
+   [
+    "Laocoonte"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o56",
+   "Coliseu (Anfiteatro Flaviano)",
+   "Império Romano",
+   "Artes visuais",
+   80,
+   "Itália",
+   "Arquitetura",
+   "Antiguidade",
+   true,
+   [
+    "Coliseu",
+    "Anfiteatro Flaviano"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o57",
+   "Mosaico de Teodora (Basílica de San Vitale)",
+   "Arte bizantina em Ravena",
+   "Artes visuais",
+   547,
+   "Itália",
+   "Mosaico",
+   "Bizantino",
+   true,
+   [
+    "Teodora",
+    "San Vitale"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o58",
+   "Juízo Final (cúpula de Florença)",
+   "Giorgio Vasari e Federico Zuccari",
+   "Artes visuais",
+   1579,
+   "Itália",
+   "Pintura",
+   "Maneirismo",
+   true,
+   [
+    "Vasari",
+    "Zuccari"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o59",
+   "Cúpula da Catedral de Santa Maria del Fiore",
+   "Filippo Brunelleschi",
+   "Artes visuais",
+   1436,
+   "Itália",
+   "Arquitetura",
+   "Renascimento",
+   true,
+   [
+    "Brunelleschi",
+    "Duomo de Florença"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o60",
+   "Igreja de São Jorge, Lalibela",
+   "Reino Zagwe",
+   "Artes visuais",
+   1200,
+   "Etiópia",
+   "Arquitetura",
+   "Medieval",
+   true,
+   [
+    "Lalibela"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o61",
+   "Guerras do Brasil, ep. 1: as guerras de conquista",
+   "Luiz Bolognesi",
+   "Audiovisual",
+   2019,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Guerras do Brasil"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o62",
+   "Abuela Grillo",
+   "Denis Chacon",
+   "Audiovisual",
+   2009,
+   "Bolívia",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Vovó Grilo"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o63",
+   "América Latina",
+   "Fábio Brazz",
+   "Audiovisual",
+   null,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o64",
+   "Nego Bispo (série Trajetórias)",
+   "Victor Dias (roteiro), série Trajetórias, Itaú Cultural",
+   "Audiovisual",
+   2023,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Nego Bispo"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o65",
+   "Clima de Risco",
+   "Eduardo Rajabally",
+   "Audiovisual",
+   2025,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o66",
+   "GPS, como funciona",
+   "JAES Company",
+   "Audiovisual",
+   null,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "GPS"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o67",
+   "A física da corrida (Nerdologia)",
+   "Átila Iamarino",
+   "Audiovisual",
+   2015,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Nerdologia"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o68",
+   "Falas da Terra",
+   "Daniel Munduruku e outros",
+   "Audiovisual",
+   2021,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o69",
+   "Terraplanismo, pós-verdade e as promessas não cumpridas da modernidade",
+   "Mariana Alvim (TEDx Goiânia)",
+   "Audiovisual",
+   null,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Terraplanismo",
+    "TEDx Goiânia"
+   ],
+   [
+    "PAS 1"
+   ]
+  ],
+  [
+   "o70",
+   "A indústria cultural",
+   "Theodor Adorno e Max Horkheimer",
+   "Texto",
+   1947,
+   "Alemanha",
+   "Ensaio",
+   null,
+   true,
+   [
+    "Adorno",
+    "Horkheimer"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o71",
+   "Resposta à pergunta: o que é o esclarecimento?",
+   "Immanuel Kant",
+   "Texto",
+   1784,
+   "Alemanha",
+   "Texto filosófico",
+   null,
+   false,
+   [
+    "Kant",
+    "Esclarecimento"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o72",
+   "Resenha energética brasileira",
+   "Ministério de Minas e Energia",
+   "Texto",
+   2022,
+   "Brasil",
+   "Relatório",
+   null,
+   true,
+   [
+    "Resenha energética"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o73",
+   "Como colonizadores infectaram milhares de índios no Brasil com presentes e promessas falsas",
+   "Leonardo Neiva (BBC News Brasil)",
+   "Texto",
+   2020,
+   "Brasil",
+   "Reportagem",
+   null,
+   true,
+   [
+    "Colonizadores infectaram"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o74",
+   "Biossegurança no trabalho em frigoríficos",
+   "Gabriela Chaves Marra, Luciana Hugue de Souza e Telma Abdalla de Oliveira Cardoso",
+   "Texto",
+   2013,
+   "Brasil",
+   "Artigo",
+   null,
+   true,
+   [
+    "Frigoríficos"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o75",
+   "A fome que nos atravessa",
+   "Vanessa Vieira (Revista Darcy)",
+   "Texto",
+   2023,
+   "Brasil",
+   "Reportagem",
+   null,
+   true,
+   [
+    "Revista Darcy",
+    "A fome"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o76",
+   "Raízes do conhecimento",
+   "Maria Guimarães (Revista Fapesp)",
+   "Texto",
+   2018,
+   "Brasil",
+   "Reportagem",
+   null,
+   true,
+   [
+    "Revista Fapesp"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o77",
+   "Oceano turbulento",
+   "Marina Simon (Revista Darcy)",
+   "Texto",
+   2019,
+   "Brasil",
+   "Reportagem",
+   null,
+   true,
+   [
+    "Revista Darcy"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o78",
+   "Lei Maria da Penha",
+   "Congresso Nacional (Lei 11.340)",
+   "Texto",
+   2006,
+   "Brasil",
+   "Lei",
+   null,
+   false,
+   [
+    "Maria da Penha"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o79",
+   "A geometria e sua relação com as estruturas dos vírus",
+   "Gabriel Cafeu Brandão",
+   "Texto",
+   2020,
+   "Brasil",
+   "Artigo",
+   null,
+   true,
+   [
+    "Geometria e vírus"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o80",
+   "A terra é redonda",
+   "Marco Moriconi (Ciência Hoje)",
+   "Texto",
+   2018,
+   "Brasil",
+   "Reportagem",
+   null,
+   true,
+   [
+    "Terra é redonda"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o81",
+   "Mal secreto",
+   "Raimundo Correia",
+   "Literatura",
+   1883,
+   "Brasil",
+   "Poesia",
+   "Parnasianismo",
+   true,
+   [
+    "Raimundo Correia"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o82",
+   "Ismália",
+   "Alphonsus de Guimaraens",
+   "Literatura",
+   1900,
+   "Brasil",
+   "Poesia",
+   "Simbolismo",
+   true,
+   [
+    "Alphonsus de Guimaraens"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o83",
+   "Lembrança de morrer",
+   "Álvares de Azevedo",
+   "Literatura",
+   1853,
+   "Brasil",
+   "Poesia",
+   "Romantismo",
+   true,
+   [
+    "Álvares de Azevedo"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o84",
+   "Profissão de fé",
+   "Olavo Bilac",
+   "Literatura",
+   1888,
+   "Brasil",
+   "Poesia",
+   "Parnasianismo",
+   true,
+   [
+    "Olavo Bilac"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o85",
+   "O assinalado",
+   "Cruz e Sousa",
+   "Literatura",
+   1893,
+   "Brasil",
+   "Poesia",
+   "Simbolismo",
+   true,
+   [
+    "Cruz e Sousa"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o86",
+   "A canção do africano",
+   "Castro Alves",
+   "Literatura",
+   1860,
+   "Brasil",
+   "Poesia",
+   "Romantismo",
+   true,
+   [
+    "Castro Alves"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o87",
+   "Remorso póstumo",
+   "Charles Baudelaire",
+   "Literatura",
+   1857,
+   "França",
+   "Poesia",
+   "Simbolismo",
+   true,
+   [
+    "Baudelaire"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o88",
+   "Sonhos",
+   "Bocage",
+   "Literatura",
+   1790,
+   "Portugal",
+   "Poesia",
+   "Arcadismo",
+   true,
+   [
+    "Bocage"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o89",
+   "Canto do Piaga",
+   "Gonçalves Dias",
+   "Literatura",
+   1846,
+   "Brasil",
+   "Poesia",
+   "Romantismo",
+   true,
+   [
+    "Gonçalves Dias"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o90",
+   "A Cartomante",
+   "Machado de Assis",
+   "Literatura",
+   1884,
+   "Brasil",
+   "Prosa",
+   "Realismo",
+   true,
+   [
+    "Machado de Assis"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o91",
+   "Memórias póstumas de Brás Cubas",
+   "Machado de Assis",
+   "Literatura",
+   1881,
+   "Brasil",
+   "Prosa",
+   "Realismo",
+   false,
+   [
+    "Machado de Assis",
+    "Brás Cubas"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o92",
+   "A quadrilha de Jacob Patacho",
+   "Inglês de Souza",
+   "Literatura",
+   1893,
+   "Brasil",
+   "Prosa",
+   "Naturalismo",
+   true,
+   [
+    "Inglês de Souza",
+    "Jacob Patacho"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o93",
+   "O caso da vara",
+   "Machado de Assis",
+   "Literatura",
+   1899,
+   "Brasil",
+   "Prosa",
+   "Realismo",
+   true,
+   [
+    "Machado de Assis"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o94",
+   "A escrava",
+   "Maria Firmina dos Reis",
+   "Literatura",
+   1887,
+   "Brasil",
+   "Prosa",
+   "Romantismo",
+   false,
+   [
+    "Maria Firmina dos Reis"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o95",
+   "A cidade é uma só?",
+   "Adirley Queirós",
+   "Audiovisual",
+   2020,
+   "Brasil",
+   "Audiovisual",
+   null,
+   false,
+   [
+    "Ceilândia"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o96",
+   "Quilombos do século XXI",
+   "Rádio e TV Justiça",
+   "Audiovisual",
+   2019,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Quilombos"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o97",
+   "Histórias da fome no Brasil",
+   "ONU Brasil",
+   "Audiovisual",
+   2019,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Fome no Brasil"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o98",
+   "Amazônia sem garimpo",
+   "Thiago Carvalho (Canal Ciência e Poesia)",
+   "Audiovisual",
+   2022,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Sem garimpo"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o99",
+   "Eu só peço a Deus",
+   "Inquérito",
+   "Audiovisual",
+   2015,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Inquérito"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o100",
+   "Vinte ideias para girar o mundo",
+   "Ailton Krenak",
+   "Audiovisual",
+   2012,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Krenak"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o101",
+   "Como se espalham as notícias falsas",
+   "Noah Tavlin",
+   "Audiovisual",
+   2015,
+   "Estados Unidos",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Notícias falsas"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o102",
+   "Artes e Matemática: Música nas esferas",
+   "TV Escola",
+   "Audiovisual",
+   null,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Música nas esferas"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o103",
+   "Como se calcula a taxa de eficácia de uma vacina",
+   "Folha de S.Paulo",
+   "Audiovisual",
+   2021,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Eficácia de uma vacina"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o104",
+   "Entenda de vez como funciona o motor do carro",
+   "Manual do Mundo",
+   "Audiovisual",
+   2015,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Motor do carro"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o105",
+   "Frevo Mulher",
+   "Zé Ramalho",
+   "Música",
+   2017,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Zé Ramalho"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o106",
+   "Súplica cearense",
+   "O Rappa",
+   "Música",
+   2012,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "O Rappa"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o107",
+   "Ária Habanera da ópera Carmen",
+   "Georges Bizet",
+   "Música",
+   1875,
+   "França",
+   "Música erudita",
+   "Romantismo",
+   true,
+   [
+    "Habanera",
+    "Carmen",
+    "Bizet"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o108",
+   "Matança",
+   "Augusto Jatobá",
+   "Música",
+   null,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Jatobá"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o109",
+   "Concerto para violoncelo nº 1 em dó maior",
+   "Joseph Haydn",
+   "Música",
+   1765,
+   "Áustria",
+   "Música erudita",
+   "Período clássico",
+   true,
+   [
+    "Haydn"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o110",
+   "A queda",
+   "Gloria Groove",
+   "Música",
+   2021,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Gloria Groove"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o111",
+   "Um inimigo do povo",
+   "Henrik Ibsen",
+   "Teatro",
+   1882,
+   "Noruega",
+   "Teatro",
+   "Realismo",
+   true,
+   [
+    "Ibsen"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o112",
+   "O Burguês Fidalgo",
+   "Molière",
+   "Teatro",
+   1670,
+   "França",
+   "Teatro",
+   "Classicismo",
+   true,
+   [
+    "Molière"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o113",
+   "Estação Capela da Santa Ceia (Santuário de Congonhas)",
+   "Aleijadinho",
+   "Artes visuais",
+   1800,
+   "Brasil",
+   "Escultura",
+   "Barroco",
+   true,
+   [
+    "Aleijadinho",
+    "Congonhas"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o114",
+   "Suzana e os anciãos",
+   "Artemisia Gentileschi",
+   "Artes visuais",
+   1610,
+   "Itália",
+   "Pintura",
+   "Barroco",
+   true,
+   [
+    "Artemisia"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o115",
+   "Execução de punição e açoitamento",
+   "Jean-Baptiste Debret",
+   "Artes visuais",
+   1830,
+   "Brasil",
+   "Pintura",
+   "Neoclassicismo",
+   true,
+   [
+    "Debret"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o116",
+   "Torre Eiffel",
+   "Georges Seurat",
+   "Artes visuais",
+   1889,
+   "França",
+   "Pintura",
+   "Pós-impressionismo",
+   true,
+   [
+    "Seurat"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o117",
+   "A balsa da Medusa",
+   "Théodore Géricault",
+   "Artes visuais",
+   1819,
+   "França",
+   "Pintura",
+   "Romantismo",
+   true,
+   [
+    "Géricault"
+   ],
+   [
+    "PAS 2"
+   ]
+  ],
+  [
+   "o118",
+   "Anemia falciforme foi invisibilizada pelo racismo, mostram entidades",
+   "Luiz Cláudio Ferreira (Agência Brasil)",
+   "Texto",
+   2023,
+   "Brasil",
+   "Reportagem",
+   null,
+   true,
+   [
+    "Anemia falciforme"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o119",
+   "Galvani e Volta, um embate elétrico",
+   "Leandro Lobo (Ciência Hoje)",
+   "Texto",
+   2023,
+   "Brasil",
+   "Reportagem",
+   null,
+   true,
+   [
+    "Galvani e Volta"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o120",
+   "Elétricos movidos a etanol",
+   "Domingos Zaparolli (Pesquisa Fapesp)",
+   "Texto",
+   2023,
+   "Brasil",
+   "Reportagem",
+   null,
+   true,
+   [
+    "Elétricos a etanol"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o121",
+   "O despertar dos robôs",
+   "Leonardo Echeverria (Revista Darcy)",
+   "Texto",
+   2009,
+   "Brasil",
+   "Reportagem",
+   null,
+   true,
+   [
+    "Revista Darcy",
+    "Robôs"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o122",
+   "Como a descoberta da radiação mudou o futuro da humanidade",
+   "Thomas Moynihan (BBC News Brasil)",
+   "Texto",
+   2021,
+   "Brasil",
+   "Reportagem",
+   null,
+   true,
+   [
+    "Descoberta da radiação"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o123",
+   "A importância da biotecnologia para o desenvolvimento da Amazônia",
+   "Milton Steagall (CNN Brasil)",
+   "Texto",
+   2023,
+   "Brasil",
+   "Reportagem",
+   null,
+   true,
+   [
+    "Biotecnologia na Amazônia"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o124",
+   "Cupuaçu só surgiu com a domesticação de fruto por indígenas",
+   "Camilla Almeida (Jornal da USP)",
+   "Texto",
+   2023,
+   "Brasil",
+   "Reportagem",
+   null,
+   true,
+   [
+    "Cupuaçu"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o125",
+   "Uma abordagem de circuitos elétricos utilizando sistemas lineares",
+   "G. R. Oliveira e S. Joner",
+   "Texto",
+   2017,
+   "Brasil",
+   "Artigo",
+   null,
+   true,
+   [
+    "Circuitos elétricos"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o126",
+   "Necropolítica",
+   "Achille Mbembe",
+   "Texto",
+   2003,
+   "Camarões",
+   "Ensaio",
+   null,
+   true,
+   [
+    "Mbembe"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o127",
+   "Epistemicídio",
+   "Sueli Carneiro",
+   "Texto",
+   2005,
+   "Brasil",
+   "Tese",
+   null,
+   true,
+   [
+    "Sueli Carneiro"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o128",
+   "Sociedade do cansaço",
+   "Byung-Chul Han",
+   "Texto",
+   2010,
+   "Alemanha",
+   "Ensaio",
+   null,
+   true,
+   [
+    "Byung-Chul Han",
+    "Han"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o129",
+   "A gente combinamos de não morrer",
+   "Conceição Evaristo",
+   "Literatura",
+   2016,
+   "Brasil",
+   "Prosa",
+   "Contemporâneo",
+   true,
+   [
+    "Conceição Evaristo"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o130",
+   "Desenredo",
+   "Guimarães Rosa",
+   "Literatura",
+   1967,
+   "Brasil",
+   "Prosa",
+   "Modernismo",
+   true,
+   [
+    "Guimarães Rosa"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o131",
+   "Laços de Família",
+   "Clarice Lispector",
+   "Literatura",
+   1960,
+   "Brasil",
+   "Prosa",
+   "Modernismo",
+   true,
+   [
+    "Clarice Lispector"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o132",
+   "Elegia 1938",
+   "Carlos Drummond de Andrade",
+   "Literatura",
+   1940,
+   "Brasil",
+   "Poesia",
+   "Modernismo",
+   true,
+   [
+    "Drummond"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o133",
+   "Um médico rural",
+   "Franz Kafka",
+   "Literatura",
+   1919,
+   "Tchéquia",
+   "Prosa",
+   "Modernismo",
+   true,
+   [
+    "Kafka"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o134",
+   "A próxima aldeia",
+   "Franz Kafka",
+   "Literatura",
+   1919,
+   "Tchéquia",
+   "Prosa",
+   "Modernismo",
+   true,
+   [
+    "Kafka"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o135",
+   "Reinvenção",
+   "Cecília Meireles",
+   "Literatura",
+   1939,
+   "Brasil",
+   "Poesia",
+   "Modernismo",
+   true,
+   [
+    "Cecília Meireles"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o136",
+   "A lágrima",
+   "Augusto dos Anjos",
+   "Literatura",
+   1912,
+   "Brasil",
+   "Poesia",
+   "Pré-modernismo",
+   true,
+   [
+    "Augusto dos Anjos"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o137",
+   "Evocação do Recife",
+   "Manuel Bandeira",
+   "Literatura",
+   1930,
+   "Brasil",
+   "Poesia",
+   "Modernismo",
+   true,
+   [
+    "Manuel Bandeira"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o138",
+   "O quinze",
+   "Raquel de Queiroz",
+   "Literatura",
+   1930,
+   "Brasil",
+   "Prosa",
+   "Modernismo",
+   true,
+   [
+    "Raquel de Queiroz"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o139",
+   "Casamento",
+   "Adélia Prado",
+   "Literatura",
+   1976,
+   "Brasil",
+   "Poesia",
+   "Contemporâneo",
+   true,
+   [
+    "Adélia Prado"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o140",
+   "Ensinamento",
+   "Adélia Prado",
+   "Literatura",
+   1981,
+   "Brasil",
+   "Poesia",
+   "Contemporâneo",
+   true,
+   [
+    "Adélia Prado"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o141",
+   "Quintal",
+   "Meimei Bastos",
+   "Literatura",
+   null,
+   "Brasil",
+   "Poesia",
+   "Contemporâneo",
+   true,
+   [
+    "Meimei Bastos"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o142",
+   "Não vou mais lavar os pratos",
+   "Cristiane Sobral",
+   "Literatura",
+   2010,
+   "Brasil",
+   "Poesia",
+   "Contemporâneo",
+   true,
+   [
+    "Cristiane Sobral"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o143",
+   "Instruções para chorar",
+   "Júlio Cortázar",
+   "Literatura",
+   1962,
+   "Argentina",
+   "Prosa",
+   "Contemporâneo",
+   true,
+   [
+    "Cortázar"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o144",
+   "recomeço (s.m.)",
+   "Aka Poeta",
+   "Literatura",
+   null,
+   "Brasil",
+   "Poesia",
+   "Contemporâneo",
+   true,
+   [
+    "Aka Poeta"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o145",
+   "Rodofernália",
+   "Nicolas Behr",
+   "Literatura",
+   null,
+   "Brasil",
+   "Poesia",
+   "Contemporâneo",
+   true,
+   [
+    "Nicolas Behr"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o146",
+   "Tecendo a manhã",
+   "João Cabral de Melo Neto",
+   "Literatura",
+   1966,
+   "Brasil",
+   "Poesia",
+   "Modernismo",
+   true,
+   [
+    "João Cabral"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o147",
+   "Não as matem",
+   "Lima Barreto",
+   "Literatura",
+   1915,
+   "Brasil",
+   "Prosa",
+   "Pré-modernismo",
+   true,
+   [
+    "Lima Barreto"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o148",
+   "Qual o segredo da linguagem humana?",
+   "Eduardo Sklarz",
+   "Literatura",
+   null,
+   "Brasil",
+   "Texto de divulgação",
+   null,
+   true,
+   [
+    "Segredo da linguagem"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o149",
+   "Poemas da Colonização",
+   "Oswald de Andrade",
+   "Literatura",
+   1925,
+   "Brasil",
+   "Poesia",
+   "Modernismo",
+   true,
+   [
+    "Oswald de Andrade"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o150",
+   "Eclipse de Sobral: o dia em que o Brasil ajudou a confirmar a teoria da relatividade de Einstein",
+   "Camila Costa (BBC News Brasil)",
+   "Audiovisual",
+   2019,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Eclipse de Sobral"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o151",
+   "Como funciona o algoritmo matemático do Google",
+   "Daniel Nunes",
+   "Audiovisual",
+   2022,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Algoritmo do Google"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o152",
+   "A mágica do GPS (Professor Albert)",
+   "Canal Professor Albert",
+   "Audiovisual",
+   2016,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Mágica do GPS"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o153",
+   "A (verdadeira) origem dos números complexos",
+   "Daniel Nunes (Tem Ciência)",
+   "Audiovisual",
+   2023,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Números complexos"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o154",
+   "Barra 68: sem perder a ternura",
+   "Vladimir Carvalho",
+   "Audiovisual",
+   2001,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Barra 68"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o155",
+   "Unicef: algumas histórias nunca foram feitas para crianças",
+   "Canal ONU Brasil",
+   "Audiovisual",
+   2016,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Unicef"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o156",
+   "Mulamba",
+   "Virgínia Ferrante",
+   "Audiovisual",
+   2017,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Mulamba"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o157",
+   "Racismo ambiental: entenda essa luta",
+   "Canal Preto",
+   "Audiovisual",
+   2021,
+   "Brasil",
+   "Audiovisual",
+   null,
+   true,
+   [
+    "Racismo ambiental"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o158",
+   "Caravanas",
+   "Chico Buarque",
+   "Música",
+   2017,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Chico Buarque"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o159",
+   "Negro Drama",
+   "Racionais MC's",
+   "Música",
+   2002,
+   "Brasil",
+   "Música popular",
+   null,
+   false,
+   [
+    "Racionais"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o160",
+   "Sagração da Primavera (versão Pina Bausch)",
+   "Igor Stravinsky",
+   "Música",
+   1913,
+   "Rússia",
+   "Música erudita",
+   "Modernismo",
+   true,
+   [
+    "Stravinsky",
+    "Pina Bausch"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o161",
+   "Perfume dela",
+   "Martinha do Coco",
+   "Música",
+   null,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Martinha do Coco"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o162",
+   "Girl from Rio",
+   "Anitta",
+   "Música",
+   2021,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Anitta"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o163",
+   "Meu Guri (versão Elza Soares)",
+   "Chico Buarque",
+   "Música",
+   1981,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Chico Buarque",
+    "Elza Soares"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o164",
+   "Ilumina o mundo",
+   "Detonautas",
+   "Música",
+   2019,
+   "Brasil",
+   "Música popular",
+   null,
+   true,
+   [
+    "Detonautas"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o165",
+   "Eles não usam black-tie",
+   "Gianfrancesco Guarnieri",
+   "Teatro",
+   1955,
+   "Brasil",
+   "Teatro",
+   "Modernismo",
+   true,
+   [
+    "Guarnieri"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o166",
+   "Vestido de noiva",
+   "Nelson Rodrigues",
+   "Teatro",
+   1943,
+   "Brasil",
+   "Teatro",
+   "Modernismo",
+   true,
+   [
+    "Nelson Rodrigues"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o167",
+   "Morte",
+   "Käthe Kollwitz",
+   "Artes visuais",
+   1897,
+   "Alemanha",
+   "Gravura",
+   "Expressionismo",
+   true,
+   [
+    "Kollwitz"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o168",
+   "Complexo arquitetônico do Palácio Capanema",
+   "Equipe de Lúcio Costa e Le Corbusier (consultor)",
+   "Artes visuais",
+   1940,
+   "Brasil",
+   "Arquitetura",
+   "Modernismo",
+   true,
+   [
+    "Palácio Capanema"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o169",
+   "Ciclos Econômicos (Palácio Capanema)",
+   "Cândido Portinari",
+   "Artes visuais",
+   1938,
+   "Brasil",
+   "Pintura",
+   "Modernismo",
+   true,
+   [
+    "Portinari"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o170",
+   "Transfiguração",
+   "Olivier de Sagazan",
+   "Artes visuais",
+   2011,
+   "França",
+   "Performance",
+   "Contemporâneo",
+   true,
+   [
+    "Sagazan"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o171",
+   "Sikka Magnum",
+   "Daniel Canogar",
+   "Artes visuais",
+   2013,
+   "Espanha",
+   "Instalação",
+   "Contemporâneo",
+   true,
+   [
+    "Canogar"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o172",
+   "Vacine COVID-19",
+   "Eduardo Kobra",
+   "Artes visuais",
+   2021,
+   "Brasil",
+   "Mural",
+   "Contemporâneo",
+   true,
+   [
+    "Kobra"
+   ],
+   [
+    "PAS 3"
+   ]
+  ],
+  [
+   "o173",
+   "Genial andar de bike (tributo a Einstein)",
+   "Eduardo Kobra",
+   "Artes visuais",
+   2016,
+   "Brasil",
+   "Mural",
+   "Contemporâneo",
+   true,
+   [
+    "Kobra",
+    "Einstein"
+   ],
+   [
+    "PAS 3"
+   ]
+  ]
+ ],
+ "puzzles": [
+  {
+   "id": "ob01",
+   "answer": "o10",
+   "etapa": "PAS 1",
+   "dicas": [
+    "Quem escreveu estava a bordo e viu tudo: era o escrivão da frota.",
+    "O leitor da carta era o rei de Portugal."
+   ],
+   "explain": "Escrita em 1500 por Pero Vaz de Caminha, escrivão da frota de Cabral, a carta descreve ao rei a terra que os portugueses acabavam de alcançar. A lista do PAS 1 pede 'trechos selecionados'. A Matriz do PAS 1 cita o Quinhentismo entre os estilos de época.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Literaturas 10; Matriz PAS 1, Linguagens, conhecimento 16",
+   "fonte": "Lista de obras do PAS 1. Contexto histórico: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob02",
+   "answer": "o07",
+   "etapa": "PAS 1",
+   "dicas": [
+    "O poema diz que tudo muda, até a gente e a vontade.",
+    "O autor é português do século XVI e tinha um olho só."
+   ],
+   "explain": "Soneto de Camões sobre a mudança constante de tempos e de vontades, típico do Classicismo, estilo de época listado na Matriz do PAS 1.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Literaturas 7; Matriz PAS 1, Linguagens, conhecimento 16",
+   "fonte": "Lista de obras do PAS 1. Biografia e forma do poema: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob03",
+   "answer": "o20",
+   "etapa": "PAS 1",
+   "dicas": [
+    "'Apologia' aqui não é pedir desculpas: quer dizer defesa.",
+    "O defensor acabou condenado."
+   ],
+   "explain": "Texto de Platão em que Sócrates se defende no julgamento em Atenas. A lista do PAS 1 avisa que, embora a edição reúna três diálogos, só a Apologia consta como obra.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Textos 1",
+   "fonte": "Lista de obras do PAS 1. Contexto: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob04",
+   "answer": "o56",
+   "etapa": "PAS 1",
+   "dicas": [
+    "Era o lugar onde Roma ia assistir a lutas e espetáculos.",
+    "Cabiam dezenas de milhares de pessoas."
+   ],
+   "explain": "O Coliseu, ou Anfiteatro Flaviano, em Roma, é obra de artes visuais da lista do PAS 1. É um exemplo de arquitetura romana usada para espetáculos públicos.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Artes Visuais 7",
+   "fonte": "Lista de obras do PAS 1. Data e capacidade: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob05",
+   "answer": "o34",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É uma reportagem de revista feita na universidade da capital.",
+    "Fala do bioma onde Brasília está."
+   ],
+   "explain": "'O Cerrado está morrendo' saiu na Revista Darcy nº 21 (jan-mar de 2019), da UnB, e consta nas listas de obras do PAS 1 e do PAS 2.",
+   "origem_pas": "Listas de obras PAS 1 (Textos 15) e PAS 2 (Textos 4)",
+   "fonte": "Listas de obras do PAS (PAS 2 traz a referência da edição).",
+   "verificar": false
+  },
+  {
+   "id": "ob06",
+   "answer": "o35",
+   "etapa": "PAS 1",
+   "dicas": [
+    "A heroína faz algo terrível por vingança.",
+    "O autor é um dos três grandes trágicos gregos."
+   ],
+   "explain": "Tragédia de Eurípides, com a história de Medeia, uma das duas peças de teatro da lista do PAS 1.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Teatro 1",
+   "fonte": "Lista de obras do PAS 1. Enredo e contexto: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob07",
+   "answer": "o39",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É uma ópera inglesa do período barroco, bem curta.",
+    "Nesta ária, uma rainha de Cartago se despede da vida."
+   ],
+   "explain": "O lamento de Dido, da ópera 'Dido e Eneias', de Henry Purcell, está entre as músicas do PAS 1. A lista tem obras de música antiga, erudita e popular.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Músicas 3",
+   "fonte": "Lista de obras do PAS 1. Ano e enredo: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob08",
+   "answer": "o59",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É uma cúpula enorme, na Toscana, que desafiou os arquitetos da época.",
+    "O arquiteto era florentino e se chamava Filippo."
+   ],
+   "explain": "A cúpula da catedral de Florença foi projetada por Filippo Brunelleschi no século XV. Está entre as artes visuais da lista do PAS 1, junto com o 'Juízo Final' pintado dentro da mesma cúpula.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Artes Visuais 9 e 10",
+   "fonte": "Lista de obras do PAS 1. Contexto: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob09",
+   "answer": "o91",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O narrador conta a história depois de morto.",
+    "O autor é carioca e fundou a Academia Brasileira de Letras."
+   ],
+   "explain": "Romance de Machado de Assis, de 1881, em que o narrador é um defunto autor. Está na lista de literaturas do PAS 2, e a Matriz da etapa cita o Realismo.",
+   "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Literaturas 11; Matriz PAS 2, Linguagens, conhecimento 17",
+   "fonte": "Lista de obras do PAS 2. Enredo e autor: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob10",
+   "answer": "o71",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O autor define o iluminismo como a saída da menoridade que a própria pessoa se impôs.",
+    "O pensador era alemão e viveu no século XVIII."
+   ],
+   "explain": "Texto de Immanuel Kant, de 1784, na lista de textos do PAS 2. A Matriz da etapa pede teorias do conhecimento e a análise de discursos.",
+   "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Textos 2",
+   "fonte": "Lista de obras do PAS 2. O conteúdo do texto: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob11",
+   "answer": "o78",
+   "etapa": "PAS 2",
+   "dicas": [
+    "É um texto legal, e não uma reportagem nem um poema.",
+    "Leva o nome de uma sobrevivente de violência doméstica."
+   ],
+   "explain": "A Lei 11.340, de 7 de agosto de 2006, cria mecanismos para coibir a violência doméstica e familiar contra a mulher. Está na lista de textos do PAS 2.",
+   "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Textos 10",
+   "fonte": "Lista de obras do PAS 2 (a referência traz o número e a data da lei).",
+   "verificar": true
+  },
+  {
+   "id": "ob12",
+   "answer": "o117",
+   "etapa": "PAS 2",
+   "dicas": [
+    "Mostra sobreviventes de um naufrágio numa jangada, entre a esperança e o desespero.",
+    "O pintor era francês e a tela é do início do século XIX."
+   ],
+   "explain": "Tela de Théodore Géricault, de 1819, na lista de artes visuais do PAS 2.",
+   "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Artes Visuais 5",
+   "fonte": "Lista de obras do PAS 2. Tema e data: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob13",
+   "answer": "o130",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O conto mostra um homem que 'desenreda' a história de uma mulher.",
+    "O autor é mineiro e escreveu 'Grande Sertão: Veredas'."
+   ],
+   "explain": "Conto de Guimarães Rosa, do livro Tutameia (1967), na lista de literaturas do PAS 3. O Modernismo faz parte da Matriz da etapa.",
+   "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Literaturas 2; Matriz PAS 3, Linguagens, conhecimento 17",
+   "fonte": "Lista de obras do PAS 3. Enredo, livro e ano: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob14",
+   "answer": "o166",
+   "etapa": "PAS 3",
+   "dicas": [
+    "A peça se passa em três planos: realidade, memória e alucinação.",
+    "O autor é pernambucano e a estreia foi em 1943."
+   ],
+   "explain": "Peça de Nelson Rodrigues, de 1943, na lista de teatro do PAS 3.",
+   "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Teatro 2",
+   "fonte": "Lista de obras do PAS 3 (informa 1943). Planos e autor: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob15",
+   "answer": "o128",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O livro diz que hoje a pessoa se explora sozinha, em nome do desempenho.",
+    "O filósofo é sul-coreano e escreve em alemão."
+   ],
+   "explain": "Ensaio de Byung-Chul Han, na lista de textos do PAS 3. A Matriz da etapa trata de cultura digital e protagonismo juvenil.",
+   "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Textos 11",
+   "fonte": "Lista de obras do PAS 3. Conteúdo e autor: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob16",
+   "answer": "o132",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O poema fala de um tempo de medo e de guerra que se aproximava.",
+    "Mineiro, é um dos grandes poetas do Modernismo brasileiro."
+   ],
+   "explain": "Poema de Carlos Drummond de Andrade, do livro Sentimento do mundo, na lista de literaturas do PAS 3.",
+   "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Literaturas 4; Matriz PAS 3, Linguagens, conhecimento 17",
+   "fonte": "Lista de obras do PAS 3. Livro e ano: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob17",
+   "answer": "o01",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É um dos textos mais antigos que se conhece, escrito em tabletes de argila.",
+    "O herói, rei de Uruk, procura a imortalidade depois da morte de um amigo."
+   ],
+   "explain": "A Epopeia de Gilgamesh (Anônimo): É um dos textos mais antigos que se conhece, escrito em tabletes de argila. O herói, rei de Uruk, procura a imortalidade depois da morte de um amigo. Está na seção Literaturas da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Literaturas",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob18",
+   "answer": "o06",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É um soneto de amor sobre o dia em que o poeta viu a mulher amada.",
+    "O poeta italiano é considerado um dos pais do Humanismo."
+   ],
+   "explain": "Bendito seja o dia, o mês, o ano (Petrarca): É um soneto de amor sobre o dia em que o poeta viu a mulher amada. O poeta italiano é considerado um dos pais do Humanismo. Está na seção Literaturas da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Literaturas",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob19",
+   "answer": "o08",
+   "etapa": "PAS 1",
+   "dicas": [
+    "O poema reclama que os bons sofrem e os maus se dão bem.",
+    "O autor é português do século XVI e escreveu Os Lusíadas."
+   ],
+   "explain": "Ao desconcerto do mundo (Camões): O poema reclama que os bons sofrem e os maus se dão bem. O autor é português do século XVI e escreveu Os Lusíadas. Está na seção Literaturas da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Literaturas",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob20",
+   "answer": "o09",
+   "etapa": "PAS 1",
+   "dicas": [
+    "O poema começa comparando a pessoa amada a um dia de verão.",
+    "O autor inglês viveu entre os séculos XVI e XVII e escreveu Hamlet."
+   ],
+   "explain": "Soneto XVIII (Shakespeare): O poema começa comparando a pessoa amada a um dia de verão. O autor inglês viveu entre os séculos XVI e XVII e escreveu Hamlet. Está na seção Literaturas da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Literaturas",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob21",
+   "answer": "o12",
+   "etapa": "PAS 1",
+   "dicas": [
+    "O poeta ataca os defeitos da sociedade baiana da sua época.",
+    "O autor ficou conhecido como 'Boca do Inferno'."
+   ],
+   "explain": "Aos vícios (Gregório de Matos): O poeta ataca os defeitos da sociedade baiana da sua época. O autor ficou conhecido como 'Boca do Inferno'. Está na seção Literaturas da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Literaturas",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob22",
+   "answer": "o13",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É uma sátira à elite baiana do século XVII.",
+    "O poeta nasceu em Salvador e passou a vida escrevendo versos de crítica e de amor."
+   ],
+   "explain": "Aos caramurus da Bahia (Gregório de Matos): É uma sátira à elite baiana do século XVII. O poeta nasceu em Salvador e passou a vida escrevendo versos de crítica e de amor. Está na seção Literaturas da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Literaturas",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob23",
+   "answer": "o15",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É um sermão que critica quem rouba muito e escapa da punição.",
+    "O autor era um padre jesuíta, famoso orador do século XVII."
+   ],
+   "explain": "Sermão do Bom Ladrão (Padre Antônio Vieira): É um sermão que critica quem rouba muito e escapa da punição. O autor era um padre jesuíta, famoso orador do século XVII. Está na seção Literaturas da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Literaturas",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob24",
+   "answer": "o16",
+   "etapa": "PAS 1",
+   "dicas": [
+    "O poeta árcade escreveu na região das minas, no século XVIII.",
+    "Ele participou da Inconfidência Mineira."
+   ],
+   "explain": "Soneto VII (Cláudio Manuel da Costa): O poeta árcade escreveu na região das minas, no século XVIII. Ele participou da Inconfidência Mineira. Está na seção Literaturas da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Literaturas",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob25",
+   "answer": "o24",
+   "etapa": "PAS 1",
+   "dicas": [
+    "O poeta é guiado por outro poeta por três reinos do além.",
+    "A obra original é italiana, do século XIV, e aqui aparece em quadrinhos."
+   ],
+   "explain": "A Divina Comédia (HQ) (Dante Alighieri): O poeta é guiado por outro poeta por três reinos do além. A obra original é italiana, do século XIV, e aqui aparece em quadrinhos. Está na seção Textos da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Textos",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob26",
+   "answer": "o26",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É uma entrevista em que o sociólogo critica o jeito como usamos as redes.",
+    "O autor criou o conceito de 'modernidade líquida'."
+   ],
+   "explain": "As redes sociais são uma armadilha (Zygmunt Bauman): É uma entrevista em que o sociólogo critica o jeito como usamos as redes. O autor criou o conceito de 'modernidade líquida'. Está na seção Textos da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Textos",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob27",
+   "answer": "o27",
+   "etapa": "PAS 1",
+   "dicas": [
+    "Foi um discurso feito para uma multidão, na França, no fim do século XI.",
+    "O orador era um papa e pediu uma expedição ao Oriente."
+   ],
+   "explain": "Discurso no Concílio de Clermont (Papa Urbano II): Foi um discurso feito para uma multidão, na França, no fim do século XI. O orador era um papa e pediu uma expedição ao Oriente. Está na seção Textos da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Textos",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob28",
+   "answer": "o28",
+   "etapa": "PAS 1",
+   "dicas": [
+    "O texto questiona a ideia de que todos os humanos formam uma só humanidade.",
+    "O autor é um líder indígena e escritor brasileiro."
+   ],
+   "explain": "A humanidade que pensamos ser (Ailton Krenak): O texto questiona a ideia de que todos os humanos formam uma só humanidade. O autor é um líder indígena e escritor brasileiro. Está na seção Textos da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Textos",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob29",
+   "answer": "o29",
+   "etapa": "PAS 1",
+   "dicas": [
+    "O texto propõe uma categoria que junta a experiência de pessoas negras e indígenas das Américas.",
+    "A autora foi uma intelectual brasileira, pioneira nos estudos sobre raça e gênero."
+   ],
+   "explain": "A categoria político-cultural de amefricanidade (Lélia Gonzalez): O texto propõe uma categoria que junta a experiência de pessoas negras e indígenas das Américas. A autora foi uma intelectual brasileira, pioneira nos estudos sobre raça e gênero. Está na seção Textos da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Textos",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob30",
+   "answer": "o33",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É um texto legal, e não um poema nem uma reportagem.",
+    "Lista direitos e garantias fundamentais de quem vive no Brasil."
+   ],
+   "explain": "Artigo 5º da Constituição (incisos I a XII) (Assembleia Nacional Constituinte): É um texto legal, e não um poema nem uma reportagem. Lista direitos e garantias fundamentais de quem vive no Brasil. Está na seção Textos da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Textos",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob31",
+   "answer": "o36",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É o terceiro ato de uma peça nordestina com personagens simbólicos.",
+    "O autor é paraibano e criou o Movimento Armorial."
+   ],
+   "explain": "Auto da Virtude e da Esperança (de A Pena e a Lei) (Ariano Suassuna): É o terceiro ato de uma peça nordestina com personagens simbólicos. O autor é paraibano e criou o Movimento Armorial. Está na seção Teatro da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Teatro",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob32",
+   "answer": "o37",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É um canto religioso da Idade Média.",
+    "A compositora foi uma abadessa alemã do século XII, também escritora e visionária."
+   ],
+   "explain": "O Rubor Sanguinis (Hildegard von Bingen): É um canto religioso da Idade Média. A compositora foi uma abadessa alemã do século XII, também escritora e visionária. Está na seção Música da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Música",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob33",
+   "answer": "o38",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É um concerto em que um pequeno grupo de solistas dialoga com a orquestra.",
+    "O compositor era italiano e violinista, e viveu entre os séculos XVII e XVIII."
+   ],
+   "explain": "Concerto Grosso em sol menor, op. 6, II Allegro (Arcangelo Corelli): É um concerto em que um pequeno grupo de solistas dialoga com a orquestra. O compositor era italiano e violinista, e viveu entre os séculos XVII e XVIII. Está na seção Música da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Música",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob34",
+   "answer": "o41",
+   "etapa": "PAS 1",
+   "dicas": [
+    "A letra imita o jeito de falar do paulistano, com erros de português de propósito.",
+    "O sambista era paulista, filho de imigrantes italianos."
+   ],
+   "explain": "Tiro ao Álvaro (Adoniran Barbosa): A letra imita o jeito de falar do paulistano, com erros de português de propósito. O sambista era paulista, filho de imigrantes italianos. Está na seção Música da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Música",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob35",
+   "answer": "o48",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É uma cantiga de amigo medieval escrita em galego-português.",
+    "É uma das poucas cantigas medievais de que se guardou a música, além da letra."
+   ],
+   "explain": "Ondas do mar de Vigo (Martin Codax): É uma cantiga de amigo medieval escrita em galego-português. É uma das poucas cantigas medievais de que se guardou a música, além da letra. Está na seção Música da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Música",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob36",
+   "answer": "o51",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É um conjunto de mesquita e escola numa cidade africana medieval famosa pelos manuscritos.",
+    "Fica numa cidade do Mali, ao sul do deserto do Saara."
+   ],
+   "explain": "Universidade de Sankore (Mesquita/Madraça) (Mali medieval): É um conjunto de mesquita e escola numa cidade africana medieval famosa pelos manuscritos. Fica numa cidade do Mali, ao sul do deserto do Saara. Está na seção Artes Visuais da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Artes Visuais",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob37",
+   "answer": "o57",
+   "etapa": "PAS 1",
+   "dicas": [
+    "É uma imagem feita com pequenas pedras coloridas e douradas.",
+    "Mostra uma imperatriz bizantina cercada pela sua corte."
+   ],
+   "explain": "Mosaico de Teodora (Basílica de San Vitale) (Arte bizantina em Ravena): É uma imagem feita com pequenas pedras coloridas e douradas. Mostra uma imperatriz bizantina cercada pela sua corte. Está na seção Artes Visuais da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Artes Visuais",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob38",
+   "answer": "o60",
+   "etapa": "PAS 1",
+   "dicas": [
+    "A igreja foi escavada na rocha, de cima para baixo.",
+    "Fica no Chifre da África e é lugar de peregrinação."
+   ],
+   "explain": "Igreja de São Jorge, Lalibela (Reino Zagwe): A igreja foi escavada na rocha, de cima para baixo. Fica no Chifre da África e é lugar de peregrinação. Está na seção Artes Visuais da lista de obras do PAS 1.",
+   "origem_pas": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026), seção Artes Visuais",
+   "fonte": "Lista de obras do PAS 1 2026-2028 (oficial, jan/2026). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob39",
+   "answer": "o70",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O texto critica a cultura produzida em série, como mercadoria.",
+    "Os autores são dois filósofos alemães da Escola de Frankfurt."
+   ],
+   "explain": "A indústria cultural (Theodor Adorno e Max Horkheimer): O texto critica a cultura produzida em série, como mercadoria. Os autores são dois filósofos alemães da Escola de Frankfurt. Está na seção Textos da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Textos",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob40",
+   "answer": "o73",
+   "etapa": "PAS 2",
+   "dicas": [
+    "A reportagem trata de doenças espalhadas de propósito entre povos indígenas.",
+    "Saiu num site de notícias internacional, em português."
+   ],
+   "explain": "Como colonizadores infectaram milhares de índios no Brasil com presentes e promessas falsas (Leonardo Neiva (BBC News Brasil)): A reportagem trata de doenças espalhadas de propósito entre povos indígenas. Saiu num site de notícias internacional, em português. Está na seção Textos da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Textos",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob41",
+   "answer": "o74",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O artigo trata dos riscos à saúde de quem trabalha com carne.",
+    "Foi publicado numa revista científica de saúde coletiva."
+   ],
+   "explain": "Biossegurança no trabalho em frigoríficos (Gabriela Chaves Marra, Luciana Hugue de Souza e Telma Abdalla de Oliveira Cardoso): O artigo trata dos riscos à saúde de quem trabalha com carne. Foi publicado numa revista científica de saúde coletiva. Está na seção Textos da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Textos",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob42",
+   "answer": "o75",
+   "etapa": "PAS 2",
+   "dicas": [
+    "A reportagem mostra como é viver sem ter o que comer no Brasil de hoje.",
+    "Saiu na revista da universidade da capital."
+   ],
+   "explain": "A fome que nos atravessa (Vanessa Vieira (Revista Darcy)): A reportagem mostra como é viver sem ter o que comer no Brasil de hoje. Saiu na revista da universidade da capital. Está na seção Textos da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Textos",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob43",
+   "answer": "o79",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O artigo relaciona formas geométricas à estrutura de microrganismos.",
+    "Os microrganismos em questão são os vírus."
+   ],
+   "explain": "A geometria e sua relação com as estruturas dos vírus (Gabriel Cafeu Brandão): O artigo relaciona formas geométricas à estrutura de microrganismos. Os microrganismos em questão são os vírus. Está na seção Textos da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Textos",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob44",
+   "answer": "o81",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O poema diz que o sofrimento mais verdadeiro é o que a pessoa esconde.",
+    "O poeta é do Parnasianismo, a escola da forma perfeita."
+   ],
+   "explain": "Mal secreto (Raimundo Correia): O poema diz que o sofrimento mais verdadeiro é o que a pessoa esconde. O poeta é do Parnasianismo, a escola da forma perfeita. Está na seção Literaturas da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob45",
+   "answer": "o82",
+   "etapa": "PAS 2",
+   "dicas": [
+    "A personagem enlouquece e confunde a lua do céu com a do mar.",
+    "O poeta simbolista viveu em Mariana, Minas Gerais."
+   ],
+   "explain": "Ismália (Alphonsus de Guimaraens): A personagem enlouquece e confunde a lua do céu com a do mar. O poeta simbolista viveu em Mariana, Minas Gerais. Está na seção Literaturas da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob46",
+   "answer": "o83",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O eu lírico imagina a própria morte sem dor nem remorso.",
+    "O autor morreu aos 20 anos e é do chamado 'mal do século'."
+   ],
+   "explain": "Lembrança de morrer (Álvares de Azevedo): O eu lírico imagina a própria morte sem dor nem remorso. O autor morreu aos 20 anos e é do chamado 'mal do século'. Está na seção Literaturas da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob47",
+   "answer": "o84",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O poeta explica como pretende escrever: com forma trabalhada, como um ourives.",
+    "O autor também escreveu a letra do Hino à Bandeira."
+   ],
+   "explain": "Profissão de fé (Olavo Bilac): O poeta explica como pretende escrever: com forma trabalhada, como um ourives. O autor também escreveu a letra do Hino à Bandeira. Está na seção Literaturas da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob48",
+   "answer": "o85",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O poema simbolista fala de alguém marcado por um destino.",
+    "O poeta catarinense foi chamado de 'Cisne Negro'."
+   ],
+   "explain": "O assinalado (Cruz e Sousa): O poema simbolista fala de alguém marcado por um destino. O poeta catarinense foi chamado de 'Cisne Negro'. Está na seção Literaturas da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob49",
+   "answer": "o86",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O poema canta a saudade de quem foi arrancado da África e escravizado.",
+    "O autor, baiano, ficou conhecido como o poeta dos escravos."
+   ],
+   "explain": "A canção do africano (Castro Alves): O poema canta a saudade de quem foi arrancado da África e escravizado. O autor, baiano, ficou conhecido como o poeta dos escravos. Está na seção Literaturas da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob50",
+   "answer": "o87",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O poema fala de um arrependimento que chega tarde demais.",
+    "O poeta francês escreveu As flores do mal."
+   ],
+   "explain": "Remorso póstumo (Charles Baudelaire): O poema fala de um arrependimento que chega tarde demais. O poeta francês escreveu As flores do mal. Está na seção Literaturas da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob51",
+   "answer": "o89",
+   "etapa": "PAS 2",
+   "dicas": [
+    "Um pajé prevê a chegada dos invasores e a destruição de seu povo.",
+    "O poeta maranhense é do Romantismo e escreveu a 'Canção do exílio'."
+   ],
+   "explain": "Canto do Piaga (Gonçalves Dias): Um pajé prevê a chegada dos invasores e a destruição de seu povo. O poeta maranhense é do Romantismo e escreveu a 'Canção do exílio'. Está na seção Literaturas da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob52",
+   "answer": "o90",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O conto trata de ciúme, traição e de uma consulta a quem lê as cartas.",
+    "O autor escreveu Dom Casmurro."
+   ],
+   "explain": "A Cartomante (Machado de Assis): O conto trata de ciúme, traição e de uma consulta a quem lê as cartas. O autor escreveu Dom Casmurro. Está na seção Literaturas da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob53",
+   "answer": "o94",
+   "etapa": "PAS 2",
+   "dicas": [
+    "É um conto de uma autora maranhense que denuncia a escravidão.",
+    "A autora escreveu também um romance pioneiro de autoria feminina no Brasil."
+   ],
+   "explain": "A escrava (Maria Firmina dos Reis): É um conto de uma autora maranhense que denuncia a escravidão. A autora escreveu também um romance pioneiro de autoria feminina no Brasil. Está na seção Literaturas da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob54",
+   "answer": "o95",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O filme mistura ficção científica e a realidade de uma cidade-satélite.",
+    "O diretor é do Distrito Federal."
+   ],
+   "explain": "A cidade é uma só? (Adirley Queirós): O filme mistura ficção científica e a realidade de uma cidade-satélite. O diretor é do Distrito Federal. Está na seção Audiovisuais da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Audiovisuais",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob55",
+   "answer": "o96",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O documentário mostra comunidades de descendentes de pessoas escravizadas hoje.",
+    "É uma produção da TV pública do Judiciário."
+   ],
+   "explain": "Quilombos do século XXI (Rádio e TV Justiça): O documentário mostra comunidades de descendentes de pessoas escravizadas hoje. É uma produção da TV pública do Judiciário. Está na seção Audiovisuais da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Audiovisuais",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob56",
+   "answer": "o99",
+   "etapa": "PAS 2",
+   "dicas": [
+    "É um clipe de um grupo de rap paulista.",
+    "O título vem de um verso muito conhecido da música latino-americana de protesto."
+   ],
+   "explain": "Eu só peço a Deus (Inquérito): É um clipe de um grupo de rap paulista. O título vem de um verso muito conhecido da música latino-americana de protesto. Está na seção Audiovisuais da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Audiovisuais",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob57",
+   "answer": "o100",
+   "etapa": "PAS 2",
+   "dicas": [
+    "É uma fala em vídeo de um líder indígena sobre outro modo de viver.",
+    "O palestrante é de um povo que vive na região do rio Doce."
+   ],
+   "explain": "Vinte ideias para girar o mundo (Ailton Krenak): É uma fala em vídeo de um líder indígena sobre outro modo de viver. O palestrante é de um povo que vive na região do rio Doce. Está na seção Audiovisuais da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Audiovisuais",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob58",
+   "answer": "o101",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O vídeo explica por que boatos se espalham mais rápido que a verdade.",
+    "É uma animação educativa de um canal internacional."
+   ],
+   "explain": "Como se espalham as notícias falsas (Noah Tavlin): O vídeo explica por que boatos se espalham mais rápido que a verdade. É uma animação educativa de um canal internacional. Está na seção Audiovisuais da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Audiovisuais",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob59",
+   "answer": "o105",
+   "etapa": "PAS 2",
+   "dicas": [
+    "É um frevo regravado num encontro de grandes nomes do Nordeste.",
+    "O compositor é paraibano."
+   ],
+   "explain": "Frevo Mulher (Zé Ramalho): É um frevo regravado num encontro de grandes nomes do Nordeste. O compositor é paraibano. Está na seção Música da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Música",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob60",
+   "answer": "o107",
+   "etapa": "PAS 2",
+   "dicas": [
+    "Numa ópera, a cantora diz que o amor é um pássaro rebelde.",
+    "O compositor francês morreu pouco depois da estreia da ópera."
+   ],
+   "explain": "Ária Habanera da ópera Carmen (Georges Bizet): Numa ópera, a cantora diz que o amor é um pássaro rebelde. O compositor francês morreu pouco depois da estreia da ópera. Está na seção Música da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Música",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob61",
+   "answer": "o111",
+   "etapa": "PAS 2",
+   "dicas": [
+    "Um médico descobre que a água do balneário está contaminada e é chamado de inimigo.",
+    "O dramaturgo é norueguês do século XIX."
+   ],
+   "explain": "Um inimigo do povo (Henrik Ibsen): Um médico descobre que a água do balneário está contaminada e é chamado de inimigo. O dramaturgo é norueguês do século XIX. Está na seção Teatro da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Teatro",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob62",
+   "answer": "o112",
+   "etapa": "PAS 2",
+   "dicas": [
+    "Um burguês rico quer aprender maneiras de nobre e é enganado.",
+    "A comédia é francesa, do século XVII, de um dramaturgo que também atuava."
+   ],
+   "explain": "O Burguês Fidalgo (Molière): Um burguês rico quer aprender maneiras de nobre e é enganado. A comédia é francesa, do século XVII, de um dramaturgo que também atuava. Está na seção Teatro da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Teatro",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob63",
+   "answer": "o114",
+   "etapa": "PAS 2",
+   "dicas": [
+    "Uma mulher é assediada por dois homens mais velhos enquanto toma banho.",
+    "A pintora italiana do século XVII foi uma das primeiras a ter sucesso como artista."
+   ],
+   "explain": "Suzana e os anciãos (Artemisia Gentileschi): Uma mulher é assediada por dois homens mais velhos enquanto toma banho. A pintora italiana do século XVII foi uma das primeiras a ter sucesso como artista. Está na seção Artes Visuais da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Artes Visuais",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob64",
+   "answer": "o116",
+   "etapa": "PAS 2",
+   "dicas": [
+    "O pintor usou pontinhos de cor lado a lado.",
+    "O monumento do título fica em Paris."
+   ],
+   "explain": "Torre Eiffel (Georges Seurat): O pintor usou pontinhos de cor lado a lado. O monumento do título fica em Paris. Está na seção Artes Visuais da lista de obras do PAS 2.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), seção Artes Visuais",
+   "fonte": "Lista de obras do PAS 2 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob65",
+   "answer": "o118",
+   "etapa": "PAS 3",
+   "dicas": [
+    "A reportagem liga uma doença do sangue ao racismo.",
+    "Saiu na agência pública de notícias."
+   ],
+   "explain": "Anemia falciforme foi invisibilizada pelo racismo, mostram entidades (Luiz Cláudio Ferreira (Agência Brasil)): A reportagem liga uma doença do sangue ao racismo. Saiu na agência pública de notícias. Está na seção Textos da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Textos",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob66",
+   "answer": "o119",
+   "etapa": "PAS 3",
+   "dicas": [
+    "A reportagem conta uma disputa entre dois cientistas italianos do século XVIII sobre eletricidade.",
+    "Um deles inventou a pilha."
+   ],
+   "explain": "Galvani e Volta, um embate elétrico (Leandro Lobo (Ciência Hoje)): A reportagem conta uma disputa entre dois cientistas italianos do século XVIII sobre eletricidade. Um deles inventou a pilha. Está na seção Textos da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Textos",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob67",
+   "answer": "o120",
+   "etapa": "PAS 3",
+   "dicas": [
+    "A reportagem trata de carros elétricos abastecidos com um combustível feito de cana.",
+    "A revista é de uma fundação de pesquisa paulista."
+   ],
+   "explain": "Elétricos movidos a etanol (Domingos Zaparolli (Pesquisa Fapesp)): A reportagem trata de carros elétricos abastecidos com um combustível feito de cana. A revista é de uma fundação de pesquisa paulista. Está na seção Textos da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Textos",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob68",
+   "answer": "o121",
+   "etapa": "PAS 3",
+   "dicas": [
+    "A reportagem fala de máquinas que passam a agir sozinhas.",
+    "Saiu na revista da universidade da capital."
+   ],
+   "explain": "O despertar dos robôs (Leonardo Echeverria (Revista Darcy)): A reportagem fala de máquinas que passam a agir sozinhas. Saiu na revista da universidade da capital. Está na seção Textos da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Textos",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob69",
+   "answer": "o122",
+   "etapa": "PAS 3",
+   "dicas": [
+    "A reportagem mostra como uma descoberta do fim do século XIX mudou a medicina e a energia.",
+    "Saiu num site de notícias internacional, em português."
+   ],
+   "explain": "Como a descoberta da radiação mudou o futuro da humanidade (Thomas Moynihan (BBC News Brasil)): A reportagem mostra como uma descoberta do fim do século XIX mudou a medicina e a energia. Saiu num site de notícias internacional, em português. Está na seção Textos da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Textos",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob70",
+   "answer": "o123",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O texto defende usar a ciência para aproveitar a biodiversidade da floresta.",
+    "Foi publicado num canal de TV por assinatura de notícias."
+   ],
+   "explain": "A importância da biotecnologia para o desenvolvimento da Amazônia (Milton Steagall (CNN Brasil)): O texto defende usar a ciência para aproveitar a biodiversidade da floresta. Foi publicado num canal de TV por assinatura de notícias. Está na seção Textos da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Textos",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob71",
+   "answer": "o124",
+   "etapa": "PAS 3",
+   "dicas": [
+    "A reportagem mostra que uma fruta amazônica foi domesticada há muito tempo.",
+    "O jornal é de uma universidade paulista."
+   ],
+   "explain": "Cupuaçu só surgiu com a domesticação de fruto por indígenas (Camilla Almeida (Jornal da USP)): A reportagem mostra que uma fruta amazônica foi domesticada há muito tempo. O jornal é de uma universidade paulista. Está na seção Textos da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Textos",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob72",
+   "answer": "o126",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O texto discute quem pode viver e quem é deixado para morrer sob o poder do Estado.",
+    "O autor é um filósofo africano."
+   ],
+   "explain": "Necropolítica (Achille Mbembe): O texto discute quem pode viver e quem é deixado para morrer sob o poder do Estado. O autor é um filósofo africano. Está na seção Textos da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Textos",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob73",
+   "answer": "o127",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O texto fala da destruição do conhecimento de povos oprimidos.",
+    "A autora é uma filósofa e ativista brasileira."
+   ],
+   "explain": "Epistemicídio (Sueli Carneiro): O texto fala da destruição do conhecimento de povos oprimidos. A autora é uma filósofa e ativista brasileira. Está na seção Textos da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Textos",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob74",
+   "answer": "o129",
+   "etapa": "PAS 3",
+   "dicas": [
+    "É um conjunto de contos sobre violência e resistência de pessoas negras.",
+    "A autora é mineira e usa o termo 'escrevivência'."
+   ],
+   "explain": "A gente combinamos de não morrer (Conceição Evaristo): É um conjunto de contos sobre violência e resistência de pessoas negras. A autora é mineira e usa o termo 'escrevivência'. Está na seção Literaturas da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob75",
+   "answer": "o131",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O conto mostra uma relação entre mãe e filha que se abala num momento comum.",
+    "A autora nasceu na Ucrânia e escreveu A hora da estrela."
+   ],
+   "explain": "Laços de Família (Clarice Lispector): O conto mostra uma relação entre mãe e filha que se abala num momento comum. A autora nasceu na Ucrânia e escreveu A hora da estrela. Está na seção Literaturas da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob76",
+   "answer": "o133",
+   "etapa": "PAS 3",
+   "dicas": [
+    "Um médico é chamado de madrugada para atender um doente numa aldeia, e a noite vira pesadelo.",
+    "O autor escrevia em alemão e vivia em Praga."
+   ],
+   "explain": "Um médico rural (Franz Kafka): Um médico é chamado de madrugada para atender um doente numa aldeia, e a noite vira pesadelo. O autor escrevia em alemão e vivia em Praga. Está na seção Literaturas da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob77",
+   "answer": "o135",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O poema fala de recomeçar a vida a cada dia.",
+    "A poeta carioca também escreveu o Romanceiro da Inconfidência."
+   ],
+   "explain": "Reinvenção (Cecília Meireles): O poema fala de recomeçar a vida a cada dia. A poeta carioca também escreveu o Romanceiro da Inconfidência. Está na seção Literaturas da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob78",
+   "answer": "o136",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O poema fala da dor com imagens duras e vocabulário científico.",
+    "O poeta é paraibano e autor do livro 'Eu'."
+   ],
+   "explain": "A lágrima (Augusto dos Anjos): O poema fala da dor com imagens duras e vocabulário científico. O poeta é paraibano e autor do livro 'Eu'. Está na seção Literaturas da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob79",
+   "answer": "o137",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O poeta lembra a infância na rua da cidade, com a fala do povo.",
+    "O poeta pernambucano é do Modernismo e autor de 'Libertinagem'."
+   ],
+   "explain": "Evocação do Recife (Manuel Bandeira): O poeta lembra a infância na rua da cidade, com a fala do povo. O poeta pernambucano é do Modernismo e autor de 'Libertinagem'. Está na seção Literaturas da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob80",
+   "answer": "o138",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O romance se passa durante uma grande seca no Ceará.",
+    "A autora foi a primeira mulher na Academia Brasileira de Letras."
+   ],
+   "explain": "O quinze (Raquel de Queiroz): O romance se passa durante uma grande seca no Ceará. A autora foi a primeira mulher na Academia Brasileira de Letras. Está na seção Literaturas da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob81",
+   "answer": "o143",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O texto dá instruções como se chorar fosse uma tarefa com regras.",
+    "O escritor nasceu na Bélgica e se tornou argentino."
+   ],
+   "explain": "Instruções para chorar (Júlio Cortázar): O texto dá instruções como se chorar fosse uma tarefa com regras. O escritor nasceu na Bélgica e se tornou argentino. Está na seção Literaturas da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob82",
+   "answer": "o146",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O poema mostra que um galo sozinho não faz a manhã: precisa de outros.",
+    "O poeta pernambucano ficou conhecido como o 'poeta engenheiro'."
+   ],
+   "explain": "Tecendo a manhã (João Cabral de Melo Neto): O poema mostra que um galo sozinho não faz a manhã: precisa de outros. O poeta pernambucano ficou conhecido como o 'poeta engenheiro'. Está na seção Literaturas da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob83",
+   "answer": "o149",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O poeta reescreve, com humor, o jeito de contar a chegada dos portugueses.",
+    "O poeta modernista paulista escreveu o Manifesto Antropófago."
+   ],
+   "explain": "Poemas da Colonização (Oswald de Andrade): O poeta reescreve, com humor, o jeito de contar a chegada dos portugueses. O poeta modernista paulista escreveu o Manifesto Antropófago. Está na seção Literaturas da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Literaturas",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob84",
+   "answer": "o150",
+   "etapa": "PAS 3",
+   "dicas": [
+    "A reportagem conta como um eclipse ajudou a provar uma teoria de Einstein.",
+    "A cidade cearense foi um dos pontos de observação."
+   ],
+   "explain": "Eclipse de Sobral: o dia em que o Brasil ajudou a confirmar a teoria da relatividade de Einstein (Camila Costa (BBC News Brasil)): A reportagem conta como um eclipse ajudou a provar uma teoria de Einstein. A cidade cearense foi um dos pontos de observação. Está na seção Audiovisuais da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Audiovisuais",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob85",
+   "answer": "o154",
+   "etapa": "PAS 3",
+   "dicas": [
+    "É um documentário sobre estudantes de uma universidade durante a ditadura.",
+    "O diretor paraibano filmou muito sobre Brasília."
+   ],
+   "explain": "Barra 68: sem perder a ternura (Vladimir Carvalho): É um documentário sobre estudantes de uma universidade durante a ditadura. O diretor paraibano filmou muito sobre Brasília. Está na seção Audiovisuais da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Audiovisuais",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob86",
+   "answer": "o158",
+   "etapa": "PAS 3",
+   "dicas": [
+    "A canção fala de gente que vem do subúrbio em direção à praia.",
+    "O compositor carioca também escreveu 'Construção'."
+   ],
+   "explain": "Caravanas (Chico Buarque): A canção fala de gente que vem do subúrbio em direção à praia. O compositor carioca também escreveu 'Construção'. Está na seção Música da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Música",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob87",
+   "answer": "o159",
+   "etapa": "PAS 3",
+   "dicas": [
+    "O rap fala da vida de quem vem da periferia e da luta contra o racismo.",
+    "O grupo é de São Paulo e o integrante mais conhecido se chama Mano Brown."
+   ],
+   "explain": "Negro Drama (Racionais MC's): O rap fala da vida de quem vem da periferia e da luta contra o racismo. O grupo é de São Paulo e o integrante mais conhecido se chama Mano Brown. Está na seção Música da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Música",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob88",
+   "answer": "o160",
+   "etapa": "PAS 3",
+   "dicas": [
+    "É uma música que causou tumulto na estreia, em 1913.",
+    "Aqui ela aparece numa coreografia de uma coreógrafa alemã."
+   ],
+   "explain": "Sagração da Primavera (versão Pina Bausch) (Igor Stravinsky): É uma música que causou tumulto na estreia, em 1913. Aqui ela aparece numa coreografia de uma coreógrafa alemã. Está na seção Música da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Música",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob89",
+   "answer": "o165",
+   "etapa": "PAS 3",
+   "dicas": [
+    "A peça mostra uma greve de operários e o conflito dentro de uma família.",
+    "O autor era também ator e militante."
+   ],
+   "explain": "Eles não usam black-tie (Gianfrancesco Guarnieri): A peça mostra uma greve de operários e o conflito dentro de uma família. O autor era também ator e militante. Está na seção Teatro da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Teatro",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "ob90",
+   "answer": "o163",
+   "etapa": "PAS 3",
+   "dicas": [
+    "A letra é de uma mãe que fala do filho que entrou para o crime.",
+    "A versão da lista é de uma cantora carioca."
+   ],
+   "explain": "Meu Guri (versão Elza Soares) (Chico Buarque): A letra é de uma mãe que fala do filho que entrou para o crime. A versão da lista é de uma cantora carioca. Está na seção Música da lista de obras do PAS 3.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), seção Música",
+   "fonte": "Lista de obras do PAS 3 (prévia jun/2024). As dicas e a época são do redator, a confirmar.",
+   "verificar": true
+  }
+ ]
+}

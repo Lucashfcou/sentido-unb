@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-15T00:00:00Z",
+  "title": "Design System: Linha PAS",
+  "extensions": {
+    "colorMeta": {
+      "asfalto": { "role": "neutral", "displayName": "Asfalto", "canonical": "#e8ecef", "tonalRamp": ["#464748", "#747678", "#a2a5a7", "#c5c9cb", "#ebeff1", "#f0f3f5", "#f5f6f8", "#fafbfc"] },
+      "painel": { "role": "neutral", "displayName": "Painel", "canonical": "#f6f8f9", "tonalRamp": ["#4a4a4b", "#7b7c7d", "#acaeae", "#d1d3d4", "#f7f9fa", "#f9fafb", "#fbfcfc", "#fdfefe"] },
+      "tinta": { "role": "neutral", "displayName": "Tinta", "canonical": "#10151b", "tonalRamp": ["#050608", "#080b0e", "#0b0f13", "#0e1217", "#34383d", "#64676b", "#939698", "#cfd0d1"] },
+      "ambar-led": { "role": "primary", "displayName": "Âmbar de LED", "canonical": "#ffb000", "tonalRamp": ["#4d3500", "#805800", "#b37b00", "#d99600", "#ffbc26", "#ffcc59", "#ffdb8c", "#ffefcc"] },
+      "linha-conexoes": { "role": "secondary", "displayName": "Linha Conexões (vermelho)", "canonical": "#ff5a4e", "tonalRamp": ["#4d1b17", "#802d27", "#b33f37", "#d94d42", "#ff7369", "#ff948c", "#ffb5af", "#ffdedc"] },
+      "linha-caso": { "role": "secondary", "displayName": "Linha Caso do Dia (azul)", "canonical": "#2f9bff", "tonalRamp": ["#0e2f4d", "#184e80", "#216db3", "#2884d9", "#4eaaff", "#78beff", "#a1d2ff", "#d5ebff"] },
+      "linha-obra": { "role": "secondary", "displayName": "Linha Qual é a obra? (roxo)", "canonical": "#a76bff", "tonalRamp": ["#32204d", "#543680", "#754bb3", "#8e5bd9", "#b481ff", "#c69fff", "#d7bcff", "#ede1ff"] },
+      "linha-ano": { "role": "secondary", "displayName": "Linha Que ano foi? (laranja)", "canonical": "#ff8a3d", "tonalRamp": ["#4d2912", "#80451f", "#b3612b", "#d97534", "#ff9c5a", "#ffb381", "#ffcaa8", "#ffe8d8"] },
+      "linha-formula": { "role": "secondary", "displayName": "Linha Fórmula misteriosa (verde)", "canonical": "#2fd08a", "tonalRamp": ["#0e3e29", "#186845", "#219261", "#28b175", "#4ed79c", "#78e0b3", "#a1eaca", "#d5f6e8"] },
+      "linha-lugar": { "role": "secondary", "displayName": "Linha Onde fica? (turquesa)", "canonical": "#26c6da", "tonalRamp": ["#0b3b41", "#13636d", "#1b8b99", "#20a8b9", "#47cfe0", "#72dae7", "#9de5ee", "#d4f4f8"] },
+      "ok": { "role": "state", "displayName": "Acerto", "canonical": "#17653c", "tonalRamp": ["#071e12", "#0c331e", "#10472a", "#145633", "#3a7c59", "#689b80", "#97baa7", "#d1e0d8"] },
+      "perto": { "role": "state", "displayName": "Perto", "canonical": "#7a4f00", "tonalRamp": ["#251800", "#3d2800", "#553700", "#684300", "#8e6926", "#a98d59", "#c3b08c", "#e4dccc"] },
+      "neutro": { "role": "state", "displayName": "Neutro", "canonical": "#4b5560", "tonalRamp": ["#171a1d", "#262b30", "#353c43", "#404852", "#666f78", "#8a9198", "#aeb3b7", "#dbdddf"] },
+      "erro": { "role": "state", "displayName": "Erro / perdido", "canonical": "#9d2222", "tonalRamp": ["#2f0a0a", "#4f1111", "#6e1818", "#851d1d", "#ac4343", "#bf6f6f", "#d39c9c", "#ebd3d3"] }
+    },
+    "typographyMeta": {
+      "led": { "displayName": "LED letreiro", "purpose": "Nome do próximo jogo no letreiro. Doto só em letreiro, placa PAS, placa do jogo e canhoto." },
+      "led-placa-jogo": { "displayName": "LED placa do jogo", "purpose": "Título na tela de cada jogo." },
+      "led-marca": { "displayName": "LED marca", "purpose": "Texto 'PAS' na placa da marca e 'Sentido UnB' no canhoto." },
+      "headline": { "displayName": "Headline", "purpose": "Título 'Hoje'." },
+      "title": { "displayName": "Title", "purpose": "Título do bilhete (1.35rem), do jogo (1.3rem) e de blocos (1.15rem)." },
+      "body": { "displayName": "Body", "purpose": "Texto corrido, números tabulares." },
+      "label": { "displayName": "Label", "purpose": "Chips de estado." }
+    },
+    "shadows": [
+      { "name": "ambiente-claro", "value": "0 1px 0 rgba(255,255,255,.5) inset, 0 10px 24px -14px rgba(16,21,27,.45)", "purpose": "Listas, painéis e letreiro no tema claro." },
+      { "name": "ambiente-escuro", "value": "0 1px 0 rgba(255,255,255,.05) inset, 0 12px 28px -16px rgba(0,0,0,.8)", "purpose": "Mesmo papel no tema escuro." },
+      { "name": "anel-placa", "value": "0 0 0 2px var(--line)", "purpose": "Anel de 2px do letreiro, placa PAS e placa do jogo; em hover do letreiro vira âmbar." },
+      { "name": "menu-busca", "value": "0 14px 30px -10px rgba(0,0,0,.55)", "purpose": "Só a lista flutuante do autocompletar." }
+    ],
+    "motion": [
+      { "name": "varredura-led", "value": "0.6s steps(14, end) 1, clip-path inset(0 100% 0 0) para inset(0)", "purpose": "Única assinatura: texto do letreiro varre uma vez. Só com prefers-reduced-motion: no-preference." },
+      { "name": "entra", "value": "0.25s cubic-bezier(.2,.8,.2,1), opacity 0 e translateY(6px) para repouso", "purpose": "Pista nova do Caso do Dia. Também respeita reduced-motion." }
+    ],
+    "breakpoints": [
+      { "name": "coluna", "value": "640px (max-width do conteúdo)" },
+      { "name": "atributos-6", "value": "520px (min-width: atributos em 6 colunas, Conexões com células maiores)" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Letreiro-botão",
+      "kind": "custom",
+      "refersTo": "letreiro-botao",
+      "description": "Faixa de LED com a próxima parada; botão que abre o jogo.",
+      "html": "<button class=\"ds-sign\"><span class=\"ds-sign-t\">Conexões PAS</span><span class=\"ds-sign-s\">Faltam 6 • toque para embarcar</span></button>",
+      "css": ".ds-sign{display:block;width:100%;text-align:left;border:0;border-radius:8px;padding:12px 14px 14px;background:#07090b radial-gradient(#3a2a00 1.2px,transparent 1.6px) 0 0/6px 6px;box-shadow:0 0 0 2px var(--line,#c2cbd3);cursor:pointer;overflow:hidden}.ds-sign:hover{box-shadow:0 0 0 2px #ffb000}.ds-sign:focus-visible{outline:3px solid var(--focus,#0b57d0);outline-offset:2px;border-radius:4px}.ds-sign-t{display:block;font:900 1.6rem/1.1 Doto,ui-monospace,monospace;letter-spacing:.05em;text-transform:uppercase;color:#ffb000}.ds-sign-s{display:block;margin-top:8px;font:600 .9rem/1.2 Overpass,system-ui,sans-serif;letter-spacing:.04em;text-transform:uppercase;color:#f0b429}"
+    },
+    {
+      "name": "Botão âmbar",
+      "kind": "button",
+      "refersTo": "botao-ambar",
+      "description": "Ação principal. Âmbar só aqui e no LED.",
+      "html": "<button class=\"ds-btn\">Embarcar</button>",
+      "css": ".ds-btn{background:#ffb000;color:#17110a;border:2px solid #ffb000;border-radius:8px;padding:10px 16px;min-height:44px;font:800 1rem Overpass,system-ui,sans-serif;cursor:pointer}.ds-btn:hover{filter:brightness(1.06)}.ds-btn:focus-visible{outline:3px solid #0b57d0;outline-offset:2px}"
+    },
+    {
+      "name": "Linha de jogo",
+      "kind": "nav",
+      "refersTo": "linha-de-jogo",
+      "description": "Linha da tabela de rotas: selo, nome, descrição e estado. Concluídas ficam rebaixadas.",
+      "html": "<div class=\"ds-linhas\"><button class=\"ds-linha\"><span class=\"ds-selo\"><svg viewBox=\"0 0 24 24\" width=\"26\" height=\"26\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 12h16M14 6l6 6-6 6\"/></svg></span><span class=\"ds-ct\"><b>Caso do Dia</b><small>Uma matéria por dia</small></span><span class=\"ds-estado\">Pendente</span></button></div>",
+      "css": ".ds-linhas{display:grid;border:1px solid #c2cbd3;border-radius:8px;background:#f6f8f9;overflow:hidden}.ds-linha{display:grid;grid-template-columns:44px 1fr auto;gap:12px;align-items:center;text-align:left;background:transparent;border:0;padding:12px 14px;min-height:72px;color:#10151b;font-family:Overpass,system-ui,sans-serif;cursor:pointer}.ds-linha:hover{background:#dde2e7}.ds-linha:focus-visible{outline:3px solid #0b57d0;outline-offset:2px}.ds-selo{width:44px;height:44px;display:grid;place-items:center;border-radius:8px;background:#2f9bff;color:#0b0d10;box-shadow:inset 0 0 0 1px rgba(0,0,0,.28)}.ds-ct{display:grid;gap:1px}.ds-ct b{font-size:1.05rem;font-weight:800}.ds-ct small{color:#46515c;font-size:.85rem;line-height:1.3}.ds-estado{display:inline-flex;align-items:center;gap:5px;font-size:.8rem;font-weight:800;padding:4px 10px;border-radius:999px;background:#dde2e7;color:#4b5560}"
+    },
+    {
+      "name": "Placa do jogo",
+      "kind": "custom",
+      "refersTo": "placa-do-jogo",
+      "description": "Cabeçalho de cada jogo: selo da linha e título em LED.",
+      "html": "<div class=\"ds-placa\"><span class=\"ds-selo2\"></span><div><h2>Que ano foi?</h2><p>Mais cedo ou mais tarde • Edição 3</p></div></div>",
+      "css": ".ds-placa{display:flex;align-items:center;gap:10px;background:#07090b radial-gradient(#3a2a00 1.2px,transparent 1.6px) 0 0/6px 6px;border-radius:8px;padding:8px 12px 8px 8px;box-shadow:0 0 0 2px #c2cbd3}.ds-selo2{width:40px;height:40px;border-radius:8px;background:#ff8a3d;box-shadow:inset 0 0 0 1px rgba(0,0,0,.28)}.ds-placa h2{margin:0;font:900 1.2rem/1.15 Doto,ui-monospace,monospace;letter-spacing:.04em;text-transform:uppercase;color:#ffb000}.ds-placa p{margin:0;color:#f0b429;font:600 .8rem Overpass,system-ui,sans-serif}"
+    },
+    {
+      "name": "Bilhete de resultado",
+      "kind": "card",
+      "refersTo": "bilhete",
+      "description": "Painel com cabeçalho, perfuração tracejada e canhoto de LED.",
+      "html": "<div class=\"ds-bilhete\"><div class=\"ds-cab\"><b>Acertou!</b><span>Veredito curto</span></div><p>Explicação com fonte.</p><div class=\"ds-canhoto\"><span class=\"ds-led\">Sentido UnB</span><span>Que ano foi?</span></div></div>",
+      "css": ".ds-bilhete{background:#f6f8f9;border:1px solid #c2cbd3;border-radius:8px;padding:16px;font-family:Overpass,system-ui,sans-serif;color:#10151b;box-shadow:0 1px 0 rgba(255,255,255,.5) inset,0 10px 24px -14px rgba(16,21,27,.45)}.ds-cab{display:grid;padding-bottom:14px;margin-bottom:14px;border-bottom:2px dashed #c2cbd3}.ds-cab b{font-size:1.35rem;font-weight:800}.ds-cab span{color:#46515c}.ds-canhoto{margin-top:14px;padding:10px 12px;border-radius:8px;background:#07090b radial-gradient(#3a2a00 1.2px,transparent 1.6px) 0 0/6px 6px;color:#f0b429;display:flex;justify-content:space-between;align-items:center;font-weight:700;font-size:.85rem;text-transform:uppercase;letter-spacing:.04em}.ds-led{font:900 1.05rem/1 Doto,ui-monospace,monospace;color:#ffb000;letter-spacing:.05em}"
+    },
+    {
+      "name": "Chips de estado",
+      "kind": "chip",
+      "refersTo": "chip-estado",
+      "description": "Pílula com símbolo SVG e palavra; cor nunca sozinha.",
+      "html": "<span class=\"ds-chip ds-ok\"><svg viewBox=\"0 0 24 24\" width=\"14\" height=\"14\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5 12l5 5 9-10\"/></svg>Feito</span> <span class=\"ds-chip\">Pendente</span> <span class=\"ds-chip ds-bad\">Perdido</span>",
+      "css": ".ds-chip{display:inline-flex;align-items:center;gap:5px;font:800 .8rem Overpass,system-ui,sans-serif;padding:4px 10px;border-radius:999px;background:#dde2e7;color:#4b5560;white-space:nowrap}.ds-ok{background:#d3eadc;color:#17653c}.ds-bad{background:#f4d5d5;color:#9d2222}"
+    },
+    {
+      "name": "Grade de atributos",
+      "kind": "custom",
+      "refersTo": "atributo",
+      "description": "Células de comparação do Qual é a obra?: ok, perto, neutro.",
+      "html": "<div class=\"ds-attrs\"><div class=\"ds-at ds-aok\"><small>Autor</small><span>Sim</span></div><div class=\"ds-at ds-aperto\"><small>Século</small><span>XX</span></div><div class=\"ds-at\"><small>Gênero</small><span>Romance</span></div></div>",
+      "css": ".ds-attrs{display:grid;grid-template-columns:repeat(3,1fr);gap:4px;font-family:Overpass,system-ui,sans-serif}.ds-at{border-radius:6px;padding:4px 6px;background:#dde2e7;color:#4b5560;display:grid}.ds-at small{font-size:.65rem;text-transform:uppercase;letter-spacing:.06em;opacity:.85}.ds-at span{font-size:.8rem;font-weight:800}.ds-aok{background:#d3eadc;color:#17653c}.ds-aperto{background:#f6e2b0;color:#7a4f00}"
+    },
+    {
+      "name": "Tecla do teclado de peças",
+      "kind": "button",
+      "refersTo": "tecla",
+      "description": "Peça da Fórmula misteriosa, 48px, estados ok/perto/descartada.",
+      "html": "<button class=\"ds-tecla\">H₂</button> <button class=\"ds-tecla ds-tok\">O</button>",
+      "css": ".ds-tecla{min-width:46px;min-height:48px;padding:8px 10px;border-radius:8px;border:2px solid #c2cbd3;background:#f6f8f9;color:#10151b;font:700 1.05rem Overpass,system-ui,sans-serif;cursor:pointer}.ds-tok{background:#d3eadc;color:#17653c;border-color:#17653c}.ds-tecla:focus-visible{outline:3px solid #0b57d0;outline-offset:2px}"
+    },
+    {
+      "name": "Busca com autocompletar",
+      "kind": "input",
+      "refersTo": "busca",
+      "description": "Campo de 48px com lista flutuante.",
+      "html": "<div class=\"ds-busca\"><input placeholder=\"Buscar obra\" aria-label=\"Buscar obra\"><ul><li>Dom Casmurro<small>Machado de Assis</small></li></ul></div>",
+      "css": ".ds-busca{position:relative;font-family:Overpass,system-ui,sans-serif}.ds-busca input{width:100%;font:inherit;padding:12px 14px;min-height:48px;border-radius:8px;border:2px solid #c2cbd3;background:#f6f8f9;color:#10151b}.ds-busca input:focus-visible{outline:3px solid #0b57d0;outline-offset:0;border-color:#0b57d0}.ds-busca ul{margin:4px 0 0;padding:4px;list-style:none;background:#f6f8f9;border:1px solid #c2cbd3;border-radius:8px;box-shadow:0 14px 30px -10px rgba(0,0,0,.55)}.ds-busca li{padding:10px 12px;border-radius:6px;display:grid}.ds-busca li:hover{background:#dde2e7}.ds-busca small{color:#46515c}"
+    }
+  ],
+  "narrative": {
+    "northStar": "O Letreiro da Parada",
+    "overview": "A rotina diária vira uma viagem curta de 6 linhas. O mundo é o letreiro de ônibus do DF e a parada da Rodoviária, emprestado só em tipo, paleta, densidade e um movimento. A navegação é padrão: uma coluna de 640px, uma lista, botões. O que lembra o aluno é o painel de pontinhos de LED no topo e o resultado como bilhete \"Sentido UnB\".\n\nAsfalto cinza (claro e escuro), tinta quase preta, e um único âmbar de LED. Cada jogo é uma linha com uma cor fixa e texto preto sobre ela. Hairlines de 1px, raio de 8px, uma sombra suave. Números tabulares em tudo. O letreiro é um objeto físico e fica escuro e âmbar nos dois temas.",
+    "keyCharacteristics": [
+      "Letreiro de LED (fundo #07090b, grade de pontos apagados) como única superfície luminosa.",
+      "Overpass para toda a interface; Doto só no letreiro, na placa PAS, na placa do jogo e no canhoto.",
+      "Uma cor por jogo, sempre com texto preto (#0b0d10).",
+      "Estado nunca só por cor: símbolo SVG e texto junto.",
+      "Plano por padrão: hairline + uma sombra ambiente; sem brilho."
+    ],
+    "rules": [
+      { "name": "The LED Only Rule", "body": "Âmbar aparece no letreiro, na placa PAS, na placa do jogo, no canhoto e nas ações principais. Nunca como cor de estado informativo, nunca como fundo de aviso.", "section": "colors" },
+      { "name": "The Line Color Rule", "body": "A cor da linha identifica o jogo. Texto sobre ela é preto, nunca branco.", "section": "colors" },
+      { "name": "The Never Alone Rule", "body": "Cor nunca é o único sinal de estado: símbolo SVG e palavra acompanham.", "section": "colors" },
+      { "name": "The Dot Matrix Rule", "body": "Doto só no letreiro, na placa PAS, na placa do jogo e no canhoto. Nenhum texto de leitura em Doto.", "section": "typography" },
+      { "name": "The One Family Rule", "body": "Fora do LED, tudo é Overpass; hierarquia por peso (400, 600, 800) e tamanho.", "section": "typography" },
+      { "name": "The No Glow Rule", "body": "Sem brilho, halo ou sombra colorida. Letreiro em hover troca o anel de 2px para âmbar; nada além disso.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do usar âmbar #ffb000 só em LED e ações principais.",
+      "Do pôr texto #0b0d10 sobre toda cor de linha e de faixa.",
+      "Do dar a todo estado símbolo SVG mais palavra, nos dois temas.",
+      "Do manter alvos de 44px, foco de 3px (--focus, offset 2px) e prefers-reduced-motion.",
+      "Do desenhar ícones em SVG de traço único (2px, pontas redondas).",
+      "Do usar tokens por tema; valores de estado têm par claro e escuro."
+    ],
+    "donts": [
+      "Don't usar eyebrows ou kickers acima de títulos.",
+      "Don't pôr faixa grossa de cor na borda de cartão arredondado.",
+      "Don't usar emoji como ícone de interface (emoji só no texto de compartilhamento).",
+      "Don't usar âmbar para estado informativo.",
+      "Don't usar brilho, glow ou sombra colorida.",
+      "Don't usar Doto fora dos quatro lugares do LED.",
+      "Don't usar logotipo, nome ou cores oficiais da UnB ou do Cebraspe."
+    ]
+  }
+}

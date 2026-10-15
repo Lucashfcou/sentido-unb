@@ -1,0 +1,475 @@
+{
+ "_nota": "RASCUNHO. As coordenadas são aproximadas (centro da cidade ou do sítio) e do redator: precisam de conferência. Lugares com 'so_palpite' existem só para dar opções de busca e não viram puzzle. O PAS não lista estados, municípios nem países: os lugares vêm das obras das listas e do Distrito Federal.",
+ "colunas": [
+  "id",
+  "nome",
+  "pais",
+  "continente",
+  "lat",
+  "lon",
+  "so_palpite",
+  "apelidos"
+ ],
+ "lugares": [
+  [
+   "lalibela",
+   "Lalibela",
+   "Etiópia",
+   "África",
+   12.03,
+   39.04,
+   false,
+   []
+  ],
+  [
+   "ravena",
+   "Ravena",
+   "Itália",
+   "Europa",
+   44.42,
+   12.2,
+   false,
+   []
+  ],
+  [
+   "florenca",
+   "Florença",
+   "Itália",
+   "Europa",
+   43.77,
+   11.26,
+   false,
+   [
+    "Firenze"
+   ]
+  ],
+  [
+   "roma",
+   "Roma",
+   "Itália",
+   "Europa",
+   41.9,
+   12.5,
+   false,
+   []
+  ],
+  [
+   "atenas",
+   "Atenas",
+   "Grécia",
+   "Europa",
+   37.98,
+   23.73,
+   false,
+   []
+  ],
+  [
+   "paris",
+   "Paris",
+   "França",
+   "Europa",
+   48.86,
+   2.35,
+   false,
+   []
+  ],
+  [
+   "tombuctu",
+   "Tombuctu",
+   "Mali",
+   "África",
+   16.77,
+   -3.01,
+   false,
+   [
+    "Timbuktu"
+   ]
+  ],
+  [
+   "luxor",
+   "Luxor (Tebas ocidental)",
+   "Egito",
+   "África",
+   25.7,
+   32.64,
+   false,
+   [
+    "Sheikh Abd el-Qurna",
+    "Vale dos Nobres"
+   ]
+  ],
+  [
+   "vigo",
+   "Vigo",
+   "Espanha",
+   "Europa",
+   42.24,
+   -8.72,
+   false,
+   []
+  ],
+  [
+   "clermont",
+   "Clermont-Ferrand",
+   "França",
+   "Europa",
+   45.78,
+   3.09,
+   false,
+   [
+    "Clermont"
+   ]
+  ],
+  [
+   "capivara",
+   "Serra da Capivara (PI)",
+   "Brasil",
+   "América do Sul",
+   -8.84,
+   -42.55,
+   false,
+   [
+    "São Raimundo Nonato",
+    "Piauí"
+   ]
+  ],
+  [
+   "sobral",
+   "Sobral (CE)",
+   "Brasil",
+   "América do Sul",
+   -3.69,
+   -40.35,
+   false,
+   [
+    "Ceará"
+   ]
+  ],
+  [
+   "congonhas",
+   "Congonhas (MG)",
+   "Brasil",
+   "América do Sul",
+   -20.5,
+   -43.86,
+   false,
+   [
+    "Minas Gerais"
+   ]
+  ],
+  [
+   "recife",
+   "Recife (PE)",
+   "Brasil",
+   "América do Sul",
+   -8.05,
+   -34.88,
+   false,
+   [
+    "Pernambuco"
+   ]
+  ],
+  [
+   "salvador",
+   "Salvador (BA)",
+   "Brasil",
+   "América do Sul",
+   -12.97,
+   -38.51,
+   false,
+   [
+    "Bahia"
+   ]
+  ],
+  [
+   "porto-seguro",
+   "Porto Seguro (BA)",
+   "Brasil",
+   "América do Sul",
+   -16.45,
+   -39.06,
+   false,
+   []
+  ],
+  [
+   "rio",
+   "Rio de Janeiro (RJ)",
+   "Brasil",
+   "América do Sul",
+   -22.91,
+   -43.17,
+   false,
+   []
+  ],
+  [
+   "brasilia",
+   "Brasília (DF)",
+   "Brasil",
+   "América do Sul",
+   -15.79,
+   -47.88,
+   false,
+   [
+    "Plano Piloto",
+    "Distrito Federal"
+   ]
+  ],
+  [
+   "ceilandia",
+   "Ceilândia (DF)",
+   "Brasil",
+   "América do Sul",
+   -15.82,
+   -48.11,
+   false,
+   []
+  ],
+  [
+   "sao-paulo",
+   "São Paulo (SP)",
+   "Brasil",
+   "América do Sul",
+   -23.55,
+   -46.63,
+   true,
+   []
+  ],
+  [
+   "manaus",
+   "Manaus (AM)",
+   "Brasil",
+   "América do Sul",
+   -3.12,
+   -60.02,
+   true,
+   []
+  ],
+  [
+   "cairo",
+   "Cairo",
+   "Egito",
+   "África",
+   30.04,
+   31.24,
+   true,
+   []
+  ],
+  [
+   "londres",
+   "Londres",
+   "Reino Unido",
+   "Europa",
+   51.51,
+   -0.13,
+   true,
+   []
+  ],
+  [
+   "nairobi",
+   "Nairóbi",
+   "Quênia",
+   "África",
+   -1.29,
+   36.82,
+   true,
+   []
+  ],
+  [
+   "principe",
+   "Ilha do Príncipe",
+   "São Tomé e Príncipe",
+   "África",
+   1.61,
+   7.4,
+   false,
+   [
+    "Principe",
+    "São Tomé e Príncipe"
+   ]
+  ]
+ ],
+ "puzzles": [
+  {
+   "id": "g01",
+   "etapa": "PAS 1",
+   "answer": "lalibela",
+   "enunciado": "Onde fica a Igreja de São Jorge, escavada na rocha?",
+   "dicas": [
+    "Fica na África.",
+    "O país é a Etiópia."
+   ],
+   "explain": "As igrejas de Lalibela, na Etiópia, foram escavadas na rocha. A de São Jorge está na lista de artes visuais do PAS 1.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Artes Visuais 11",
+   "fonte": "Lista de obras do PAS 1. Localização: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "g02",
+   "etapa": "PAS 1",
+   "answer": "ravena",
+   "enunciado": "Onde fica o Mosaico de Teodora, na Basílica de San Vitale?",
+   "dicas": [
+    "Fica na Europa.",
+    "O país é a Itália, perto do mar Adriático."
+   ],
+   "explain": "O mosaico de Teodora está na Basílica de San Vitale, em Ravena, na Itália. A lista informa o local.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Artes Visuais 8",
+   "fonte": "Lista de obras do PAS 1 (informa Ravena, Itália).",
+   "verificar": false
+  },
+  {
+   "id": "g03",
+   "etapa": "PAS 1",
+   "answer": "florenca",
+   "enunciado": "Onde fica a cúpula da Catedral de Santa Maria del Fiore, projetada por Brunelleschi?",
+   "dicas": [
+    "Fica na Europa.",
+    "O país é a Itália, na região da Toscana."
+   ],
+   "explain": "A cúpula de Brunelleschi coroa a catedral de Florença, e o 'Juízo Final' de Vasari e Zuccari foi pintado dentro dela. A lista informa Florença.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Artes Visuais 9 e 10",
+   "fonte": "Lista de obras do PAS 1 (informa Florença, Itália).",
+   "verificar": false
+  },
+  {
+   "id": "g04",
+   "etapa": "PAS 1",
+   "answer": "tombuctu",
+   "enunciado": "Em que cidade fica a Universidade de Sankore, mesquita e madraça medieval?",
+   "dicas": [
+    "Fica na África, ao sul do Saara.",
+    "O país é o Mali, às margens do rio Níger."
+   ],
+   "explain": "A mesquita e madraça de Sankore ficam em Tombuctu, no Mali. A lista informa o país.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Artes Visuais 2",
+   "fonte": "Lista de obras do PAS 1 (informa Mali). A cidade: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "g05",
+   "etapa": "PAS 1",
+   "answer": "capivara",
+   "enunciado": "Onde fica a Toca da Entrada do Baixão da Vaca, com pinturas rupestres?",
+   "dicas": [
+    "Fica na América do Sul, no Nordeste.",
+    "O estado é o Piauí."
+   ],
+   "explain": "A toca fica no Parque Nacional da Serra da Capivara, no Piauí, informa a lista do PAS 1.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Artes Visuais 4",
+   "fonte": "Lista de obras do PAS 1 (informa o parque e o Piauí). Coordenada: aproximada.",
+   "verificar": true
+  },
+  {
+   "id": "g06",
+   "etapa": "PAS 3",
+   "answer": "sobral",
+   "enunciado": "Em que cidade brasileira astrônomos observaram o eclipse de 1919 para testar a relatividade?",
+   "dicas": [
+    "Fica no Nordeste do Brasil.",
+    "O estado é o Ceará."
+   ],
+   "explain": "O eclipse de Sobral, no Ceará, está na lista de audiovisuais do PAS 3 (prévia de 2024).",
+   "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Audiovisuais 1",
+   "fonte": "Lista de obras do PAS 3. O ano e a cidade: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "g07",
+   "etapa": "PAS 2",
+   "answer": "congonhas",
+   "enunciado": "Onde fica a Capela da Santa Ceia, com as estações de Aleijadinho?",
+   "dicas": [
+    "Fica no Sudeste do Brasil.",
+    "O estado é Minas Gerais."
+   ],
+   "explain": "A Estação Capela da Santa Ceia faz parte do Santuário de Congonhas, em Minas Gerais.",
+   "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Artes Visuais 1",
+   "fonte": "Lista de obras do PAS 2 (cita 'Santuário de Congonhas').",
+   "verificar": false
+  },
+  {
+   "id": "g08",
+   "etapa": "PAS 1",
+   "answer": "clermont",
+   "enunciado": "Em que cidade francesa o papa Urbano II fez o discurso do Concílio de 1095?",
+   "dicas": [
+    "Fica na Europa.",
+    "O país é a França, na região da Auvérnia."
+   ],
+   "explain": "O Concílio de Clermont aconteceu na atual Clermont-Ferrand, na França. O discurso está na lista de textos do PAS 1.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Textos 8",
+   "fonte": "Lista de obras do PAS 1 (título 'Concílio de Clermont'). A cidade atual: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "g09",
+   "etapa": "PAS 1",
+   "answer": "porto-seguro",
+   "enunciado": "De que porto Pero Vaz de Caminha escreveu a carta ao rei sobre o achamento do Brasil?",
+   "dicas": [
+    "Fica no litoral do Nordeste do Brasil.",
+    "O estado é a Bahia."
+   ],
+   "explain": "A carta foi escrita em Porto Seguro, na Bahia, segundo o que o texto e os livros de história registram.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Literaturas 10",
+   "fonte": "Lista de obras do PAS 1. O local de escrita: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "g10",
+   "etapa": "PAS 2",
+   "answer": "ceilandia",
+   "enunciado": "O filme 'A cidade é uma só?', de Adirley Queirós, passa-se em que cidade do Distrito Federal?",
+   "dicas": [
+    "Fica no Distrito Federal, a oeste do Plano Piloto.",
+    "O nome vem da sigla de uma antiga campanha de erradicação de invasões."
+   ],
+   "explain": "O filme de Adirley Queirós (2020), da lista do PAS 2, é ambientado em Ceilândia, no DF.",
+   "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Audiovisuais 1",
+   "fonte": "Lista de obras do PAS 2. O local de ambientação: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "g11",
+   "etapa": "PAS 2",
+   "answer": "paris",
+   "enunciado": "Em que cidade fica a Torre Eiffel, que dá nome a uma obra de artes visuais da lista do PAS 2?",
+   "dicas": [
+    "Fica na Europa.",
+    "O país é a França, às margens do rio Sena."
+   ],
+   "explain": "A Torre Eiffel fica em Paris. A lista do PAS 2 traz uma obra com esse tema, de Georges Seurat.",
+   "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Artes Visuais 4",
+   "fonte": "Lista de obras do PAS 2. A localização: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "g12",
+   "etapa": "PAS 3",
+   "answer": "rio",
+   "enunciado": "Em que cidade fica o Palácio Capanema, que abriga painéis de Portinari?",
+   "dicas": [
+    "Fica no Sudeste do Brasil, no litoral.",
+    "É a antiga capital federal."
+   ],
+   "explain": "O Palácio Capanema fica no Rio de Janeiro. A lista do PAS 3 cita o complexo arquitetônico e os painéis 'Ciclos Econômicos', de Portinari.",
+   "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Artes Visuais 2 e 3",
+   "fonte": "Lista de obras do PAS 3 (informa o Rio de Janeiro).",
+   "verificar": true
+  },
+  {
+   "id": "g13",
+   "etapa": "PAS 3",
+   "answer": "principe",
+   "enunciado": "Além de Sobral, em que ilha africana o eclipse de 1919 foi observado para testar a relatividade?",
+   "dicas": [
+    "Fica na África, no golfo da Guiné.",
+    "O país tem 'São Tomé' no nome."
+   ],
+   "explain": "Uma das expedições ao eclipse de 1919 foi à ilha do Príncipe, hoje parte de São Tomé e Príncipe. O eclipse de Sobral está na lista do PAS 3.",
+   "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Audiovisuais 1",
+   "fonte": "Lista de obras do PAS 3. A expedição à ilha: conhecimento geral, a confirmar.",
+   "verificar": true
+  }
+ ]
+}

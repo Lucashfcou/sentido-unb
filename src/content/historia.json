@@ -1,0 +1,1355 @@
+{
+ "_nota": "RASCUNHO. O PAS não publica uma lista de eventos: cada item se apoia no período da Matriz ou numa obra da lista, e o ano vem de conhecimento geral (por isso verificar=true até o professor confirmar). Ano negativo = a.C.",
+ "eventos": [
+  {
+   "id": "h01",
+   "etapa": "PAS 1",
+   "materia": "Filosofia",
+   "ano": -399,
+   "cena": "Um filósofo já idoso é julgado por centenas de cidadãos em Atenas e acaba condenado.",
+   "dicas": [
+    "A defesa dele foi registrada por um discípulo, Platão.",
+    "Aconteceu no século IV a.C."
+   ],
+   "explain": "O julgamento de Sócrates, em 399 a.C., é o cenário da 'Apologia de Sócrates', de Platão, obra da lista do PAS 1.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Textos 1",
+   "fonte": "Lista de obras do PAS 1. Ano do julgamento: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h02",
+   "etapa": "PAS 1",
+   "materia": "História",
+   "ano": 1095,
+   "cena": "Um papa pede a uma multidão, no centro da França, que parta em armas para o Oriente.",
+   "dicas": [
+    "O papa era Urbano II e a cidade, Clermont.",
+    "Aconteceu no século XI."
+   ],
+   "explain": "O discurso de Urbano II no Concílio de Clermont, em 1095, é obra da lista do PAS 1 e é lembrado como o ponto de partida das Cruzadas.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Textos 8",
+   "fonte": "Lista de obras do PAS 1. Ano: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h03",
+   "etapa": "PAS 1",
+   "materia": "Literatura",
+   "ano": 1500,
+   "cena": "Uma frota portuguesa avista terra do outro lado do Atlântico, e o escrivão conta tudo ao rei numa carta.",
+   "dicas": [
+    "A frota era comandada por Pedro Álvares Cabral.",
+    "Aconteceu no século XVI, logo no primeiro ano."
+   ],
+   "explain": "A carta de Pero Vaz de Caminha ao rei Dom Manuel, de 1500, está na lista de literaturas do PAS 1 (trechos selecionados) e é do Quinhentismo.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Literaturas 10; Matriz PAS 1, Linguagens, conhecimento 16",
+   "fonte": "Lista de obras do PAS 1. Ano: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h04",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1789,
+   "cena": "Em Paris, uma multidão toma uma prisão-fortaleza e o Antigo Regime começa a ruir.",
+   "dicas": [
+    "É a tomada da Bastilha, na Revolução Francesa.",
+    "Aconteceu no século XVIII."
+   ],
+   "explain": "A Revolução Francesa abre a 'Era das Revoluções (1780-1850)', período citado na Matriz do PAS 2.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimento essencial 14",
+   "fonte": "Matriz PAS 2 (dez/2022). Data da Bastilha: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h05",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1822,
+   "cena": "Às margens de um riacho em São Paulo, um príncipe português declara que o Brasil não obedece mais a Lisboa.",
+   "dicas": [
+    "É o Grito do Ipiranga, de Dom Pedro I.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "A Independência do Brasil faz parte dos processos de formação dos Estados nacionais e das rupturas da colonização da América Portuguesa, temas da Matriz do PAS 2.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos 8 e 9",
+   "fonte": "Matriz PAS 2 (dez/2022). Data e personagens: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h06",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1888,
+   "cena": "Uma lei de apenas dois artigos encerra oficialmente a escravidão no Brasil.",
+   "dicas": [
+    "É a Lei Áurea, assinada pela Princesa Isabel.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "A abolição fecha um longo processo de resistência ao escravismo. A Matriz do PAS 2 pede os movimentos de resistência e a construção do racismo no Brasil.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos 11 e 13",
+   "fonte": "Matriz PAS 2 (dez/2022). Lei Áurea: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h07",
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "ano": 1919,
+   "cena": "No Ceará e numa ilha da África, astrônomos fotografam um eclipse do Sol para testar uma teoria de Einstein.",
+   "dicas": [
+    "A teoria era a da relatividade geral, e uma das cidades era Sobral.",
+    "Aconteceu no século XX, logo depois de uma guerra mundial."
+   ],
+   "explain": "O eclipse de Sobral está na lista de audiovisuais do PAS 3, e a Matriz do PAS 3 cita as teorias da relatividade na Física Moderna.",
+   "origem_pas": "Lista de obras PAS 3 (prévia jun/2024), Audiovisuais 1; Matriz PAS 3, Ciências da Natureza, Físicos 05",
+   "fonte": "Lista de obras do PAS 3. Ano do eclipse: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h08",
+   "etapa": "PAS 1",
+   "materia": "Sociologia",
+   "ano": 1988,
+   "cena": "O Brasil ganha uma Constituição apelidada de Cidadã.",
+   "dicas": [
+    "O artigo 5º, que lista direitos e garantias, está na lista de obras do PAS 1.",
+    "Aconteceu no século XX, depois do fim da ditadura militar."
+   ],
+   "explain": "Os incisos I a XII do artigo 5º da Constituição estão na lista de textos do PAS 1.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Textos 14",
+   "fonte": "Lista de obras do PAS 1. Ano de promulgação: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h09",
+   "etapa": "PAS 2",
+   "materia": "Sociologia",
+   "ano": 2006,
+   "cena": "Uma lei federal passa a punir a violência doméstica e familiar contra a mulher.",
+   "dicas": [
+    "Leva o nome de uma farmacêutica cearense que sobreviveu a duas tentativas de homicídio do marido.",
+    "Aconteceu no século XXI, no governo Lula."
+   ],
+   "explain": "A Lei Maria da Penha (Lei 11.340, de 7 de agosto de 2006) está na lista de textos do PAS 2.",
+   "origem_pas": "Lista de obras PAS 2 (prévia jun/2024), Textos 10",
+   "fonte": "Lista de obras do PAS 2 (o número e a data da lei constam na referência). Biografia: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h10",
+   "etapa": "PAS 3",
+   "materia": "História",
+   "ano": 1939,
+   "cena": "Tropas alemãs cruzam a fronteira da Polônia e a Europa entra em guerra de novo.",
+   "dicas": [
+    "Foi o começo da Segunda Guerra Mundial.",
+    "Aconteceu no século XX, pouco mais de vinte anos depois do fim da Primeira Guerra."
+   ],
+   "explain": "A invasão da Polônia, em setembro de 1939, abriu a Segunda Guerra Mundial. A Matriz do PAS 3 pede os conflitos imperialistas dos séculos XIX e XX.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento essencial 7",
+   "fonte": "Matriz PAS 3 (dez/2022). Data: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h11",
+   "etapa": "PAS 3",
+   "materia": "Sociologia",
+   "ano": 1948,
+   "cena": "Representantes de vários países aprovam um texto que lista direitos de todo ser humano.",
+   "dicas": [
+    "É a Declaração Universal dos Direitos Humanos, aprovada pela ONU.",
+    "Aconteceu no século XX, poucos anos depois do fim da Segunda Guerra."
+   ],
+   "explain": "A Declaração Universal dos Direitos Humanos foi adotada pela ONU em 1948. A Matriz do PAS 3 tem como tema geral Direitos Humanos, política e cidadania.",
+   "origem_pas": "Matriz PAS 3, Humanidades, temas gerais e conhecimentos 2 e 13",
+   "fonte": "Matriz PAS 3 (dez/2022). Data: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h12",
+   "etapa": "PAS 3",
+   "materia": "Geografia",
+   "ano": 1989,
+   "cena": "Uma multidão derruba, aos poucos, o muro que dividia uma cidade europeia em duas.",
+   "dicas": [
+    "O muro ficava em Berlim.",
+    "Aconteceu no século XX, perto do fim da Guerra Fria."
+   ],
+   "explain": "A queda do Muro de Berlim, em 1989, é um marco do fim da Guerra Fria. A Matriz do PAS 3 pede geopolítica mundial e projetos políticos autoritários e democráticos.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 8 e 21",
+   "fonte": "Matriz PAS 3 (dez/2022). O evento e a data: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h13",
+   "etapa": "PAS 1",
+   "materia": "História",
+   "ano": 1492,
+   "cena": "Navegantes europeus chegam a uma ilha do Caribe achando que alcançaram a Ásia.",
+   "dicas": [
+    "O comandante era um genovês a serviço da Espanha: Cristóvão Colombo.",
+    "Aconteceu no século XV, poucos anos antes de os portugueses chegarem ao Brasil."
+   ],
+   "explain": "A chegada de Colombo à América, em 1492, abre a invasão europeia do continente e o espaço Atlântico que a Matriz do PAS 1 pede.",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimentos essenciais 17 e 18",
+   "fonte": "Matriz PAS 1 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h14",
+   "etapa": "PAS 1",
+   "materia": "História",
+   "ano": 1494,
+   "cena": "Dois reinos ibéricos traçam uma linha imaginária para repartir as terras novas do Atlântico.",
+   "dicas": [
+    "É o Tratado de Tordesilhas, entre Portugal e Espanha.",
+    "Aconteceu no século XV, dois anos depois de Colombo chegar à América."
+   ],
+   "explain": "O Tratado de Tordesilhas dividiu o Novo Mundo entre Portugal e Espanha, e faz parte da construção do espaço Atlântico.",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimento essencial 17",
+   "fonte": "Matriz PAS 1 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h15",
+   "etapa": "PAS 1",
+   "materia": "História",
+   "ano": 80,
+   "cena": "Roma inaugura um anfiteatro enorme, com jogos que duraram dias.",
+   "dicas": [
+    "É o Coliseu, ou Anfiteatro Flaviano.",
+    "Aconteceu no século I d.C., no reinado do imperador Tito."
+   ],
+   "explain": "O Coliseu está na lista de artes visuais do PAS 1 e foi inaugurado em 80 d.C.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Artes Visuais 7",
+   "fonte": "Lista de obras PAS 1 2026-2028. A data de inauguração é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h16",
+   "etapa": "PAS 1",
+   "materia": "História",
+   "ano": 476,
+   "cena": "O último imperador romano do Ocidente é deposto e o império chega ao fim.",
+   "dicas": [
+    "Quem o depôs foi um chefe germânico, Odoacro.",
+    "Aconteceu no século V, e muitos historiadores veem aí o fim da Antiguidade."
+   ],
+   "explain": "A queda do Império Romano do Ocidente, em 476, abre o caminho para as cidades-estado e as monarquias nacionais que a Matriz do PAS 1 cita.",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimento essencial 19",
+   "fonte": "Matriz PAS 1 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h17",
+   "etapa": "PAS 1",
+   "materia": "Artes Visuais",
+   "ano": 547,
+   "cena": "Em Ravena, uma basílica é consagrada, com mosaicos de um imperador e de uma imperatriz.",
+   "dicas": [
+    "É a basílica de San Vitale, onde está o mosaico de Teodora.",
+    "Aconteceu no século VI, no tempo do Império Bizantino."
+   ],
+   "explain": "O mosaico de Teodora, da lista do PAS 1, decora a basílica de San Vitale, consagrada por volta de 547.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Artes Visuais 8",
+   "fonte": "Lista de obras PAS 1 2026-2028. A data de consagração é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h18",
+   "etapa": "PAS 1",
+   "materia": "Artes Visuais",
+   "ano": 1436,
+   "cena": "A catedral de Florença é consagrada com a sua enorme cúpula já erguida.",
+   "dicas": [
+    "O arquiteto era Filippo Brunelleschi.",
+    "Aconteceu no século XV, no Renascimento italiano."
+   ],
+   "explain": "A cúpula de Brunelleschi está na lista de artes visuais do PAS 1. A catedral foi consagrada em 1436.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Artes Visuais 10",
+   "fonte": "Lista de obras PAS 1 2026-2028. A data de consagração é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h19",
+   "etapa": "PAS 1",
+   "materia": "Literatura",
+   "ano": 1572,
+   "cena": "Um poema épico sobre a viagem dos portugueses até a Índia é publicado.",
+   "dicas": [
+    "A obra narra a viagem de Vasco da Gama.",
+    "Aconteceu no século XVI, no Classicismo português."
+   ],
+   "explain": "'Os Lusíadas', de Camões, é um épico do Classicismo. A lista do PAS 1 traz poemas de Camões e a Matriz cita o gênero épico e o Classicismo.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Literaturas 7 e 8; Matriz PAS 1, Linguagens, conhecimentos 16 e 18",
+   "fonte": "Lista de obras PAS 1 2026-2028. A data de publicação é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h20",
+   "etapa": "PAS 1",
+   "materia": "Literatura",
+   "ano": 1655,
+   "cena": "Num sermão, um padre jesuíta compara reis e ladrões diante da plateia.",
+   "dicas": [
+    "É o 'Sermão do Bom Ladrão', de Antônio Vieira.",
+    "Aconteceu no século XVII, no Barroco."
+   ],
+   "explain": "O Sermão do Bom Ladrão está na lista de literaturas do PAS 1 e é do Barroco, estilo de época da Matriz.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Literaturas 15; Matriz PAS 1, Linguagens, conhecimento 16",
+   "fonte": "Lista de obras PAS 1 2026-2028. A data do sermão é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h21",
+   "etapa": "PAS 1",
+   "materia": "História",
+   "ano": 1789,
+   "cena": "Intelectuais e militares de Minas Gerais conspiram contra a cobrança de impostos pela Coroa.",
+   "dicas": [
+    "É a Inconfidência Mineira, da qual participou o poeta árcade Cláudio Manuel da Costa.",
+    "Aconteceu no século XVIII, no auge do ciclo do ouro."
+   ],
+   "explain": "A Inconfidência Mineira marca o Arcadismo no Brasil. Cláudio Manuel da Costa está na lista de literaturas do PAS 1.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Literaturas 16 e 17",
+   "fonte": "Matriz PAS 1 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h22",
+   "etapa": "PAS 1",
+   "materia": "Geografia",
+   "ano": 1960,
+   "cena": "O Brasil muda de capital: uma cidade planejada no Planalto Central é inaugurada.",
+   "dicas": [
+    "O plano foi de Lúcio Costa e os prédios principais são de Oscar Niemeyer.",
+    "Aconteceu no século XX, no governo de Juscelino Kubitschek."
+   ],
+   "explain": "A inauguração de Brasília é o contexto da 'Sinfonia 2 – Brasília', de Guerra Peixe, que está na lista de músicas do PAS 1.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Música 11",
+   "fonte": "Matriz PAS 1 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h23",
+   "etapa": "PAS 1",
+   "materia": "Sociologia",
+   "ano": 1962,
+   "cena": "Brasília ganha uma universidade pensada para repensar o ensino superior do país.",
+   "dicas": [
+    "Os idealizadores foram Darcy Ribeiro e Anísio Teixeira.",
+    "Aconteceu no século XX, dois anos depois da inauguração da capital."
+   ],
+   "explain": "A UnB, que aplica o PAS, foi fundada em 1962. O nome de Darcy Ribeiro aparece na lista do PAS 1, na música 'Obrigado Darcy' e na Revista Darcy.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Música 4 e Textos 15",
+   "fonte": "Matriz PAS 1 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h24",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1780,
+   "cena": "Um líder indígena comanda uma grande rebelião contra a Coroa espanhola nos Andes.",
+   "dicas": [
+    "É Túpac Amaru II, e a revolta atingiu o Peru e regiões vizinhas.",
+    "Aconteceu no século XVIII, perto do começo da Era das Revoluções."
+   ],
+   "explain": "A rebelião de Túpac Amaru II é uma das resistências indígenas nas regiões colonizadas que a Matriz do PAS 2 pede.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimento essencial 11",
+   "fonte": "Matriz PAS 2 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h25",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1750,
+   "cena": "Portugal e Espanha refazem a divisão da América do Sul, e o Brasil ganha um desenho próximo do atual.",
+   "dicas": [
+    "É o Tratado de Madri, que substituiu o de Tordesilhas.",
+    "Aconteceu no século XVIII, em plena exploração do ouro."
+   ],
+   "explain": "O Tratado de Madri está ligado às rupturas e permanências da colonização da América Portuguesa que a Matriz do PAS 2 pede.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimento essencial 08",
+   "fonte": "Matriz PAS 2 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h26",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1804,
+   "cena": "Ex-escravizados derrotam exércitos europeus e fundam um país nas Américas.",
+   "dicas": [
+    "É a Revolução Haitiana, que fez do Haiti o primeiro país negro independente.",
+    "Aconteceu no século XIX, logo no começo."
+   ],
+   "explain": "A Revolução Haitiana une resistência ao escravismo e Era das Revoluções, dois temas da Matriz do PAS 2.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos essenciais 11 e 14",
+   "fonte": "Matriz PAS 2 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h27",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1808,
+   "cena": "Uma corte europeia inteira desembarca no Rio de Janeiro e a colônia vira sede do reino.",
+   "dicas": [
+    "A corte era a portuguesa, fugindo das tropas de Napoleão.",
+    "Aconteceu no século XIX, no ano em que os portos brasileiros foram abertos às nações amigas."
+   ],
+   "explain": "A vinda da corte portuguesa é um marco da formação do Estado nacional no Brasil, tema da Matriz do PAS 2.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos essenciais 08 e 09",
+   "fonte": "Matriz PAS 2 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h28",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1815,
+   "cena": "As potências europeias redesenham o mapa depois da queda de um imperador francês.",
+   "dicas": [
+    "O imperador era Napoleão, derrotado em Waterloo.",
+    "Aconteceu no século XIX, no começo."
+   ],
+   "explain": "O Congresso de Viena redesenhou a Europa depois de Napoleão, no contexto dos Estados nacionais e dos nacionalismos da Matriz do PAS 2.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos essenciais 09, 14 e 15",
+   "fonte": "Matriz PAS 2 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h29",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1848,
+   "cena": "Revoltas liberais e nacionalistas estouram em várias capitais europeias ao mesmo tempo.",
+   "dicas": [
+    "É chamada de Primavera dos Povos.",
+    "Aconteceu no século XIX, perto do fim da Era das Revoluções."
+   ],
+   "explain": "A Primavera dos Povos é um dos últimos grandes movimentos da Era das Revoluções (1780-1850) que a Matriz do PAS 2 cita.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimento essencial 14",
+   "fonte": "Matriz PAS 2 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h30",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1850,
+   "cena": "O Brasil proíbe, por lei, a entrada de novos africanos escravizados.",
+   "dicas": [
+    "É a Lei Eusébio de Queirós, que encerrou o tráfico negreiro.",
+    "Aconteceu no século XIX, 38 anos antes da abolição."
+   ],
+   "explain": "A lei que proibiu o tráfico faz parte das resistências ao escravismo e da construção do racismo no Brasil, temas da Matriz do PAS 2.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos essenciais 11 e 13",
+   "fonte": "Matriz PAS 2 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h31",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1871,
+   "cena": "Uma lei declara livres os filhos de mulheres escravizadas nascidos a partir dali.",
+   "dicas": [
+    "É a Lei do Ventre Livre.",
+    "Aconteceu no século XIX, dezessete anos antes da Lei Áurea."
+   ],
+   "explain": "A Lei do Ventre Livre é uma etapa do fim gradual da escravidão, tema de resistências e de racismo na Matriz do PAS 2.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos essenciais 11 e 13",
+   "fonte": "Matriz PAS 2 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h32",
+   "etapa": "PAS 3",
+   "materia": "História",
+   "ano": 1914,
+   "cena": "Um atentado em Sarajevo desencadeia uma guerra que arrasta as grandes potências europeias.",
+   "dicas": [
+    "É o começo da Primeira Guerra Mundial.",
+    "Aconteceu no século XX, no auge da corrida imperialista."
+   ],
+   "explain": "A Primeira Guerra faz parte dos conflitos imperialistas dos séculos XIX e XX que a Matriz do PAS 3 pede.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento essencial 7",
+   "fonte": "Matriz PAS 3 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h33",
+   "etapa": "PAS 3",
+   "materia": "História",
+   "ano": 1917,
+   "cena": "Operários e soldados derrubam um governo e começam a montar um Estado socialista.",
+   "dicas": [
+    "É a Revolução Russa.",
+    "Aconteceu no século XX, no meio da Primeira Guerra Mundial."
+   ],
+   "explain": "A Revolução Russa liga-se aos confrontos entre capital e trabalho e aos projetos políticos do século XX, temas da Matriz do PAS 3.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos essenciais 8 e 12",
+   "fonte": "Matriz PAS 3 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h34",
+   "etapa": "PAS 3",
+   "materia": "Sociologia",
+   "ano": 1945,
+   "cena": "Cinquenta países assinam uma carta para criar uma organização que evite novas guerras.",
+   "dicas": [
+    "A organização é a ONU.",
+    "Aconteceu no século XX, no fim da Segunda Guerra Mundial."
+   ],
+   "explain": "A ONU é o mais conhecido dos organismos multilaterais que a Matriz do PAS 3 cita.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento essencial 22",
+   "fonte": "Matriz PAS 3 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h35",
+   "etapa": "PAS 3",
+   "materia": "História",
+   "ano": 1964,
+   "cena": "Militares derrubam um presidente civil no Brasil e começam um regime que dura décadas.",
+   "dicas": [
+    "É o golpe que inaugurou a ditadura militar.",
+    "Aconteceu no século XX, durante a Guerra Fria."
+   ],
+   "explain": "O golpe de 1964 é um projeto político autoritário no Brasil, tema da Matriz do PAS 3, que também trata do Estado Democrático de Direito.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos essenciais 8 e 25",
+   "fonte": "Matriz PAS 3 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h36",
+   "etapa": "PAS 3",
+   "materia": "História",
+   "ano": 1985,
+   "cena": "Depois de mais de vinte anos de militares, um civil assume a Presidência da República.",
+   "dicas": [
+    "A transição foi negociada, e o presidente eleito morreu antes de tomar posse.",
+    "Aconteceu no século XX, três anos antes da Constituição Cidadã."
+   ],
+   "explain": "O fim do regime militar abre caminho para o Estado Democrático de Direito que a Matriz do PAS 3 cita.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento essencial 25",
+   "fonte": "Matriz PAS 3 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h37",
+   "etapa": "PAS 3",
+   "materia": "Geografia",
+   "ano": 1991,
+   "cena": "Quatro países sul-americanos assinam um tratado para formar um mercado comum.",
+   "dicas": [
+    "É o Mercosul, criado pelo Tratado de Assunção.",
+    "Aconteceu no século XX, no começo da década de 1990."
+   ],
+   "explain": "O Mercosul é um bloco econômico, tema da Matriz do PAS 3.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento essencial 23",
+   "fonte": "Matriz PAS 3 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h38",
+   "etapa": "PAS 3",
+   "materia": "Geografia",
+   "ano": 1993,
+   "cena": "Doze países europeus passam a formar uma união com instituições próprias.",
+   "dicas": [
+    "É a União Europeia, criada pelo Tratado de Maastricht.",
+    "Aconteceu no século XX, logo depois do fim da União Soviética."
+   ],
+   "explain": "A União Europeia é o bloco econômico mais integrado do mundo, e blocos econômicos aparecem na Matriz do PAS 3.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento essencial 23",
+   "fonte": "Matriz PAS 3 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h39",
+   "etapa": "PAS 3",
+   "materia": "Geografia",
+   "ano": 1995,
+   "cena": "Uma organização passa a cuidar das regras do comércio entre os países.",
+   "dicas": [
+    "É a Organização Mundial do Comércio.",
+    "Aconteceu no século XX, substituindo o GATT."
+   ],
+   "explain": "A OMC é um organismo multilateral, tema da Matriz do PAS 3.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento essencial 22",
+   "fonte": "Matriz PAS 3 (dez/2022). A data é conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h40",
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "ano": 1543,
+   "cena": "Um cônego polonês publica um livro que coloca o Sol, e não a Terra, no centro do sistema.",
+   "dicas": [
+    "O autor era astrônomo e o livro saiu perto do fim da vida dele.",
+    "Aconteceu no século XVI."
+   ],
+   "explain": "Nicolau Copérnico publicou 'De revolutionibus orbium coelestium' e propôs o modelo heliocêntrico. A Matriz do PAS 1 cita Observações e Modelos astronômicos e a História da Mecânica e da Astronomia.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 02 e 04 (Observações e Modelos astronômicos; História da Mecânica e da Astronomia)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h41",
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "ano": 1610,
+   "cena": "Um italiano publica o que viu pela luneta: montanhas na Lua e quatro luas girando em volta de Júpiter.",
+   "dicas": [
+    "O livrinho tinha título em latim e ficou famoso como 'o mensageiro das estrelas'.",
+    "Aconteceu no século XVII."
+   ],
+   "explain": "Galileu Galilei publicou o 'Sidereus Nuncius', com as primeiras observações astronômicas feitas com luneta. A Matriz do PAS 1 cita Observações e Modelos astronômicos.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 02 e 04 (Observações e Modelos astronômicos; História da Mecânica e da Astronomia)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h42",
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "ano": 1687,
+   "cena": "Um inglês publica um tratado que explica o movimento na Terra e no céu com três leis e uma força de atração entre as massas.",
+   "dicas": [
+    "O título em latim começa com 'Princípios Matemáticos'.",
+    "Aconteceu no século XVII."
+   ],
+   "explain": "Isaac Newton publicou os 'Principia', com as leis do movimento e a gravitação universal, base da Mecânica Newtoniana que a Matriz do PAS 1 cita.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 01 (Mecânica Newtoniana: Leis de Newton; Gravitação Universal)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h43",
+   "etapa": "PAS 1",
+   "materia": "Geografia",
+   "ano": 1569,
+   "cena": "Um cartógrafo flamengo lança um mapa-múndi em que os meridianos viram retas paralelas, ótimo para navegar em linha reta.",
+   "dicas": [
+    "A projeção leva o nome do autor.",
+    "Aconteceu no século XVI."
+   ],
+   "explain": "Gerardus Mercator apresentou o mapa-múndi com a projeção cilíndrica que leva o nome dele. A Matriz do PAS 1 pede leitura da linguagem cartográfica.",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimento 23 (Linguagem cartográfica e imagética)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h44",
+   "etapa": "PAS 1",
+   "materia": "História",
+   "ano": 1769,
+   "cena": "Um engenheiro escocês patenteia um condensador separado que torna a máquina a vapor muito mais eficiente.",
+   "dicas": [
+    "A invenção ajudaria a mover fábricas e, depois, locomotivas.",
+    "Aconteceu no século XVIII."
+   ],
+   "explain": "James Watt patenteou o condensador separado, um passo da Revolução Industrial. A Matriz do PAS 1 pede análise dos impactos das revoluções industriais.",
+   "origem_pas": "Matriz PAS 1, Humanidades, PAS1CH17 (impactos das revoluções industriais e tecnológicas)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h45",
+   "etapa": "PAS 1",
+   "materia": "Biologia",
+   "ano": 1839,
+   "cena": "Um zoólogo alemão publica um livro afirmando que os animais também são feitos de células, como já se dizia das plantas.",
+   "dicas": [
+    "Ele se apoiou no trabalho de um botânico amigo.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "Theodor Schwann apresentou, em 1839, a ideia de que animais e plantas são formados por células. Foi um passo da Teoria Celular, que a Matriz do PAS 1 cita em Citologia.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Biológicos 12 (Citologia: Teoria Celular)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h46",
+   "etapa": "PAS 1",
+   "materia": "Química",
+   "ano": 1869,
+   "cena": "Um químico russo organiza os elementos conhecidos em uma tabela e deixa espaços para os que ainda não existiam no papel.",
+   "dicas": [
+    "Ele ordenou pelas massas atômicas e pelas propriedades.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "Dmitri Mendeleev apresentou a tabela periódica e previu elementos ainda não descobertos. A Matriz do PAS 1 cita a Tabela Periódica nas Ligações químicas.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Químicos 08 (Tabela Periódica)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h47",
+   "etapa": "PAS 1",
+   "materia": "Química",
+   "ano": 1897,
+   "cena": "Um físico inglês mostra que os raios catódicos são partículas bem menores que o átomo.",
+   "dicas": [
+    "O modelo atômico dele ficou conhecido por uma sobremesa com passas.",
+    "Aconteceu no finalzinho do século XIX."
+   ],
+   "explain": "J. J. Thomson identificou o elétron e propôs o modelo do 'pudim de passas'. A Matriz do PAS 1 cita Modelos atômicos.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Químicos 07 (Constituição da matéria: Modelos atômicos)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h48",
+   "etapa": "PAS 1",
+   "materia": "Química",
+   "ano": 1911,
+   "cena": "Um neozelandês, trabalhando na Inglaterra, interpreta o choque de partículas contra uma folha de ouro e propõe um átomo com núcleo pequeno e denso.",
+   "dicas": [
+    "Quase todas as partículas atravessavam a folha; poucas voltavam.",
+    "Aconteceu no começo do século XX."
+   ],
+   "explain": "Ernest Rutherford propôs o modelo nuclear do átomo. A Matriz do PAS 1 cita Modelos atômicos e Radioatividade.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Químicos 07 (Modelos atômicos); PAS1CN5",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h49",
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "ano": 1905,
+   "cena": "Um funcionário de um escritório de patentes na Suíça publica artigos que mudam a Física, entre eles a relatividade restrita.",
+   "dicas": [
+    "A ideia: tempo e espaço dependem do movimento do observador.",
+    "Aconteceu na primeira década do século XX."
+   ],
+   "explain": "Albert Einstein publicou a teoria da relatividade restrita. A Matriz do PAS 1 cita Espaço-tempo na Introdução à Física Moderna.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 03 (Introdução à Física Moderna: Espaço-tempo)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h50",
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "ano": 1927,
+   "cena": "Um jovem físico alemão propõe que não se pode medir, ao mesmo tempo e com precisão total, a posição e a velocidade de uma partícula.",
+   "dicas": [
+    "O nome do princípio tem a palavra 'incerteza'.",
+    "Aconteceu no século XX, nos anos vinte."
+   ],
+   "explain": "Werner Heisenberg formulou o Princípio da Incerteza, que a Matriz do PAS 1 cita expressamente.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 03 (Princípio da Incerteza)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h51",
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "ano": 1945,
+   "cena": "Uma bomba atômica é lançada sobre uma cidade japonesa e, três dias depois, outra atinge uma segunda cidade.",
+   "dicas": [
+    "O mundo já estava em guerra havia anos.",
+    "Aconteceu no século XX, em seu meio."
+   ],
+   "explain": "Os bombardeios de Hiroshima e Nagasaki são um marco das tecnologias nucleares, que a Matriz do PAS 1 cita em Corrida Espacial e Tecnologias Nucleares.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, PAS1CN5 (Tecnologias Nucleares; Radioatividade)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h52",
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "ano": 1957,
+   "cena": "A União Soviética coloca em órbita o primeiro satélite artificial da Terra.",
+   "dicas": [
+    "O nome em russo lembra um 'companheiro de viagem'.",
+    "Aconteceu no século XX, no fim dos anos cinquenta."
+   ],
+   "explain": "O lançamento do Sputnik abriu a Corrida Espacial. A Matriz do PAS 1 cita Corrida Espacial e Satélites Artificiais.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 02 e PAS1CN5 (Satélites Artificiais; Corrida Espacial)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h53",
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "ano": 1969,
+   "cena": "Dois astronautas pisam na Lua enquanto um terceiro espera em órbita.",
+   "dicas": [
+    "Centenas de milhões de pessoas viram a transmissão pela TV.",
+    "Aconteceu no século XX, no fim dos anos sessenta."
+   ],
+   "explain": "A missão Apolo 11 levou os primeiros humanos à Lua, o ápice da Corrida Espacial que a Matriz do PAS 1 cita.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, PAS1CN5 (Corrida Espacial)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h54",
+   "etapa": "PAS 1",
+   "materia": "Química",
+   "ano": 1986,
+   "cena": "Um reator nuclear explode na Ucrânia soviética e espalha poeira radioativa pela Europa.",
+   "dicas": [
+    "A cidade vizinha de Pripyat foi evacuada.",
+    "Aconteceu no século XX, no meio dos anos oitenta."
+   ],
+   "explain": "O acidente de Chernobyl é um exemplo clássico dos riscos da radioatividade e das tecnologias nucleares, que a Matriz do PAS 1 cita.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, PAS1CN5 (Radioatividade; Tecnologias Nucleares)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h55",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1648,
+   "cena": "Depois de trinta anos de guerra na Europa, tratados reconhecem a soberania de cada Estado.",
+   "dicas": [
+    "A guerra misturou religião e disputa de poder.",
+    "Aconteceu no século XVII."
+   ],
+   "explain": "A Paz de Vestfália encerrou a Guerra dos Trinta Anos e é um marco da ideia de Estado nacional moderno. A Matriz do PAS 2 cita a formação dos Estados nacionais e as guerras interestatais dos séculos XVII a XIX.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos 09 e 15 (Estados nacionais; guerras interestatais séculos XVII a XIX)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h56",
+   "etapa": "PAS 2",
+   "materia": "Física",
+   "ano": 1704,
+   "cena": "Um inglês publica um livro sobre a luz e mostra que a luz branca se decompõe em cores.",
+   "dicas": [
+    "Ele usou um prisma de vidro.",
+    "Aconteceu no século XVIII."
+   ],
+   "explain": "Isaac Newton publicou a 'Óptica'. A Matriz do PAS 2 cita Ótica Geométrica e a História da Óptica.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 03 e 05 (Ótica Geométrica; História da Termodinâmica, Óptica e Física Moderna)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h57",
+   "etapa": "PAS 2",
+   "materia": "Biologia",
+   "ano": 1735,
+   "cena": "Um naturalista sueco publica um livreto com um sistema para classificar a natureza em reinos, classes, ordens, gêneros e espécies.",
+   "dicas": [
+    "A primeira edição tinha poucas páginas e foi crescendo depois.",
+    "Aconteceu no século XVIII."
+   ],
+   "explain": "Lineu publicou a primeira edição do 'Systema Naturae', base da taxonomia. A Matriz do PAS 2 cita Sistemática e Taxonomia.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Biológicos 10 (Sistemática e Taxonomia)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h58",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1792,
+   "cena": "Um alferes condenado por conspirar contra o domínio português em Minas Gerais é enforcado no Rio de Janeiro.",
+   "dicas": [
+    "É hoje o patrono cívico do Brasil, com feriado no dia da morte.",
+    "Aconteceu no século XVIII."
+   ],
+   "explain": "Tiradentes foi executado após a Inconfidência Mineira. A Matriz do PAS 2 cita as rupturas e permanências no processo de colonização da América Portuguesa.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimento 08 (colonização da América Portuguesa) e 14 (Era das Revoluções)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h59",
+   "etapa": "PAS 2",
+   "materia": "Biologia",
+   "ano": 1796,
+   "cena": "Um médico inglês inocula em um menino o conteúdo de uma ferida de vaca e depois mostra que ele ficou protegido da varíola.",
+   "dicas": [
+    "A palavra 'vacina' vem do latim 'vacca'.",
+    "Aconteceu no século XVIII."
+   ],
+   "explain": "Edward Jenner fez o experimento que deu origem à vacinação. A Matriz do PAS 2 cita Vírus e viroses.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Biológicos 11 (Vírus e viroses)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h60",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1798,
+   "cena": "Em Salvador, panfletos pedem o fim da escravidão, a igualdade e a república.",
+   "dicas": [
+    "Entre os rebeldes havia alfaiates, soldados e libertos.",
+    "Aconteceu no século XVIII."
+   ],
+   "explain": "A Conjuração Baiana, ou Revolta dos Alfaiates, uniu ideias da Era das Revoluções à luta contra a escravidão. A Matriz do PAS 2 cita movimentos de resistência ao escravismo.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos 11 e 14 (resistência ao escravismo; Era das Revoluções)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h61",
+   "etapa": "PAS 2",
+   "materia": "Física",
+   "ano": 1801,
+   "cena": "Um médico e físico inglês faz a luz passar por duas fendas e observa faixas claras e escuras no anteparo.",
+   "dicas": [
+    "O padrão só se explica se a luz se comporta como onda.",
+    "Aconteceu no começo do século XIX."
+   ],
+   "explain": "O experimento de Thomas Young mostrou a interferência da luz. A Matriz do PAS 2 cita Ondulatória e Dualidade Onda-Partícula.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 02 e 04 (Ondulatória; Dualidade Onda-Partícula)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h62",
+   "etapa": "PAS 2",
+   "materia": "Física",
+   "ano": 1824,
+   "cena": "Um engenheiro francês publica reflexões sobre a potência motriz do fogo e sobre o limite de rendimento das máquinas térmicas.",
+   "dicas": [
+    "O ciclo ideal leva o sobrenome dele.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "Sadi Carnot publicou o estudo que deu origem à Termodinâmica. A Matriz do PAS 2 cita Máquinas Térmicas e a História da Termodinâmica.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 01 e 05 (Máquinas Térmicas; História da Termodinâmica)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h63",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1831,
+   "cena": "O primeiro imperador do Brasil abdica em favor do filho de cinco anos e volta para Portugal.",
+   "dicas": [
+    "Começa o período das regências.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "A abdicação de Pedro I abriu as Regências. A Matriz do PAS 2 cita a formação dos Estados nacionais e as guerras civis do século XIX.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimentos 09 e 15 (Estados nacionais; guerras interestatais e civis)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h64",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1835,
+   "cena": "No sul do Brasil, estancieiros se revoltam contra o governo imperial e acabam proclamando uma república.",
+   "dicas": [
+    "A revolta durou quase dez anos.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "A Farroupilha, ou Guerra dos Farrapos, foi uma das guerras civis do Império. A Matriz do PAS 2 cita as guerras civis dos séculos XVII a XIX.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimento 15 (guerras interestatais e civis séculos XVII a XIX)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h65",
+   "etapa": "PAS 2",
+   "materia": "Química",
+   "ano": 1840,
+   "cena": "Um químico russo-suíço mostra que o calor total de uma reação não depende dos caminhos intermediários.",
+   "dicas": [
+    "A lei leva o sobrenome dele.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "Germain Hess enunciou a lei que a Matriz do PAS 2 cita expressamente na Termoquímica.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 08 (Termoquímica: Lei de Hess)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h66",
+   "etapa": "PAS 2",
+   "materia": "Física",
+   "ano": 1843,
+   "cena": "Um físico inglês mede quanto trabalho mecânico equivale a certa quantidade de calor.",
+   "dicas": [
+    "A unidade de energia do Sistema Internacional leva o sobrenome dele.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "James Joule mediu o equivalente mecânico do calor, passo para a 1ª Lei da Termodinâmica. A Matriz do PAS 2 cita Temperatura e Calor e as Leis da Termodinâmica.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 01 (Leis da Termodinâmica)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h67",
+   "etapa": "PAS 2",
+   "materia": "História",
+   "ano": 1864,
+   "cena": "Começa uma guerra que opõe o Paraguai à Tríplice Aliança: Brasil, Argentina e Uruguai.",
+   "dicas": [
+    "É o maior conflito armado da história da América do Sul.",
+    "Começou no século XIX."
+   ],
+   "explain": "A Guerra do Paraguai é uma das guerras interestatais do século XIX que a Matriz do PAS 2 cita. O ano é o do início do conflito.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimento 15 (guerras interestatais ao longo dos séculos XVII ao XIX)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h68",
+   "etapa": "PAS 2",
+   "materia": "Física",
+   "ano": 1865,
+   "cena": "Um escocês reúne eletricidade, magnetismo e luz em um conjunto de equações e prevê as ondas eletromagnéticas.",
+   "dicas": [
+    "As equações levam o sobrenome dele.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "James Clerk Maxwell apresentou a teoria do campo eletromagnético. A Matriz do PAS 2 cita Ondas Mecânicas e Eletromagnéticas.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 02 (Ondas Mecânicas e Eletromagnéticas)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h69",
+   "etapa": "PAS 2",
+   "materia": "Literatura",
+   "ano": 1881,
+   "cena": "Um romance narrado por um defunto inaugura o Realismo na literatura brasileira.",
+   "dicas": [
+    "O narrador se declara 'defunto autor'.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "'Memórias póstumas de Brás Cubas', de Machado de Assis, está na lista de literaturas do PAS 2. O ano é o da edição em livro, depois da publicação em revista.",
+   "origem_pas": "Lista de obras do PAS 2 (prévia jun/2024), Literaturas 11; Matriz PAS 2, Linguagens, conhecimento 17 (Realismo)",
+   "fonte": "Matriz PAS 2 (dez/2022); lista de obras. Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h70",
+   "etapa": "PAS 2",
+   "materia": "Física",
+   "ano": 1887,
+   "cena": "Um físico alemão gera e detecta ondas de rádio em laboratório, confirmando a teoria de Maxwell.",
+   "dicas": [
+    "A unidade de frequência leva o sobrenome dele.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "Heinrich Hertz demonstrou experimentalmente as ondas eletromagnéticas. A Matriz do PAS 2 cita Ondas Mecânicas e Eletromagnéticas.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 02 (Ondas Mecânicas e Eletromagnéticas)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h71",
+   "etapa": "PAS 2",
+   "materia": "Biologia",
+   "ano": 1892,
+   "cena": "Um botânico russo mostra que o líquido de plantas de fumo doentes continua infeccioso mesmo depois de passar por filtros que retêm bactérias.",
+   "dicas": [
+    "Ele descobria, sem saber, um novo tipo de agente infeccioso.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "Dmitri Ivanovski fez a observação que abriu o caminho para o conhecimento dos vírus. A Matriz do PAS 2 cita Vírus e viroses.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Biológicos 11 (Vírus e viroses)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h72",
+   "etapa": "PAS 2",
+   "materia": "Física",
+   "ano": 1905,
+   "cena": "Um físico explica que a luz arranca elétrons de um metal em pacotes de energia, e não como uma onda contínua.",
+   "dicas": [
+    "A ideia ajudou a firmar a dualidade onda-partícula.",
+    "Aconteceu na primeira década do século XX."
+   ],
+   "explain": "Einstein explicou o efeito fotoelétrico. A Matriz do PAS 2 cita Interação Luz-Matéria e Dualidade Onda-Partícula.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 04 (Interação Luz-Matéria; Dualidade Onda-Partícula)",
+   "fonte": "Matriz PAS 2 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h73",
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "ano": 1800,
+   "cena": "Um italiano empilha discos de metais diferentes separados por panos molhados e produz corrente elétrica contínua.",
+   "dicas": [
+    "Foi a primeira pilha elétrica.",
+    "Aconteceu na virada do século XVIII para o XIX."
+   ],
+   "explain": "Alessandro Volta apresentou a pilha. A lista de obras do PAS 3 traz o texto 'Galvani e Volta, um embate elétrico', e a Matriz cita a Experiência de Volta.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Textos 2; Matriz PAS 3, Ciências da Natureza, PAS3CN12",
+   "fonte": "Matriz PAS 3 (dez/2022); lista de obras. Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h74",
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "ano": 1820,
+   "cena": "Durante uma aula, um dinamarquês percebe que a agulha de uma bússola se move quando passa corrente num fio por perto.",
+   "dicas": [
+    "Mostrou que eletricidade e magnetismo estão ligados.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "Hans Christian Oersted descobriu a relação entre corrente elétrica e magnetismo. A Matriz do PAS 3 cita Eletromagnetismo e a História da Eletricidade e do Magnetismo.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 04 e 06 (Eletromagnetismo; História da Eletricidade e do Magnetismo)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h75",
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "ano": 1831,
+   "cena": "Um inglês mostra que mover um ímã perto de uma bobina produz corrente elétrica.",
+   "dicas": [
+    "A lei que descreve o efeito leva o sobrenome dele.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "Michael Faraday descobriu a indução eletromagnética. A Matriz do PAS 3 cita a Lei de Faraday.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 04 (Leis de Ampère, Faraday e Lenz)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h76",
+   "etapa": "PAS 3",
+   "materia": "Biologia",
+   "ano": 1859,
+   "cena": "Um naturalista inglês publica um livro que explica a diversidade da vida por seleção natural.",
+   "dicas": [
+    "O título começa com 'A origem'.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "Charles Darwin publicou 'A origem das espécies'. A Matriz do PAS 3 cita Teorias evolutivas e Evidências da evolução.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 13 (Origens da vida e evolução; Teorias evolutivas)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h77",
+   "etapa": "PAS 3",
+   "materia": "Biologia",
+   "ano": 1866,
+   "cena": "Um monge austríaco, que cultivava ervilhas, publica as regras da hereditariedade.",
+   "dicas": [
+    "Ele cruzou milhares de pés de ervilha ao longo de anos.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "Gregor Mendel apresentou as leis da herança. A Matriz do PAS 3 cita a Genética Clássica.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 16 (Genética Clássica)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h78",
+   "etapa": "PAS 3",
+   "materia": "História",
+   "ano": 1884,
+   "cena": "Potências europeias se reúnem em uma capital para combinar como dividir a África entre si, sem ouvir os africanos.",
+   "dicas": [
+    "Fala-se em 'partilha da África'.",
+    "A reunião começou no século XIX."
+   ],
+   "explain": "A Conferência de Berlim começou no fim de 1884 e terminou em 1885. A Matriz do PAS 3 cita os conflitos imperialistas dos séculos XIX e XX.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento 07 (Conflitos imperialistas do século XIX e XX)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h79",
+   "etapa": "PAS 3",
+   "materia": "Química",
+   "ano": 1896,
+   "cena": "Um físico francês deixa sais de urânio sobre chapas fotográficas guardadas numa gaveta, e elas aparecem escurecidas.",
+   "dicas": [
+    "Foi o começo do estudo da radioatividade.",
+    "Aconteceu no século XIX."
+   ],
+   "explain": "Henri Becquerel descobriu a radioatividade. A lista do PAS 3 traz o texto 'Como a descoberta da radiação mudou o futuro da humanidade', e a Matriz cita Radioatividade.",
+   "origem_pas": "Lista de obras do PAS 3 (prévia jun/2024), Textos 5; Matriz PAS 3, Ciências da Natureza, Químicos 07 (Radioatividade)",
+   "fonte": "Matriz PAS 3 (dez/2022); lista de obras. Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h80",
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "ano": 1915,
+   "cena": "Um físico apresenta equações que descrevem a gravidade como curvatura do espaço-tempo.",
+   "dicas": [
+    "A teoria foi testada com a luz de estrelas durante um eclipse.",
+    "Aconteceu no século XX, na década de dez."
+   ],
+   "explain": "Einstein apresentou a Teoria da Relatividade Geral. A Matriz do PAS 3 cita Teorias da Relatividade e Cosmologia.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 05 (Teorias da Relatividade e Cosmologia)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h81",
+   "etapa": "PAS 3",
+   "materia": "Geografia",
+   "ano": 1929,
+   "cena": "Uma quebra na Bolsa de Nova York derruba a economia e leva milhões ao desemprego.",
+   "dicas": [
+    "Os efeitos atingiram o café brasileiro.",
+    "Aconteceu no século XX, no fim dos anos vinte."
+   ],
+   "explain": "A crise de 1929 ilustra os processos de desenvolvimento econômico e os confrontos entre capital e trabalho que a Matriz do PAS 3 cita.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 12 e 16 (confrontos capital e trabalho; desenvolvimento econômico)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h82",
+   "etapa": "PAS 3",
+   "materia": "História",
+   "ano": 1930,
+   "cena": "No Brasil, um gaúcho assume o poder depois de uma eleição disputada e de um levante armado, encerrando a República Velha.",
+   "dicas": [
+    "Ele ficaria quinze anos no governo.",
+    "Aconteceu no século XX, no começo dos anos trinta."
+   ],
+   "explain": "A Revolução de 1930 levou Getúlio Vargas ao poder. A Matriz do PAS 3 cita a Formação da cidadania brasileira e os projetos políticos de poder.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 08 e 15 (projetos políticos; formação da cidadania brasileira)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h83",
+   "etapa": "PAS 3",
+   "materia": "História",
+   "ano": 1937,
+   "cena": "O presidente fecha o Congresso, cancela as eleições e impõe uma Constituição autoritária.",
+   "dicas": [
+    "O regime durou até o fim da Segunda Guerra.",
+    "Aconteceu no século XX, no fim dos anos trinta."
+   ],
+   "explain": "O Estado Novo é exemplo de projeto político autoritário. A Matriz do PAS 3 cita projetos de poder democráticos e autoritários.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento 08 (Projetos políticos de poder democráticos e autoritários)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h84",
+   "etapa": "PAS 3",
+   "materia": "Sociologia",
+   "ano": 1943,
+   "cena": "Um decreto reúne em um só código as leis do trabalho: carteira assinada, férias e salário mínimo.",
+   "dicas": [
+    "É uma sigla de três letras que todo trabalhador conhece.",
+    "Aconteceu no século XX, no começo dos anos quarenta."
+   ],
+   "explain": "A Consolidação das Leis do Trabalho (CLT) é referência nos confrontos entre capital e trabalho e na cidadania brasileira, temas da Matriz do PAS 3.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 12 e 15 (capital e trabalho; formação da cidadania brasileira)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h85",
+   "etapa": "PAS 3",
+   "materia": "Biologia",
+   "ano": 1953,
+   "cena": "Dois pesquisadores propõem para o DNA uma estrutura de dupla hélice.",
+   "dicas": [
+    "O modelo usou imagens de raios X feitas por uma colega.",
+    "Aconteceu no século XX, em seu meio."
+   ],
+   "explain": "James Watson e Francis Crick publicaram o modelo da dupla hélice. A Matriz do PAS 3 cita Genética molecular.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 16 (Genética molecular)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h86",
+   "etapa": "PAS 3",
+   "materia": "Geografia",
+   "ano": 1957,
+   "cena": "Seis países europeus assinam um tratado que cria um mercado comum entre eles.",
+   "dicas": [
+    "É o germe do que viria a ser a União Europeia.",
+    "Aconteceu no século XX, no fim dos anos cinquenta."
+   ],
+   "explain": "O Tratado de Roma criou a Comunidade Econômica Europeia. A Matriz do PAS 3 cita Blocos econômicos.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento 23 (Blocos econômicos)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h87",
+   "etapa": "PAS 3",
+   "materia": "História",
+   "ano": 1968,
+   "cena": "O governo militar edita um ato que fecha o Congresso e suspende garantias, endurecendo a ditadura.",
+   "dicas": [
+    "O ato tem número e uma sigla de duas letras.",
+    "Aconteceu no século XX, no fim dos anos sessenta."
+   ],
+   "explain": "O AI-5 marcou o período mais duro da ditadura militar. A Matriz do PAS 3 cita projetos autoritários e a violência política.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 08 e 26 (projetos autoritários; violências, intolerância)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h88",
+   "etapa": "PAS 3",
+   "materia": "Geografia",
+   "ano": 1992,
+   "cena": "O Rio de Janeiro recebe uma conferência da ONU sobre meio ambiente e desenvolvimento, com chefes de Estado de todo o mundo.",
+   "dicas": [
+    "Dela saiu um plano de ação chamado Agenda 21.",
+    "Aconteceu no século XX, no começo dos anos noventa."
+   ],
+   "explain": "A Rio-92 é marco da discussão sobre desenvolvimento sustentável, tema das Matrizes do PAS. A Matriz do PAS 3 cita os organismos multilaterais.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 11 e 22 (recursos naturais; organismos multilaterais)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h89",
+   "etapa": "PAS 3",
+   "materia": "Biologia",
+   "ano": 1996,
+   "cena": "Nasce na Escócia uma ovelha clonada a partir de uma célula adulta.",
+   "dicas": [
+    "O nome dela homenageia uma cantora famosa.",
+    "Aconteceu no fim do século XX."
+   ],
+   "explain": "A ovelha Dolly é exemplo de manipulação do material genético. A Matriz do PAS 3 cita Aplicações da manipulação do material genético e Biotecnologia.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 16 e 19 (manipulação do material genético; Biotecnologia)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "h90",
+   "etapa": "PAS 3",
+   "materia": "Geografia",
+   "ano": 1997,
+   "cena": "Países industrializados assinam, no Japão, um protocolo para reduzir a emissão de gases do efeito estufa.",
+   "dicas": [
+    "O tratado leva o nome da cidade japonesa onde foi negociado.",
+    "Aconteceu no fim do século XX."
+   ],
+   "explain": "O Protocolo de Quioto é marco da governança ambiental global. A Matriz do PAS 3 cita organismos multilaterais e a transformação dos meios de produção sobre os recursos naturais.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimentos 11 e 22 (ambiente e recursos naturais; organismos multilaterais)",
+   "fonte": "Matriz PAS 3 (dez/2022). Ano e detalhes do fato: conhecimento geral, a confirmar.",
+   "verificar": true
+  }
+ ]
+}

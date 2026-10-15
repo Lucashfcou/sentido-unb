@@ -1,0 +1,2370 @@
+{
+ "_nota": "RASCUNHO. 'respostas' é a lista pesquisável (conceitos que a Matriz ou as listas de obras do PAS citam). Cada caso traz 5 pistas, da mais difícil à mais fácil. Fatos que não vêm do PAS (datas, quem disse o quê) estão marcados em 'verificar'.",
+ "respostas": [
+  [
+   "leis-newton",
+   "Leis de Newton",
+   "Física"
+  ],
+  [
+   "trabalho-energia",
+   "Trabalho e energia mecânica",
+   "Física"
+  ],
+  [
+   "momentum",
+   "Impulso e momentum linear",
+   "Física"
+  ],
+  [
+   "gravitacao",
+   "Gravitação universal",
+   "Física"
+  ],
+  [
+   "incerteza",
+   "Princípio da incerteza",
+   "Física"
+  ],
+  [
+   "termodinamica",
+   "Leis da Termodinâmica",
+   "Física"
+  ],
+  [
+   "ondulatoria",
+   "Ondulatória",
+   "Física"
+  ],
+  [
+   "otica",
+   "Ótica geométrica",
+   "Física"
+  ],
+  [
+   "kirchhoff",
+   "Leis de Kirchhoff",
+   "Física"
+  ],
+  [
+   "faraday",
+   "Lei de Faraday",
+   "Física"
+  ],
+  [
+   "relatividade",
+   "Teoria da relatividade",
+   "Física"
+  ],
+  [
+   "tabela-periodica",
+   "Tabela periódica",
+   "Química"
+  ],
+  [
+   "modelos-atomicos",
+   "Modelos atômicos",
+   "Química"
+  ],
+  [
+   "estequiometria",
+   "Estequiometria",
+   "Química"
+  ],
+  [
+   "hess",
+   "Lei de Hess",
+   "Química"
+  ],
+  [
+   "le-chatelier",
+   "Princípio de Le Chatelier",
+   "Química"
+  ],
+  [
+   "ligacao-ionica",
+   "Ligação iônica",
+   "Química"
+  ],
+  [
+   "ligacao-covalente",
+   "Ligação covalente",
+   "Química"
+  ],
+  [
+   "radioatividade",
+   "Radioatividade",
+   "Química"
+  ],
+  [
+   "endossimbiotica",
+   "Teoria endossimbiótica",
+   "Biologia"
+  ],
+  [
+   "teoria-celular",
+   "Teoria celular",
+   "Biologia"
+  ],
+  [
+   "ciclos-biogeoquimicos",
+   "Ciclos biogeoquímicos",
+   "Biologia"
+  ],
+  [
+   "sucessao-ecologica",
+   "Sucessão ecológica",
+   "Biologia"
+  ],
+  [
+   "taxonomia",
+   "Sistemática e taxonomia",
+   "Biologia"
+  ],
+  [
+   "evolucao",
+   "Evolução",
+   "Biologia"
+  ],
+  [
+   "genetica",
+   "Genética clássica",
+   "Biologia"
+  ],
+  [
+   "organelas",
+   "Organelas citoplasmáticas",
+   "Biologia"
+  ],
+  [
+   "cavalieri",
+   "Princípio de Cavalieri",
+   "Matemática"
+  ],
+  [
+   "lei-cosseno",
+   "Lei do cosseno",
+   "Matemática"
+  ],
+  [
+   "lei-seno",
+   "Lei do seno",
+   "Matemática"
+  ],
+  [
+   "funcao-quadratica",
+   "Função quadrática",
+   "Matemática"
+  ],
+  [
+   "funcao-logaritmica",
+   "Função logarítmica",
+   "Matemática"
+  ],
+  [
+   "pa",
+   "Progressão aritmética",
+   "Matemática"
+  ],
+  [
+   "juros-compostos",
+   "Juros compostos",
+   "Matemática"
+  ],
+  [
+   "gini",
+   "Índice de Gini",
+   "Matemática"
+  ],
+  [
+   "prob-condicional",
+   "Probabilidade condicional",
+   "Matemática"
+  ],
+  [
+   "desvio-padrao",
+   "Desvio padrão",
+   "Matemática"
+  ],
+  [
+   "complexos",
+   "Números complexos",
+   "Matemática"
+  ],
+  [
+   "ladrilhamento",
+   "Ladrilhamento do plano",
+   "Matemática"
+  ],
+  [
+   "volume-solidos",
+   "Volume de sólidos",
+   "Matemática"
+  ],
+  [
+   "era-revolucoes",
+   "Era das Revoluções",
+   "História"
+  ],
+  [
+   "imperialismo",
+   "Imperialismo",
+   "História"
+  ],
+  [
+   "colonizacao",
+   "Colonização da América Portuguesa",
+   "História"
+  ],
+  [
+   "diaspora",
+   "Diáspora atlântica",
+   "História"
+  ],
+  [
+   "estados-nacionais",
+   "Formação dos Estados nacionais",
+   "História"
+  ],
+  [
+   "capitalismo",
+   "Capitalismo",
+   "História"
+  ],
+  [
+   "cerrado",
+   "Cerrado",
+   "Geografia"
+  ],
+  [
+   "amazonia",
+   "Amazônia",
+   "Geografia"
+  ],
+  [
+   "territorio",
+   "Território",
+   "Geografia"
+  ],
+  [
+   "paisagem",
+   "Paisagem",
+   "Geografia"
+  ],
+  [
+   "urbanizacao",
+   "Urbanização",
+   "Geografia"
+  ],
+  [
+   "cartografia",
+   "Linguagem cartográfica",
+   "Geografia"
+  ],
+  [
+   "sao-francisco",
+   "Rio São Francisco",
+   "Geografia"
+  ],
+  [
+   "apologia",
+   "Apologia de Sócrates",
+   "Filosofia"
+  ],
+  [
+   "logica",
+   "Lógica e argumentação",
+   "Filosofia"
+  ],
+  [
+   "estetica",
+   "Estética",
+   "Filosofia"
+  ],
+  [
+   "mitologia",
+   "Mitologia",
+   "Filosofia"
+  ],
+  [
+   "epistemologia",
+   "Epistemologia",
+   "Filosofia"
+  ],
+  [
+   "esclarecimento",
+   "Esclarecimento (Kant)",
+   "Filosofia"
+  ],
+  [
+   "etnocentrismo",
+   "Etnocentrismo",
+   "Sociologia"
+  ],
+  [
+   "relativismo",
+   "Relativismo cultural",
+   "Sociologia"
+  ],
+  [
+   "industria-cultural",
+   "Indústria cultural",
+   "Sociologia"
+  ],
+  [
+   "marcadores",
+   "Marcadores sociais",
+   "Sociologia"
+  ],
+  [
+   "desigualdades",
+   "Desigualdades sociais",
+   "Sociologia"
+  ],
+  [
+   "gases",
+   "Lei geral dos gases",
+   "Química"
+  ],
+  [
+   "solucoes",
+   "Concentração de soluções",
+   "Química"
+  ],
+  [
+   "virus",
+   "Vírus e viroses",
+   "Biologia"
+  ],
+  [
+   "botanica",
+   "Botânica",
+   "Biologia"
+  ],
+  [
+   "combinatoria",
+   "Análise combinatória",
+   "Matemática"
+  ],
+  [
+   "conicas",
+   "Cônicas",
+   "Matemática"
+  ],
+  [
+   "funcoes-trig",
+   "Funções trigonométricas",
+   "Matemática"
+  ],
+  [
+   "eletroquimica",
+   "Eletroquímica",
+   "Química"
+  ],
+  [
+   "cinetica",
+   "Cinética química",
+   "Química"
+  ],
+  [
+   "determinantes",
+   "Determinantes",
+   "Matemática"
+  ],
+  [
+   "geometria-analitica",
+   "Geometria analítica",
+   "Matemática"
+  ],
+  [
+   "polinomios",
+   "Polinômios",
+   "Matemática"
+  ],
+  [
+   "estado-democratico",
+   "Estado Democrático de Direito",
+   "Sociologia"
+  ],
+  [
+   "blocos-economicos",
+   "Blocos econômicos",
+   "Geografia"
+  ],
+  [
+   "organismos-multilaterais",
+   "Organismos multilaterais",
+   "Geografia"
+  ],
+  [
+   "divisao-trabalho",
+   "Divisão internacional do trabalho",
+   "Geografia"
+  ],
+  [
+   "filosofia-politica",
+   "Filosofia política",
+   "Filosofia"
+  ],
+  [
+   "fisiologia-humana",
+   "Fisiologia humana",
+   "Biologia"
+  ],
+  [
+   "divisao-celular",
+   "Divisão celular",
+   "Biologia"
+  ],
+  [
+   "maquinas-termicas",
+   "Máquinas térmicas",
+   "Física"
+  ],
+  [
+   "calorimetria",
+   "Calorimetria",
+   "Química"
+  ],
+  [
+   "dualidade",
+   "Dualidade onda-partícula",
+   "Física"
+  ],
+  [
+   "lentes",
+   "Espelhos e lentes",
+   "Física"
+  ],
+  [
+   "inorganicos",
+   "Funções inorgânicas",
+   "Química"
+  ],
+  [
+   "coligativas",
+   "Propriedades coligativas",
+   "Química"
+  ],
+  [
+   "bacterias",
+   "Bactérias e bacterioses",
+   "Biologia"
+  ],
+  [
+   "embriologia",
+   "Embriologia animal",
+   "Biologia"
+  ],
+  [
+   "romantismo",
+   "Romantismo",
+   "Literatura"
+  ],
+  [
+   "realismo",
+   "Realismo",
+   "Literatura"
+  ],
+  [
+   "parnasianismo",
+   "Parnasianismo",
+   "Literatura"
+  ],
+  [
+   "resistencia-escravismo",
+   "Resistência ao escravismo",
+   "História"
+  ],
+  [
+   "eletrostatica",
+   "Eletrostática",
+   "Física"
+  ],
+  [
+   "magnetismo",
+   "Magnetismo",
+   "Física"
+  ],
+  [
+   "pilhas",
+   "Pilhas",
+   "Química"
+  ],
+  [
+   "eletrolise",
+   "Eletrólise",
+   "Química"
+  ],
+  [
+   "isomeria",
+   "Isomeria",
+   "Química"
+  ],
+  [
+   "polimeros",
+   "Polímeros",
+   "Química"
+  ],
+  [
+   "genetica-molecular",
+   "Genética molecular",
+   "Biologia"
+  ],
+  [
+   "sistema-imunologico",
+   "Sistema imunológico",
+   "Biologia"
+  ],
+  [
+   "desinformacao",
+   "Desinformação",
+   "Sociologia"
+  ],
+  [
+   "geopolitica",
+   "Geopolítica mundial",
+   "Geografia"
+  ]
+ ],
+ "casos": [
+  {
+   "id": "k01",
+   "materia": "Física",
+   "etapa": "PAS 1",
+   "answer": "gravitacao",
+   "near": {
+    "leis-newton": "Também é de Newton, mas as leis falam de movimento. A atração entre massas é outra peça.",
+    "relatividade": "É outra explicação da gravidade, de Einstein, bem posterior."
+   },
+   "hints": [
+    "Uma força que ninguém vê, mas que você sente na balança. É a razão de você não estar flutuando enquanto lê isto.",
+    "Ela cresce quando as massas crescem e diminui com o quadrado da distância.",
+    "Foi descrita por um inglês nos 'Principia', publicados em 1687.",
+    "Sem ela não há órbitas: é por causa dela que os satélites do GPS ficam onde estão.",
+    "No nome tem 'universal', porque vale na Terra e no céu."
+   ],
+   "explain": "Newton propôs que toda massa atrai toda massa, com força proporcional ao produto das massas e inversamente proporcional ao quadrado da distância. A Matriz do PAS 1 cita 'Gravitação Universal' na Mecânica Newtoniana e 'Geolocalização e Satélites Artificiais' em Astronomia.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 01 e 02; PAS1CN3 (transporte e mobilidade)",
+   "fonte": "Matriz PAS 1 (dez/2022). Ano dos Principia e fórmula: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k03",
+   "materia": "Biologia",
+   "etapa": "PAS 1",
+   "answer": "endossimbiotica",
+   "near": {
+    "teoria-celular": "É da mesma lista de Citologia, mas fala de todo ser vivo ser feito de células, não de células que moram dentro de outras.",
+    "organelas": "As organelas são o resultado da história. A teoria é a explicação de como surgiram."
+   },
+   "hints": [
+    "Uma história de engolir e não digerir: uma célula engoliu outra e as duas ficaram juntas, há bilhões de anos.",
+    "Explica por que mitocôndrias e cloroplastos têm DNA próprio.",
+    "Fala da origem das células com núcleo, os eucariontes.",
+    "A bióloga Lynn Margulis a defendeu nos anos 1960, contra muita resistência.",
+    "No nome tem 'simbiose': viver junto, um dentro do outro."
+   ],
+   "explain": "Segundo a teoria, mitocôndrias e cloroplastos descendem de bactérias que passaram a viver dentro de outras células e ficaram. A Matriz do PAS 1 lista a teoria endossimbiótica em Citologia e a usa na origem da vida e do Universo.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Biológicos 12; PAS1CN12",
+   "fonte": "Matriz PAS 1 (dez/2022). Margulis e DNA próprio: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k04",
+   "materia": "Matemática",
+   "etapa": "PAS 2",
+   "answer": "cavalieri",
+   "near": {
+    "volume-solidos": "É o assunto onde o princípio é usado, mas o caso pede o nome do princípio.",
+    "ladrilhamento": "É geometria, mas de plano, da etapa 1."
+   },
+   "hints": [
+    "Duas pilhas de moedas: uma bem arrumada e outra torta. Mesma quantidade, mesma altura. O volume muda?",
+    "Se duas figuras têm a mesma altura e, em cada nível, seções com a mesma área, elas têm o mesmo volume.",
+    "Serve para deduzir fórmulas de volume sem cálculo avançado.",
+    "Foi um italiano do século XVII, aluno de Galileu.",
+    "O nome do princípio é o sobrenome desse italiano."
+   ],
+   "explain": "O princípio de Cavalieri diz que dois sólidos com a mesma altura e seções paralelas de mesma área têm o mesmo volume. A Matriz do PAS 2 o cita ao pedir a dedução das fórmulas de volume.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT6",
+   "fonte": "Matriz PAS 2 (dez/2022). Biografia de Cavalieri: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k05",
+   "materia": "História",
+   "etapa": "PAS 2",
+   "answer": "era-revolucoes",
+   "near": {
+    "imperialismo": "Vem depois, nos séculos XIX e XX, e é da etapa 3.",
+    "capitalismo": "A Era das Revoluções faz parte de sua história, mas o caso é um período.",
+    "colonizacao": "Está na mesma etapa, mas é anterior e tem outro foco."
+   },
+   "hints": [
+    "Um período em que o Antigo Regime levou vários tombos em poucas décadas.",
+    "Teve fábricas fumegando e a máquina a vapor como protagonista.",
+    "Teve a Revolução Francesa e independências em vários cantos da América.",
+    "A Matriz marca o intervalo: de 1780 a 1850.",
+    "O nome do período diz o que ele teve de sobra."
+   ],
+   "explain": "A Matriz do PAS 2 pede 'Movimentos políticos, sociais, intelectuais e culturais na Era das Revoluções (1780-1850)'.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimento essencial 14",
+   "fonte": "Matriz PAS 2 (dez/2022).",
+   "verificar": false
+  },
+  {
+   "id": "k06",
+   "materia": "Geografia",
+   "etapa": "PAS 1 e 2",
+   "answer": "cerrado",
+   "near": {
+    "amazonia": "É o maior bioma do país, mas Brasília não fica nele.",
+    "sao-francisco": "O rio nasce no Cerrado, mas o caso é o bioma."
+   },
+   "hints": [
+    "Aqui a árvore tem raiz enorme e galho torto, e dizem que é uma árvore de cabeça para baixo.",
+    "É o segundo maior bioma do Brasil em área.",
+    "Dele saem águas de várias bacias importantes, por isso o chamam de berço das águas.",
+    "Brasília fica dentro dele.",
+    "A Revista Darcy, da UnB, publicou 'O cerrado está morrendo', que consta nas listas de obras do PAS."
+   ],
+   "explain": "O Cerrado é um dos biomas brasileiros e o de Brasília. O texto 'O cerrado está morrendo' (Revista Darcy nº 21, 2019) está nas listas de obras do PAS 1 e do PAS 2. A Matriz do PAS 1 inclui o desmatamento dos biomas brasileiros.",
+   "origem_pas": "Listas de obras PAS 1 (Textos 13 e 15) e PAS 2 (Textos 4); Matriz PAS 1, PAS1CN11",
+   "fonte": "Listas de obras do PAS. Segundo maior bioma e berço das águas: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k07",
+   "materia": "Filosofia",
+   "etapa": "PAS 1",
+   "answer": "apologia",
+   "near": {
+    "esclarecimento": "É um texto de filosofia da lista do PAS 2, mas de Kant, e bem mais tardio.",
+    "logica": "Faz parte da Matriz, mas o caso é um texto, não um conceito.",
+    "mitologia": "Também está na Matriz, mas não é um julgamento."
+   },
+   "hints": [
+    "Um senhor de uns setenta anos é julgado por centenas de cidadãos e, em vez de implorar, dá uma aula.",
+    "As acusações: corromper os jovens e não acreditar nos deuses da cidade.",
+    "Quem escreveu foi um discípulo, não ele.",
+    "A cena é em Atenas, em 399 a.C.",
+    "Na lista do PAS 1, só este texto consta do volume que tem três diálogos de Platão."
+   ],
+   "explain": "A 'Apologia de Sócrates', de Platão, relata a defesa de Sócrates no julgamento em Atenas. A lista de obras do PAS 1 informa que, apesar de a edição ter três diálogos, apenas a Apologia consta como obra.",
+   "origem_pas": "Lista de obras PAS 1 2026-2028, Textos 1",
+   "fonte": "Lista de obras do PAS 1. Acusações e data: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k08",
+   "materia": "Sociologia",
+   "etapa": "PAS 1",
+   "answer": "etnocentrismo",
+   "near": {
+    "relativismo": "É o antídoto e aparece junto na Matriz, mas o caso é o problema.",
+    "marcadores": "Cruza com o tema, mas o caso é uma atitude.",
+    "desigualdades": "É um tema vizinho, mas não é um olhar sobre a cultura do outro."
+   },
+   "hints": [
+    "O vizinho come de um jeito diferente e você diz que ele 'come errado'.",
+    "É julgar outras culturas pelos valores da sua, como se a sua fosse a régua do mundo.",
+    "É o vilão da história, e o antídoto tem nome parecido com 'relativismo'.",
+    "O termo foi popularizado no começo do século XX por William Graham Sumner.",
+    "Na Matriz do PAS 1 aparece ao lado de 'relativismo cultural'."
+   ],
+   "explain": "Etnocentrismo é avaliar outras culturas pelos padrões da própria. A Matriz do PAS 1 pede 'Cultura, etnocentrismo e relativismo cultural' e liga o assunto aos marcadores de classe, raça, gênero e religião.",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimento essencial 13 e PAS1CH11",
+   "fonte": "Matriz PAS 1 (dez/2022). Origem do termo: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k09",
+   "materia": "Química",
+   "etapa": "PAS 3",
+   "answer": "le-chatelier",
+   "near": {
+    "hess": "A Lei de Hess é de termoquímica e aparece na etapa 2. O caso fala de equilíbrio.",
+    "estequiometria": "É cálculo de quantidades nas reações. O caso fala de como o equilíbrio reage a mudanças."
+   },
+   "hints": [
+    "Um sistema em equilíbrio é teimoso: se você o cutuca, ele reage para desfazer o cutucão.",
+    "Se aumentar a concentração de um reagente, o equilíbrio se desloca para o lado dos produtos.",
+    "Vale também para mudanças de temperatura e de pressão.",
+    "Foi enunciado por um químico francês, no fim do século XIX.",
+    "O sobrenome dele está no nome do princípio."
+   ],
+   "explain": "O princípio de Le Chatelier diz que, quando se perturba um sistema em equilíbrio, ele se desloca no sentido de reduzir a perturbação. A Matriz do PAS 3 cita o princípio em Equilíbrio químico.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 10",
+   "fonte": "Matriz PAS 3 (dez/2022). Enunciado e época: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k10",
+   "materia": "Física",
+   "etapa": "PAS 3",
+   "answer": "faraday",
+   "near": {
+    "kirchhoff": "Também está na Física do PAS 3, mas trata de circuitos e não de indução."
+   },
+   "hints": [
+    "Aproximar e afastar um ímã de uma bobina faz aparecer corrente nela, sem pilha nenhuma.",
+    "A corrente aparece quando o fluxo magnético que atravessa a bobina varia.",
+    "É a base de geradores e transformadores, que a Matriz do PAS 3 cita.",
+    "Foi descoberta nos anos 1830 por um cientista britânico.",
+    "A lei leva o nome dele e a Matriz a cita junto com as de Ampère e de Lenz."
+   ],
+   "explain": "A lei de Faraday descreve a indução eletromagnética: variar o fluxo magnético numa espira gera força eletromotriz. A Matriz do PAS 3 cita as leis de Ampère, Faraday e Lenz, além de geradores, transformadores e motores.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 04",
+   "fonte": "Matriz PAS 3 (dez/2022). Descoberta e época: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k11",
+   "materia": "História",
+   "etapa": "PAS 3",
+   "answer": "imperialismo",
+   "near": {
+    "capitalismo": "Foi o motor econômico da expansão, mas o caso é a partilha de territórios.",
+    "era-revolucoes": "Vem antes, entre 1780 e 1850, e é da etapa 2."
+   },
+   "hints": [
+    "Países poderosos dividem um continente inteiro numa mesa, sem convidar quem mora nele.",
+    "Houve uma conferência em Berlim, entre 1884 e 1885, para repartir a África.",
+    "As fábricas europeias precisavam de matéria-prima e de mercados, e isso empurrou a expansão.",
+    "Está na raiz de conflitos dos séculos XIX e XX, como cita a Matriz do PAS 3.",
+    "O nome lembra a palavra 'império'."
+   ],
+   "explain": "O imperialismo dos séculos XIX e XX foi a expansão de potências industriais sobre a África e a Ásia. A Matriz do PAS 3 pede 'Conflitos imperialistas do século XIX e XX'.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento essencial 7",
+   "fonte": "Matriz PAS 3 (dez/2022). Conferência de Berlim: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k12",
+   "materia": "Biologia",
+   "etapa": "PAS 2",
+   "answer": "taxonomia",
+   "near": {
+    "evolucao": "É um assunto da etapa 3. A taxonomia só organiza os grupos, sem explicar como surgiram."
+   },
+   "hints": [
+    "É a arrumação da biblioteca da vida: cada espécie tem o seu lugar na estante.",
+    "Usa nomes em latim com duas palavras, como Homo sapiens.",
+    "Agrupa os seres em categorias cada vez maiores, da espécie ao reino.",
+    "Foi organizada pelo naturalista sueco Lineu, no século XVIII.",
+    "A Matriz do PAS 2 escreve 'Sistemática e ___'."
+   ],
+   "explain": "A taxonomia classifica e nomeia os seres vivos em categorias hierárquicas. A Matriz do PAS 2 lista 'Sistemática e Taxonomia' em Biologia.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Biológicos 10",
+   "fonte": "Matriz PAS 2 (dez/2022). Nomenclatura e Lineu: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k13",
+   "materia": "Física",
+   "etapa": "PAS 2",
+   "answer": "termodinamica",
+   "near": {
+    "otica": "Também é da Física do PAS 2, mas estuda a luz, e não o calor."
+   },
+   "hints": [
+    "Nenhuma máquina transforma todo o calor que recebe em trabalho: sempre sobra um pouco.",
+    "Estuda calor, temperatura, trabalho e energia.",
+    "Uma das leis diz que a energia se conserva. Outra diz que o calor flui do quente para o frio.",
+    "Explica por que motores esquentam e por que geladeiras precisam gastar energia.",
+    "A Matriz do PAS 2 escreve 'Leis da ___'."
+   ],
+   "explain": "A Termodinâmica trata das trocas de calor e de trabalho. A Matriz do PAS 2 cita as leis da Termodinâmica, as máquinas térmicas e as frigoríficas.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 01",
+   "fonte": "Matriz PAS 2 (dez/2022). Enunciados das leis: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k14",
+   "materia": "Física",
+   "etapa": "PAS 1",
+   "answer": "leis-newton",
+   "near": {
+    "gravitacao": "É outra contribuição de Newton, sobre a atração entre massas, e não sobre o movimento.",
+    "momentum": "É uma grandeza ligada ao movimento, mas o caso é o conjunto das três leis."
+   },
+   "hints": [
+    "Se o ônibus freia de repente, seu corpo continua indo para a frente.",
+    "Para mudar a velocidade de um objeto é preciso uma força, e quanto mais massa, mais difícil mudar.",
+    "Quando você empurra a parede, ela empurra você de volta com a mesma intensidade.",
+    "Foram publicadas em 1687 por um cientista inglês.",
+    "São três, e a Matriz do PAS 1 as cita na Mecânica Newtoniana."
+   ],
+   "explain": "As três leis descrevem a inércia, a relação entre força e aceleração e o par ação e reação. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Físicos 01).",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 01",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k15",
+   "materia": "Física",
+   "etapa": "PAS 1",
+   "answer": "trabalho-energia",
+   "near": {
+    "leis-newton": "Explicam forças e movimento, mas não medem a energia transferida.",
+    "momentum": "É outra grandeza da mecânica, ligada à massa e à velocidade."
+   },
+   "hints": [
+    "Empurrar um carrinho de supermercado por vários metros custa um esforço que a Física consegue medir.",
+    "É o produto de uma força pela distância percorrida na direção dela.",
+    "No Sistema Internacional, a unidade é o joule.",
+    "Uma pedra no alto de um prédio guarda uma forma dessa energia, que vira velocidade quando ela cai.",
+    "A Matriz do PAS 1 escreve 'Trabalho e ___ mecânica'."
+   ],
+   "explain": "Trabalho mede a energia transferida por uma força ao longo de um deslocamento. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Físicos 01).",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 01",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k16",
+   "materia": "Física",
+   "etapa": "PAS 1",
+   "answer": "incerteza",
+   "near": {
+    "relatividade": "É outra teoria da Física Moderna, mas fala de espaço e tempo, e não de medir partículas.",
+    "modelos-atomicos": "Está ligado ao átomo, mas o caso é um limite de precisão da medida."
+   },
+   "hints": [
+    "Quanto mais exatamente você sabe onde uma partícula está, menos sabe a velocidade dela.",
+    "Não é defeito do aparelho: é uma propriedade do mundo muito pequeno.",
+    "Faz parte da mecânica quântica.",
+    "Foi formulado em 1927 por um físico alemão.",
+    "A Matriz do PAS 1 o cita na Introdução à Física Moderna."
+   ],
+   "explain": "O princípio diz que há um limite para conhecer ao mesmo tempo a posição e a velocidade de uma partícula. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Físicos 03).",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 03",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k17",
+   "materia": "Química",
+   "etapa": "PAS 1",
+   "answer": "tabela-periodica",
+   "near": {
+    "modelos-atomicos": "Explicam o átomo, mas a tabela é a organização dos elementos."
+   },
+   "hints": [
+    "É uma parede de escola com mais de cem casinhas.",
+    "Os elementos estão ordenados por número atômico e agrupados por propriedades parecidas.",
+    "As colunas verticais reúnem elementos de comportamento parecido, as famílias.",
+    "Um químico russo, Dmitri Mendeleev, publicou uma versão em 1869 e deixou lacunas para elementos ainda não descobertos.",
+    "A Matriz do PAS 1 a cita em Ligações químicas."
+   ],
+   "explain": "A tabela organiza os elementos por número atômico e propriedades. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Químicos 08).",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Químicos 08",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k18",
+   "materia": "Química",
+   "etapa": "PAS 1",
+   "answer": "modelos-atomicos",
+   "near": {
+    "tabela-periodica": "Organiza os elementos, mas não descreve como o átomo é por dentro.",
+    "incerteza": "É de Física Moderna e trata de um limite de medida."
+   },
+   "hints": [
+    "Ao longo da história, cientistas desenharam o átomo de jeitos diferentes, cada um explicando mais coisas.",
+    "Um deles lembrava uma bola maciça, outro um pudim de passas, outro um sistema solar em miniatura.",
+    "A descoberta do elétron e do núcleo obrigou a trocar de modelo.",
+    "Bohr propôs níveis de energia para os elétrons.",
+    "A Matriz do PAS 1 escreve 'Modelos ___' em Constituição da matéria."
+   ],
+   "explain": "Os modelos atômicos mostram como a ideia de átomo mudou com novas descobertas. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Químicos 07).",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Químicos 07",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k19",
+   "materia": "Química",
+   "etapa": "PAS 1",
+   "answer": "estequiometria",
+   "near": {
+    "hess": "A Lei de Hess trata de energia nas reações e é da etapa 2.",
+    "tabela-periodica": "Dá as massas dos elementos usadas no cálculo, mas o caso é o cálculo."
+   },
+   "hints": [
+    "É a receita de bolo da Química: quantas colheres de cada ingrediente para o bolo sair certo.",
+    "Calcula as quantidades de reagentes e de produtos numa reação.",
+    "Usa a equação balanceada e a quantidade de matéria em mols.",
+    "Dela se tira o rendimento de uma reação.",
+    "A Matriz do PAS 1 a cita em Leis das reações químicas."
+   ],
+   "explain": "A estequiometria calcula quantidades em reações químicas a partir da equação balanceada. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Químicos 09).",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Químicos 09",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k20",
+   "materia": "Biologia",
+   "etapa": "PAS 1",
+   "answer": "teoria-celular",
+   "near": {
+    "endossimbiotica": "Também é da Citologia do PAS 1, mas explica como surgiram as organelas.",
+    "organelas": "São partes da célula, e não a ideia de que todo ser vivo é feito de células."
+   },
+   "hints": [
+    "Do micróbio à baleia, todos os seres vivos têm algo em comum.",
+    "Todo ser vivo é formado por uma ou mais unidades microscópicas.",
+    "Toda unidade dessas vem de outra semelhante, que já existia.",
+    "Foi construída no século XIX por cientistas alemães, depois que o microscópio melhorou.",
+    "A Matriz do PAS 1 a cita em Citologia, junto com a teoria endossimbiótica."
+   ],
+   "explain": "Todo ser vivo é feito de células, e toda célula vem de outra célula. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Biológicos 12).",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Biológicos 12",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k21",
+   "materia": "Biologia",
+   "etapa": "PAS 1",
+   "answer": "ciclos-biogeoquimicos",
+   "near": {
+    "sucessao-ecologica": "Também é de Ecologia, mas descreve a mudança de uma comunidade ao longo do tempo."
+   },
+   "hints": [
+    "Um átomo de carbono do seu corpo já esteve numa árvore, no ar e no mar.",
+    "Elementos como carbono, nitrogênio e água passam do ambiente aos seres vivos e voltam.",
+    "Fotossíntese, respiração e decomposição fazem parte da engrenagem.",
+    "Cada elemento tem o seu ciclo, e os ciclos se conectam.",
+    "A Matriz do PAS 1 os cita em Ecologia, depois das cadeias e teias alimentares."
+   ],
+   "explain": "Os ciclos biogeoquímicos fazem os elementos circularem entre o ambiente e os seres vivos. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Biológicos 13).",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Biológicos 13",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k22",
+   "materia": "Biologia",
+   "etapa": "PAS 1",
+   "answer": "sucessao-ecologica",
+   "near": {
+    "ciclos-biogeoquimicos": "Também é de Ecologia, mas trata da circulação de elementos."
+   },
+   "hints": [
+    "Um terreno queimado ou abandonado vai se transformando aos poucos.",
+    "Primeiro chegam espécies simples, depois outras mais complexas.",
+    "O processo termina numa comunidade estável, chamada clímax.",
+    "É um tema de Ecologia ligado a impactos e à preservação ambiental.",
+    "A Matriz do PAS 1 escreve 'Sucessão ___'."
+   ],
+   "explain": "A sucessão ecológica é a substituição gradual de espécies num ambiente até uma comunidade estável. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Biológicos 13).",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Biológicos 13",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k23",
+   "materia": "Matemática",
+   "etapa": "PAS 1",
+   "answer": "funcao-quadratica",
+   "near": {
+    "funcao-logaritmica": "Também é da etapa 1, mas o gráfico é uma curva que cresce cada vez mais devagar.",
+    "pa": "É uma sequência, e não uma função de gráfico curvo."
+   },
+   "hints": [
+    "O gráfico lembra a trajetória de uma bola chutada para o alto.",
+    "A curva é uma parábola.",
+    "Pode ter um ponto mais alto ou mais baixo, o máximo ou o mínimo.",
+    "O lucro de uma empresa e o lançamento de objetos são contextos que a Matriz cita.",
+    "A expressão tem um termo ao quadrado: ax² + bx + c."
+   ],
+   "explain": "A função quadrática tem gráfico em parábola e ponto de máximo ou de mínimo. A Matriz do PAS 1 cita o tema (Matemática, PAS1MAT9).",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT9",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k24",
+   "materia": "Matemática",
+   "etapa": "PAS 1",
+   "answer": "funcao-logaritmica",
+   "near": {
+    "funcao-quadratica": "É outra função da etapa 1, mas de gráfico parabólico.",
+    "juros-compostos": "Usa a função exponencial, que é a inversa da logarítmica."
+   },
+   "hints": [
+    "É a função que 'desfaz' a exponencial.",
+    "Cresce rápido no começo e depois cada vez mais devagar.",
+    "Mede a intensidade de terremotos, de sons e a acidez de líquidos.",
+    "Faz uma multiplicação virar soma.",
+    "A Matriz do PAS 1 a descreve como inversa da exponencial."
+   ],
+   "explain": "A função logarítmica é a inversa da exponencial e aparece em escalas de sismos, som e acidez. A Matriz do PAS 1 cita o tema (Matemática, PAS1MAT11).",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT11",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k25",
+   "materia": "Matemática",
+   "etapa": "PAS 1",
+   "answer": "pa",
+   "near": {
+    "juros-compostos": "Cresce multiplicando, e não somando um valor fixo."
+   },
+   "hints": [
+    "Uma escada em que cada degrau sobe sempre a mesma altura.",
+    "Cada termo é o anterior mais um valor fixo.",
+    "Os pontos do gráfico ficam alinhados numa reta.",
+    "O valor fixo se chama razão.",
+    "A Matriz do PAS 1 liga a PA às funções afins e aos juros simples."
+   ],
+   "explain": "Na progressão aritmética, cada termo é o anterior somado a uma razão constante. A Matriz do PAS 1 cita o tema (Matemática, PAS1MAT13 e PAS1MAT14).",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT13 e PAS1MAT14",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k26",
+   "materia": "Matemática",
+   "etapa": "PAS 1",
+   "answer": "juros-compostos",
+   "near": {
+    "pa": "Está ligada aos juros simples, que crescem de forma linear.",
+    "funcao-logaritmica": "É a função inversa da exponencial usada aqui."
+   },
+   "hints": [
+    "É o 'juros sobre juros'.",
+    "O saldo é multiplicado pelo mesmo fator a cada período.",
+    "O crescimento é exponencial: devagar no início e muito rápido depois.",
+    "Dívidas de cartão de crédito crescem assim.",
+    "A Matriz do PAS 1 o compara com os juros simples."
+   ],
+   "explain": "Nos juros compostos, os juros de cada período rendem juros nos períodos seguintes. A Matriz do PAS 1 cita o tema (Matemática, PAS1MAT14 e PAS1MAT16).",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT14 e PAS1MAT16",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k27",
+   "materia": "Matemática",
+   "etapa": "PAS 1",
+   "answer": "gini",
+   "near": {
+    "desigualdades": "É o assunto geral, mas o caso é um número que o mede."
+   },
+   "hints": [
+    "É um número entre 0 e 1 que resume um problema social.",
+    "O zero seria um país em que todos têm a mesma renda.",
+    "Quanto mais perto de 1, mais concentrada é a renda.",
+    "Leva o nome de um estatístico italiano.",
+    "A Matriz do PAS 1 o cita junto com o IDH."
+   ],
+   "explain": "O índice de Gini mede a desigualdade de renda, de 0 (igualdade total) a 1. A Matriz do PAS 1 cita o tema (Matemática, PAS1MAT5).",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT5",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k28",
+   "materia": "Filosofia",
+   "etapa": "PAS 1",
+   "answer": "mitologia",
+   "near": {
+    "logica": "Também está na Matriz do PAS 1, mas trata de regras de raciocínio, e não de narrativas.",
+    "estetica": "Também é de Filosofia, mas estuda o belo e as artes."
+   },
+   "hints": [
+    "Antes da ciência, os povos explicavam o mundo contando histórias.",
+    "São narrativas sobre deuses, heróis e a origem das coisas.",
+    "Têm uma lógica própria, que a Matriz pede para compreender.",
+    "Existem em povos de todos os continentes.",
+    "A Matriz do PAS 1 abre o tema com 'Mitologias como formas de expressão'."
+   ],
+   "explain": "As mitologias são narrativas que explicam o mundo e têm uma lógica própria. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 01).",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimento essencial 01",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k29",
+   "materia": "Filosofia",
+   "etapa": "PAS 1",
+   "answer": "logica",
+   "near": {
+    "epistemologia": "Estuda o conhecimento, e não as regras do raciocínio.",
+    "mitologia": "Explica o mundo por narrativas, e não por argumentos."
+   },
+   "hints": [
+    "É o que separa uma discussão boa de uma briga.",
+    "Estuda as regras do raciocínio válido.",
+    "Um argumento tem premissas e uma conclusão.",
+    "Aristóteles foi um dos primeiros a organizá-la.",
+    "A Matriz do PAS 1 a cita como 'Elementos da ___ como condição para argumentação consistente'."
+   ],
+   "explain": "A lógica estuda o raciocínio válido e dá base para argumentar e criticar argumentos. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 04 e PAS1CH1).",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimento essencial 04 e PAS1CH1",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k30",
+   "materia": "Filosofia",
+   "etapa": "PAS 1",
+   "answer": "estetica",
+   "near": {
+    "industria-cultural": "Trata da arte como mercadoria, e não do belo em si.",
+    "mitologia": "Também é de Filosofia, mas trata de narrativas sobre o mundo."
+   },
+   "hints": [
+    "Por que uma música emociona e outra não?",
+    "É a parte da Filosofia que estuda o belo e a experiência das artes.",
+    "A palavra vem do grego para 'sentir'.",
+    "Pergunta o que faz uma obra ser considerada arte.",
+    "A Matriz do PAS 1 cita 'Noções ___ fundamentais'."
+   ],
+   "explain": "A estética estuda o belo e a experiência de fruição das artes. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 05).",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimento essencial 05",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k31",
+   "materia": "Sociologia",
+   "etapa": "PAS 1",
+   "answer": "relativismo",
+   "near": {
+    "etnocentrismo": "É o oposto: julgar outras culturas pelos valores da própria."
+   },
+   "hints": [
+    "Para entender um costume, é preciso olhar com os olhos de quem o pratica.",
+    "Cada cultura tem seus próprios critérios, e nenhuma é a régua das outras.",
+    "O contrário é julgar tudo pela própria cultura.",
+    "Foi defendido pela Antropologia do século XX, por autores como Franz Boas.",
+    "A Matriz do PAS 1 o cita junto com etnocentrismo."
+   ],
+   "explain": "O relativismo cultural pede entender cada cultura nos seus próprios termos. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 13).",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimento essencial 13",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k32",
+   "materia": "História",
+   "etapa": "PAS 1",
+   "answer": "diaspora",
+   "near": {
+    "colonizacao": "Ocorreu junto com a diáspora, mas o caso é o deslocamento forçado de pessoas.",
+    "estados-nacionais": "É outro processo histórico, ligado à formação de países."
+   },
+   "hints": [
+    "Milhões de pessoas foram arrancadas de um continente e levadas para outro.",
+    "O oceano Atlântico virou rota de comércio de gente.",
+    "A África, a Europa e a América ficaram ligadas por esse tráfico.",
+    "A Matriz do PAS 1 fala do espaço Atlântico.",
+    "O nome vem de uma palavra grega que significa dispersão."
+   ],
+   "explain": "A diáspora atlântica foi o deslocamento forçado de africanos escravizados para a América. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 17 e 18).",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimento essencial 17 e 18",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k33",
+   "materia": "Geografia",
+   "etapa": "PAS 1",
+   "answer": "territorio",
+   "near": {
+    "paisagem": "Também é conceito geográfico, mas descreve o que se vê, e não o espaço apropriado.",
+    "cartografia": "É a linguagem dos mapas, e não um conceito de espaço."
+   },
+   "hints": [
+    "Não é só um pedaço de chão: é um pedaço de chão com dono.",
+    "Pode ser um país, um bairro ou uma terra indígena.",
+    "Envolve poder, fronteiras e identidade.",
+    "É um dos conceitos centrais da Geografia, junto com lugar e região.",
+    "A Matriz do PAS 1 o lista com paisagem, rede e espaço."
+   ],
+   "explain": "Território é o espaço apropriado e controlado por um grupo, com poder e identidade. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 22).",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimento essencial 22",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k34",
+   "materia": "Geografia",
+   "etapa": "PAS 1",
+   "answer": "paisagem",
+   "near": {
+    "territorio": "Envolve poder sobre o espaço, e não o que a vista alcança.",
+    "cartografia": "Representa o espaço em mapas."
+   },
+   "hints": [
+    "É o que a vista alcança de uma janela.",
+    "Reúne elementos naturais e marcas da ação humana.",
+    "Muda com o tempo e com quem olha.",
+    "É um conceito geográfico, como lugar e região.",
+    "A Matriz do PAS 1 a lista com lugar, região e rede."
+   ],
+   "explain": "Paisagem é o conjunto do que se vê num espaço, com elementos naturais e humanos. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 22).",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimento essencial 22",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k35",
+   "materia": "Geografia",
+   "etapa": "PAS 1",
+   "answer": "cartografia",
+   "near": {
+    "territorio": "É um conceito de espaço, e não a linguagem dos mapas.",
+    "paisagem": "É o que se vê, e não a forma de representar."
+   },
+   "hints": [
+    "Um mapa nunca é igual ao terreno.",
+    "É a linguagem dos mapas: escala, legenda e símbolos.",
+    "Escolher o centro e a projeção de um mapa também é uma escolha.",
+    "Ajuda a ler distâncias, áreas e fenômenos no espaço.",
+    "A Matriz do PAS 1 pede 'Linguagem ___ e imagética'."
+   ],
+   "explain": "A linguagem cartográfica usa escala, legenda e símbolos para representar o espaço. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 23).",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimento essencial 23",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k36",
+   "materia": "Geografia",
+   "etapa": "PAS 1",
+   "answer": "urbanizacao",
+   "near": {
+    "capitalismo": "Foi um motor da urbanização, mas o caso é o crescimento das cidades.",
+    "territorio": "É um conceito de espaço, e não um processo de crescimento das cidades."
+   },
+   "hints": [
+    "Cada vez mais gente vive num mesmo tipo de lugar.",
+    "A população deixa o campo e passa a morar em cidades.",
+    "Traz trânsito, moradia cara e impactos ao ambiente.",
+    "Cresceu com as revoluções industriais.",
+    "A Matriz do PAS 1 pede 'Processo de ___ e os impactos socioambientais'."
+   ],
+   "explain": "A urbanização é o crescimento da população e do espaço das cidades, com impactos sociais e ambientais. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 25).",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimento essencial 25",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k37",
+   "materia": "Sociologia",
+   "etapa": "PAS 1",
+   "answer": "desigualdades",
+   "near": {
+    "gini": "É um número que mede a desigualdade de renda, e não o conceito em si.",
+    "marcadores": "São categorias usadas para analisá-la."
+   },
+   "hints": [
+    "Duas crianças da mesma cidade têm futuros muito diferentes.",
+    "É a diferença no acesso a renda, saúde, escola e moradia.",
+    "Atravessa classe, gênero e etnia.",
+    "A Sociologia a estuda desde o século XIX.",
+    "A Matriz do PAS 1 cita 'Desigualdades ___ de classe, gênero e etnia'."
+   ],
+   "explain": "As desigualdades sociais são diferenças de acesso a bens e direitos que atravessam classe, gênero e etnia. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 08).",
+   "origem_pas": "Matriz PAS 1, Humanidades, conhecimento essencial 08",
+   "fonte": "Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k38",
+   "materia": "Física",
+   "etapa": "PAS 2",
+   "answer": "ondulatoria",
+   "near": {
+    "otica": "Também é de Física na etapa 2, mas trata da luz em espelhos e lentes.",
+    "termodinamica": "Trata de calor, e não de ondas."
+   },
+   "hints": [
+    "Quando você joga uma pedra na água, algo se espalha sem a água viajar junto.",
+    "É a transmissão de energia sem transporte de matéria.",
+    "O som e a luz são exemplos.",
+    "Tem frequência, comprimento de onda e velocidade.",
+    "A Matriz do PAS 2 a cita com ondas mecânicas e eletromagnéticas."
+   ],
+   "explain": "A ondulatória estuda ondas, como o som e a luz. A Matriz do PAS 2 cita o tema (Ciências da Natureza, Físicos 02).",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 02",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k39",
+   "materia": "Física",
+   "etapa": "PAS 2",
+   "answer": "otica",
+   "near": {
+    "ondulatoria": "Também trata da luz, mas como onda, e não em espelhos e lentes."
+   },
+   "hints": [
+    "Um espelho de banheiro e uma lupa mudam a imagem de jeitos diferentes.",
+    "Estuda como a luz se comporta ao refletir e ao refratar.",
+    "Explica óculos, lupas, câmeras e microscópios.",
+    "O olho humano e seus defeitos de visão entram no assunto.",
+    "A Matriz do PAS 2 escreve 'Ótica ___'."
+   ],
+   "explain": "A ótica geométrica estuda reflexão e refração da luz em espelhos e lentes. A Matriz do PAS 2 cita o tema (Ciências da Natureza, Físicos 03).",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 03",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k40",
+   "materia": "Química",
+   "etapa": "PAS 2",
+   "answer": "hess",
+   "near": {
+    "termodinamica": "É a área maior, mas o caso é uma lei sobre o saldo de energia das reações.",
+    "estequiometria": "Calcula quantidades, e não energia."
+   },
+   "hints": [
+    "O caminho que a reação faz não muda o saldo de energia.",
+    "O calor total de uma reação é a soma dos calores das etapas.",
+    "Permite calcular a variação de energia de reações difíceis de medir.",
+    "Foi enunciada por um químico suíço-russo no século XIX.",
+    "A Matriz do PAS 2 a cita em Termoquímica, junto da entalpia."
+   ],
+   "explain": "A Lei de Hess diz que a variação de entalpia de uma reação não depende do caminho. A Matriz do PAS 2 cita o tema (Ciências da Natureza, Químicos 08).",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 08",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k41",
+   "materia": "Química",
+   "etapa": "PAS 2",
+   "answer": "gases",
+   "near": {
+    "termodinamica": "Trata de calor e trabalho, e não da relação entre pressão, volume e temperatura de um gás."
+   },
+   "hints": [
+    "Dentro de um botijão, as moléculas voam e batem nas paredes.",
+    "Relaciona pressão, volume e temperatura de uma quantidade de gás.",
+    "Se você aperta uma seringa tampada, a pressão sobe.",
+    "Une as leis de Boyle, Charles e Gay-Lussac.",
+    "A Matriz do PAS 2 escreve 'Lei geral dos ___'."
+   ],
+   "explain": "A lei geral dos gases relaciona pressão, volume e temperatura de uma amostra de gás. A Matriz do PAS 2 cita o tema (Ciências da Natureza, Químicos 07).",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 07",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k42",
+   "materia": "Química",
+   "etapa": "PAS 2",
+   "answer": "solucoes",
+   "near": {
+    "gases": "Também é da Química da etapa 2, mas trata de gases."
+   },
+   "hints": [
+    "Um suco forte e um suco fraco têm os mesmos ingredientes.",
+    "Mede quanto soluto há numa quantidade de solução.",
+    "Pode ser dada em mol por litro.",
+    "Se você dilui a solução, o valor diminui.",
+    "A Matriz do PAS 2 a lista em Soluções, com diluição e mistura."
+   ],
+   "explain": "A concentração mede a quantidade de soluto por volume de solução. A Matriz do PAS 2 cita o tema (Ciências da Natureza, Químicos 09).",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 09",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k43",
+   "materia": "Biologia",
+   "etapa": "PAS 2",
+   "answer": "virus",
+   "near": {
+    "taxonomia": "Organiza os seres vivos em grupos, e não explica o que é um vírus."
+   },
+   "hints": [
+    "Só se reproduz dentro de uma célula que não é dele.",
+    "Muitos biólogos discutem se é vivo ou não.",
+    "É formado por material genético dentro de uma cápsula de proteína.",
+    "Causa gripe, dengue e sarampo.",
+    "A Matriz do PAS 2 abre a lista de seres vivos com 'Vírus e ___'."
+   ],
+   "explain": "Os vírus são partículas que só se multiplicam dentro de células e causam as viroses. A Matriz do PAS 2 cita o tema (Ciências da Natureza, Biológicos 11).",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Biológicos 11",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k44",
+   "materia": "Biologia",
+   "etapa": "PAS 2",
+   "answer": "botanica",
+   "near": {
+    "taxonomia": "Organiza todos os seres vivos, e não só as plantas."
+   },
+   "hints": [
+    "É o ramo que olha para o que cresce do solo.",
+    "Estuda as plantas.",
+    "Trata da conquista do ambiente terrestre pelos vegetais.",
+    "Inclui tecidos, morfologia e fisiologia vegetais.",
+    "A Matriz do PAS 2 a cita com 'Histologia: tecidos vegetais'."
+   ],
+   "explain": "A botânica estuda as plantas: tecidos, forma e funcionamento. A Matriz do PAS 2 cita o tema (Ciências da Natureza, Biológicos 12).",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Biológicos 12",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k45",
+   "materia": "Matemática",
+   "etapa": "PAS 2",
+   "answer": "prob-condicional",
+   "near": {
+    "desvio-padrao": "É outra medida da etapa 2, mas de espalhamento, e não de chance."
+   },
+   "hints": [
+    "Sabendo que choveu, qual a chance de o jogo ser cancelado?",
+    "A probabilidade muda quando ganhamos uma informação nova.",
+    "O espaço de possibilidades encolhe para o que já aconteceu.",
+    "Calcula-se dividindo a probabilidade de os dois eventos juntos pela do evento conhecido.",
+    "A Matriz do PAS 2 a cita no objetivo PAS2MAT18."
+   ],
+   "explain": "A probabilidade condicional é a chance de um evento quando se sabe que outro ocorreu. A Matriz do PAS 2 cita o tema (Matemática, PAS2MAT18).",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT18",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k46",
+   "materia": "Matemática",
+   "etapa": "PAS 2",
+   "answer": "desvio-padrao",
+   "near": {
+    "prob-condicional": "É da mesma etapa, mas trata de chance, e não de espalhamento."
+   },
+   "hints": [
+    "Duas turmas com a mesma média de nota podem ser muito diferentes.",
+    "Mede o quanto os valores se afastam da média.",
+    "Quanto maior, mais espalhados estão os dados.",
+    "É a raiz quadrada da variância.",
+    "A Matriz do PAS 2 o cita entre as medidas de dispersão."
+   ],
+   "explain": "O desvio padrão mede a dispersão dos dados em torno da média. A Matriz do PAS 2 cita o tema (Matemática, PAS2MAT12).",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT12",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k47",
+   "materia": "Matemática",
+   "etapa": "PAS 2",
+   "answer": "combinatoria",
+   "near": {
+    "prob-condicional": "Usa a contagem, mas o caso é a própria contagem."
+   },
+   "hints": [
+    "Quantas senhas de 4 dígitos existem?",
+    "Conta de quantas maneiras se podem organizar ou escolher elementos.",
+    "Usa os princípios aditivo e multiplicativo.",
+    "O diagrama de árvore ajuda a ver as possibilidades.",
+    "A Matriz do PAS 2 escreve 'Análise ___'."
+   ],
+   "explain": "A análise combinatória conta possibilidades com os princípios aditivo e multiplicativo. A Matriz do PAS 2 cita o tema (Matemática, PAS2MAT13).",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT13",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k48",
+   "materia": "Matemática",
+   "etapa": "PAS 2",
+   "answer": "conicas",
+   "near": {
+    "volume-solidos": "Também é geometria da etapa 2, mas trata de volumes, e não de curvas."
+   },
+   "hints": [
+    "Corte uma casquinha de sorvete de jeitos diferentes e veja o que aparece.",
+    "São curvas obtidas ao cortar um cone com um plano.",
+    "Elipse, parábola e hipérbole.",
+    "A órbita dos planetas é uma delas.",
+    "A Matriz do PAS 2 as liga à ótica geométrica e à ondulatória."
+   ],
+   "explain": "As cônicas são curvas obtidas pela interseção de um plano com um cone. A Matriz do PAS 2 cita o tema (Matemática, PAS2MAT5).",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT5",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k49",
+   "materia": "Matemática",
+   "etapa": "PAS 2",
+   "answer": "funcoes-trig",
+   "near": {
+    "conicas": "Também é da Matemática da etapa 2, mas descreve curvas, e não fenômenos que se repetem."
+   },
+   "hints": [
+    "Descrevem o que se repete: as marés, as fases da Lua.",
+    "São periódicas: o gráfico se repete em ondas.",
+    "Seno e cosseno são exemplos.",
+    "Modelam sons, movimento circular e o sistema massa-mola.",
+    "A Matriz do PAS 2 as cita em fenômenos periódicos reais."
+   ],
+   "explain": "As funções trigonométricas descrevem fenômenos periódicos, como ondas e movimentos circulares. A Matriz do PAS 2 cita o tema (Matemática, PAS2MAT2).",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT2",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k50",
+   "materia": "História",
+   "etapa": "PAS 2",
+   "answer": "colonizacao",
+   "near": {
+    "capitalismo": "Foi o contexto econômico, mas o caso é a ocupação da América pelos portugueses.",
+    "estados-nacionais": "É outro processo da etapa 2, ligado à formação de países."
+   },
+   "hints": [
+    "Um território com milhões de habitantes passa a ser tratado como propriedade de um reino distante.",
+    "Terras indígenas foram ocupadas por portugueses.",
+    "A economia girou em torno do açúcar, do ouro e do trabalho escravizado.",
+    "Houve resistências indígenas e africanas durante todo o período.",
+    "A Matriz do PAS 2 pede 'Rupturas e permanências' desse processo."
+   ],
+   "explain": "A colonização portuguesa da América envolveu ocupação, exploração econômica e resistência. A Matriz do PAS 2 cita o tema (Humanidades, conhecimento essencial 08).",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimento essencial 08",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k51",
+   "materia": "Filosofia",
+   "etapa": "PAS 2",
+   "answer": "epistemologia",
+   "near": {
+    "logica": "Estuda as regras do raciocínio, e não o conhecimento em si.",
+    "esclarecimento": "É um texto de Kant da lista do PAS 2, e não a área da Filosofia."
+   },
+   "hints": [
+    "Antes de saber algo, é bom saber o que é saber.",
+    "É a parte da Filosofia que estuda o conhecimento.",
+    "Pergunta como sabemos o que sabemos e quais são os limites.",
+    "Inclui os métodos e a fundamentação da ciência.",
+    "A Matriz do PAS 2 trata de 'Epistemologia e fundamentação do conhecimento científico'."
+   ],
+   "explain": "A epistemologia estuda a natureza, os métodos e os limites do conhecimento, inclusive o científico. A Matriz do PAS 2 cita o tema (Humanidades, conhecimento essencial 02 e 03).",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimento essencial 02 e 03",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k52",
+   "materia": "Sociologia",
+   "etapa": "PAS 2",
+   "answer": "industria-cultural",
+   "near": {
+    "estetica": "Trata do belo, e não da arte produzida em série.",
+    "marcadores": "São categorias de análise social, e não o conceito de cultura de massa."
+   },
+   "hints": [
+    "Todos os dias, as mesmas músicas, séries e propagandas chegam a milhões de pessoas.",
+    "A cultura é produzida em série, como mercadoria.",
+    "O conceito é de pensadores da Escola de Frankfurt.",
+    "Foi apresentado num livro de 1947.",
+    "O texto 'A indústria cultural' está na lista de obras do PAS 2."
+   ],
+   "explain": "A indústria cultural trata a cultura como mercadoria produzida em série para as massas. A Matriz do PAS 2 cita o tema (Humanidades, conhecimento essencial 05; lista de obras PAS 2, Textos).",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimento essencial 05; lista de obras PAS 2, Textos",
+   "fonte": "Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k53",
+   "materia": "Física",
+   "etapa": "PAS 3",
+   "answer": "kirchhoff",
+   "near": {
+    "faraday": "Também está na Física do PAS 3, mas trata de indução, e não das regras dos circuitos."
+   },
+   "hints": [
+    "Num circuito com vários caminhos, a corrente que chega a um ponto é a que sai.",
+    "A soma das tensões num laço fechado é zero.",
+    "São duas regras, a dos nós e a das malhas.",
+    "Foram enunciadas por um físico alemão, em 1845.",
+    "A Matriz do PAS 3 as cita em Eletrodinâmica."
+   ],
+   "explain": "As leis de Kirchhoff descrevem correntes nos nós e tensões nas malhas de um circuito. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Físicos 03).",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 03",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k54",
+   "materia": "Química",
+   "etapa": "PAS 3",
+   "answer": "radioatividade",
+   "near": {
+    "relatividade": "É da Física Moderna, mas não trata de átomos que se desintegram."
+   },
+   "hints": [
+    "Alguns átomos se desfazem sozinhos, soltando energia.",
+    "Emitem partículas alfa, beta ou radiação gama.",
+    "O tempo que metade de uma amostra leva para decair é a meia-vida.",
+    "Pierre e Marie Curie estudaram o fenômeno.",
+    "A Matriz do PAS 3 a cita em Química: emissão de partículas e cinética radioativa."
+   ],
+   "explain": "A radioatividade é a emissão de partículas e radiação por núcleos instáveis. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Químicos 07).",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 07",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k55",
+   "materia": "Química",
+   "etapa": "PAS 3",
+   "answer": "eletroquimica",
+   "near": {
+    "kirchhoff": "É da Física do circuito, e não da reação química que gera corrente."
+   },
+   "hints": [
+    "Dentro de uma pilha, uma reação química vira corrente elétrica.",
+    "Também funciona ao contrário: a eletricidade provoca reações.",
+    "A eletrólise usa corrente para separar substâncias.",
+    "Uma pilha tem polos positivo e negativo.",
+    "A Matriz do PAS 3 a cita com 'Pilhas' e 'Eletrólise ígnea e aquosa'."
+   ],
+   "explain": "A eletroquímica estuda a relação entre reações químicas e corrente elétrica, em pilhas e na eletrólise. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Químicos 08).",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 08",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k56",
+   "materia": "Química",
+   "etapa": "PAS 3",
+   "answer": "cinetica",
+   "near": {
+    "le-chatelier": "Também é da Química do PAS 3, mas trata do equilíbrio, e não da rapidez."
+   },
+   "hints": [
+    "Algumas reações acontecem num piscar de olhos, outras levam anos.",
+    "Estuda a rapidez com que as reações acontecem.",
+    "Temperatura, concentração e catalisadores a modificam.",
+    "Usa a teoria das colisões.",
+    "A Matriz do PAS 3 escreve 'Cinética ___'."
+   ],
+   "explain": "A cinética química estuda a rapidez das reações e os fatores que a alteram. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Químicos 09).",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 09",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k57",
+   "materia": "Física",
+   "etapa": "PAS 3",
+   "answer": "relatividade",
+   "near": {
+    "incerteza": "É outra teoria da Física Moderna, mas trata de um limite de medida em escalas muito pequenas."
+   },
+   "hints": [
+    "Para quem viaja numa nave muito rápida, o tempo passa de outro jeito.",
+    "Espaço e tempo formam uma coisa só: o espaço-tempo.",
+    "Na versão geral, a gravidade é a curvatura do espaço-tempo.",
+    "Foi proposta por Einstein no início do século XX e testada num eclipse.",
+    "A Matriz do PAS 3 a cita como 'Teorias da ___'."
+   ],
+   "explain": "A teoria da relatividade descreve espaço e tempo como um espaço-tempo unificado. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Físicos 05).",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 05",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k58",
+   "materia": "Biologia",
+   "etapa": "PAS 3",
+   "answer": "genetica",
+   "near": {
+    "evolucao": "Também é da Biologia do PAS 3, mas trata da mudança das espécies ao longo do tempo."
+   },
+   "hints": [
+    "Por que filhos se parecem com os pais, mas não são iguais?",
+    "Estuda como as características passam de uma geração para outra.",
+    "Começou com experimentos em ervilhas.",
+    "O monge Gregor Mendel formulou as primeiras leis.",
+    "A Matriz do PAS 3 a cita junto com genética molecular."
+   ],
+   "explain": "A genética clássica estuda a herança das características, a partir dos experimentos de Mendel. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Biológicos 16).",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 16",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k59",
+   "materia": "Matemática",
+   "etapa": "PAS 3",
+   "answer": "complexos",
+   "near": {
+    "polinomios": "Também é da Matemática do PAS 3, mas trata de expressões com potências de x.",
+    "determinantes": "É um valor associado a matrizes."
+   },
+   "hints": [
+    "Algumas equações pareciam não ter solução até alguém inventar um novo tipo de número.",
+    "É um número que mistura uma parte real e uma imaginária.",
+    "Usa uma unidade imaginária cujo quadrado vale −1.",
+    "Pode ser desenhado num plano, como um ponto ou uma seta.",
+    "A Matriz do PAS 3 os liga à decomposição de vetores e ao equilíbrio de partículas."
+   ],
+   "explain": "Os números complexos têm parte real e parte imaginária e podem ser representados no plano. A Matriz do PAS 3 cita o tema (Matemática, PAS3MAT8 e PAS3MAT9).",
+   "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT8 e PAS3MAT9",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k60",
+   "materia": "Matemática",
+   "etapa": "PAS 3",
+   "answer": "determinantes",
+   "near": {
+    "complexos": "Também é da Matemática do PAS 3, mas trata de outro tipo de número."
+   },
+   "hints": [
+    "É um único número que resume uma matriz quadrada.",
+    "Se for zero, o sistema linear pode não ter solução única.",
+    "Numa matriz 2x2, calcula-se ad − bc.",
+    "Serve para calcular áreas de paralelogramos e de triângulos.",
+    "A Matriz do PAS 3 os cita com matrizes e sistemas lineares."
+   ],
+   "explain": "O determinante associa um número a uma matriz quadrada e mede, por exemplo, áreas. A Matriz do PAS 3 cita o tema (Matemática, PAS3MAT7).",
+   "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT7",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k61",
+   "materia": "Matemática",
+   "etapa": "PAS 3",
+   "answer": "geometria-analitica",
+   "near": {
+    "determinantes": "É uma ferramenta usada em cálculos de áreas por coordenadas, mas não é a área da Matemática."
+   },
+   "hints": [
+    "Os pontos viram números e as figuras viram equações.",
+    "Une álgebra e geometria no plano cartesiano.",
+    "Calcula distâncias, retas e circunferências por coordenadas.",
+    "É a base do funcionamento de mapas e de GPS.",
+    "A Matriz do PAS 3 escreve 'Geometria ___'."
+   ],
+   "explain": "A geometria analítica estuda figuras por meio de coordenadas e equações. A Matriz do PAS 3 cita o tema (Matemática, PAS3MAT1 e PAS3MAT4).",
+   "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT1 e PAS3MAT4",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k62",
+   "materia": "Matemática",
+   "etapa": "PAS 3",
+   "answer": "polinomios",
+   "near": {
+    "complexos": "Também é da Matemática do PAS 3, mas trata de outro tipo de número."
+   },
+   "hints": [
+    "Expressões com várias potências de x somadas.",
+    "Têm grau, coeficientes e raízes.",
+    "Podem ser divididos como se faz com números inteiros.",
+    "Fatorar um polinômio ajuda a achar suas raízes.",
+    "A Matriz do PAS 3 os lista com equações algébricas."
+   ],
+   "explain": "Polinômios são expressões com potências de uma variável, com grau, coeficientes e raízes. A Matriz do PAS 3 cita o tema (Matemática, PAS3MAT10 e PAS3MAT11).",
+   "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT10 e PAS3MAT11",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k63",
+   "materia": "Sociologia",
+   "etapa": "PAS 3",
+   "answer": "estado-democratico",
+   "near": {
+    "filosofia-politica": "É a área que discute o poder, e não a forma de organização descrita na Constituição."
+   },
+   "hints": [
+    "O poder tem limites, e a lei vale também para quem manda.",
+    "Combina eleições livres com respeito a direitos e leis.",
+    "A Constituição de 1988 o declara logo no primeiro artigo.",
+    "Garante direitos fundamentais e separação dos poderes.",
+    "A Matriz do PAS 3 o cita em Humanidades."
+   ],
+   "explain": "O Estado Democrático de Direito submete o poder à lei e garante direitos fundamentais. A Matriz do PAS 3 cita o tema (Humanidades, conhecimento essencial 25).",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento essencial 25",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k64",
+   "materia": "Geografia",
+   "etapa": "PAS 3",
+   "answer": "blocos-economicos",
+   "near": {
+    "organismos-multilaterais": "São organizações amplas de países, e não acordos comerciais regionais."
+   },
+   "hints": [
+    "Países vizinhos combinam regras para negociar entre si.",
+    "Reduzem tarifas de comércio entre os participantes.",
+    "A União Europeia e o Mercosul são exemplos.",
+    "Podem ser zona de livre comércio, união aduaneira ou mercado comum.",
+    "A Matriz do PAS 3 os lista na Geografia da etapa."
+   ],
+   "explain": "Blocos econômicos são acordos entre países para facilitar o comércio e a cooperação. A Matriz do PAS 3 cita o tema (Humanidades, conhecimento essencial 23).",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento essencial 23",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k65",
+   "materia": "Geografia",
+   "etapa": "PAS 3",
+   "answer": "organismos-multilaterais",
+   "near": {
+    "blocos-economicos": "São acordos comerciais entre países vizinhos, e não organizações amplas de cooperação."
+   },
+   "hints": [
+    "Vários países sentam à mesma mesa para decidir regras comuns.",
+    "A ONU é o mais conhecido.",
+    "Outros cuidam de comércio, saúde e finanças, como OMC, OMS e FMI.",
+    "Surgiram sobretudo depois da Segunda Guerra Mundial.",
+    "A Matriz do PAS 3 os cita com geopolítica mundial."
+   ],
+   "explain": "Organismos multilaterais reúnem muitos países para tratar de temas comuns, como paz, saúde e comércio. A Matriz do PAS 3 cita o tema (Humanidades, conhecimento essencial 22).",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento essencial 22",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k66",
+   "materia": "Geografia",
+   "etapa": "PAS 3",
+   "answer": "divisao-trabalho",
+   "near": {
+    "imperialismo": "Está na origem dessa divisão, mas o caso é a especialização entre países na produção.",
+    "capitalismo": "É o sistema maior em que a divisão acontece."
+   },
+   "hints": [
+    "O celular no seu bolso foi projetado num país, montado em outro e feito com minérios de mais outro.",
+    "Cada região se especializa numa etapa da produção.",
+    "Países centrais ficam com o projeto, e outros com a matéria-prima ou a montagem.",
+    "Gera dependência e desigualdade entre países.",
+    "A Matriz do PAS 3 a cita em Humanidades."
+   ],
+   "explain": "A divisão internacional do trabalho distribui as etapas da produção entre países de modo desigual. A Matriz do PAS 3 cita o tema (Humanidades, conhecimento essencial 18).",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento essencial 18",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k67",
+   "materia": "Filosofia",
+   "etapa": "PAS 3",
+   "answer": "filosofia-politica",
+   "near": {
+    "estado-democratico": "É uma forma de organização do poder, e não a área que a discute."
+   },
+   "hints": [
+    "Quem deve mandar, e por quê?",
+    "Discute a origem e a justificação do poder.",
+    "Trata de justiça, liberdade e leis.",
+    "Platão, Hobbes e Rousseau fizeram parte dela.",
+    "A Matriz do PAS 3 a abre a lista de Humanidades."
+   ],
+   "explain": "A filosofia política reflete sobre o poder, a justiça e a organização da vida coletiva. A Matriz do PAS 3 cita o tema (Humanidades, conhecimento essencial 01 e 02).",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento essencial 01 e 02",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k68",
+   "materia": "Biologia",
+   "etapa": "PAS 3",
+   "answer": "evolucao",
+   "near": {
+    "genetica": "Também é da Biologia do PAS 3, mas trata da herança, e não da mudança das espécies."
+   },
+   "hints": [
+    "Os tentilhões de Galápagos ajudaram a contar essa história.",
+    "Os seres vivos mudam ao longo das gerações.",
+    "A seleção natural é um dos mecanismos.",
+    "Foi proposta por Darwin, em 1859.",
+    "A Matriz do PAS 3 a cita com especiação e genética de populações."
+   ],
+   "explain": "A evolução biológica explica a mudança das espécies ao longo do tempo, por seleção natural e outros mecanismos. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Biológicos 13).",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 13",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k69",
+   "materia": "Biologia",
+   "etapa": "PAS 3",
+   "answer": "fisiologia-humana",
+   "near": {
+    "genetica": "Também é da Biologia do PAS 3, mas trata da herança, e não do funcionamento do corpo."
+   },
+   "hints": [
+    "O corpo é uma orquestra com vários sistemas tocando juntos.",
+    "Estuda como funcionam os órgãos e os sistemas do corpo humano.",
+    "Inclui os sistemas nervoso, circulatório, respiratório e digestório.",
+    "Também o imunológico, o endócrino e o excretor.",
+    "A Matriz do PAS 3 a lista em Biologia."
+   ],
+   "explain": "A fisiologia humana estuda o funcionamento dos sistemas do corpo. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Biológicos 18).",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 18",
+   "fonte": "Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k70",
+   "materia": "Biologia",
+   "etapa": "PAS 1",
+   "answer": "divisao-celular",
+   "near": {
+    "teoria-celular": "A Teoria Celular diz do que os seres vivos são feitos, não como as células se multiplicam.",
+    "organelas": "As organelas são peças da célula; a divisão cuida de como ela se multiplica."
+   },
+   "hints": [
+    "Um processo que acontece em quase todo ser vivo, do que você comeu hoje até a cicatriz que fecha um corte.",
+    "Antes dele, o material genético é duplicado.",
+    "Há dois tipos: um mantém o número de cromossomos; o outro o reduz à metade e produz gametas.",
+    "Passa por fases com nomes como prófase, metáfase, anáfase e telófase.",
+    "Os dois tipos se chamam mitose e meiose."
+   ],
+   "explain": "A célula copia o material genético e se divide: na mitose gera células iguais, na meiose gera gametas. A Matriz do PAS 1 cita Organização Nuclear e Divisão Celular e o Ciclo Celular.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Biológicos 12 (Organização Nuclear e Divisão Celular); PAS1CN5 e PAS1CN9 (Ciclo Celular)",
+   "fonte": "Matriz PAS 1 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k71",
+   "materia": "Física",
+   "etapa": "PAS 2",
+   "answer": "maquinas-termicas",
+   "near": {
+    "termodinamica": "As máquinas térmicas aplicam as Leis da Termodinâmica; a pergunta é sobre o equipamento, não sobre a lei.",
+    "calorimetria": "A calorimetria mede o calor trocado; a máquina térmica o converte em trabalho."
+   },
+   "hints": [
+    "Existem desde o século XVIII e mudaram a forma de produzir e de viajar.",
+    "Convertem calor em trabalho, mas nunca com rendimento de 100%.",
+    "Parte do calor sempre é jogada fora para uma fonte fria.",
+    "A locomotiva a vapor e o motor de um carro são exemplos.",
+    "Funcionam em ciclos, como o ciclo de Carnot, que dá o limite teórico do rendimento."
+   ],
+   "explain": "Máquinas térmicas retiram calor de uma fonte quente, realizam trabalho e rejeitam calor para uma fonte fria. A Matriz do PAS 2 cita Máquinas Térmicas e Frigoríficas e liga o tema à Revolução Industrial.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 01 (Máquinas Térmicas e Frigoríficas); PAS2CN1 e PAS2CN2",
+   "fonte": "Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k72",
+   "materia": "Química",
+   "etapa": "PAS 2",
+   "answer": "calorimetria",
+   "near": {
+    "hess": "A Lei de Hess usa calores medidos para calcular outros; a medição em si é a calorimetria.",
+    "termodinamica": "A Termodinâmica é a teoria; a calorimetria é a técnica que mede o calor trocado."
+   },
+   "hints": [
+    "Mede algo que não se vê, só se sente: esquentar ou esfriar.",
+    "Usa um recipiente isolado onde as trocas de calor ficam registradas.",
+    "A grandeza central é o calor trocado, em joules ou calorias.",
+    "O aparelho que mede o calor liberado ao queimar um alimento tem quase o mesmo nome.",
+    "É a parte da Termoquímica que mede o calor das reações."
+   ],
+   "explain": "A calorimetria mede o calor trocado em um processo, por exemplo numa reação química. A Matriz do PAS 2 a cita na Termoquímica.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 08 (Termoquímica: Calorimetria)",
+   "fonte": "Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k73",
+   "materia": "Física",
+   "etapa": "PAS 2",
+   "answer": "dualidade",
+   "near": {
+    "ondulatoria": "A Ondulatória estuda ondas; a dualidade diz que a matéria também tem aspecto de onda.",
+    "relatividade": "A relatividade também é Física Moderna, mas trata de espaço e tempo.",
+    "incerteza": "O Princípio da Incerteza é outra ideia quântica, sobre limites de medição, não sobre a dupla natureza."
+   },
+   "hints": [
+    "Um dos resultados que mais surpreenderam os físicos no começo do século XX.",
+    "Um elétron, num experimento de duas fendas, pode produzir um padrão que lembra o de uma onda.",
+    "A luz também faz coisas de partícula, como arrancar elétrons de um metal.",
+    "É uma ideia central da Mecânica Quântica sobre a natureza da matéria e da luz.",
+    "Diz que luz e matéria se comportam ora como onda, ora como partícula."
+   ],
+   "explain": "Na Física Moderna, luz e matéria mostram aspectos de onda e de partícula, conforme o experimento. A Matriz do PAS 2 cita Interação Luz-Matéria e Dualidade Onda-Partícula.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 04 (Interação Luz-Matéria; Dualidade Onda-Partícula)",
+   "fonte": "Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k74",
+   "materia": "Física",
+   "etapa": "PAS 2",
+   "answer": "lentes",
+   "near": {
+    "otica": "A Ótica Geométrica é a área; os espelhos e as lentes são os elementos que formam as imagens.",
+    "ondulatoria": "A Ondulatória trata de ondas em geral; espelhos e lentes usam a luz como raios."
+   },
+   "hints": [
+    "Estão nas câmeras, nos óculos e nos telescópios.",
+    "Formam imagens que podem ser maiores, menores, direitas ou invertidas.",
+    "A posição do objeto em relação ao foco decide como a imagem sai.",
+    "O olho humano funciona com uma delas, e os defeitos de visão se corrigem com outra.",
+    "Podem ser convergentes ou divergentes; no caso dos espelhos, côncavos ou convexos."
+   ],
+   "explain": "Espelhos e lentes formam imagens pela reflexão e pela refração da luz. A Matriz do PAS 2 cita a conjugação de imagem em espelhos e lentes, a instrumentação ótica e o olho humano.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 03 (Conjugação de Imagem em Espelhos e Lentes; Instrumentação Ótica; Olho Humano e Defeitos de Visão)",
+   "fonte": "Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k75",
+   "materia": "Química",
+   "etapa": "PAS 2",
+   "answer": "inorganicos",
+   "near": {
+    "solucoes": "Soluções são misturas homogêneas; as funções inorgânicas classificam as substâncias que podem estar nelas.",
+    "gases": "Os gases são um estado da matéria; as funções classificam substâncias pela composição."
+   },
+   "hints": [
+    "Quatro famílias de substâncias que você encontra do sal da cozinha ao limpa-vidros.",
+    "Duas delas reagem entre si e formam água e um sal.",
+    "Uma deixa o papel de tornassol vermelho; outra o deixa azul.",
+    "Entre os exemplos estão o ácido clorídrico, o hidróxido de sódio e o cloreto de sódio.",
+    "São os ácidos, as bases, os sais e os óxidos."
+   ],
+   "explain": "As funções inorgânicas agrupam substâncias pelo comportamento: ácidos, bases, sais e óxidos. A Matriz do PAS 2 cita Compostos inorgânicos e Funções químicas.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 06 (Compostos inorgânicos: Sais; Ácidos; Bases; Óxidos; Funções químicas)",
+   "fonte": "Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k76",
+   "materia": "Química",
+   "etapa": "PAS 2",
+   "answer": "coligativas",
+   "near": {
+    "solucoes": "Soluções são o sistema; as propriedades coligativas são o que muda nele quando se dissolve algo.",
+    "gases": "Os gases têm leis próprias; as propriedades coligativas são sobre líquidos com soluto."
+   },
+   "hints": [
+    "Explicam por que se joga sal na estrada gelada e por que o sal faz a água ferver mais tarde.",
+    "Dependem do número de partículas dissolvidas, não de qual substância é.",
+    "Mudam o ponto de congelamento e o de ebulição de um líquido.",
+    "Uma delas é a pressão osmótica.",
+    "As quatro são tonoscopia, ebulioscopia, crioscopia e osmometria."
+   ],
+   "explain": "As propriedades coligativas dependem da quantidade de partículas do soluto, não da natureza dele. A Matriz do PAS 2 as cita em Soluções.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 09 (Soluções: Propriedades coligativas de soluções)",
+   "fonte": "Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k77",
+   "materia": "Biologia",
+   "etapa": "PAS 2",
+   "answer": "bacterias",
+   "near": {
+    "virus": "Vírus também causam doenças, mas o antibiótico não age sobre eles.",
+    "taxonomia": "A taxonomia classifica os seres vivos; a pergunta é sobre este grupo e suas doenças."
+   },
+   "hints": [
+    "São seres sem núcleo definido, muito antigos e presentes em quase todo lugar.",
+    "Algumas causam doenças, outras fazem iogurte e ajudam a digestão.",
+    "Os antibióticos funcionam contra elas, mas não contra vírus.",
+    "Tuberculose, cólera e tétano são doenças que elas provocam.",
+    "São procariontes unicelulares, com formas como bacilo, coco e espirilo."
+   ],
+   "explain": "As bactérias são procariontes unicelulares. Algumas causam as bacterioses, e os antibióticos agem sobre elas. A Matriz do PAS 2 cita Bactérias e bacterioses.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Biológicos 11 (Bactérias e bacterioses); PAS2CN6 (Produção de antibióticos)",
+   "fonte": "Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k78",
+   "materia": "Biologia",
+   "etapa": "PAS 2",
+   "answer": "embriologia",
+   "near": {
+    "genetica": "A Genética estuda a herança; a embriologia, o desenvolvimento do embrião.",
+    "evolucao": "A evolução trata de mudanças ao longo das gerações; a embriologia, do desenvolvimento de um indivíduo."
+   },
+   "hints": [
+    "Estuda o começo de tudo, do primeiro dia até o bebê, o filhote ou a larva.",
+    "Uma célula única se divide muitas vezes e forma um aglomerado.",
+    "Há fases chamadas mórula, blástula e gástrula.",
+    "Os folhetos embrionários dão origem a todos os órgãos do corpo.",
+    "É o estudo do desenvolvimento do embrião."
+   ],
+   "explain": "A embriologia acompanha o desenvolvimento do embrião, da célula-ovo à formação dos órgãos. A Matriz do PAS 2 cita a Embriologia animal, incluindo a humana.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Biológicos 13 (Zoologia: Embriologia animal, incluindo a humana)",
+   "fonte": "Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k79",
+   "materia": "Literatura",
+   "etapa": "PAS 2",
+   "answer": "romantismo",
+   "near": {
+    "realismo": "O Realismo veio depois, em reação ao idealismo romântico.",
+    "parnasianismo": "O Parnasianismo valoriza a forma e a objetividade, ao contrário da emoção romântica."
+   },
+   "hints": [
+    "No Brasil, nasceu perto da Independência, na busca de uma identidade nacional.",
+    "Valoriza a emoção, o indivíduo e a liberdade, contra a razão fria do período anterior.",
+    "Teve fases: indianista, ultrarromântica e condoreira.",
+    "Gonçalves Dias, Álvares de Azevedo e Castro Alves são nomes dessa escola e aparecem na lista do PAS 2.",
+    "É o estilo de época que vem logo antes do Realismo."
+   ],
+   "explain": "O Romantismo é o estilo de época dos séculos XVIII e XIX que valoriza emoção, subjetividade e identidade nacional. A Matriz do PAS 2 o cita entre os estilos de época, e a lista de obras traz poetas dessa escola.",
+   "origem_pas": "Matriz PAS 2, Linguagens, conhecimento 17 (Estilos de época: Romantismo); Lista de obras do PAS 2 (prévia jun/2024), Literaturas 3, 6 e 9",
+   "fonte": "Matriz PAS 2 (dez/2022). Lista do PAS 2 (prévia jun/2024). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k80",
+   "materia": "História",
+   "etapa": "PAS 2",
+   "answer": "resistencia-escravismo",
+   "near": {
+    "diaspora": "A diáspora trata do deslocamento forçado de africanos; aqui o foco é como eles resistiram.",
+    "colonizacao": "A colonização é o processo maior; a resistência é uma das respostas a ele."
+   },
+   "hints": [
+    "Existiu desde o primeiro navio negreiro e tomou muitas formas.",
+    "Algumas eram silenciosas: manter a cultura, a língua e a religião vivas.",
+    "Outras eram coletivas: revoltas, fugas e comunidades inteiras no meio do mato.",
+    "Palmares é o exemplo mais conhecido de comunidade formada por quem fugia.",
+    "Quilombos, revoltas e sabotagens são formas de resistir à escravidão."
+   ],
+   "explain": "Pessoas escravizadas resistiram de muitas formas, de gestos cotidianos a quilombos e revoltas. A Matriz do PAS 2 cita os movimentos de resistência ao escravismo e de resistência indígena.",
+   "origem_pas": "Matriz PAS 2, Humanidades, conhecimento 11 (Movimentos de resistência ao escravismo, movimentos de resistência indígenas)",
+   "fonte": "Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k81",
+   "materia": "Física",
+   "etapa": "PAS 3",
+   "answer": "eletrostatica",
+   "near": {
+    "faraday": "A Lei de Faraday trata de campos que variam no tempo, não de cargas em repouso.",
+    "kirchhoff": "Kirchhoff trata de circuitos com corrente, ou seja, cargas em movimento."
+   },
+   "hints": [
+    "Começa com algo que você já viu: o cabelo arrepiado depois de tirar um agasalho de lã.",
+    "Cargas de mesmo sinal se repelem e de sinais opostos se atraem.",
+    "A força entre duas cargas cai com o quadrado da distância.",
+    "A lei leva o sobrenome de um francês que mediu essa força com uma balança de torção.",
+    "É o estudo das cargas elétricas em repouso."
+   ],
+   "explain": "A eletrostática estuda força, campo e potencial elétrico de cargas em repouso. A Matriz do PAS 3 cita Força, Campo e Potencial Elétrico.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 01 (Eletrostática: Força, Campo e Potencial Elétrico)",
+   "fonte": "Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k82",
+   "materia": "Física",
+   "etapa": "PAS 3",
+   "answer": "magnetismo",
+   "near": {
+    "eletrostatica": "A eletrostática trata de cargas em repouso; o magnetismo, de ímãs e correntes.",
+    "faraday": "A Lei de Faraday liga magnetismo e corrente, mas é uma lei, não o fenômeno todo."
+   },
+   "hints": [
+    "Uma força que age de longe e que as bússolas aproveitam há séculos.",
+    "Existe em ímãs, mas também ao redor de fios com corrente.",
+    "Os polos iguais se repelem e os diferentes se atraem, mas nunca aparecem sozinhos.",
+    "A Terra se comporta como um grande ímã, e isso orienta a agulha da bússola.",
+    "Estuda ímãs, campos e forças magnéticas."
+   ],
+   "explain": "O magnetismo trata de forças e campos magnéticos em ímãs e correntes. A Matriz do PAS 3 cita Força e Campo Magnético e as Propriedades Magnéticas dos Materiais.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 02 (Magnetismo: Força e Campo Magnético)",
+   "fonte": "Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k83",
+   "materia": "Química",
+   "etapa": "PAS 3",
+   "answer": "pilhas",
+   "near": {
+    "eletrolise": "A eletrólise faz o oposto: usa corrente elétrica para provocar uma reação.",
+    "eletroquimica": "A Eletroquímica é a área toda; a pilha é um dispositivo dela."
+   },
+   "hints": [
+    "Convertem energia química em energia elétrica sem precisar da tomada.",
+    "Dois metais diferentes ficam ligados por uma solução.",
+    "Em um polo ocorre oxidação; no outro, redução.",
+    "A experiência de Volta, de 1800, é uma das origens do dispositivo.",
+    "Anodo e catodo são os polos, e o par zinco e cobre é o exemplo clássico."
+   ],
+   "explain": "Uma pilha usa uma reação de oxirredução espontânea para gerar corrente elétrica. A Matriz do PAS 3 cita Pilhas e a Experiência de Volta.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 08 (Eletroquímica: Pilhas); PAS3CN12 (Experiência de Volta, Pilhas Eletroquímicas)",
+   "fonte": "Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k84",
+   "materia": "Química",
+   "etapa": "PAS 3",
+   "answer": "eletrolise",
+   "near": {
+    "pilhas": "A pilha produz corrente a partir de uma reação; a eletrólise faz o contrário.",
+    "eletroquimica": "A Eletroquímica é a área; a eletrólise é um dos processos."
+   },
+   "hints": [
+    "Usa corrente elétrica para fazer acontecer o que sozinho não aconteceria.",
+    "Serve para obter metais como o alumínio e para dar brilho a joias.",
+    "Pode ser feita com a substância derretida ou dissolvida em água.",
+    "É o processo inverso ao que acontece numa pilha.",
+    "A eletrólise ígnea e a aquosa são os dois tipos."
+   ],
+   "explain": "Na eletrólise, uma corrente elétrica força uma reação química não espontânea. A Matriz do PAS 3 cita a Eletrólise ígnea e aquosa.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 08 (Eletroquímica: Eletrólise ígnea e aquosa)",
+   "fonte": "Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k85",
+   "materia": "Química",
+   "etapa": "PAS 3",
+   "answer": "isomeria",
+   "near": {
+    "estequiometria": "A estequiometria faz contas com fórmulas; a isomeria compara fórmulas iguais com estruturas diferentes."
+   },
+   "hints": [
+    "Mesma fórmula molecular, comportamentos diferentes.",
+    "Duas substâncias podem ter os mesmos átomos e propriedades distintas.",
+    "O etanol e o éter dimetílico têm a mesma fórmula, C₂H₆O, mas são muito diferentes.",
+    "Pode ser de cadeia, de posição, de função ou espacial.",
+    "É quando compostos orgânicos distintos compartilham a mesma fórmula molecular."
+   ],
+   "explain": "Isômeros têm a mesma fórmula molecular e estruturas diferentes. A Matriz do PAS 3 cita Isomeria na Química orgânica.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 11 (Química orgânica: Isomeria)",
+   "fonte": "Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k86",
+   "materia": "Química",
+   "etapa": "PAS 3",
+   "answer": "polimeros",
+   "near": {
+    "isomeria": "A isomeria compara estruturas com a mesma fórmula; os polímeros são cadeias de unidades que se repetem."
+   },
+   "hints": [
+    "Estão na sua mochila, no seu tênis, na garrafa e na roupa.",
+    "São cadeias enormes formadas pela repetição de unidades pequenas.",
+    "Plásticos, borrachas e fibras sintéticas pertencem a esse grupo.",
+    "O polietileno e o PVC são exemplos muito comuns.",
+    "O nome vem do grego e quer dizer 'muitas partes'; as unidades que se repetem são os monômeros."
+   ],
+   "explain": "Polímeros são macromoléculas formadas pela repetição de monômeros. A Matriz do PAS 3 cita Polímeros em Novos materiais.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 12 (Novos materiais: Polímeros); PAS3CN4 e PAS3CN5",
+   "fonte": "Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k87",
+   "materia": "Biologia",
+   "etapa": "PAS 3",
+   "answer": "genetica-molecular",
+   "near": {
+    "genetica": "A Genética clássica estuda a herança de características; a molecular, o DNA em si.",
+    "evolucao": "A evolução trata de mudanças entre gerações; a genética molecular, da informação guardada no DNA."
+   },
+   "hints": [
+    "Explica como a informação para construir um ser vivo é guardada e usada.",
+    "Uma molécula em forma de dupla hélice carrega o código.",
+    "A informação é copiada, lida e traduzida em proteínas.",
+    "Seus passos principais são replicação, transcrição e tradução.",
+    "Estuda DNA, RNA e a expressão dos genes."
+   ],
+   "explain": "A genética molecular estuda como o DNA armazena, copia e expressa a informação. A Matriz do PAS 3 cita Genética molecular, Expressão Gênica e Mutações.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 16 (Genética molecular; Expressão Gênica; Mutações)",
+   "fonte": "Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k88",
+   "materia": "Biologia",
+   "etapa": "PAS 3",
+   "answer": "sistema-imunologico",
+   "near": {
+    "virus": "Vírus são invasores; o sistema imunológico é quem os combate.",
+    "fisiologia-humana": "A fisiologia humana é o conjunto de sistemas; aqui é o sistema de defesa."
+   },
+   "hints": [
+    "Trabalha dia e noite sem você perceber, de olho em tudo o que entra no corpo.",
+    "Reconhece o que é 'seu' e o que é estranho.",
+    "Tem células de defesa que produzem anticorpos.",
+    "É o princípio por trás das vacinas, que o treinam sem causar a doença.",
+    "Defende o organismo contra vírus, bactérias e outros invasores."
+   ],
+   "explain": "O sistema imunológico reconhece e combate agentes estranhos, e as vacinas o treinam. A Matriz do PAS 3 cita o sistema imunológico e o mecanismo de ação das vacinas.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 18 (Fisiologia Humana: sistema imunológico); PAS3CN7 (Mecanismo de ação das vacinas)",
+   "fonte": "Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k89",
+   "materia": "Sociologia",
+   "etapa": "PAS 3",
+   "answer": "desinformacao",
+   "near": {
+    "industria-cultural": "A indústria cultural produz bens culturais em massa; a desinformação é conteúdo falso circulando.",
+    "estado-democratico": "O Estado democrático sofre com a desinformação, mas não se confunde com ela."
+   },
+   "hints": [
+    "Cada vez mais gente a encontra no celular, em corrente de mensagem.",
+    "Pode ser inocente ou ter dono e propósito político.",
+    "Se espalha rápido porque emociona e é fácil de compartilhar.",
+    "Ameaça a confiança nas instituições e na ciência.",
+    "São as notícias falsas e a manipulação deliberada de informação."
+   ],
+   "explain": "Desinformação é informação falsa ou enganosa que circula, às vezes de propósito, e pressiona a democracia. A Matriz do PAS 3 cita Informação, desinformação, liberdades individuais e limites democráticos.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento 10 (Informação, desinformação, liberdades individuais e limites democráticos)",
+   "fonte": "Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "k90",
+   "materia": "Geografia",
+   "etapa": "PAS 3",
+   "answer": "geopolitica",
+   "near": {
+    "blocos-economicos": "Os blocos econômicos são um tema dentro da geopolítica.",
+    "organismos-multilaterais": "Os organismos multilaterais são atores da geopolítica, não o estudo todo.",
+    "territorio": "O território é um conceito; a geopolítica estuda as disputas de poder sobre ele."
+   },
+   "hints": [
+    "Mapas que mostram quem manda onde, e por quê.",
+    "Estuda disputas por território, recursos e influência.",
+    "Envolve Estados, alianças militares e blocos econômicos.",
+    "A Guerra Fria, o Oriente Médio e as disputas pelo petróleo são exemplos.",
+    "É a relação entre o espaço geográfico e o poder dos Estados."
+   ],
+   "explain": "A geopolítica analisa como o poder dos Estados se relaciona com o espaço geográfico. A Matriz do PAS 3 cita a Geopolítica mundial.",
+   "origem_pas": "Matriz PAS 3, Humanidades, conhecimento 21 (Geopolítica mundial)",
+   "fonte": "Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.",
+   "verificar": true
+  }
+ ]
+}

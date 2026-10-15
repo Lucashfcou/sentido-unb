@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Sentido UnB</title>
+<meta name="description" content="Minijogos diários para quem vai fazer o PAS da UnB. Protótipo.">
+<meta name="theme-color" content="#0f1216">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2307090b'/%3E%3Ctext x='16' y='21' font-size='13' font-family='monospace' font-weight='700' text-anchor='middle' fill='%23ffb000'%3EPAS%3C/text%3E%3C/svg%3E">
+<link rel="preload" href="./src/fonts/overpass-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="./src/styles/fontes.css">
+<link rel="stylesheet" href="./src/styles/app.css">
+<link rel="stylesheet" href="./src/styles/jogos2.css">
+</head>
+<body>
+<header class="top">
+  <button class="brand" id="home" aria-label="Sentido UnB, ir para o início"><span class="brand-nome">Sentido</span><span class="brand-placa" aria-hidden="true">UnB</span></button>
+  <div class="top-actions">
+    <span class="streak" role="status" title="Dias seguidos com todas as linhas de hoje concluídas"><span class="chama" id="chama"></span><b id="streak-n">0</b><span class="lbl" id="streak-l">dias</span></span>
+    <button class="icon-btn" id="btn-help" aria-label="Sobre este protótipo"></button>
+  </div>
+</header>
+<main id="main"></main>
+<footer class="foot">
+  <span>Protótipo com conteúdo em rascunho, ainda sem revisão de professores.</span>
+  <span>Projeto independente. Não é material oficial da UnB nem do Cebraspe.</span>
+</footer>
+<dialog id="dlg" aria-labelledby="dlg-t"><div class="dlg-in"><button class="icon-btn close" id="dlg-close" aria-label="Fechar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button><div id="dlg-body"></div></div></dialog>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>

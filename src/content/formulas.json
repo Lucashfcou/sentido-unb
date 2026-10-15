@@ -1,0 +1,2869 @@
+{
+ "_nota": "RASCUNHO. A Matriz do PAS cita o ASSUNTO de cada fórmula, quase nunca a fórmula escrita; a notação é a convencional do redator e precisa de confirmação do professor. 'js' é a mesma fórmula em JavaScript, conferida por teste numérico independente (tests/formulas.test.js).",
+ "puzzles": [
+  {
+   "id": "f01",
+   "nivel": 2,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Juros compostos (montante)",
+   "tokens": [
+    "M",
+    "=",
+    "C",
+    "·",
+    "(1+i)",
+    "ᵗ"
+   ],
+   "extras": [
+    "J",
+    "+",
+    "t",
+    "(1−i)",
+    "÷",
+    "i"
+   ],
+   "legenda": "M = montante, C = capital, i = taxa por período, t = número de períodos.",
+   "js": "C*Math.pow(1+i,t)",
+   "variaveis": [
+    "C",
+    "i",
+    "t"
+   ],
+   "explain": "A cada período o saldo é multiplicado por (1+i). Por isso o crescimento é exponencial, e não afim como nos juros simples.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT14 e PAS1MAT16 (juros simples e compostos, crescimento afim ou exponencial)",
+   "fonte": "Matriz PAS 1 (dez/2022). Notação: convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f02",
+   "nivel": 2,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Termo geral da PA",
+   "tokens": [
+    "aₙ",
+    "=",
+    "a₁",
+    "+",
+    "(n−1)",
+    "·",
+    "r"
+   ],
+   "extras": [
+    "a₂",
+    "−",
+    "n",
+    "÷",
+    "q",
+    "ⁿ"
+   ],
+   "legenda": "aₙ = termo de posição n, a₁ = primeiro termo, n = posição, r = razão.",
+   "js": "a1+(n-1)*r",
+   "variaveis": [
+    "a1",
+    "n",
+    "r"
+   ],
+   "explain": "Partindo do primeiro termo, soma-se a razão n−1 vezes. A Matriz liga a PA a funções afins de domínio discreto.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT13 e PAS1MAT14",
+   "fonte": "Matriz PAS 1 (dez/2022). Notação: convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f03",
+   "nivel": 2,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Termo geral da PG",
+   "tokens": [
+    "aₙ",
+    "=",
+    "a₁",
+    "·",
+    "q",
+    "ⁿ⁻¹"
+   ],
+   "extras": [
+    "r",
+    "+",
+    "(n−1)",
+    "n",
+    "÷",
+    "Sₙ"
+   ],
+   "legenda": "aₙ = termo de posição n, a₁ = primeiro termo, q = razão, n = posição.",
+   "js": "a1*Math.pow(q,n-1)",
+   "variaveis": [
+    "a1",
+    "q",
+    "n"
+   ],
+   "explain": "Partindo do primeiro termo, multiplica-se pela razão n−1 vezes. A Matriz liga a PG a funções exponenciais de domínio discreto.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT15 e PAS1MAT16",
+   "fonte": "Matriz PAS 1 (dez/2022). Notação: convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f04",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Área do círculo",
+   "tokens": [
+    "A",
+    "=",
+    "π",
+    "·",
+    "r²"
+   ],
+   "extras": [
+    "2",
+    "r",
+    "C",
+    "÷",
+    "+"
+   ],
+   "legenda": "A = área, r = raio.",
+   "js": "Math.PI*r*r",
+   "variaveis": [
+    "r"
+   ],
+   "explain": "A área cresce com o quadrado do raio: dobrar o raio quadruplica a área. A Matriz pede cálculo de perímetros e áreas em situações reais.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT3 (perímetro e área de regiões planas)",
+   "fonte": "Matriz PAS 1 (dez/2022). A fórmula específica do círculo: convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f05",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Química",
+   "nome": "pH",
+   "tokens": [
+    "pH",
+    "=",
+    "−",
+    "log",
+    "[H⁺]"
+   ],
+   "extras": [
+    "ln",
+    "+",
+    "[OH⁻]",
+    "÷",
+    "10"
+   ],
+   "legenda": "[H⁺] = concentração de íons hidrogênio, em mol/L.",
+   "js": "-Math.log10(H)",
+   "variaveis": [
+    "H"
+   ],
+   "explain": "O pH usa o logaritmo decimal: cada unidade de pH muda a concentração de H⁺ por um fator de 10. A Matriz cita o pH como contexto da função logarítmica.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT11 (pH como contexto da função logarítmica)",
+   "fonte": "Matriz PAS 1 (dez/2022). A fórmula: convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f06",
+   "nivel": 2,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Volume do cilindro",
+   "tokens": [
+    "V",
+    "=",
+    "π",
+    "·",
+    "r²",
+    "·",
+    "h"
+   ],
+   "extras": [
+    "÷",
+    "3",
+    "A",
+    "r",
+    "+",
+    "h²"
+   ],
+   "legenda": "V = volume, r = raio da base, h = altura.",
+   "js": "Math.PI*r*r*h",
+   "variaveis": [
+    "r",
+    "h"
+   ],
+   "explain": "É a área da base multiplicada pela altura, e é o que o princípio de Cavalieri permite deduzir.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT6 e PAS2MAT7 (volume de prismas, pirâmides, cilindros, cones e esferas)",
+   "fonte": "Matriz PAS 2 (dez/2022). A fórmula: convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f07",
+   "nivel": 2,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Probabilidade condicional",
+   "tokens": [
+    "P(A|B)",
+    "=",
+    "P(A∩B)",
+    "÷",
+    "P(B)"
+   ],
+   "extras": [
+    "P(A∪B)",
+    "·",
+    "P(A)",
+    "+",
+    "P(B|A)"
+   ],
+   "legenda": "P(A|B) = probabilidade de A sabendo que B ocorreu.",
+   "js": "pAB/pB",
+   "variaveis": [
+    "pAB",
+    "pB"
+   ],
+   "explain": "Sabendo que B ocorreu, o espaço de possibilidades passa a ser B. Por isso divide-se a probabilidade de A e B juntos pela de B.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT18 (probabilidade condicional)",
+   "fonte": "Matriz PAS 2 (dez/2022). A fórmula: convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f08",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Matemática",
+   "nome": "Equação da circunferência",
+   "tokens": [
+    "(x−a)²",
+    "+",
+    "(y−b)²",
+    "=",
+    "r²"
+   ],
+   "extras": [
+    "(x+a)²",
+    "−",
+    "r",
+    "÷",
+    "(y+b)²"
+   ],
+   "legenda": "(a, b) = centro, r = raio.",
+   "js": "(x-a)*(x-a)+(y-b)*(y-b)",
+   "variaveis": [
+    "x",
+    "y",
+    "a",
+    "b"
+   ],
+   "explain": "A circunferência é o conjunto dos pontos que estão à distância r do centro. A fórmula vem da distância entre dois pontos.",
+   "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT4 (equação cartesiana da circunferência)",
+   "fonte": "Matriz PAS 3 (dez/2022). Notação: convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f09",
+   "nivel": 3,
+   "etapa": "PAS 3",
+   "materia": "Matemática",
+   "nome": "Distância entre dois pontos",
+   "tokens": [
+    "d",
+    "=",
+    "√(",
+    "(x₂−x₁)²",
+    "+",
+    "(y₂−y₁)²",
+    ")"
+   ],
+   "extras": [
+    "·",
+    "−",
+    "|",
+    "x₂+x₁",
+    "÷"
+   ],
+   "legenda": "d = distância entre (x₁, y₁) e (x₂, y₂).",
+   "js": "Math.sqrt((x2-x1)*(x2-x1)+(y2-y1)*(y2-y1))",
+   "variaveis": [
+    "x1",
+    "y1",
+    "x2",
+    "y2"
+   ],
+   "explain": "É o teorema de Pitágoras no plano cartesiano. A Matriz o liga ao funcionamento de GPS, mapas e trajetórias.",
+   "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT4 (distâncias por coordenadas; GPS)",
+   "fonte": "Matriz PAS 3 (dez/2022). Notação: convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f10",
+   "nivel": 3,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Função quadrática",
+   "tokens": [
+    "y",
+    "=",
+    "ax²",
+    "+",
+    "bx",
+    "+",
+    "c"
+   ],
+   "extras": [
+    "x³",
+    "−",
+    "÷",
+    "ax",
+    "d"
+   ],
+   "legenda": "a, b e c são constantes, com a ≠ 0. O gráfico é uma parábola.",
+   "js": "a*x*x+b*x+c",
+   "variaveis": [
+    "a",
+    "b",
+    "c",
+    "x"
+   ],
+   "explain": "A função quadrática tem gráfico em parábola e ponto de máximo ou de mínimo. A Matriz cita o lançamento oblíquo e o lucro de um monopólio como contextos.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT9 (funções quadráticas, máximo e mínimo)",
+   "fonte": "Matriz PAS 1 (dez/2022). Notação: convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f11",
+   "nivel": 3,
+   "etapa": "PAS 1 e 2",
+   "materia": "Matemática",
+   "nome": "Lei dos cossenos",
+   "tokens": [
+    "c²",
+    "=",
+    "a²",
+    "+",
+    "b²",
+    "−",
+    "2ab",
+    "·",
+    "cos(C)"
+   ],
+   "extras": [
+    "sen(C)",
+    "÷",
+    "+2ab",
+    "c",
+    "√"
+   ],
+   "legenda": "a, b e c são os lados do triângulo; C é o ângulo oposto ao lado c.",
+   "js": "a*a+b*b-2*a*b*Math.cos(C)",
+   "variaveis": [
+    "a",
+    "b",
+    "C"
+   ],
+   "explain": "É o teorema de Pitágoras com um termo de correção: quando C vale 90 graus, o cosseno é zero e sobra c² = a² + b².",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT2 (leis do seno e do cosseno); Matriz PAS 2, PAS2MAT1",
+   "fonte": "Matrizes PAS 1 e PAS 2 (dez/2022). Notação: convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f12",
+   "nivel": 1,
+   "etapa": "PAS 3",
+   "materia": "Matemática",
+   "nome": "Determinante de uma matriz 2x2",
+   "tokens": [
+    "det",
+    "=",
+    "ad",
+    "−",
+    "bc"
+   ],
+   "extras": [
+    "+",
+    "÷",
+    "ac",
+    "bd"
+   ],
+   "legenda": "A matriz é [[a, b], [c, d]].",
+   "js": "a*d-b*c",
+   "variaveis": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "explain": "O valor absoluto do determinante é a área do paralelogramo formado pelas duas colunas da matriz. A Matriz do PAS 3 liga determinantes ao cálculo de áreas.",
+   "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT7 (determinantes, áreas de paralelogramos e triângulos)",
+   "fonte": "Matriz PAS 3 (dez/2022). Notação: convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f13",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Matemática",
+   "nome": "Módulo de um número complexo",
+   "tokens": [
+    "|z|",
+    "=",
+    "√(",
+    "a²",
+    "+",
+    "b²",
+    ")"
+   ],
+   "extras": [
+    "a",
+    "·",
+    "b",
+    "−",
+    "÷"
+   ],
+   "legenda": "z = a + bi; a é a parte real e b é a parte imaginária.",
+   "js": "Math.sqrt(a*a+b*b)",
+   "variaveis": [
+    "a",
+    "b"
+   ],
+   "explain": "O módulo é a distância da origem ao ponto (a, b) do plano complexo, calculada pelo teorema de Pitágoras.",
+   "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT8 e PAS3MAT9 (números complexos, forma algébrica e polar)",
+   "fonte": "Matriz PAS 3 (dez/2022). Notação: convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f14",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Área do triângulo",
+   "tokens": [
+    "A",
+    "=",
+    "b",
+    "·",
+    "h",
+    "÷",
+    "2"
+   ],
+   "extras": [
+    "+",
+    "a",
+    "c",
+    "3",
+    "−"
+   ],
+   "legenda": "b = base, h = altura relativa a essa base.",
+   "js": "b*h/2",
+   "variaveis": [
+    "b",
+    "h"
+   ],
+   "explain": "A área do triângulo é metade da de um retângulo de mesma base e altura.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT3 (áreas de regiões planas)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f15",
+   "nivel": 2,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Área do trapézio",
+   "tokens": [
+    "A",
+    "=",
+    "(B+b)",
+    "·",
+    "h",
+    "÷",
+    "2"
+   ],
+   "extras": [
+    "(B−b)",
+    "+",
+    "3",
+    "c",
+    "r"
+   ],
+   "legenda": "B = base maior, b = base menor, h = altura.",
+   "js": "(B+b)*h/2",
+   "variaveis": [
+    "B",
+    "b",
+    "h"
+   ],
+   "explain": "É a média das bases multiplicada pela altura.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT3 (áreas de regiões planas)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f16",
+   "nivel": 2,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Soma dos termos de uma PA",
+   "tokens": [
+    "Sₙ",
+    "=",
+    "(a₁+aₙ)",
+    "·",
+    "n",
+    "÷",
+    "2"
+   ],
+   "extras": [
+    "aₙ",
+    "r",
+    "+",
+    "q",
+    "−"
+   ],
+   "legenda": "Sₙ = soma dos n primeiros termos; a₁ = primeiro termo; aₙ = último termo.",
+   "js": "(a1+an)*n/2",
+   "variaveis": [
+    "a1",
+    "an",
+    "n"
+   ],
+   "explain": "Os termos equidistantes das pontas somam o mesmo valor, e por isso basta somar o primeiro com o último e multiplicar pela metade dos termos.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT13 e PAS1MAT14 (progressões e dedução de fórmulas)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f17",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Juros simples",
+   "tokens": [
+    "J",
+    "=",
+    "C",
+    "·",
+    "i",
+    "·",
+    "t"
+   ],
+   "extras": [
+    "M",
+    "+",
+    "(1+i)",
+    "÷",
+    "ᵗ"
+   ],
+   "legenda": "J = juros, C = capital, i = taxa por período, t = número de períodos.",
+   "js": "C*i*t",
+   "variaveis": [
+    "C",
+    "i",
+    "t"
+   ],
+   "explain": "Nos juros simples o rendimento é o mesmo em cada período, por isso o crescimento é afim.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT14 (juros simples e compostos)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f18",
+   "nivel": 3,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Lei dos senos",
+   "tokens": [
+    "a",
+    "÷",
+    "sen(A)",
+    "=",
+    "b",
+    "÷",
+    "sen(B)"
+   ],
+   "extras": [
+    "cos(A)",
+    "·",
+    "+",
+    "c",
+    "2R"
+   ],
+   "legenda": "a e b são lados do triângulo; A e B são os ângulos opostos a eles.",
+   "js": "a/Math.sin(A)",
+   "variaveis": [
+    "a",
+    "A"
+   ],
+   "explain": "Em qualquer triângulo, o lado dividido pelo seno do ângulo oposto é constante.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT2 (leis do seno e do cosseno)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f19",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Função afim",
+   "tokens": [
+    "y",
+    "=",
+    "a",
+    "·",
+    "x",
+    "+",
+    "b"
+   ],
+   "extras": [
+    "x²",
+    "−",
+    "÷",
+    "c",
+    "d"
+   ],
+   "legenda": "a = coeficiente angular, b = coeficiente linear.",
+   "js": "a*x+b",
+   "variaveis": [
+    "a",
+    "x",
+    "b"
+   ],
+   "explain": "O gráfico da função afim é uma reta: a dá a inclinação e b indica onde ela corta o eixo y.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT7 e PAS1MAT8 (funções afins)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f20",
+   "nivel": 1,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Volume do prisma",
+   "tokens": [
+    "V",
+    "=",
+    "Abase",
+    "·",
+    "h"
+   ],
+   "extras": [
+    "÷",
+    "3",
+    "π",
+    "r",
+    "+"
+   ],
+   "legenda": "Abase = área da base, h = altura.",
+   "js": "A*h",
+   "variaveis": [
+    "A",
+    "h"
+   ],
+   "explain": "O volume de um prisma é a área da base vezes a altura.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT6 e PAS2MAT7 (volumes de prismas, pirâmides, cilindros, cones e esferas)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f21",
+   "nivel": 2,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Volume da pirâmide",
+   "tokens": [
+    "V",
+    "=",
+    "Abase",
+    "·",
+    "h",
+    "÷",
+    "3"
+   ],
+   "extras": [
+    "π",
+    "r²",
+    "2",
+    "+",
+    "4"
+   ],
+   "legenda": "Abase = área da base, h = altura.",
+   "js": "A*h/3",
+   "variaveis": [
+    "A",
+    "h"
+   ],
+   "explain": "A pirâmide ocupa um terço do volume de um prisma de mesma base e mesma altura.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT6 e PAS2MAT7",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f22",
+   "nivel": 3,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Volume do cone",
+   "tokens": [
+    "V",
+    "=",
+    "π",
+    "·",
+    "r²",
+    "·",
+    "h",
+    "÷",
+    "3"
+   ],
+   "extras": [
+    "4",
+    "+",
+    "r³",
+    "2",
+    "−"
+   ],
+   "legenda": "r = raio da base, h = altura.",
+   "js": "Math.PI*r*r*h/3",
+   "variaveis": [
+    "r",
+    "h"
+   ],
+   "explain": "O cone ocupa um terço do volume do cilindro de mesma base e altura.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT6 e PAS2MAT7",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f23",
+   "nivel": 3,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Volume da esfera",
+   "tokens": [
+    "V",
+    "=",
+    "4",
+    "÷",
+    "3",
+    "·",
+    "π",
+    "·",
+    "r³"
+   ],
+   "extras": [
+    "r²",
+    "2",
+    "+",
+    "h",
+    "−"
+   ],
+   "legenda": "r = raio da esfera.",
+   "js": "4/3*Math.PI*r*r*r",
+   "variaveis": [
+    "r"
+   ],
+   "explain": "O volume da esfera cresce com o cubo do raio: dobrar o raio multiplica o volume por oito.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT6 e PAS2MAT7",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f24",
+   "nivel": 1,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Média aritmética",
+   "tokens": [
+    "x̄",
+    "=",
+    "Σx",
+    "÷",
+    "n"
+   ],
+   "extras": [
+    "·",
+    "+",
+    "−",
+    "Σx²",
+    "2"
+   ],
+   "legenda": "Σx = soma dos valores; n = quantidade de valores.",
+   "js": "soma/n",
+   "variaveis": [
+    "soma",
+    "n"
+   ],
+   "explain": "A média é o valor que cada elemento teria se todos fossem iguais e a soma se mantivesse.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT12 (medidas de tendência central)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f25",
+   "nivel": 2,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Combinação simples",
+   "tokens": [
+    "C(n,p)",
+    "=",
+    "n!",
+    "÷",
+    "p!(n−p)!"
+   ],
+   "extras": [
+    "·",
+    "+",
+    "(n−p)",
+    "p",
+    "P(n)"
+   ],
+   "legenda": "n = total de elementos; p = quantos se escolhem, sem importar a ordem.",
+   "js": "(function(){const f=k=>k<2?1:k*f(k-1);return f(n)/(f(p)*f(n-p));})()",
+   "variaveis": [
+    "n",
+    "p"
+   ],
+   "explain": "Conta os grupos de p elementos que se podem formar entre n, sem importar a ordem.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT13 (contagem e agrupamentos)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f26",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Matemática",
+   "nome": "Equação da reta por um ponto",
+   "tokens": [
+    "y−y₀",
+    "=",
+    "m",
+    "·",
+    "(x−x₀)"
+   ],
+   "extras": [
+    "+",
+    "÷",
+    "m²",
+    "b",
+    "(y+y₀)"
+   ],
+   "legenda": "m = coeficiente angular da reta que passa pelo ponto (x₀, y₀).",
+   "js": "m*(x-x0)",
+   "variaveis": [
+    "m",
+    "x",
+    "x0"
+   ],
+   "explain": "Descreve a reta com inclinação m que passa pelo ponto (x₀, y₀).",
+   "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT1 (retas no plano cartesiano)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f27",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Matemática",
+   "nome": "Forma polar de um número complexo",
+   "tokens": [
+    "z",
+    "=",
+    "|z|",
+    "·",
+    "(cosθ+i·senθ)"
+   ],
+   "extras": [
+    "a",
+    "+",
+    "b",
+    "√",
+    "÷"
+   ],
+   "legenda": "z = a + bi; |z| = módulo; θ = argumento.",
+   "js": "r*Math.cos(t)",
+   "variaveis": [
+    "r",
+    "t"
+   ],
+   "explain": "Na forma polar, o número é dado pela distância à origem e pelo ângulo. A parte real é |z|·cosθ e a imaginária, |z|·senθ.",
+   "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT8 e PAS3MAT9 (formas algébrica e polar)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f28",
+   "nivel": 3,
+   "etapa": "PAS 3",
+   "materia": "Matemática",
+   "nome": "Distância de um ponto a uma reta",
+   "tokens": [
+    "d",
+    "=",
+    "|ax₀+by₀+c|",
+    "÷",
+    "√(a²+b²)"
+   ],
+   "extras": [
+    "·",
+    "+",
+    "(a+b)",
+    "c²",
+    "x₀"
+   ],
+   "legenda": "A reta é ax + by + c = 0 e o ponto é (x₀, y₀).",
+   "js": "Math.abs(a*x0+b*y0+c)/Math.sqrt(a*a+b*b)",
+   "variaveis": [
+    "a",
+    "b",
+    "c",
+    "x0",
+    "y0"
+   ],
+   "explain": "É o comprimento do menor segmento que liga o ponto à reta, perpendicular a ela.",
+   "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT4 (distâncias entre ponto e reta)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f29",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Matemática",
+   "nome": "Soma das raízes de uma equação do 2º grau",
+   "tokens": [
+    "x₁+x₂",
+    "=",
+    "−b",
+    "÷",
+    "a"
+   ],
+   "extras": [
+    "c",
+    "+",
+    "·",
+    "2",
+    "−"
+   ],
+   "legenda": "A equação é ax² + bx + c = 0, com a ≠ 0.",
+   "js": "-b/a",
+   "variaveis": [
+    "a",
+    "b"
+   ],
+   "explain": "A soma das raízes depende só dos coeficientes a e b, sem precisar achar cada raiz.",
+   "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT10 a PAS3MAT12 (equações algébricas)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f30",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Matemática",
+   "nome": "Produto das raízes de uma equação do 2º grau",
+   "tokens": [
+    "x₁·x₂",
+    "=",
+    "c",
+    "÷",
+    "a"
+   ],
+   "extras": [
+    "−b",
+    "+",
+    "·",
+    "2",
+    "b"
+   ],
+   "legenda": "A equação é ax² + bx + c = 0, com a ≠ 0.",
+   "js": "c/a",
+   "variaveis": [
+    "a",
+    "c"
+   ],
+   "explain": "O produto das raízes depende só dos coeficientes a e c.",
+   "origem_pas": "Matriz PAS 3, Matemática, PAS3MAT10 a PAS3MAT12 (equações algébricas)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a notação é convencional, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f31",
+   "nivel": 3,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Soma dos termos de uma PG finita",
+   "tokens": [
+    "Sₙ",
+    "=",
+    "a₁",
+    "·",
+    "(qⁿ−1)",
+    "÷",
+    "(q−1)"
+   ],
+   "extras": [
+    "+",
+    "−",
+    "aₙ",
+    "r"
+   ],
+   "legenda": "Sₙ = soma dos n primeiros termos, a₁ = primeiro termo, q = razão (q ≠ 1), n = número de termos.",
+   "js": "a1*(Math.pow(q,n)-1)/(q-1)",
+   "variaveis": [
+    "a1",
+    "q",
+    "n"
+   ],
+   "explain": "Somar uma PG é multiplicar o primeiro termo pelo fator (qⁿ−1)÷(q−1). A Matriz do PAS 1 pede reconhecer o padrão da PG e deduzir fórmulas.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT15 e PAS1MAT16 (Progressões geométricas e dedução de fórmulas)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f32",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Função exponencial",
+   "tokens": [
+    "y",
+    "=",
+    "a",
+    "·",
+    "bˣ"
+   ],
+   "extras": [
+    "+",
+    "x²",
+    "÷",
+    "log"
+   ],
+   "legenda": "a = valor inicial, b = base (b > 0 e b ≠ 1), x = expoente.",
+   "js": "a*Math.pow(b,x)",
+   "variaveis": [
+    "a",
+    "b",
+    "x"
+   ],
+   "explain": "Na função exponencial a variável fica no expoente, e por isso o crescimento (ou decrescimento) é por fator, não por soma. A Matriz do PAS 1 a cita com queda livre com atrito, finanças e demografia.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT10 (função exponencial)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f33",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Comprimento da circunferência",
+   "tokens": [
+    "C",
+    "=",
+    "2",
+    "·",
+    "π",
+    "·",
+    "r"
+   ],
+   "extras": [
+    "r²",
+    "+",
+    "÷",
+    "d"
+   ],
+   "legenda": "C = comprimento, r = raio.",
+   "js": "2*Math.PI*r",
+   "variaveis": [
+    "r"
+   ],
+   "explain": "O perímetro do círculo é proporcional ao raio, com constante 2π. A Matriz do PAS 1 pede perímetro de regiões planas.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT3 (perímetro e área de regiões planas)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f34",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Teorema de Pitágoras",
+   "tokens": [
+    "c²",
+    "=",
+    "a²",
+    "+",
+    "b²"
+   ],
+   "extras": [
+    "·",
+    "÷",
+    "−",
+    "2c"
+   ],
+   "legenda": "c = hipotenusa, a e b = catetos.",
+   "js": "a*a+b*b",
+   "variaveis": [
+    "a",
+    "b"
+   ],
+   "explain": "Em um triângulo retângulo, o quadrado da hipotenusa é a soma dos quadrados dos catetos. A Matriz do PAS 1 cita trigonometria em triângulos retângulos.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT2 (triângulos retângulos e trigonometria)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f35",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Matemática",
+   "nome": "Área do losango",
+   "tokens": [
+    "A",
+    "=",
+    "D",
+    "·",
+    "d",
+    "÷",
+    "2"
+   ],
+   "extras": [
+    "+",
+    "−",
+    "h",
+    "π"
+   ],
+   "legenda": "D = diagonal maior, d = diagonal menor.",
+   "js": "D*d/2",
+   "variaveis": [
+    "D",
+    "d"
+   ],
+   "explain": "As diagonais de um losango se cruzam em ângulo reto, e a área é metade do produto delas. A Matriz do PAS 1 pede o cálculo de áreas de regiões planas.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT3 (cálculo de áreas)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f36",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "nome": "Segunda Lei de Newton",
+   "tokens": [
+    "F",
+    "=",
+    "m",
+    "·",
+    "a"
+   ],
+   "extras": [
+    "÷",
+    "v",
+    "g",
+    "+"
+   ],
+   "legenda": "F = força resultante, m = massa, a = aceleração.",
+   "js": "m*a",
+   "variaveis": [
+    "m",
+    "a"
+   ],
+   "explain": "A força resultante é o produto da massa pela aceleração. A Matriz do PAS 1 cita as Leis de Newton na Mecânica Newtoniana.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 01 (Mecânica Newtoniana: Leis de Newton)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f37",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "nome": "Velocidade média",
+   "tokens": [
+    "vₘ",
+    "=",
+    "Δs",
+    "÷",
+    "Δt"
+   ],
+   "extras": [
+    "·",
+    "+",
+    "a",
+    "t²"
+   ],
+   "legenda": "Δs = deslocamento, Δt = intervalo de tempo.",
+   "js": "ds/dt",
+   "variaveis": [
+    "ds",
+    "dt"
+   ],
+   "explain": "A velocidade média é o deslocamento dividido pelo tempo gasto. A Matriz do PAS 1 cita fenômenos cinemáticos e a posição com velocidade constante.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT5 e PAS1MAT8 (fenômenos cinemáticos; posição com velocidade constante)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f38",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "nome": "Velocidade no movimento uniformemente variado",
+   "tokens": [
+    "v",
+    "=",
+    "v₀",
+    "+",
+    "a",
+    "·",
+    "t"
+   ],
+   "extras": [
+    "−",
+    "÷",
+    "s",
+    "t²"
+   ],
+   "legenda": "v₀ = velocidade inicial, a = aceleração constante, t = tempo.",
+   "js": "v0+a*t",
+   "variaveis": [
+    "v0",
+    "a",
+    "t"
+   ],
+   "explain": "Com aceleração constante, a velocidade varia linearmente com o tempo: é uma função afim. A Matriz do PAS 1 cita a velocidade cuja aceleração é constante.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT8 (velocidade cuja aceleração é constante)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f39",
+   "nivel": 3,
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "nome": "Equação de Torricelli",
+   "tokens": [
+    "v²",
+    "=",
+    "v₀²",
+    "+",
+    "2",
+    "·",
+    "a",
+    "·",
+    "Δs"
+   ],
+   "extras": [
+    "÷",
+    "−",
+    "t",
+    "m"
+   ],
+   "legenda": "v₀ = velocidade inicial, a = aceleração constante, Δs = deslocamento.",
+   "js": "v0*v0+2*a*ds",
+   "variaveis": [
+    "v0",
+    "a",
+    "ds"
+   ],
+   "explain": "A equação de Torricelli liga velocidades, aceleração e deslocamento sem o tempo. A Matriz do PAS 1 cita fenômenos cinemáticos e a Mecânica Newtoniana.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT5 (fenômenos cinemáticos); Matriz PAS 1, Ciências da Natureza, Físicos 01",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f40",
+   "nivel": 2,
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "nome": "Energia cinética",
+   "tokens": [
+    "Ec",
+    "=",
+    "m",
+    "·",
+    "v²",
+    "÷",
+    "2"
+   ],
+   "extras": [
+    "+",
+    "g",
+    "h",
+    "−"
+   ],
+   "legenda": "m = massa, v = velocidade.",
+   "js": "m*v*v/2",
+   "variaveis": [
+    "m",
+    "v"
+   ],
+   "explain": "A energia cinética cresce com o quadrado da velocidade. A Matriz do PAS 1 cita Trabalho e Energia mecânica.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 01 (Trabalho e Energia mecânica)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f41",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "nome": "Energia potencial gravitacional",
+   "tokens": [
+    "Ep",
+    "=",
+    "m",
+    "·",
+    "g",
+    "·",
+    "h"
+   ],
+   "extras": [
+    "÷",
+    "v²",
+    "+",
+    "2"
+   ],
+   "legenda": "m = massa, g = aceleração da gravidade, h = altura.",
+   "js": "m*g*h",
+   "variaveis": [
+    "m",
+    "g",
+    "h"
+   ],
+   "explain": "A energia potencial gravitacional é o trabalho para elevar a massa até a altura h. A Matriz do PAS 1 cita Trabalho e Energia mecânica.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 01 (Trabalho e Energia mecânica)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f42",
+   "nivel": 2,
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "nome": "Trabalho de uma força",
+   "tokens": [
+    "τ",
+    "=",
+    "F",
+    "·",
+    "d",
+    "·",
+    "cosθ"
+   ],
+   "extras": [
+    "+",
+    "÷",
+    "senθ",
+    "m"
+   ],
+   "legenda": "F = intensidade da força, d = deslocamento, θ = ângulo entre a força e o deslocamento.",
+   "js": "F*d*Math.cos(th)",
+   "variaveis": [
+    "F",
+    "d",
+    "th"
+   ],
+   "explain": "Só a componente da força na direção do deslocamento realiza trabalho. A Matriz do PAS 1 cita Trabalho e Energia mecânica.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 01 (Trabalho e Energia mecânica)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f43",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "nome": "Quantidade de movimento",
+   "tokens": [
+    "p",
+    "=",
+    "m",
+    "·",
+    "v"
+   ],
+   "extras": [
+    "÷",
+    "a",
+    "+",
+    "t"
+   ],
+   "legenda": "m = massa, v = velocidade.",
+   "js": "m*v",
+   "variaveis": [
+    "m",
+    "v"
+   ],
+   "explain": "A quantidade de movimento é o produto da massa pela velocidade e é igual ao impulso aplicado a partir do repouso. A Matriz do PAS 1 cita Impulso e Momentum linear.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 01 (Impulso e Momentum linear)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f44",
+   "nivel": 3,
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "nome": "Lei da Gravitação Universal",
+   "tokens": [
+    "F",
+    "=",
+    "G",
+    "·",
+    "m₁",
+    "·",
+    "m₂",
+    "÷",
+    "d²"
+   ],
+   "extras": [
+    "+",
+    "−",
+    "r",
+    "g"
+   ],
+   "legenda": "G = constante gravitacional, m₁ e m₂ = massas, d = distância entre os centros.",
+   "js": "G*m1*m2/(d*d)",
+   "variaveis": [
+    "G",
+    "m1",
+    "m2",
+    "d"
+   ],
+   "explain": "A força de atração é proporcional às massas e inversamente proporcional ao quadrado da distância. A Matriz do PAS 1 cita Gravitação Universal.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 01 (Gravitação Universal)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f45",
+   "nivel": 1,
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "nome": "Pressão",
+   "tokens": [
+    "p",
+    "=",
+    "F",
+    "÷",
+    "A"
+   ],
+   "extras": [
+    "·",
+    "+",
+    "m",
+    "g"
+   ],
+   "legenda": "F = força perpendicular à superfície, A = área.",
+   "js": "F/A",
+   "variaveis": [
+    "F",
+    "A"
+   ],
+   "explain": "A pressão é a força distribuída por unidade de área. A Matriz do PAS 1 cita Equilíbrio de Fluidos.",
+   "origem_pas": "Matriz PAS 1, Ciências da Natureza, Físicos 01 (Equilíbrio de Fluidos e Corpos Extensos)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f46",
+   "nivel": 3,
+   "etapa": "PAS 1",
+   "materia": "Química",
+   "nome": "Decaimento radioativo",
+   "tokens": [
+    "N",
+    "=",
+    "N₀",
+    "·",
+    "(½)^(t÷T)"
+   ],
+   "extras": [
+    "+",
+    "÷",
+    "e",
+    "λ"
+   ],
+   "legenda": "N₀ = quantidade inicial, T = meia-vida, t = tempo decorrido.",
+   "js": "N0*Math.pow(0.5,t/T)",
+   "variaveis": [
+    "N0",
+    "t",
+    "T"
+   ],
+   "explain": "A cada meia-vida, a quantidade cai pela metade: o decaimento é exponencial. A Matriz do PAS 1 cita radioatividade e datação como contextos da função exponencial e da logarítmica.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT10 e PAS1MAT11 (radioatividade; datação)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f47",
+   "nivel": 3,
+   "etapa": "PAS 1",
+   "materia": "Física",
+   "nome": "Nível sonoro em decibéis",
+   "tokens": [
+    "β",
+    "=",
+    "10",
+    "·",
+    "log",
+    "(I÷I₀)"
+   ],
+   "extras": [
+    "ln",
+    "+",
+    "−",
+    "2"
+   ],
+   "legenda": "I = intensidade do som, I₀ = intensidade de referência (10⁻¹² W/m²).",
+   "js": "10*Math.log10(I/I0)",
+   "variaveis": [
+    "I",
+    "I0"
+   ],
+   "explain": "O decibel é uma escala logarítmica: dobrar a intensidade soma cerca de 3 dB. A Matriz do PAS 1 cita a intensidade do som como contexto da função logarítmica.",
+   "origem_pas": "Matriz PAS 1, Matemática, PAS1MAT11 (intensidade do som)",
+   "fonte": "Matriz PAS 1 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f48",
+   "nivel": 1,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Volume do paralelepípedo",
+   "tokens": [
+    "V",
+    "=",
+    "a",
+    "·",
+    "b",
+    "·",
+    "c"
+   ],
+   "extras": [
+    "+",
+    "÷",
+    "π",
+    "h"
+   ],
+   "legenda": "a, b e c = arestas do paralelepípedo reto-retângulo.",
+   "js": "a*b*c",
+   "variaveis": [
+    "a",
+    "b",
+    "c"
+   ],
+   "explain": "O volume é a quantidade de cubos unitários que preenchem o bloco: comprimento × largura × altura. A Matriz do PAS 2 pede volume de prismas.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT6 e PAS2MAT7 (volume de prismas)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f49",
+   "nivel": 2,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Área da superfície esférica",
+   "tokens": [
+    "A",
+    "=",
+    "4",
+    "·",
+    "π",
+    "·",
+    "r²"
+   ],
+   "extras": [
+    "+",
+    "÷",
+    "h",
+    "3"
+   ],
+   "legenda": "r = raio da esfera.",
+   "js": "4*Math.PI*r*r",
+   "variaveis": [
+    "r"
+   ],
+   "explain": "A área da esfera é quatro vezes a do círculo máximo. A Matriz do PAS 2 pede área de superfície e volume de esferas.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT6 e PAS2MAT7 (área de superfície e volume de esferas)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f50",
+   "nivel": 3,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Área lateral do cilindro",
+   "tokens": [
+    "Aₗ",
+    "=",
+    "2",
+    "·",
+    "π",
+    "·",
+    "r",
+    "·",
+    "h"
+   ],
+   "extras": [
+    "+",
+    "÷",
+    "r²",
+    "3"
+   ],
+   "legenda": "r = raio da base, h = altura.",
+   "js": "2*Math.PI*r*h",
+   "variaveis": [
+    "r",
+    "h"
+   ],
+   "explain": "Planificada, a lateral do cilindro é um retângulo de base 2πr e altura h. A Matriz do PAS 2 pede o gasto de material para revestir sólidos.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT7 (área de superfícies de cilindros)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f51",
+   "nivel": 3,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Variância populacional",
+   "tokens": [
+    "σ²",
+    "=",
+    "Σ(x−x̄)²",
+    "÷",
+    "n"
+   ],
+   "extras": [
+    "·",
+    "+",
+    "√",
+    "−"
+   ],
+   "legenda": "x = valores, x̄ = média, n = número de valores.",
+   "js": "(()=>{const m=x.reduce((s,v)=>s+v,0)/x.length;return x.reduce((s,v)=>s+(v-m)**2,0)/x.length})()",
+   "variaveis": [
+    "x"
+   ],
+   "explain": "A variância é a média dos quadrados dos desvios em relação à média. A Matriz do PAS 2 cita medidas de dispersão.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT12 (variância e medidas de dispersão)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f52",
+   "nivel": 2,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Coeficiente de variação",
+   "tokens": [
+    "CV",
+    "=",
+    "σ",
+    "÷",
+    "x̄"
+   ],
+   "extras": [
+    "·",
+    "+",
+    "n",
+    "²"
+   ],
+   "legenda": "σ = desvio padrão, x̄ = média.",
+   "js": "s/m",
+   "variaveis": [
+    "s",
+    "m"
+   ],
+   "explain": "O coeficiente de variação compara a dispersão com a média e não depende da unidade. A Matriz do PAS 2 o cita entre as medidas de dispersão.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT12 (coeficiente de variação)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f53",
+   "nivel": 3,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Arranjo simples",
+   "tokens": [
+    "A(n,p)",
+    "=",
+    "n!",
+    "÷",
+    "(n−p)!"
+   ],
+   "extras": [
+    "·",
+    "p!",
+    "+",
+    "−"
+   ],
+   "legenda": "n = elementos disponíveis, p = elementos usados, com a ordem importando.",
+   "js": "Array.from({length:p},(_,i)=>n-i).reduce((a,b)=>a*b,1)",
+   "variaveis": [
+    "n",
+    "p"
+   ],
+   "explain": "Arranjar é escolher p de n elementos com ordem: n·(n−1)·…·(n−p+1). A Matriz do PAS 2 cita contagem com agrupamentos ordenáveis.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT13 (agrupamentos ordenáveis ou não)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f54",
+   "nivel": 2,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Permutação simples",
+   "tokens": [
+    "Pₙ",
+    "=",
+    "n",
+    "·",
+    "(n−1)!"
+   ],
+   "extras": [
+    "+",
+    "÷",
+    "p!",
+    "2"
+   ],
+   "legenda": "n = número de elementos distintos.",
+   "js": "Array.from({length:n},(_,i)=>i+1).reduce((a,b)=>a*b,1)",
+   "variaveis": [
+    "n"
+   ],
+   "explain": "As permutações de n elementos são n·(n−1)!, ou seja, n!. A Matriz do PAS 2 cita os princípios multiplicativo e aditivo da contagem.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT13 (princípio multiplicativo)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f55",
+   "nivel": 3,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Probabilidade da união",
+   "tokens": [
+    "P(A∪B)",
+    "=",
+    "P(A)",
+    "+",
+    "P(B)",
+    "−",
+    "P(A∩B)"
+   ],
+   "extras": [
+    "·",
+    "÷",
+    "P(Aᶜ)",
+    "1"
+   ],
+   "legenda": "A e B = eventos do mesmo espaço amostral.",
+   "js": "pa+pb-pab",
+   "variaveis": [
+    "pa",
+    "pb",
+    "pab"
+   ],
+   "explain": "Somando P(A) e P(B), a interseção é contada duas vezes e precisa ser subtraída. A Matriz do PAS 2 pede as propriedades fundamentais da medida de probabilidade.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT15 (propriedades da probabilidade)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f56",
+   "nivel": 2,
+   "etapa": "PAS 2",
+   "materia": "Matemática",
+   "nome": "Eventos independentes",
+   "tokens": [
+    "P(A∩B)",
+    "=",
+    "P(A)",
+    "·",
+    "P(B)"
+   ],
+   "extras": [
+    "+",
+    "÷",
+    "−",
+    "P(A|B)"
+   ],
+   "legenda": "A e B = eventos independentes.",
+   "js": "pa*pb",
+   "variaveis": [
+    "pa",
+    "pb"
+   ],
+   "explain": "Se um evento não influencia o outro, a probabilidade de ambos é o produto. A Matriz do PAS 2 pede eventos dependentes e independentes.",
+   "origem_pas": "Matriz PAS 2, Matemática, PAS2MAT18 (eventos dependentes e independentes)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f57",
+   "nivel": 1,
+   "etapa": "PAS 2",
+   "materia": "Física",
+   "nome": "Equação fundamental da ondulatória",
+   "tokens": [
+    "v",
+    "=",
+    "λ",
+    "·",
+    "f"
+   ],
+   "extras": [
+    "÷",
+    "+",
+    "T",
+    "t"
+   ],
+   "legenda": "λ = comprimento de onda, f = frequência.",
+   "js": "lambda*f",
+   "variaveis": [
+    "lambda",
+    "f"
+   ],
+   "explain": "Em um período T, a onda avança um comprimento de onda; como f = 1÷T, v = λ·f. A Matriz do PAS 2 cita Ondas Mecânicas e Eletromagnéticas.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 02 (Fenômenos Ondulatórios; Ondas; Som e Luz)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f58",
+   "nivel": 3,
+   "etapa": "PAS 2",
+   "materia": "Física",
+   "nome": "Lei de Snell",
+   "tokens": [
+    "n₁",
+    "·",
+    "senθ₁",
+    "=",
+    "n₂",
+    "·",
+    "senθ₂"
+   ],
+   "extras": [
+    "÷",
+    "+",
+    "cosθ",
+    "c"
+   ],
+   "legenda": "n = índice de refração do meio, θ = ângulo com a normal.",
+   "js": "n1*Math.sin(t1)",
+   "variaveis": [
+    "n1",
+    "t1"
+   ],
+   "explain": "Na refração, o produto do índice pelo seno do ângulo se conserva entre os meios. A Matriz do PAS 2 cita Fenômenos Óticos.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 03 (Fenômenos Óticos)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f59",
+   "nivel": 3,
+   "etapa": "PAS 2",
+   "materia": "Física",
+   "nome": "Equação de Gauss das lentes",
+   "tokens": [
+    "1÷f",
+    "=",
+    "1÷p",
+    "+",
+    "1÷p′"
+   ],
+   "extras": [
+    "·",
+    "−",
+    "2f",
+    "A"
+   ],
+   "legenda": "f = distância focal, p = distância do objeto, p′ = distância da imagem.",
+   "js": "1/p+1/pl",
+   "variaveis": [
+    "p",
+    "pl"
+   ],
+   "explain": "A posição da imagem depende da posição do objeto e da distância focal. A Matriz do PAS 2 cita Conjugação de Imagem em Espelhos e Lentes.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 03 (Conjugação de Imagem em Espelhos e Lentes)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f60",
+   "nivel": 1,
+   "etapa": "PAS 2",
+   "materia": "Física",
+   "nome": "Primeira Lei da Termodinâmica",
+   "tokens": [
+    "ΔU",
+    "=",
+    "Q",
+    "−",
+    "W"
+   ],
+   "extras": [
+    "·",
+    "+",
+    "÷",
+    "T"
+   ],
+   "legenda": "ΔU = variação da energia interna, Q = calor recebido, W = trabalho realizado pelo sistema.",
+   "js": "Q-W",
+   "variaveis": [
+    "Q",
+    "W"
+   ],
+   "explain": "A energia interna varia conforme o calor recebido e o trabalho realizado. A Matriz do PAS 2 cita as Leis da Termodinâmica.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 01 (Leis da Termodinâmica)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f61",
+   "nivel": 1,
+   "etapa": "PAS 2",
+   "materia": "Física",
+   "nome": "Calor sensível",
+   "tokens": [
+    "Q",
+    "=",
+    "m",
+    "·",
+    "c",
+    "·",
+    "ΔT"
+   ],
+   "extras": [
+    "+",
+    "÷",
+    "L",
+    "−"
+   ],
+   "legenda": "m = massa, c = calor específico, ΔT = variação de temperatura.",
+   "js": "m*c*dT",
+   "variaveis": [
+    "m",
+    "c",
+    "dT"
+   ],
+   "explain": "O calor necessário para variar a temperatura é proporcional à massa, ao calor específico e à variação. A Matriz do PAS 2 cita Temperatura e Calor e Calorimetria.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 01 (Temperatura e Calor); Químicos 08 (Calorimetria)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f62",
+   "nivel": 2,
+   "etapa": "PAS 2",
+   "materia": "Química",
+   "nome": "Lei geral dos gases",
+   "tokens": [
+    "P₁·V₁",
+    "÷",
+    "T₁",
+    "=",
+    "P₂·V₂",
+    "÷",
+    "T₂"
+   ],
+   "extras": [
+    "+",
+    "−",
+    "R",
+    "n"
+   ],
+   "legenda": "P = pressão, V = volume, T = temperatura absoluta, em kelvin.",
+   "js": "P2*V2/T2",
+   "variaveis": [
+    "P2",
+    "V2",
+    "T2"
+   ],
+   "explain": "Para uma quantidade fixa de gás, PV÷T se mantém constante entre dois estados. A Matriz do PAS 2 cita a Lei geral dos gases.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 07 (Gases: Lei geral dos gases)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f63",
+   "nivel": 3,
+   "etapa": "PAS 2",
+   "materia": "Química",
+   "nome": "Equação de Clapeyron",
+   "tokens": [
+    "P",
+    "·",
+    "V",
+    "=",
+    "n",
+    "·",
+    "R",
+    "·",
+    "T"
+   ],
+   "extras": [
+    "+",
+    "÷",
+    "m",
+    "−"
+   ],
+   "legenda": "n = quantidade de matéria, R = constante dos gases, T = temperatura absoluta.",
+   "js": "n*R*T",
+   "variaveis": [
+    "n",
+    "R",
+    "T"
+   ],
+   "explain": "A equação de Clapeyron descreve o gás ideal e vem da Teoria cinética dos gases. A Matriz do PAS 2 cita grandezas do estado gasoso e a Teoria cinética.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 07 (Grandezas do estado gasoso; Teoria cinética dos gases)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f64",
+   "nivel": 3,
+   "etapa": "PAS 2",
+   "materia": "Física",
+   "nome": "Rendimento da máquina de Carnot",
+   "tokens": [
+    "η",
+    "=",
+    "1",
+    "−",
+    "T₂",
+    "÷",
+    "T₁"
+   ],
+   "extras": [
+    "+",
+    "·",
+    "Q",
+    "W"
+   ],
+   "legenda": "T₁ = temperatura da fonte quente, T₂ = temperatura da fonte fria, ambas em kelvin.",
+   "js": "1-t2/t1",
+   "variaveis": [
+    "t1",
+    "t2"
+   ],
+   "explain": "O rendimento máximo de uma máquina térmica depende só das temperaturas das fontes. A Matriz do PAS 2 cita Máquinas Térmicas e Frigoríficas.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 01 (Máquinas Térmicas e Frigoríficas)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f65",
+   "nivel": 1,
+   "etapa": "PAS 2",
+   "materia": "Física",
+   "nome": "Energia do fóton",
+   "tokens": [
+    "E",
+    "=",
+    "h",
+    "·",
+    "f"
+   ],
+   "extras": [
+    "÷",
+    "+",
+    "c",
+    "λ"
+   ],
+   "legenda": "h = constante de Planck, f = frequência da luz.",
+   "js": "h*f",
+   "variaveis": [
+    "h",
+    "f"
+   ],
+   "explain": "A luz troca energia com a matéria em pacotes de energia proporcional à frequência. A Matriz do PAS 2 cita Interação Luz-Matéria.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Físicos 04 (Interação Luz-Matéria; Dualidade Onda-Partícula)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f66",
+   "nivel": 1,
+   "etapa": "PAS 2",
+   "materia": "Química",
+   "nome": "Molaridade",
+   "tokens": [
+    "M",
+    "=",
+    "n",
+    "÷",
+    "V"
+   ],
+   "extras": [
+    "·",
+    "+",
+    "m",
+    "d"
+   ],
+   "legenda": "n = quantidade de matéria do soluto, em mol, V = volume da solução, em litros.",
+   "js": "n/V",
+   "variaveis": [
+    "n",
+    "V"
+   ],
+   "explain": "A molaridade diz quantos mols de soluto há em cada litro de solução. A Matriz do PAS 2 cita a Concentração de soluções.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 09 (Soluções: Concentração de soluções)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f67",
+   "nivel": 2,
+   "etapa": "PAS 2",
+   "materia": "Química",
+   "nome": "Diluição de soluções",
+   "tokens": [
+    "C₁",
+    "·",
+    "V₁",
+    "=",
+    "C₂",
+    "·",
+    "V₂"
+   ],
+   "extras": [
+    "+",
+    "÷",
+    "−",
+    "n"
+   ],
+   "legenda": "C = concentração, V = volume. Os índices 1 e 2 indicam antes e depois da diluição.",
+   "js": "C2*V2",
+   "variaveis": [
+    "C2",
+    "V2"
+   ],
+   "explain": "Ao adicionar solvente, a quantidade de soluto não muda, e por isso C·V se conserva. A Matriz do PAS 2 cita Diluição e mistura de soluções.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 09 (Soluções: Diluição e mistura de soluções)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f68",
+   "nivel": 2,
+   "etapa": "PAS 2",
+   "materia": "Química",
+   "nome": "Variação de entalpia",
+   "tokens": [
+    "ΔH",
+    "=",
+    "Hₚ",
+    "−",
+    "Hᵣ"
+   ],
+   "extras": [
+    "+",
+    "·",
+    "÷",
+    "Q"
+   ],
+   "legenda": "Hₚ = entalpia dos produtos, Hᵣ = entalpia dos reagentes.",
+   "js": "Hp-Hr",
+   "variaveis": [
+    "Hp",
+    "Hr"
+   ],
+   "explain": "A variação de entalpia é o que sobra ao subtrair a entalpia dos reagentes da dos produtos; é negativa quando a reação libera calor. A Matriz do PAS 2 cita Entalpia, Variação de entalpia e a Lei de Hess.",
+   "origem_pas": "Matriz PAS 2, Ciências da Natureza, Químicos 08 (Termoquímica: Entalpia e variação de entalpia; Lei de Hess)",
+   "fonte": "Matriz PAS 2 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f69",
+   "nivel": 3,
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "nome": "Lei de Coulomb",
+   "tokens": [
+    "F",
+    "=",
+    "k",
+    "·",
+    "q₁",
+    "·",
+    "q₂",
+    "÷",
+    "d²"
+   ],
+   "extras": [
+    "+",
+    "−",
+    "m",
+    "g"
+   ],
+   "legenda": "k = constante eletrostática, q₁ e q₂ = cargas, d = distância entre elas.",
+   "js": "k*q1*q2/(d*d)",
+   "variaveis": [
+    "k",
+    "q1",
+    "q2",
+    "d"
+   ],
+   "explain": "A força entre cargas é proporcional ao produto delas e ao inverso do quadrado da distância. A Matriz do PAS 3 cita Força, Campo e Potencial Elétrico.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 01 (Eletrostática: Força, Campo e Potencial Elétrico)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f70",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "nome": "Campo elétrico de uma carga puntiforme",
+   "tokens": [
+    "E",
+    "=",
+    "k",
+    "·",
+    "Q",
+    "÷",
+    "d²"
+   ],
+   "extras": [
+    "+",
+    "−",
+    "q",
+    "V"
+   ],
+   "legenda": "Q = carga que cria o campo, d = distância até a carga.",
+   "js": "k*Q/(d*d)",
+   "variaveis": [
+    "k",
+    "Q",
+    "d"
+   ],
+   "explain": "O campo elétrico é a força por unidade de carga de prova. A Matriz do PAS 3 cita Campo Elétrico.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 01 (Eletrostática: Campo Elétrico)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f71",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "nome": "Potencial elétrico de uma carga puntiforme",
+   "tokens": [
+    "V",
+    "=",
+    "k",
+    "·",
+    "Q",
+    "÷",
+    "d"
+   ],
+   "extras": [
+    "+",
+    "²",
+    "−",
+    "E"
+   ],
+   "legenda": "Q = carga que cria o potencial, d = distância até a carga.",
+   "js": "k*Q/d",
+   "variaveis": [
+    "k",
+    "Q",
+    "d"
+   ],
+   "explain": "O potencial é o trabalho por unidade de carga para trazê-la do infinito. A Matriz do PAS 3 cita Potencial Elétrico.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 01 (Eletrostática: Potencial Elétrico)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f72",
+   "nivel": 1,
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "nome": "Primeira Lei de Ohm",
+   "tokens": [
+    "U",
+    "=",
+    "R",
+    "·",
+    "i"
+   ],
+   "extras": [
+    "÷",
+    "+",
+    "P",
+    "ρ"
+   ],
+   "legenda": "U = tensão, R = resistência, i = corrente.",
+   "js": "R*i",
+   "variaveis": [
+    "R",
+    "i"
+   ],
+   "explain": "Em um resistor ôhmico, a tensão é proporcional à corrente. A Matriz do PAS 3 cita Dispositivos e circuitos elétricos.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 03 (Eletrodinâmica: Dispositivos e circuitos elétricos)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f73",
+   "nivel": 1,
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "nome": "Potência elétrica",
+   "tokens": [
+    "P",
+    "=",
+    "U",
+    "·",
+    "i"
+   ],
+   "extras": [
+    "÷",
+    "+",
+    "R",
+    "t"
+   ],
+   "legenda": "U = tensão, i = corrente.",
+   "js": "U*i",
+   "variaveis": [
+    "U",
+    "i"
+   ],
+   "explain": "A potência elétrica é a energia por tempo: tensão vezes corrente. A Matriz do PAS 3 cita Eletrodinâmica e circuitos.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 03 (Eletrodinâmica)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f74",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "nome": "Segunda Lei de Ohm",
+   "tokens": [
+    "R",
+    "=",
+    "ρ",
+    "·",
+    "L",
+    "÷",
+    "A"
+   ],
+   "extras": [
+    "+",
+    "−",
+    "U",
+    "i"
+   ],
+   "legenda": "ρ = resistividade do material, L = comprimento do fio, A = área da seção.",
+   "js": "rho*L/A",
+   "variaveis": [
+    "rho",
+    "L",
+    "A"
+   ],
+   "explain": "Um fio mais longo resiste mais, e um mais grosso resiste menos. A Matriz do PAS 3 cita as Propriedades Elétricas dos Materiais.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 01 e 03 (Propriedades Elétricas dos Materiais; Dispositivos e circuitos elétricos)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f75",
+   "nivel": 1,
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "nome": "Resistores em série",
+   "tokens": [
+    "Rₑ",
+    "=",
+    "R₁",
+    "+",
+    "R₂"
+   ],
+   "extras": [
+    "·",
+    "÷",
+    "−",
+    "1÷R"
+   ],
+   "legenda": "R₁ e R₂ = resistências ligadas em série.",
+   "js": "R1+R2",
+   "variaveis": [
+    "R1",
+    "R2"
+   ],
+   "explain": "Em série, a mesma corrente atravessa os resistores e as resistências se somam. A Matriz do PAS 3 cita circuitos elétricos e as Leis de Kirchhoff.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 03 (Dispositivos e circuitos elétricos; Leis de Kirchhoff)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f76",
+   "nivel": 3,
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "nome": "Resistores em paralelo",
+   "tokens": [
+    "Rₑ",
+    "=",
+    "R₁",
+    "·",
+    "R₂",
+    "÷",
+    "(R₁+R₂)"
+   ],
+   "extras": [
+    "+",
+    "−",
+    "1÷R",
+    "U"
+   ],
+   "legenda": "R₁ e R₂ = resistências ligadas em paralelo.",
+   "js": "R1*R2/(R1+R2)",
+   "variaveis": [
+    "R1",
+    "R2"
+   ],
+   "explain": "Em paralelo, a mesma tensão age sobre cada resistor e as correntes se somam. A Matriz do PAS 3 cita circuitos elétricos e as Leis de Kirchhoff.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 03 (Dispositivos e circuitos elétricos; Leis de Kirchhoff)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f77",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "nome": "Lei de Faraday da indução",
+   "tokens": [
+    "ε",
+    "=",
+    "−",
+    "ΔΦ",
+    "÷",
+    "Δt"
+   ],
+   "extras": [
+    "+",
+    "·",
+    "B",
+    "A"
+   ],
+   "legenda": "ε = força eletromotriz induzida, ΔΦ = variação do fluxo magnético, Δt = intervalo de tempo.",
+   "js": "-dphi/dt",
+   "variaveis": [
+    "dphi",
+    "dt"
+   ],
+   "explain": "A tensão induzida é a taxa de variação do fluxo magnético; o sinal negativo vem da Lei de Lenz. A Matriz do PAS 3 cita as Leis de Ampère, Faraday e Lenz.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 04 (Eletromagnetismo: Leis de Ampère, Faraday e Lenz)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f78",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "nome": "Fluxo magnético",
+   "tokens": [
+    "Φ",
+    "=",
+    "B",
+    "·",
+    "A",
+    "·",
+    "cosθ"
+   ],
+   "extras": [
+    "+",
+    "÷",
+    "senθ",
+    "−"
+   ],
+   "legenda": "B = campo magnético, A = área da espira, θ = ângulo entre o campo e a normal à espira.",
+   "js": "B*A*Math.cos(th)",
+   "variaveis": [
+    "B",
+    "A",
+    "th"
+   ],
+   "explain": "O fluxo mede quanto campo atravessa a espira. A Matriz do PAS 3 cita Eletromagnetismo e Magnetismo.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 02 e 04 (Magnetismo; Eletromagnetismo)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f79",
+   "nivel": 3,
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "nome": "Força magnética sobre uma carga",
+   "tokens": [
+    "F",
+    "=",
+    "q",
+    "·",
+    "v",
+    "·",
+    "B",
+    "·",
+    "senθ"
+   ],
+   "extras": [
+    "+",
+    "÷",
+    "cosθ",
+    "m"
+   ],
+   "legenda": "q = carga, v = velocidade, B = campo magnético, θ = ângulo entre v e B.",
+   "js": "q*v*B*Math.sin(th)",
+   "variaveis": [
+    "q",
+    "v",
+    "B",
+    "th"
+   ],
+   "explain": "A força magnética é perpendicular à velocidade e só atua se a carga se move em relação ao campo. A Matriz do PAS 3 cita Força e Campo Magnético.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 02 (Magnetismo: Força e Campo Magnético)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f80",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "nome": "Transformador ideal",
+   "tokens": [
+    "Uₚ",
+    "÷",
+    "Uₛ",
+    "=",
+    "Nₚ",
+    "÷",
+    "Nₛ"
+   ],
+   "extras": [
+    "·",
+    "+",
+    "i",
+    "R"
+   ],
+   "legenda": "U = tensão, N = número de espiras. Os índices p e s indicam primário e secundário.",
+   "js": "Np/Ns",
+   "variaveis": [
+    "Np",
+    "Ns"
+   ],
+   "explain": "A razão entre as tensões é a razão entre os números de espiras. A Matriz do PAS 3 cita Transformadores.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 04 (Eletromagnetismo: Geradores, Transformadores e Motores)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f81",
+   "nivel": 3,
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "nome": "Dilatação do tempo",
+   "tokens": [
+    "Δt",
+    "=",
+    "Δt₀",
+    "÷",
+    "√(1−v²÷c²)"
+   ],
+   "extras": [
+    "·",
+    "+",
+    "−",
+    "γ"
+   ],
+   "legenda": "Δt₀ = tempo medido no referencial em repouso, v = velocidade relativa, c = velocidade da luz.",
+   "js": "dt0/Math.sqrt(1-v*v/(c*c))",
+   "variaveis": [
+    "dt0",
+    "v",
+    "c"
+   ],
+   "explain": "Para quem vê o relógio em movimento, o tempo passa mais devagar. A Matriz do PAS 3 cita as Teorias da Relatividade.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 05 (Teorias da Relatividade e Cosmologia)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f82",
+   "nivel": 1,
+   "etapa": "PAS 3",
+   "materia": "Física",
+   "nome": "Equivalência entre massa e energia",
+   "tokens": [
+    "E",
+    "=",
+    "m",
+    "·",
+    "c²"
+   ],
+   "extras": [
+    "÷",
+    "+",
+    "h",
+    "f"
+   ],
+   "legenda": "m = massa, c = velocidade da luz no vácuo.",
+   "js": "m*c*c",
+   "variaveis": [
+    "m",
+    "c"
+   ],
+   "explain": "A massa de um corpo equivale a uma quantidade enorme de energia. A Matriz do PAS 3 cita as Teorias da Relatividade.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Físicos 05 (Teorias da Relatividade e Cosmologia)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f83",
+   "nivel": 3,
+   "etapa": "PAS 3",
+   "materia": "Química",
+   "nome": "Constante de equilíbrio",
+   "tokens": [
+    "Kc",
+    "=",
+    "[C]ᶜ·[D]ᵈ",
+    "÷",
+    "[A]ᵃ·[B]ᵇ"
+   ],
+   "extras": [
+    "+",
+    "−",
+    "·",
+    "Kp"
+   ],
+   "legenda": "[ ] = concentração em mol/L no equilíbrio; letras minúsculas = coeficientes da equação balanceada.",
+   "js": "Math.pow(C,c)*Math.pow(D,d)/(Math.pow(A,a)*Math.pow(B,b))",
+   "variaveis": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "explain": "Kc compara as concentrações de produtos e reagentes no equilíbrio. A Matriz do PAS 3 cita Equilíbrio químico, aspectos quantitativos e Lei da Ação das massas.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 09 e 10 (Lei da Ação das massas; Equilíbrio químico: Aspectos quantitativos)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f84",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Química",
+   "nome": "Lei de velocidade de uma reação",
+   "tokens": [
+    "v",
+    "=",
+    "k",
+    "·",
+    "[A]ᵃ"
+   ],
+   "extras": [
+    "÷",
+    "+",
+    "−",
+    "Kc"
+   ],
+   "legenda": "k = constante de velocidade, [A] = concentração do reagente, a = ordem da reação.",
+   "js": "k*Math.pow(A,a)",
+   "variaveis": [
+    "k",
+    "A",
+    "a"
+   ],
+   "explain": "A rapidez da reação depende da concentração dos reagentes elevada à ordem da reação. A Matriz do PAS 3 cita Cinética química e a Lei da Ação das massas.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 09 (Cinética química: Lei da Ação das massas)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f85",
+   "nivel": 1,
+   "etapa": "PAS 3",
+   "materia": "Química",
+   "nome": "Potencial padrão de uma pilha",
+   "tokens": [
+    "ΔE°",
+    "=",
+    "E°maior",
+    "−",
+    "E°menor"
+   ],
+   "extras": [
+    "+",
+    "·",
+    "÷",
+    "F"
+   ],
+   "legenda": "E°maior = potencial de redução mais alto, E°menor = potencial de redução mais baixo.",
+   "js": "Emaior-Emenor",
+   "variaveis": [
+    "Emaior",
+    "Emenor"
+   ],
+   "explain": "A força eletromotriz de uma pilha é a diferença entre os potenciais de redução das duas semipilhas. A Matriz do PAS 3 cita Pilhas.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 08 (Eletroquímica: Pilhas)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f86",
+   "nivel": 3,
+   "etapa": "PAS 3",
+   "materia": "Química",
+   "nome": "Massa depositada na eletrólise",
+   "tokens": [
+    "m",
+    "=",
+    "M",
+    "·",
+    "i",
+    "·",
+    "t",
+    "÷",
+    "(n·F)"
+   ],
+   "extras": [
+    "+",
+    "−",
+    "Q",
+    "V"
+   ],
+   "legenda": "M = massa molar, i = corrente, t = tempo, n = elétrons por íon, F = constante de Faraday.",
+   "js": "M*i*t/(n*F)",
+   "variaveis": [
+    "M",
+    "i",
+    "t",
+    "n",
+    "F"
+   ],
+   "explain": "A carga que passa (i·t), dividida por n·F, dá o número de mols depositados; multiplicando pela massa molar, vem a massa. A Matriz do PAS 3 cita a Eletrólise ígnea e aquosa.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 08 (Eletroquímica: Eletrólise ígnea e aquosa)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f87",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Química",
+   "nome": "Constante de decaimento radioativo",
+   "tokens": [
+    "λ",
+    "=",
+    "ln2",
+    "÷",
+    "T"
+   ],
+   "extras": [
+    "·",
+    "+",
+    "log",
+    "e"
+   ],
+   "legenda": "T = meia-vida do isótopo.",
+   "js": "Math.LN2/T",
+   "variaveis": [
+    "T"
+   ],
+   "explain": "Quanto menor a meia-vida, maior a constante de decaimento. A Matriz do PAS 3 cita a Cinética radioativa.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Químicos 07 (Radioatividade: Cinética radioativa)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f88",
+   "nivel": 3,
+   "etapa": "PAS 3",
+   "materia": "Biologia",
+   "nome": "Equilíbrio de Hardy-Weinberg",
+   "tokens": [
+    "p²",
+    "+",
+    "2",
+    "p",
+    "q",
+    "+",
+    "q²",
+    "=",
+    "1"
+   ],
+   "extras": [
+    "−",
+    "·",
+    "÷",
+    "r"
+   ],
+   "legenda": "p e q = frequências dos dois alelos de um gene (p + q = 1).",
+   "js": "p*p+2*p*q+q*q",
+   "variaveis": [
+    "p",
+    "q"
+   ],
+   "explain": "Em uma população em equilíbrio, as frequências genotípicas são p², 2pq e q². A Matriz do PAS 3 cita Genética de populações.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 13 (Origens da vida e evolução: Genética de populações)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  },
+  {
+   "id": "f89",
+   "nivel": 2,
+   "etapa": "PAS 3",
+   "materia": "Biologia",
+   "nome": "Frequência de um alelo",
+   "tokens": [
+    "p",
+    "=",
+    "f(AA)",
+    "+",
+    "f(Aa)",
+    "÷",
+    "2"
+   ],
+   "extras": [
+    "·",
+    "−",
+    "q",
+    "f(aa)"
+   ],
+   "legenda": "f(AA), f(Aa) = frequências dos genótipos AA e Aa na população.",
+   "js": "fAA+fAa/2",
+   "variaveis": [
+    "fAA",
+    "fAa"
+   ],
+   "explain": "Cada heterozigoto leva um alelo A em dois; por isso entra com metade da frequência. A Matriz do PAS 3 cita Genética de populações.",
+   "origem_pas": "Matriz PAS 3, Ciências da Natureza, Biológicos 13 (Genética de populações)",
+   "fonte": "Matriz PAS 3 (dez/2022). A Matriz cita o assunto; a fórmula é a convencional do redator, a confirmar.",
+   "verificar": true
+  }
+ ]
+}
