@@ -343,8 +343,8 @@
 "Conexões PAS";"c86 / nível 2";"PAS 3";"Grupo: Sistemas do corpo";"Sistema respiratório | Sistema circulatório | Sistema digestório | Sistema muscular";"São sistemas citados em Fisiologia Humana na Matriz do PAS 3.";"Matriz PAS 3, Ciências da Natureza, Biológicos 18";"Matriz PAS 3 (dez/2022)";"não";"";""
 "Conexões PAS";"c86 / nível 3";"PAS 3";"Grupo: Textos do PAS 3 publicados em 2023";"Anemia falciforme | Galvani e Volta | Elétricos movidos a etanol | Cupuaçu e indígenas";"Quatro textos da lista com data de publicação em 2023.";"Lista de obras do PAS 3 (prévia jun/2024), Textos 1, 2, 3 e 7";"Lista de obras do PAS 3 (prévia jun/2024)";"sim";"";""
 "Conexões PAS";"c86 / nível 4";"PAS 3";"Grupo: Obras de artistas estrangeiros nas artes do PAS 3";"Morte (Kollwitz) | Transfiguração (Sagazan) | Sikka Magnum (Canogar) | Sagração da Primavera (Stravinsky)";"Alemanha, França, Espanha e Rússia: obras de artistas estrangeiros da lista.";"Lista de obras do PAS 3 (prévia jun/2024), Artes Visuais 1, 4 e 5; Músicas 3";"Lista de obras do PAS 3 (prévia jun/2024)";"sim";"";""
-"Caso do Dia (Física)";"k01";"PAS 1";"Pista 1: Uma força que ninguém vê, mas que você sente na balança. É a razão de você não estar flutuando enquanto lê isto.
-Pista 2: Ela cresce quando as massas crescem e diminui com o quadrado da distância.
+"Caso do Dia (Física)";"k01";"PAS 1";"Pista 1: Ninguém a vê, mas ela decide até onde a Lua fica.
+Pista 2: Quanto mais massa por perto, mais ela se faz sentir.
 Pista 3: Foi descrita por um inglês nos 'Principia', publicados em 1687.
 Pista 4: Sem ela não há órbitas: é por causa dela que os satélites do GPS ficam onde estão.
 Pista 5: No nome tem 'universal', porque vale na Terra e no céu.";"Gravitação universal
@@ -352,8 +352,8 @@ Pista 5: No nome tem 'universal', porque vale na Terra e no céu.";"Gravitação
 Conceitos vizinhos aceitos como ""quase"":
 - Leis de Newton: Também é de Newton, mas as leis falam de movimento. A atração entre massas é outra peça.
 - Teoria da relatividade: É outra explicação da gravidade, de Einstein, bem posterior.";"Newton propôs que toda massa atrai toda massa, com força proporcional ao produto das massas e inversamente proporcional ao quadrado da distância. A Matriz do PAS 1 cita 'Gravitação Universal' na Mecânica Newtoniana e 'Geolocalização e Satélites Artificiais' em Astronomia.";"Matriz PAS 1, Ciências da Natureza, Físicos 01 e 02; PAS1CN3 (transporte e mobilidade)";"Matriz PAS 1 (dez/2022). Ano dos Principia e fórmula: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k03";"PAS 1";"Pista 1: Uma história de engolir e não digerir: uma célula engoliu outra e as duas ficaram juntas, há bilhões de anos.
-Pista 2: Explica por que mitocôndrias e cloroplastos têm DNA próprio.
+"Caso do Dia (Biologia)";"k03";"PAS 1";"Pista 1: Uma parceria antiga, de bilhões de anos, que nunca foi desfeita.
+Pista 2: Algo que hoje trabalha dentro de você tem origem em outro ser.
 Pista 3: Fala da origem das células com núcleo, os eucariontes.
 Pista 4: A bióloga Lynn Margulis a defendeu nos anos 1960, contra muita resistência.
 Pista 5: No nome tem 'simbiose': viver junto, um dentro do outro.";"Teoria endossimbiótica
@@ -361,8 +361,8 @@ Pista 5: No nome tem 'simbiose': viver junto, um dentro do outro.";"Teoria endos
 Conceitos vizinhos aceitos como ""quase"":
 - Teoria celular: É da mesma lista de Citologia, mas fala de todo ser vivo ser feito de células, não de células que moram dentro de outras.
 - Organelas citoplasmáticas: As organelas são o resultado da história. A teoria é a explicação de como surgiram.";"Segundo a teoria, mitocôndrias e cloroplastos descendem de bactérias que passaram a viver dentro de outras células e ficaram. A Matriz do PAS 1 lista a teoria endossimbiótica em Citologia e a usa na origem da vida e do Universo.";"Matriz PAS 1, Ciências da Natureza, Biológicos 12; PAS1CN12";"Matriz PAS 1 (dez/2022). Margulis e DNA próprio: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k04";"PAS 2";"Pista 1: Duas pilhas de moedas: uma bem arrumada e outra torta. Mesma quantidade, mesma altura. O volume muda?
-Pista 2: Se duas figuras têm a mesma altura e, em cada nível, seções com a mesma área, elas têm o mesmo volume.
+"Caso do Dia (Matemática)";"k04";"PAS 2";"Pista 1: Uma pilha de moedas não precisa estar arrumada para ocupar o mesmo espaço.
+Pista 2: A pergunta é sobre o espaço que algo ocupa, não sobre o formato.
 Pista 3: Serve para deduzir fórmulas de volume sem cálculo avançado.
 Pista 4: Foi um italiano do século XVII, aluno de Galileu.
 Pista 5: O nome do princípio é o sobrenome desse italiano.";"Princípio de Cavalieri
@@ -370,8 +370,8 @@ Pista 5: O nome do princípio é o sobrenome desse italiano.";"Princípio de Cav
 Conceitos vizinhos aceitos como ""quase"":
 - Volume de sólidos: É o assunto onde o princípio é usado, mas o caso pede o nome do princípio.
 - Ladrilhamento do plano: É geometria, mas de plano, da etapa 1.";"O princípio de Cavalieri diz que dois sólidos com a mesma altura e seções paralelas de mesma área têm o mesmo volume. A Matriz do PAS 2 o cita ao pedir a dedução das fórmulas de volume.";"Matriz PAS 2, Matemática, PAS2MAT6";"Matriz PAS 2 (dez/2022). Biografia de Cavalieri: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (História)";"k05";"PAS 2";"Pista 1: Um período em que o Antigo Regime levou vários tombos em poucas décadas.
-Pista 2: Teve fábricas fumegando e a máquina a vapor como protagonista.
+"Caso do Dia (História)";"k05";"PAS 2";"Pista 1: Poucas décadas em que muita coisa velha caiu de vez.
+Pista 2: Tem a ver com fábricas, ideias novas e reis em apuros.
 Pista 3: Teve a Revolução Francesa e independências em vários cantos da América.
 Pista 4: A Matriz marca o intervalo: de 1780 a 1850.
 Pista 5: O nome do período diz o que ele teve de sobra.";"Era das Revoluções
@@ -380,8 +380,8 @@ Conceitos vizinhos aceitos como ""quase"":
 - Imperialismo: Vem depois, nos séculos XIX e XX, e é da etapa 3.
 - Capitalismo: A Era das Revoluções faz parte de sua história, mas o caso é um período.
 - Colonização da América Portuguesa: Está na mesma etapa, mas é anterior e tem outro foco.";"A Matriz do PAS 2 pede 'Movimentos políticos, sociais, intelectuais e culturais na Era das Revoluções (1780-1850)'.";"Matriz PAS 2, Humanidades, conhecimento essencial 14";"Matriz PAS 2 (dez/2022).";"não";"";""
-"Caso do Dia (Geografia)";"k06";"PAS 1 e 2";"Pista 1: Aqui a árvore tem raiz enorme e galho torto, e dizem que é uma árvore de cabeça para baixo.
-Pista 2: É o segundo maior bioma do Brasil em área.
+"Caso do Dia (Geografia)";"k06";"PAS 1 e 2";"Pista 1: Aqui a árvore parece ter feito tudo ao contrário do que se espera.
+Pista 2: É um dos grandes territórios do Brasil, e quem mora em Brasília está dentro dele.
 Pista 3: Dele saem águas de várias bacias importantes, por isso o chamam de berço das águas.
 Pista 4: Brasília fica dentro dele.
 Pista 5: A Revista Darcy, da UnB, publicou 'O cerrado está morrendo', que consta nas listas de obras do PAS.";"Cerrado
@@ -389,8 +389,8 @@ Pista 5: A Revista Darcy, da UnB, publicou 'O cerrado está morrendo', que const
 Conceitos vizinhos aceitos como ""quase"":
 - Amazônia: É o maior bioma do país, mas Brasília não fica nele.
 - Rio São Francisco: O rio nasce no Cerrado, mas o caso é o bioma.";"O Cerrado é um dos biomas brasileiros e o de Brasília. O texto 'O cerrado está morrendo' (Revista Darcy nº 21, 2019) está nas listas de obras do PAS 1 e do PAS 2. A Matriz do PAS 1 inclui o desmatamento dos biomas brasileiros.";"Listas de obras PAS 1 (Textos 13 e 15) e PAS 2 (Textos 4); Matriz PAS 1, PAS1CN11";"Listas de obras do PAS. Segundo maior bioma e berço das águas: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Filosofia)";"k07";"PAS 1";"Pista 1: Um senhor de uns setenta anos é julgado por centenas de cidadãos e, em vez de implorar, dá uma aula.
-Pista 2: As acusações: corromper os jovens e não acreditar nos deuses da cidade.
+"Caso do Dia (Filosofia)";"k07";"PAS 1";"Pista 1: Um velho em tribunal que não pediu clemência.
+Pista 2: O que se sabe vem de quem estava na plateia e escreveu.
 Pista 3: Quem escreveu foi um discípulo, não ele.
 Pista 4: A cena é em Atenas, em 399 a.C.
 Pista 5: Na lista do PAS 1, só este texto consta do volume que tem três diálogos de Platão.";"Apologia de Sócrates
@@ -399,8 +399,8 @@ Conceitos vizinhos aceitos como ""quase"":
 - Esclarecimento (Kant): É um texto de filosofia da lista do PAS 2, mas de Kant, e bem mais tardio.
 - Lógica e argumentação: Faz parte da Matriz, mas o caso é um texto, não um conceito.
 - Mitologia: Também está na Matriz, mas não é um julgamento.";"A 'Apologia de Sócrates', de Platão, relata a defesa de Sócrates no julgamento em Atenas. A lista de obras do PAS 1 informa que, apesar de a edição ter três diálogos, apenas a Apologia consta como obra.";"Lista de obras PAS 1 2026-2028, Textos 1";"Lista de obras do PAS 1. Acusações e data: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Sociologia)";"k08";"PAS 1";"Pista 1: O vizinho come de um jeito diferente e você diz que ele 'come errado'.
-Pista 2: É julgar outras culturas pelos valores da sua, como se a sua fosse a régua do mundo.
+"Caso do Dia (Sociologia)";"k08";"PAS 1";"Pista 1: O estranho, para quem olha, quase sempre está errado.
+Pista 2: Surge quando a própria casa vira o padrão para medir o resto do mundo.
 Pista 3: É o vilão da história, e o antídoto tem nome parecido com 'relativismo'.
 Pista 4: O termo foi popularizado no começo do século XX por William Graham Sumner.
 Pista 5: Na Matriz do PAS 1 aparece ao lado de 'relativismo cultural'.";"Etnocentrismo
@@ -409,8 +409,8 @@ Conceitos vizinhos aceitos como ""quase"":
 - Relativismo cultural: É o antídoto e aparece junto na Matriz, mas o caso é o problema.
 - Marcadores sociais: Cruza com o tema, mas o caso é uma atitude.
 - Desigualdades sociais: É um tema vizinho, mas não é um olhar sobre a cultura do outro.";"Etnocentrismo é avaliar outras culturas pelos padrões da própria. A Matriz do PAS 1 pede 'Cultura, etnocentrismo e relativismo cultural' e liga o assunto aos marcadores de classe, raça, gênero e religião.";"Matriz PAS 1, Humanidades, conhecimento essencial 13 e PAS1CH11";"Matriz PAS 1 (dez/2022). Origem do termo: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k09";"PAS 3";"Pista 1: Um sistema em equilíbrio é teimoso: se você o cutuca, ele reage para desfazer o cutucão.
-Pista 2: Se aumentar a concentração de um reagente, o equilíbrio se desloca para o lado dos produtos.
+"Caso do Dia (Química)";"k09";"PAS 3";"Pista 1: Mexeu, e o sistema devolve o que levou.
+Pista 2: Um equilíbrio que não gosta de ser perturbado.
 Pista 3: Vale também para mudanças de temperatura e de pressão.
 Pista 4: Foi enunciado por um químico francês, no fim do século XIX.
 Pista 5: O sobrenome dele está no nome do princípio.";"Princípio de Le Chatelier
@@ -418,16 +418,16 @@ Pista 5: O sobrenome dele está no nome do princípio.";"Princípio de Le Chatel
 Conceitos vizinhos aceitos como ""quase"":
 - Lei de Hess: A Lei de Hess é de termoquímica e aparece na etapa 2. O caso fala de equilíbrio.
 - Estequiometria: É cálculo de quantidades nas reações. O caso fala de como o equilíbrio reage a mudanças.";"O princípio de Le Chatelier diz que, quando se perturba um sistema em equilíbrio, ele se desloca no sentido de reduzir a perturbação. A Matriz do PAS 3 cita o princípio em Equilíbrio químico.";"Matriz PAS 3, Ciências da Natureza, Químicos 10";"Matriz PAS 3 (dez/2022). Enunciado e época: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Física)";"k10";"PAS 3";"Pista 1: Aproximar e afastar um ímã de uma bobina faz aparecer corrente nela, sem pilha nenhuma.
-Pista 2: A corrente aparece quando o fluxo magnético que atravessa a bobina varia.
+"Caso do Dia (Física)";"k10";"PAS 3";"Pista 1: Sem pilha, sem tomada, e mesmo assim a luz acende.
+Pista 2: Só acontece enquanto algo está mudando, e não quando tudo está parado.
 Pista 3: É a base de geradores e transformadores, que a Matriz do PAS 3 cita.
 Pista 4: Foi descoberta nos anos 1830 por um cientista britânico.
 Pista 5: A lei leva o nome dele e a Matriz a cita junto com as de Ampère e de Lenz.";"Lei de Faraday
 
 Conceitos vizinhos aceitos como ""quase"":
 - Leis de Kirchhoff: Também está na Física do PAS 3, mas trata de circuitos e não de indução.";"A lei de Faraday descreve a indução eletromagnética: variar o fluxo magnético numa espira gera força eletromotriz. A Matriz do PAS 3 cita as leis de Ampère, Faraday e Lenz, além de geradores, transformadores e motores.";"Matriz PAS 3, Ciências da Natureza, Físicos 04";"Matriz PAS 3 (dez/2022). Descoberta e época: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (História)";"k11";"PAS 3";"Pista 1: Países poderosos dividem um continente inteiro numa mesa, sem convidar quem mora nele.
-Pista 2: Houve uma conferência em Berlim, entre 1884 e 1885, para repartir a África.
+"Caso do Dia (História)";"k11";"PAS 3";"Pista 1: Uma mesa grande, um mapa e ninguém do lugar convidado.
+Pista 2: Foi assim que um continente inteiro teve fronteiras traçadas por quem vivia longe.
 Pista 3: As fábricas europeias precisavam de matéria-prima e de mercados, e isso empurrou a expansão.
 Pista 4: Está na raiz de conflitos dos séculos XIX e XX, como cita a Matriz do PAS 3.
 Pista 5: O nome lembra a palavra 'império'.";"Imperialismo
@@ -435,24 +435,24 @@ Pista 5: O nome lembra a palavra 'império'.";"Imperialismo
 Conceitos vizinhos aceitos como ""quase"":
 - Capitalismo: Foi o motor econômico da expansão, mas o caso é a partilha de territórios.
 - Era das Revoluções: Vem antes, entre 1780 e 1850, e é da etapa 2.";"O imperialismo dos séculos XIX e XX foi a expansão de potências industriais sobre a África e a Ásia. A Matriz do PAS 3 pede 'Conflitos imperialistas do século XIX e XX'.";"Matriz PAS 3, Humanidades, conhecimento essencial 7";"Matriz PAS 3 (dez/2022). Conferência de Berlim: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k12";"PAS 2";"Pista 1: É a arrumação da biblioteca da vida: cada espécie tem o seu lugar na estante.
-Pista 2: Usa nomes em latim com duas palavras, como Homo sapiens.
+"Caso do Dia (Biologia)";"k12";"PAS 2";"Pista 1: Uma biblioteca em que cada ser vivo tem o seu lugar.
+Pista 2: Para achar o livro certo, o nome vem em latim.
 Pista 3: Agrupa os seres em categorias cada vez maiores, da espécie ao reino.
 Pista 4: Foi organizada pelo naturalista sueco Lineu, no século XVIII.
 Pista 5: A Matriz do PAS 2 escreve 'Sistemática e ___'.";"Sistemática e taxonomia
 
 Conceitos vizinhos aceitos como ""quase"":
 - Evolução: É um assunto da etapa 3. A taxonomia só organiza os grupos, sem explicar como surgiram.";"A taxonomia classifica e nomeia os seres vivos em categorias hierárquicas. A Matriz do PAS 2 lista 'Sistemática e Taxonomia' em Biologia.";"Matriz PAS 2, Ciências da Natureza, Biológicos 10";"Matriz PAS 2 (dez/2022). Nomenclatura e Lineu: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Física)";"k13";"PAS 2";"Pista 1: Nenhuma máquina transforma todo o calor que recebe em trabalho: sempre sobra um pouco.
-Pista 2: Estuda calor, temperatura, trabalho e energia.
+"Caso do Dia (Física)";"k13";"PAS 2";"Pista 1: Nada se perde, mas nem tudo se aproveita.
+Pista 2: Fala de quente, de frio e de quanto de um vira o outro.
 Pista 3: Uma das leis diz que a energia se conserva. Outra diz que o calor flui do quente para o frio.
 Pista 4: Explica por que motores esquentam e por que geladeiras precisam gastar energia.
 Pista 5: A Matriz do PAS 2 escreve 'Leis da ___'.";"Leis da Termodinâmica
 
 Conceitos vizinhos aceitos como ""quase"":
 - Ótica geométrica: Também é da Física do PAS 2, mas estuda a luz, e não o calor.";"A Termodinâmica trata das trocas de calor e de trabalho. A Matriz do PAS 2 cita as leis da Termodinâmica, as máquinas térmicas e as frigoríficas.";"Matriz PAS 2, Ciências da Natureza, Físicos 01";"Matriz PAS 2 (dez/2022). Enunciados das leis: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Física)";"k14";"PAS 1";"Pista 1: Se o ônibus freia de repente, seu corpo continua indo para a frente.
-Pista 2: Para mudar a velocidade de um objeto é preciso uma força, e quanto mais massa, mais difícil mudar.
+"Caso do Dia (Física)";"k14";"PAS 1";"Pista 1: Um tranco, e o corpo insiste em continuar o que fazia.
+Pista 2: Três regras antigas, de um inglês, explicam como as coisas se movem.
 Pista 3: Quando você empurra a parede, ela empurra você de volta com a mesma intensidade.
 Pista 4: Foram publicadas em 1687 por um cientista inglês.
 Pista 5: São três, e a Matriz do PAS 1 as cita na Mecânica Newtoniana.";"Leis de Newton
@@ -460,8 +460,8 @@ Pista 5: São três, e a Matriz do PAS 1 as cita na Mecânica Newtoniana.";"Leis
 Conceitos vizinhos aceitos como ""quase"":
 - Gravitação universal: É outra contribuição de Newton, sobre a atração entre massas, e não sobre o movimento.
 - Impulso e momentum linear: É uma grandeza ligada ao movimento, mas o caso é o conjunto das três leis.";"As três leis descrevem a inércia, a relação entre força e aceleração e o par ação e reação. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Físicos 01).";"Matriz PAS 1, Ciências da Natureza, Físicos 01";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Física)";"k15";"PAS 1";"Pista 1: Empurrar um carrinho de supermercado por vários metros custa um esforço que a Física consegue medir.
-Pista 2: É o produto de uma força pela distância percorrida na direção dela.
+"Caso do Dia (Física)";"k15";"PAS 1";"Pista 1: Um esforço que um físico sabe contar.
+Pista 2: Depende da força usada e de quanto o objeto andou.
 Pista 3: No Sistema Internacional, a unidade é o joule.
 Pista 4: Uma pedra no alto de um prédio guarda uma forma dessa energia, que vira velocidade quando ela cai.
 Pista 5: A Matriz do PAS 1 escreve 'Trabalho e ___ mecânica'.";"Trabalho e energia mecânica
@@ -469,8 +469,8 @@ Pista 5: A Matriz do PAS 1 escreve 'Trabalho e ___ mecânica'.";"Trabalho e ener
 Conceitos vizinhos aceitos como ""quase"":
 - Leis de Newton: Explicam forças e movimento, mas não medem a energia transferida.
 - Impulso e momentum linear: É outra grandeza da mecânica, ligada à massa e à velocidade.";"Trabalho mede a energia transferida por uma força ao longo de um deslocamento. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Físicos 01).";"Matriz PAS 1, Ciências da Natureza, Físicos 01";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Física)";"k16";"PAS 1";"Pista 1: Quanto mais exatamente você sabe onde uma partícula está, menos sabe a velocidade dela.
-Pista 2: Não é defeito do aparelho: é uma propriedade do mundo muito pequeno.
+"Caso do Dia (Física)";"k16";"PAS 1";"Pista 1: Olhar demais para uma coisa atrapalha ver a outra.
+Pista 2: Um limite que a natureza impõe, mesmo com o melhor aparelho.
 Pista 3: Faz parte da mecânica quântica.
 Pista 4: Foi formulado em 1927 por um físico alemão.
 Pista 5: A Matriz do PAS 1 o cita na Introdução à Física Moderna.";"Princípio da incerteza
@@ -478,16 +478,16 @@ Pista 5: A Matriz do PAS 1 o cita na Introdução à Física Moderna.";"Princíp
 Conceitos vizinhos aceitos como ""quase"":
 - Teoria da relatividade: É outra teoria da Física Moderna, mas fala de espaço e tempo, e não de medir partículas.
 - Modelos atômicos: Está ligado ao átomo, mas o caso é um limite de precisão da medida.";"O princípio diz que há um limite para conhecer ao mesmo tempo a posição e a velocidade de uma partícula. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Físicos 03).";"Matriz PAS 1, Ciências da Natureza, Físicos 03";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k17";"PAS 1";"Pista 1: É uma parede de escola com mais de cem casinhas.
-Pista 2: Os elementos estão ordenados por número atômico e agrupados por propriedades parecidas.
+"Caso do Dia (Química)";"k17";"PAS 1";"Pista 1: Uma parede em que cada casinha tem um endereço.
+Pista 2: Quem a organizou deixou vagas para o que ainda não conhecia.
 Pista 3: As colunas verticais reúnem elementos de comportamento parecido, as famílias.
 Pista 4: Um químico russo, Dmitri Mendeleev, publicou uma versão em 1869 e deixou lacunas para elementos ainda não descobertos.
 Pista 5: A Matriz do PAS 1 a cita em Ligações químicas.";"Tabela periódica
 
 Conceitos vizinhos aceitos como ""quase"":
 - Modelos atômicos: Explicam o átomo, mas a tabela é a organização dos elementos.";"A tabela organiza os elementos por número atômico e propriedades. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Químicos 08).";"Matriz PAS 1, Ciências da Natureza, Químicos 08";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k18";"PAS 1";"Pista 1: Ao longo da história, cientistas desenharam o átomo de jeitos diferentes, cada um explicando mais coisas.
-Pista 2: Um deles lembrava uma bola maciça, outro um pudim de passas, outro um sistema solar em miniatura.
+"Caso do Dia (Química)";"k18";"PAS 1";"Pista 1: Um desenho que foi sendo refeito, e cada versão corrigia a anterior.
+Pista 2: Em um deles, o pequeno lembrava uma sobremesa; em outro, o sistema solar.
 Pista 3: A descoberta do elétron e do núcleo obrigou a trocar de modelo.
 Pista 4: Bohr propôs níveis de energia para os elétrons.
 Pista 5: A Matriz do PAS 1 escreve 'Modelos ___' em Constituição da matéria.";"Modelos atômicos
@@ -495,8 +495,8 @@ Pista 5: A Matriz do PAS 1 escreve 'Modelos ___' em Constituição da matéria."
 Conceitos vizinhos aceitos como ""quase"":
 - Tabela periódica: Organiza os elementos, mas não descreve como o átomo é por dentro.
 - Princípio da incerteza: É de Física Moderna e trata de um limite de medida.";"Os modelos atômicos mostram como a ideia de átomo mudou com novas descobertas. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Químicos 07).";"Matriz PAS 1, Ciências da Natureza, Químicos 07";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k19";"PAS 1";"Pista 1: É a receita de bolo da Química: quantas colheres de cada ingrediente para o bolo sair certo.
-Pista 2: Calcula as quantidades de reagentes e de produtos numa reação.
+"Caso do Dia (Química)";"k19";"PAS 1";"Pista 1: Uma receita que não aceita mais nem menos que o necessário.
+Pista 2: Contar quanto entra e quanto sai de uma reação.
 Pista 3: Usa a equação balanceada e a quantidade de matéria em mols.
 Pista 4: Dela se tira o rendimento de uma reação.
 Pista 5: A Matriz do PAS 1 a cita em Leis das reações químicas.";"Estequiometria
@@ -504,8 +504,8 @@ Pista 5: A Matriz do PAS 1 a cita em Leis das reações químicas.";"Estequiomet
 Conceitos vizinhos aceitos como ""quase"":
 - Lei de Hess: A Lei de Hess trata de energia nas reações e é da etapa 2.
 - Tabela periódica: Dá as massas dos elementos usadas no cálculo, mas o caso é o cálculo.";"A estequiometria calcula quantidades em reações químicas a partir da equação balanceada. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Químicos 09).";"Matriz PAS 1, Ciências da Natureza, Químicos 09";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k20";"PAS 1";"Pista 1: Do micróbio à baleia, todos os seres vivos têm algo em comum.
-Pista 2: Todo ser vivo é formado por uma ou mais unidades microscópicas.
+"Caso do Dia (Biologia)";"k20";"PAS 1";"Pista 1: Do que só se vê no microscópio à maior baleia, algo se repete.
+Pista 2: Uma ideia do século XIX que serve para quase tudo que vive.
 Pista 3: Toda unidade dessas vem de outra semelhante, que já existia.
 Pista 4: Foi construída no século XIX por cientistas alemães, depois que o microscópio melhorou.
 Pista 5: A Matriz do PAS 1 a cita em Citologia, junto com a teoria endossimbiótica.";"Teoria celular
@@ -513,24 +513,24 @@ Pista 5: A Matriz do PAS 1 a cita em Citologia, junto com a teoria endossimbiót
 Conceitos vizinhos aceitos como ""quase"":
 - Teoria endossimbiótica: Também é da Citologia do PAS 1, mas explica como surgiram as organelas.
 - Organelas citoplasmáticas: São partes da célula, e não a ideia de que todo ser vivo é feito de células.";"Todo ser vivo é feito de células, e toda célula vem de outra célula. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Biológicos 12).";"Matriz PAS 1, Ciências da Natureza, Biológicos 12";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k21";"PAS 1";"Pista 1: Um átomo de carbono do seu corpo já esteve numa árvore, no ar e no mar.
-Pista 2: Elementos como carbono, nitrogênio e água passam do ambiente aos seres vivos e voltam.
+"Caso do Dia (Biologia)";"k21";"PAS 1";"Pista 1: Passa pelo ar, pela água e por você, e volta.
+Pista 2: Uma conta que nunca fecha com saldo: o que sai de um lado entra no outro.
 Pista 3: Fotossíntese, respiração e decomposição fazem parte da engrenagem.
 Pista 4: Cada elemento tem o seu ciclo, e os ciclos se conectam.
 Pista 5: A Matriz do PAS 1 os cita em Ecologia, depois das cadeias e teias alimentares.";"Ciclos biogeoquímicos
 
 Conceitos vizinhos aceitos como ""quase"":
 - Sucessão ecológica: Também é de Ecologia, mas descreve a mudança de uma comunidade ao longo do tempo.";"Os ciclos biogeoquímicos fazem os elementos circularem entre o ambiente e os seres vivos. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Biológicos 13).";"Matriz PAS 1, Ciências da Natureza, Biológicos 13";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k22";"PAS 1";"Pista 1: Um terreno queimado ou abandonado vai se transformando aos poucos.
-Pista 2: Primeiro chegam espécies simples, depois outras mais complexas.
+"Caso do Dia (Biologia)";"k22";"PAS 1";"Pista 1: Um terreno vazio nunca fica vazio por muito tempo.
+Pista 2: Quem chega primeiro prepara o lugar para quem vem depois.
 Pista 3: O processo termina numa comunidade estável, chamada clímax.
 Pista 4: É um tema de Ecologia ligado a impactos e à preservação ambiental.
 Pista 5: A Matriz do PAS 1 escreve 'Sucessão ___'.";"Sucessão ecológica
 
 Conceitos vizinhos aceitos como ""quase"":
 - Ciclos biogeoquímicos: Também é de Ecologia, mas trata da circulação de elementos.";"A sucessão ecológica é a substituição gradual de espécies num ambiente até uma comunidade estável. A Matriz do PAS 1 cita o tema (Ciências da Natureza, Biológicos 13).";"Matriz PAS 1, Ciências da Natureza, Biológicos 13";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k23";"PAS 1";"Pista 1: O gráfico lembra a trajetória de uma bola chutada para o alto.
-Pista 2: A curva é uma parábola.
+"Caso do Dia (Matemática)";"k23";"PAS 1";"Pista 1: Uma curva que sobe, para e desce, como um chute para o alto.
+Pista 2: Tem um ponto mais alto (ou mais baixo) que importa muito.
 Pista 3: Pode ter um ponto mais alto ou mais baixo, o máximo ou o mínimo.
 Pista 4: O lucro de uma empresa e o lançamento de objetos são contextos que a Matriz cita.
 Pista 5: A expressão tem um termo ao quadrado: ax² + bx + c.";"Função quadrática
@@ -538,8 +538,8 @@ Pista 5: A expressão tem um termo ao quadrado: ax² + bx + c.";"Função quadr�
 Conceitos vizinhos aceitos como ""quase"":
 - Função logarítmica: Também é da etapa 1, mas o gráfico é uma curva que cresce cada vez mais devagar.
 - Progressão aritmética: É uma sequência, e não uma função de gráfico curvo.";"A função quadrática tem gráfico em parábola e ponto de máximo ou de mínimo. A Matriz do PAS 1 cita o tema (Matemática, PAS1MAT9).";"Matriz PAS 1, Matemática, PAS1MAT9";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k24";"PAS 1";"Pista 1: É a função que 'desfaz' a exponencial.
-Pista 2: Cresce rápido no começo e depois cada vez mais devagar.
+"Caso do Dia (Matemática)";"k24";"PAS 1";"Pista 1: É a volta de outra função: ela responde 'quantas vezes?'
+Pista 2: Sobe, mas cada vez mais devagar.
 Pista 3: Mede a intensidade de terremotos, de sons e a acidez de líquidos.
 Pista 4: Faz uma multiplicação virar soma.
 Pista 5: A Matriz do PAS 1 a descreve como inversa da exponencial.";"Função logarítmica
@@ -547,16 +547,16 @@ Pista 5: A Matriz do PAS 1 a descreve como inversa da exponencial.";"Função lo
 Conceitos vizinhos aceitos como ""quase"":
 - Função quadrática: É outra função da etapa 1, mas de gráfico parabólico.
 - Juros compostos: Usa a função exponencial, que é a inversa da logarítmica.";"A função logarítmica é a inversa da exponencial e aparece em escalas de sismos, som e acidez. A Matriz do PAS 1 cita o tema (Matemática, PAS1MAT11).";"Matriz PAS 1, Matemática, PAS1MAT11";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k25";"PAS 1";"Pista 1: Uma escada em que cada degrau sobe sempre a mesma altura.
-Pista 2: Cada termo é o anterior mais um valor fixo.
+"Caso do Dia (Matemática)";"k25";"PAS 1";"Pista 1: Contar de dois em dois, de cinco em cinco, tem um nome.
+Pista 2: Cada passo soma a mesma coisa ao anterior.
 Pista 3: Os pontos do gráfico ficam alinhados numa reta.
 Pista 4: O valor fixo se chama razão.
 Pista 5: A Matriz do PAS 1 liga a PA às funções afins e aos juros simples.";"Progressão aritmética
 
 Conceitos vizinhos aceitos como ""quase"":
 - Juros compostos: Cresce multiplicando, e não somando um valor fixo.";"Na progressão aritmética, cada termo é o anterior somado a uma razão constante. A Matriz do PAS 1 cita o tema (Matemática, PAS1MAT13 e PAS1MAT14).";"Matriz PAS 1, Matemática, PAS1MAT13 e PAS1MAT14";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k26";"PAS 1";"Pista 1: É o 'juros sobre juros'.
-Pista 2: O saldo é multiplicado pelo mesmo fator a cada período.
+"Caso do Dia (Matemática)";"k26";"PAS 1";"Pista 1: O que rende também passa a render.
+Pista 2: A conta de quem demora a pagar o cartão cresce assim.
 Pista 3: O crescimento é exponencial: devagar no início e muito rápido depois.
 Pista 4: Dívidas de cartão de crédito crescem assim.
 Pista 5: A Matriz do PAS 1 o compara com os juros simples.";"Juros compostos
@@ -564,16 +564,16 @@ Pista 5: A Matriz do PAS 1 o compara com os juros simples.";"Juros compostos
 Conceitos vizinhos aceitos como ""quase"":
 - Progressão aritmética: Está ligada aos juros simples, que crescem de forma linear.
 - Função logarítmica: É a função inversa da exponencial usada aqui.";"Nos juros compostos, os juros de cada período rendem juros nos períodos seguintes. A Matriz do PAS 1 cita o tema (Matemática, PAS1MAT14 e PAS1MAT16).";"Matriz PAS 1, Matemática, PAS1MAT14 e PAS1MAT16";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k27";"PAS 1";"Pista 1: É um número entre 0 e 1 que resume um problema social.
-Pista 2: O zero seria um país em que todos têm a mesma renda.
+"Caso do Dia (Matemática)";"k27";"PAS 1";"Pista 1: Um número só para falar de quem tem mais e quem tem menos.
+Pista 2: Fica entre dois extremos: o zero e o um.
 Pista 3: Quanto mais perto de 1, mais concentrada é a renda.
 Pista 4: Leva o nome de um estatístico italiano.
 Pista 5: A Matriz do PAS 1 o cita junto com o IDH.";"Índice de Gini
 
 Conceitos vizinhos aceitos como ""quase"":
 - Desigualdades sociais: É o assunto geral, mas o caso é um número que o mede.";"O índice de Gini mede a desigualdade de renda, de 0 (igualdade total) a 1. A Matriz do PAS 1 cita o tema (Matemática, PAS1MAT5).";"Matriz PAS 1, Matemática, PAS1MAT5";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Filosofia)";"k28";"PAS 1";"Pista 1: Antes da ciência, os povos explicavam o mundo contando histórias.
-Pista 2: São narrativas sobre deuses, heróis e a origem das coisas.
+"Caso do Dia (Filosofia)";"k28";"PAS 1";"Pista 1: Antes dos livros de ciência, havia isto.
+Pista 2: Deuses, heróis e o começo do mundo estão nisso.
 Pista 3: Têm uma lógica própria, que a Matriz pede para compreender.
 Pista 4: Existem em povos de todos os continentes.
 Pista 5: A Matriz do PAS 1 abre o tema com 'Mitologias como formas de expressão'.";"Mitologia
@@ -581,8 +581,8 @@ Pista 5: A Matriz do PAS 1 abre o tema com 'Mitologias como formas de expressão
 Conceitos vizinhos aceitos como ""quase"":
 - Lógica e argumentação: Também está na Matriz do PAS 1, mas trata de regras de raciocínio, e não de narrativas.
 - Estética: Também é de Filosofia, mas estuda o belo e as artes.";"As mitologias são narrativas que explicam o mundo e têm uma lógica própria. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 01).";"Matriz PAS 1, Humanidades, conhecimento essencial 01";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Filosofia)";"k29";"PAS 1";"Pista 1: É o que separa uma discussão boa de uma briga.
-Pista 2: Estuda as regras do raciocínio válido.
+"Caso do Dia (Filosofia)";"k29";"PAS 1";"Pista 1: Uma boa conversa precisa de regras que ninguém vê.
+Pista 2: Dizer 'logo', 'porque' e 'portanto' com razão é com ela.
 Pista 3: Um argumento tem premissas e uma conclusão.
 Pista 4: Aristóteles foi um dos primeiros a organizá-la.
 Pista 5: A Matriz do PAS 1 a cita como 'Elementos da ___ como condição para argumentação consistente'.";"Lógica e argumentação
@@ -590,8 +590,8 @@ Pista 5: A Matriz do PAS 1 a cita como 'Elementos da ___ como condição para ar
 Conceitos vizinhos aceitos como ""quase"":
 - Epistemologia: Estuda o conhecimento, e não as regras do raciocínio.
 - Mitologia: Explica o mundo por narrativas, e não por argumentos.";"A lógica estuda o raciocínio válido e dá base para argumentar e criticar argumentos. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 04 e PAS1CH1).";"Matriz PAS 1, Humanidades, conhecimento essencial 04 e PAS1CH1";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Filosofia)";"k30";"PAS 1";"Pista 1: Por que uma música emociona e outra não?
-Pista 2: É a parte da Filosofia que estuda o belo e a experiência das artes.
+"Caso do Dia (Filosofia)";"k30";"PAS 1";"Pista 1: Alguém olha uma pintura e não consegue explicar por que se emociona.
+Pista 2: A pergunta é sobre o que torna algo bonito ou marcante.
 Pista 3: A palavra vem do grego para 'sentir'.
 Pista 4: Pergunta o que faz uma obra ser considerada arte.
 Pista 5: A Matriz do PAS 1 cita 'Noções ___ fundamentais'.";"Estética
@@ -599,16 +599,16 @@ Pista 5: A Matriz do PAS 1 cita 'Noções ___ fundamentais'.";"Estética
 Conceitos vizinhos aceitos como ""quase"":
 - Indústria cultural: Trata da arte como mercadoria, e não do belo em si.
 - Mitologia: Também é de Filosofia, mas trata de narrativas sobre o mundo.";"A estética estuda o belo e a experiência de fruição das artes. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 05).";"Matriz PAS 1, Humanidades, conhecimento essencial 05";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Sociologia)";"k31";"PAS 1";"Pista 1: Para entender um costume, é preciso olhar com os olhos de quem o pratica.
-Pista 2: Cada cultura tem seus próprios critérios, e nenhuma é a régua das outras.
+"Caso do Dia (Sociologia)";"k31";"PAS 1";"Pista 1: Antes de julgar, vale calçar o sapato do outro.
+Pista 2: Um costume só faz sentido dentro da cultura que o criou.
 Pista 3: O contrário é julgar tudo pela própria cultura.
 Pista 4: Foi defendido pela Antropologia do século XX, por autores como Franz Boas.
 Pista 5: A Matriz do PAS 1 o cita junto com etnocentrismo.";"Relativismo cultural
 
 Conceitos vizinhos aceitos como ""quase"":
 - Etnocentrismo: É o oposto: julgar outras culturas pelos valores da própria.";"O relativismo cultural pede entender cada cultura nos seus próprios termos. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 13).";"Matriz PAS 1, Humanidades, conhecimento essencial 13";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (História)";"k32";"PAS 1";"Pista 1: Milhões de pessoas foram arrancadas de um continente e levadas para outro.
-Pista 2: O oceano Atlântico virou rota de comércio de gente.
+"Caso do Dia (História)";"k32";"PAS 1";"Pista 1: Um oceano virou estrada, e a carga eram pessoas.
+Pista 2: Levou milhões da África para as Américas e deixou marcas no Brasil.
 Pista 3: A África, a Europa e a América ficaram ligadas por esse tráfico.
 Pista 4: A Matriz do PAS 1 fala do espaço Atlântico.
 Pista 5: O nome vem de uma palavra grega que significa dispersão.";"Diáspora atlântica
@@ -616,8 +616,8 @@ Pista 5: O nome vem de uma palavra grega que significa dispersão.";"Diáspora a
 Conceitos vizinhos aceitos como ""quase"":
 - Colonização da América Portuguesa: Ocorreu junto com a diáspora, mas o caso é o deslocamento forçado de pessoas.
 - Formação dos Estados nacionais: É outro processo histórico, ligado à formação de países.";"A diáspora atlântica foi o deslocamento forçado de africanos escravizados para a América. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 17 e 18).";"Matriz PAS 1, Humanidades, conhecimento essencial 17 e 18";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Geografia)";"k33";"PAS 1";"Pista 1: Não é só um pedaço de chão: é um pedaço de chão com dono.
-Pista 2: Pode ser um país, um bairro ou uma terra indígena.
+"Caso do Dia (Geografia)";"k33";"PAS 1";"Pista 1: Dá para desenhar no mapa e dizer: aqui mando eu.
+Pista 2: Pode caber no tamanho de um país ou de uma aldeia.
 Pista 3: Envolve poder, fronteiras e identidade.
 Pista 4: É um dos conceitos centrais da Geografia, junto com lugar e região.
 Pista 5: A Matriz do PAS 1 o lista com paisagem, rede e espaço.";"Território
@@ -625,8 +625,8 @@ Pista 5: A Matriz do PAS 1 o lista com paisagem, rede e espaço.";"Território
 Conceitos vizinhos aceitos como ""quase"":
 - Paisagem: Também é conceito geográfico, mas descreve o que se vê, e não o espaço apropriado.
 - Linguagem cartográfica: É a linguagem dos mapas, e não um conceito de espaço.";"Território é o espaço apropriado e controlado por um grupo, com poder e identidade. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 22).";"Matriz PAS 1, Humanidades, conhecimento essencial 22";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Geografia)";"k34";"PAS 1";"Pista 1: É o que a vista alcança de uma janela.
-Pista 2: Reúne elementos naturais e marcas da ação humana.
+"Caso do Dia (Geografia)";"k34";"PAS 1";"Pista 1: O que aparece da janela do ônibus.
+Pista 2: Mistura o que a natureza fez com o que as pessoas acrescentaram.
 Pista 3: Muda com o tempo e com quem olha.
 Pista 4: É um conceito geográfico, como lugar e região.
 Pista 5: A Matriz do PAS 1 a lista com lugar, região e rede.";"Paisagem
@@ -634,8 +634,8 @@ Pista 5: A Matriz do PAS 1 a lista com lugar, região e rede.";"Paisagem
 Conceitos vizinhos aceitos como ""quase"":
 - Território: Envolve poder sobre o espaço, e não o que a vista alcança.
 - Linguagem cartográfica: Representa o espaço em mapas.";"Paisagem é o conjunto do que se vê num espaço, com elementos naturais e humanos. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 22).";"Matriz PAS 1, Humanidades, conhecimento essencial 22";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Geografia)";"k35";"PAS 1";"Pista 1: Um mapa nunca é igual ao terreno.
-Pista 2: É a linguagem dos mapas: escala, legenda e símbolos.
+"Caso do Dia (Geografia)";"k35";"PAS 1";"Pista 1: Uma pequena folha que quer contar o tamanho do mundo.
+Pista 2: Para entendê-la, é preciso saber ler tamanho, cor e símbolo.
 Pista 3: Escolher o centro e a projeção de um mapa também é uma escolha.
 Pista 4: Ajuda a ler distâncias, áreas e fenômenos no espaço.
 Pista 5: A Matriz do PAS 1 pede 'Linguagem ___ e imagética'.";"Linguagem cartográfica
@@ -643,8 +643,8 @@ Pista 5: A Matriz do PAS 1 pede 'Linguagem ___ e imagética'.";"Linguagem cartog
 Conceitos vizinhos aceitos como ""quase"":
 - Território: É um conceito de espaço, e não a linguagem dos mapas.
 - Paisagem: É o que se vê, e não a forma de representar.";"A linguagem cartográfica usa escala, legenda e símbolos para representar o espaço. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 23).";"Matriz PAS 1, Humanidades, conhecimento essencial 23";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Geografia)";"k36";"PAS 1";"Pista 1: Cada vez mais gente vive num mesmo tipo de lugar.
-Pista 2: A população deixa o campo e passa a morar em cidades.
+"Caso do Dia (Geografia)";"k36";"PAS 1";"Pista 1: O mapa vai ficando cheio de pontinhos grandes.
+Pista 2: O campo esvazia e a cidade enche.
 Pista 3: Traz trânsito, moradia cara e impactos ao ambiente.
 Pista 4: Cresceu com as revoluções industriais.
 Pista 5: A Matriz do PAS 1 pede 'Processo de ___ e os impactos socioambientais'.";"Urbanização
@@ -652,8 +652,8 @@ Pista 5: A Matriz do PAS 1 pede 'Processo de ___ e os impactos socioambientais'.
 Conceitos vizinhos aceitos como ""quase"":
 - Capitalismo: Foi um motor da urbanização, mas o caso é o crescimento das cidades.
 - Território: É um conceito de espaço, e não um processo de crescimento das cidades.";"A urbanização é o crescimento da população e do espaço das cidades, com impactos sociais e ambientais. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 25).";"Matriz PAS 1, Humanidades, conhecimento essencial 25";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Sociologia)";"k37";"PAS 1";"Pista 1: Duas crianças da mesma cidade têm futuros muito diferentes.
-Pista 2: É a diferença no acesso a renda, saúde, escola e moradia.
+"Caso do Dia (Sociologia)";"k37";"PAS 1";"Pista 1: A mesma rua, vidas diferentes.
+Pista 2: Quem nasce de um lado tem menos portas abertas que quem nasce do outro.
 Pista 3: Atravessa classe, gênero e etnia.
 Pista 4: A Sociologia a estuda desde o século XIX.
 Pista 5: A Matriz do PAS 1 cita 'Desigualdades ___ de classe, gênero e etnia'.";"Desigualdades sociais
@@ -661,8 +661,8 @@ Pista 5: A Matriz do PAS 1 cita 'Desigualdades ___ de classe, gênero e etnia'."
 Conceitos vizinhos aceitos como ""quase"":
 - Índice de Gini: É um número que mede a desigualdade de renda, e não o conceito em si.
 - Marcadores sociais: São categorias usadas para analisá-la.";"As desigualdades sociais são diferenças de acesso a bens e direitos que atravessam classe, gênero e etnia. A Matriz do PAS 1 cita o tema (Humanidades, conhecimento essencial 08).";"Matriz PAS 1, Humanidades, conhecimento essencial 08";"Matriz PAS 1 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Física)";"k38";"PAS 2";"Pista 1: Quando você joga uma pedra na água, algo se espalha sem a água viajar junto.
-Pista 2: É a transmissão de energia sem transporte de matéria.
+"Caso do Dia (Física)";"k38";"PAS 2";"Pista 1: Algo viaja, mas o que o carrega fica onde está.
+Pista 2: É assim que o som chega, que a luz chega e que o mar balança.
 Pista 3: O som e a luz são exemplos.
 Pista 4: Tem frequência, comprimento de onda e velocidade.
 Pista 5: A Matriz do PAS 2 a cita com ondas mecânicas e eletromagnéticas.";"Ondulatória
@@ -670,16 +670,16 @@ Pista 5: A Matriz do PAS 2 a cita com ondas mecânicas e eletromagnéticas.";"On
 Conceitos vizinhos aceitos como ""quase"":
 - Ótica geométrica: Também é de Física na etapa 2, mas trata da luz em espelhos e lentes.
 - Leis da Termodinâmica: Trata de calor, e não de ondas.";"A ondulatória estuda ondas, como o som e a luz. A Matriz do PAS 2 cita o tema (Ciências da Natureza, Físicos 02).";"Matriz PAS 2, Ciências da Natureza, Físicos 02";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Física)";"k39";"PAS 2";"Pista 1: Um espelho de banheiro e uma lupa mudam a imagem de jeitos diferentes.
-Pista 2: Estuda como a luz se comporta ao refletir e ao refratar.
+"Caso do Dia (Física)";"k39";"PAS 2";"Pista 1: A imagem muda conforme o que está entre você e o objeto.
+Pista 2: Estuda os caminhos retos que a luz faz e as curvas que ela faz ao passar de um meio a outro.
 Pista 3: Explica óculos, lupas, câmeras e microscópios.
 Pista 4: O olho humano e seus defeitos de visão entram no assunto.
 Pista 5: A Matriz do PAS 2 escreve 'Ótica ___'.";"Ótica geométrica
 
 Conceitos vizinhos aceitos como ""quase"":
 - Ondulatória: Também trata da luz, mas como onda, e não em espelhos e lentes.";"A ótica geométrica estuda reflexão e refração da luz em espelhos e lentes. A Matriz do PAS 2 cita o tema (Ciências da Natureza, Físicos 03).";"Matriz PAS 2, Ciências da Natureza, Físicos 03";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k40";"PAS 2";"Pista 1: O caminho que a reação faz não muda o saldo de energia.
-Pista 2: O calor total de uma reação é a soma dos calores das etapas.
+"Caso do Dia (Química)";"k40";"PAS 2";"Pista 1: Dois caminhos diferentes, a mesma conta no final.
+Pista 2: Quem a enunciou era químico e mediu calor.
 Pista 3: Permite calcular a variação de energia de reações difíceis de medir.
 Pista 4: Foi enunciada por um químico suíço-russo no século XIX.
 Pista 5: A Matriz do PAS 2 a cita em Termoquímica, junto da entalpia.";"Lei de Hess
@@ -687,80 +687,80 @@ Pista 5: A Matriz do PAS 2 a cita em Termoquímica, junto da entalpia.";"Lei de 
 Conceitos vizinhos aceitos como ""quase"":
 - Leis da Termodinâmica: É a área maior, mas o caso é uma lei sobre o saldo de energia das reações.
 - Estequiometria: Calcula quantidades, e não energia.";"A Lei de Hess diz que a variação de entalpia de uma reação não depende do caminho. A Matriz do PAS 2 cita o tema (Ciências da Natureza, Químicos 08).";"Matriz PAS 2, Ciências da Natureza, Químicos 08";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k41";"PAS 2";"Pista 1: Dentro de um botijão, as moléculas voam e batem nas paredes.
-Pista 2: Relaciona pressão, volume e temperatura de uma quantidade de gás.
+"Caso do Dia (Química)";"k41";"PAS 2";"Pista 1: Uma caixa fechada, algo muito agitado dentro dela.
+Pista 2: Se mexe em uma grandeza, as outras reagem.
 Pista 3: Se você aperta uma seringa tampada, a pressão sobe.
 Pista 4: Une as leis de Boyle, Charles e Gay-Lussac.
 Pista 5: A Matriz do PAS 2 escreve 'Lei geral dos ___'.";"Lei geral dos gases
 
 Conceitos vizinhos aceitos como ""quase"":
 - Leis da Termodinâmica: Trata de calor e trabalho, e não da relação entre pressão, volume e temperatura de um gás.";"A lei geral dos gases relaciona pressão, volume e temperatura de uma amostra de gás. A Matriz do PAS 2 cita o tema (Ciências da Natureza, Químicos 07).";"Matriz PAS 2, Ciências da Natureza, Químicos 07";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k42";"PAS 2";"Pista 1: Um suco forte e um suco fraco têm os mesmos ingredientes.
-Pista 2: Mede quanto soluto há numa quantidade de solução.
+"Caso do Dia (Química)";"k42";"PAS 2";"Pista 1: Mesma receita, mais forte ou mais fraca.
+Pista 2: Uma proporção entre quem dissolve e quem é dissolvido.
 Pista 3: Pode ser dada em mol por litro.
 Pista 4: Se você dilui a solução, o valor diminui.
 Pista 5: A Matriz do PAS 2 a lista em Soluções, com diluição e mistura.";"Concentração de soluções
 
 Conceitos vizinhos aceitos como ""quase"":
 - Lei geral dos gases: Também é da Química da etapa 2, mas trata de gases.";"A concentração mede a quantidade de soluto por volume de solução. A Matriz do PAS 2 cita o tema (Ciências da Natureza, Químicos 09).";"Matriz PAS 2, Ciências da Natureza, Químicos 09";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k43";"PAS 2";"Pista 1: Só se reproduz dentro de uma célula que não é dele.
-Pista 2: Muitos biólogos discutem se é vivo ou não.
+"Caso do Dia (Biologia)";"k43";"PAS 2";"Pista 1: Não come, não respira, mas sabe invadir.
+Pista 2: Há quem discuta se está vivo.
 Pista 3: É formado por material genético dentro de uma cápsula de proteína.
 Pista 4: Causa gripe, dengue e sarampo.
 Pista 5: A Matriz do PAS 2 abre a lista de seres vivos com 'Vírus e ___'.";"Vírus e viroses
 
 Conceitos vizinhos aceitos como ""quase"":
 - Sistemática e taxonomia: Organiza os seres vivos em grupos, e não explica o que é um vírus.";"Os vírus são partículas que só se multiplicam dentro de células e causam as viroses. A Matriz do PAS 2 cita o tema (Ciências da Natureza, Biológicos 11).";"Matriz PAS 2, Ciências da Natureza, Biológicos 11";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k44";"PAS 2";"Pista 1: É o ramo que olha para o que cresce do solo.
-Pista 2: Estuda as plantas.
+"Caso do Dia (Biologia)";"k44";"PAS 2";"Pista 1: Verde, quieto e cheio de segredos.
+Pista 2: O ramo da Biologia que olha para quem tem raiz.
 Pista 3: Trata da conquista do ambiente terrestre pelos vegetais.
 Pista 4: Inclui tecidos, morfologia e fisiologia vegetais.
 Pista 5: A Matriz do PAS 2 a cita com 'Histologia: tecidos vegetais'.";"Botânica
 
 Conceitos vizinhos aceitos como ""quase"":
 - Sistemática e taxonomia: Organiza todos os seres vivos, e não só as plantas.";"A botânica estuda as plantas: tecidos, forma e funcionamento. A Matriz do PAS 2 cita o tema (Ciências da Natureza, Biológicos 12).";"Matriz PAS 2, Ciências da Natureza, Biológicos 12";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k45";"PAS 2";"Pista 1: Sabendo que choveu, qual a chance de o jogo ser cancelado?
-Pista 2: A probabilidade muda quando ganhamos uma informação nova.
+"Caso do Dia (Matemática)";"k45";"PAS 2";"Pista 1: Uma pista nova muda a conta que você tinha feito.
+Pista 2: Já sabendo de um fato, a chance de outro passa a ser outra.
 Pista 3: O espaço de possibilidades encolhe para o que já aconteceu.
 Pista 4: Calcula-se dividindo a probabilidade de os dois eventos juntos pela do evento conhecido.
 Pista 5: A Matriz do PAS 2 a cita no objetivo PAS2MAT18.";"Probabilidade condicional
 
 Conceitos vizinhos aceitos como ""quase"":
 - Desvio padrão: É outra medida da etapa 2, mas de espalhamento, e não de chance.";"A probabilidade condicional é a chance de um evento quando se sabe que outro ocorreu. A Matriz do PAS 2 cita o tema (Matemática, PAS2MAT18).";"Matriz PAS 2, Matemática, PAS2MAT18";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k46";"PAS 2";"Pista 1: Duas turmas com a mesma média de nota podem ser muito diferentes.
-Pista 2: Mede o quanto os valores se afastam da média.
+"Caso do Dia (Matemática)";"k46";"PAS 2";"Pista 1: A média esconde mais do que mostra.
+Pista 2: Quanto os números se espalham em volta dela.
 Pista 3: Quanto maior, mais espalhados estão os dados.
 Pista 4: É a raiz quadrada da variância.
 Pista 5: A Matriz do PAS 2 o cita entre as medidas de dispersão.";"Desvio padrão
 
 Conceitos vizinhos aceitos como ""quase"":
 - Probabilidade condicional: É da mesma etapa, mas trata de chance, e não de espalhamento.";"O desvio padrão mede a dispersão dos dados em torno da média. A Matriz do PAS 2 cita o tema (Matemática, PAS2MAT12).";"Matriz PAS 2, Matemática, PAS2MAT12";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k47";"PAS 2";"Pista 1: Quantas senhas de 4 dígitos existem?
-Pista 2: Conta de quantas maneiras se podem organizar ou escolher elementos.
+"Caso do Dia (Matemática)";"k47";"PAS 2";"Pista 1: Quantas formas existem de arrumar o mesmo conjunto?
+Pista 2: Senhas, placas e filas dependem dessa conta.
 Pista 3: Usa os princípios aditivo e multiplicativo.
 Pista 4: O diagrama de árvore ajuda a ver as possibilidades.
 Pista 5: A Matriz do PAS 2 escreve 'Análise ___'.";"Análise combinatória
 
 Conceitos vizinhos aceitos como ""quase"":
 - Probabilidade condicional: Usa a contagem, mas o caso é a própria contagem.";"A análise combinatória conta possibilidades com os princípios aditivo e multiplicativo. A Matriz do PAS 2 cita o tema (Matemática, PAS2MAT13).";"Matriz PAS 2, Matemática, PAS2MAT13";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k48";"PAS 2";"Pista 1: Corte uma casquinha de sorvete de jeitos diferentes e veja o que aparece.
-Pista 2: São curvas obtidas ao cortar um cone com um plano.
+"Caso do Dia (Matemática)";"k48";"PAS 2";"Pista 1: Uma casquinha de sorvete, uma faca e vários cortes diferentes.
+Pista 2: Cada corte dá uma curva com nome próprio.
 Pista 3: Elipse, parábola e hipérbole.
 Pista 4: A órbita dos planetas é uma delas.
 Pista 5: A Matriz do PAS 2 as liga à ótica geométrica e à ondulatória.";"Cônicas
 
 Conceitos vizinhos aceitos como ""quase"":
 - Volume de sólidos: Também é geometria da etapa 2, mas trata de volumes, e não de curvas.";"As cônicas são curvas obtidas pela interseção de um plano com um cone. A Matriz do PAS 2 cita o tema (Matemática, PAS2MAT5).";"Matriz PAS 2, Matemática, PAS2MAT5";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k49";"PAS 2";"Pista 1: Descrevem o que se repete: as marés, as fases da Lua.
-Pista 2: São periódicas: o gráfico se repete em ondas.
+"Caso do Dia (Matemática)";"k49";"PAS 2";"Pista 1: O que sobe e desce, de novo e de novo.
+Pista 2: Seno e cosseno são as mais conhecidas.
 Pista 3: Seno e cosseno são exemplos.
 Pista 4: Modelam sons, movimento circular e o sistema massa-mola.
 Pista 5: A Matriz do PAS 2 as cita em fenômenos periódicos reais.";"Funções trigonométricas
 
 Conceitos vizinhos aceitos como ""quase"":
 - Cônicas: Também é da Matemática da etapa 2, mas descreve curvas, e não fenômenos que se repetem.";"As funções trigonométricas descrevem fenômenos periódicos, como ondas e movimentos circulares. A Matriz do PAS 2 cita o tema (Matemática, PAS2MAT2).";"Matriz PAS 2, Matemática, PAS2MAT2";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (História)";"k50";"PAS 2";"Pista 1: Um território com milhões de habitantes passa a ser tratado como propriedade de um reino distante.
-Pista 2: Terras indígenas foram ocupadas por portugueses.
+"Caso do Dia (História)";"k50";"PAS 2";"Pista 1: Um lugar já cheio de gente passa a ser 'descoberto'.
+Pista 2: Durou séculos, com capitanias, engenhos e povos indígenas no caminho.
 Pista 3: A economia girou em torno do açúcar, do ouro e do trabalho escravizado.
 Pista 4: Houve resistências indígenas e africanas durante todo o período.
 Pista 5: A Matriz do PAS 2 pede 'Rupturas e permanências' desse processo.";"Colonização da América Portuguesa
@@ -768,8 +768,8 @@ Pista 5: A Matriz do PAS 2 pede 'Rupturas e permanências' desse processo.";"Col
 Conceitos vizinhos aceitos como ""quase"":
 - Capitalismo: Foi o contexto econômico, mas o caso é a ocupação da América pelos portugueses.
 - Formação dos Estados nacionais: É outro processo da etapa 2, ligado à formação de países.";"A colonização portuguesa da América envolveu ocupação, exploração econômica e resistência. A Matriz do PAS 2 cita o tema (Humanidades, conhecimento essencial 08).";"Matriz PAS 2, Humanidades, conhecimento essencial 08";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Filosofia)";"k51";"PAS 2";"Pista 1: Antes de saber algo, é bom saber o que é saber.
-Pista 2: É a parte da Filosofia que estuda o conhecimento.
+"Caso do Dia (Filosofia)";"k51";"PAS 2";"Pista 1: Antes de dizer que sabe, pergunte como sabe.
+Pista 2: É a parte da Filosofia que estuda o saber.
 Pista 3: Pergunta como sabemos o que sabemos e quais são os limites.
 Pista 4: Inclui os métodos e a fundamentação da ciência.
 Pista 5: A Matriz do PAS 2 trata de 'Epistemologia e fundamentação do conhecimento científico'.";"Epistemologia
@@ -777,8 +777,8 @@ Pista 5: A Matriz do PAS 2 trata de 'Epistemologia e fundamentação do conhecim
 Conceitos vizinhos aceitos como ""quase"":
 - Lógica e argumentação: Estuda as regras do raciocínio, e não o conhecimento em si.
 - Esclarecimento (Kant): É um texto de Kant da lista do PAS 2, e não a área da Filosofia.";"A epistemologia estuda a natureza, os métodos e os limites do conhecimento, inclusive o científico. A Matriz do PAS 2 cita o tema (Humanidades, conhecimento essencial 02 e 03).";"Matriz PAS 2, Humanidades, conhecimento essencial 02 e 03";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Sociologia)";"k52";"PAS 2";"Pista 1: Todos os dias, as mesmas músicas, séries e propagandas chegam a milhões de pessoas.
-Pista 2: A cultura é produzida em série, como mercadoria.
+"Caso do Dia (Sociologia)";"k52";"PAS 2";"Pista 1: Todo mundo ouve a mesma coisa ao mesmo tempo.
+Pista 2: Termo criado por filósofos alemães para falar de cultura como produto.
 Pista 3: O conceito é de pensadores da Escola de Frankfurt.
 Pista 4: Foi apresentado num livro de 1947.
 Pista 5: O texto 'A indústria cultural' está na lista de obras do PAS 2.";"Indústria cultural
@@ -786,56 +786,56 @@ Pista 5: O texto 'A indústria cultural' está na lista de obras do PAS 2.";"Ind
 Conceitos vizinhos aceitos como ""quase"":
 - Estética: Trata do belo, e não da arte produzida em série.
 - Marcadores sociais: São categorias de análise social, e não o conceito de cultura de massa.";"A indústria cultural trata a cultura como mercadoria produzida em série para as massas. A Matriz do PAS 2 cita o tema (Humanidades, conhecimento essencial 05; lista de obras PAS 2, Textos).";"Matriz PAS 2, Humanidades, conhecimento essencial 05; lista de obras PAS 2, Textos";"Matriz PAS 2 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Física)";"k53";"PAS 3";"Pista 1: Num circuito com vários caminhos, a corrente que chega a um ponto é a que sai.
-Pista 2: A soma das tensões num laço fechado é zero.
+"Caso do Dia (Física)";"k53";"PAS 3";"Pista 1: Em um nó de fios, o que entra é o que sai.
+Pista 2: Duas regras para fazer contas em circuitos.
 Pista 3: São duas regras, a dos nós e a das malhas.
 Pista 4: Foram enunciadas por um físico alemão, em 1845.
 Pista 5: A Matriz do PAS 3 as cita em Eletrodinâmica.";"Leis de Kirchhoff
 
 Conceitos vizinhos aceitos como ""quase"":
 - Lei de Faraday: Também está na Física do PAS 3, mas trata de indução, e não das regras dos circuitos.";"As leis de Kirchhoff descrevem correntes nos nós e tensões nas malhas de um circuito. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Físicos 03).";"Matriz PAS 3, Ciências da Natureza, Físicos 03";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k54";"PAS 3";"Pista 1: Alguns átomos se desfazem sozinhos, soltando energia.
-Pista 2: Emitem partículas alfa, beta ou radiação gama.
+"Caso do Dia (Química)";"k54";"PAS 3";"Pista 1: Alguns átomos não aguentam e se desfazem.
+Pista 2: Foi descoberta por quem deixou sais de urânio sobre uma chapa fotográfica.
 Pista 3: O tempo que metade de uma amostra leva para decair é a meia-vida.
 Pista 4: Pierre e Marie Curie estudaram o fenômeno.
 Pista 5: A Matriz do PAS 3 a cita em Química: emissão de partículas e cinética radioativa.";"Radioatividade
 
 Conceitos vizinhos aceitos como ""quase"":
 - Teoria da relatividade: É da Física Moderna, mas não trata de átomos que se desintegram.";"A radioatividade é a emissão de partículas e radiação por núcleos instáveis. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Químicos 07).";"Matriz PAS 3, Ciências da Natureza, Químicos 07";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k55";"PAS 3";"Pista 1: Dentro de uma pilha, uma reação química vira corrente elétrica.
-Pista 2: Também funciona ao contrário: a eletricidade provoca reações.
+"Caso do Dia (Química)";"k55";"PAS 3";"Pista 1: Reação e eletricidade andam juntas, nos dois sentidos.
+Pista 2: É o que faz um celular carregar e um metal ser revestido.
 Pista 3: A eletrólise usa corrente para separar substâncias.
 Pista 4: Uma pilha tem polos positivo e negativo.
 Pista 5: A Matriz do PAS 3 a cita com 'Pilhas' e 'Eletrólise ígnea e aquosa'.";"Eletroquímica
 
 Conceitos vizinhos aceitos como ""quase"":
 - Leis de Kirchhoff: É da Física do circuito, e não da reação química que gera corrente.";"A eletroquímica estuda a relação entre reações químicas e corrente elétrica, em pilhas e na eletrólise. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Químicos 08).";"Matriz PAS 3, Ciências da Natureza, Químicos 08";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k56";"PAS 3";"Pista 1: Algumas reações acontecem num piscar de olhos, outras levam anos.
-Pista 2: Estuda a rapidez com que as reações acontecem.
+"Caso do Dia (Química)";"k56";"PAS 3";"Pista 1: Fogo, ferrugem e sorvete derretendo têm velocidades bem diferentes.
+Pista 2: Estuda o ritmo das reações, e não só o resultado.
 Pista 3: Temperatura, concentração e catalisadores a modificam.
 Pista 4: Usa a teoria das colisões.
 Pista 5: A Matriz do PAS 3 escreve 'Cinética ___'.";"Cinética química
 
 Conceitos vizinhos aceitos como ""quase"":
 - Princípio de Le Chatelier: Também é da Química do PAS 3, mas trata do equilíbrio, e não da rapidez.";"A cinética química estuda a rapidez das reações e os fatores que a alteram. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Químicos 09).";"Matriz PAS 3, Ciências da Natureza, Químicos 09";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Física)";"k57";"PAS 3";"Pista 1: Para quem viaja numa nave muito rápida, o tempo passa de outro jeito.
-Pista 2: Espaço e tempo formam uma coisa só: o espaço-tempo.
+"Caso do Dia (Física)";"k57";"PAS 3";"Pista 1: Para quem viaja muito depressa, o relógio anda diferente.
+Pista 2: Tem a ver com a velocidade da luz e com o espaço-tempo.
 Pista 3: Na versão geral, a gravidade é a curvatura do espaço-tempo.
 Pista 4: Foi proposta por Einstein no início do século XX e testada num eclipse.
 Pista 5: A Matriz do PAS 3 a cita como 'Teorias da ___'.";"Teoria da relatividade
 
 Conceitos vizinhos aceitos como ""quase"":
 - Princípio da incerteza: É outra teoria da Física Moderna, mas trata de um limite de medida em escalas muito pequenas.";"A teoria da relatividade descreve espaço e tempo como um espaço-tempo unificado. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Físicos 05).";"Matriz PAS 3, Ciências da Natureza, Físicos 05";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k58";"PAS 3";"Pista 1: Por que filhos se parecem com os pais, mas não são iguais?
-Pista 2: Estuda como as características passam de uma geração para outra.
+"Caso do Dia (Biologia)";"k58";"PAS 3";"Pista 1: Por que o nariz é da família, mas a voz é só sua?
+Pista 2: Tudo começou com um monge e suas ervilhas.
 Pista 3: Começou com experimentos em ervilhas.
 Pista 4: O monge Gregor Mendel formulou as primeiras leis.
 Pista 5: A Matriz do PAS 3 a cita junto com genética molecular.";"Genética clássica
 
 Conceitos vizinhos aceitos como ""quase"":
 - Evolução: Também é da Biologia do PAS 3, mas trata da mudança das espécies ao longo do tempo.";"A genética clássica estuda a herança das características, a partir dos experimentos de Mendel. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Biológicos 16).";"Matriz PAS 3, Ciências da Natureza, Biológicos 16";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k59";"PAS 3";"Pista 1: Algumas equações pareciam não ter solução até alguém inventar um novo tipo de número.
-Pista 2: É um número que mistura uma parte real e uma imaginária.
+"Caso do Dia (Matemática)";"k59";"PAS 3";"Pista 1: Uma conta que não tinha resposta ganhou uma, inventada.
+Pista 2: Tem uma parte que não existe na reta numérica.
 Pista 3: Usa uma unidade imaginária cujo quadrado vale −1.
 Pista 4: Pode ser desenhado num plano, como um ponto ou uma seta.
 Pista 5: A Matriz do PAS 3 os liga à decomposição de vetores e ao equilíbrio de partículas.";"Números complexos
@@ -843,56 +843,56 @@ Pista 5: A Matriz do PAS 3 os liga à decomposição de vetores e ao equilíbrio
 Conceitos vizinhos aceitos como ""quase"":
 - Polinômios: Também é da Matemática do PAS 3, mas trata de expressões com potências de x.
 - Determinantes: É um valor associado a matrizes.";"Os números complexos têm parte real e parte imaginária e podem ser representados no plano. A Matriz do PAS 3 cita o tema (Matemática, PAS3MAT8 e PAS3MAT9).";"Matriz PAS 3, Matemática, PAS3MAT8 e PAS3MAT9";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k60";"PAS 3";"Pista 1: É um único número que resume uma matriz quadrada.
-Pista 2: Se for zero, o sistema linear pode não ter solução única.
+"Caso do Dia (Matemática)";"k60";"PAS 3";"Pista 1: Uma tabela inteira vira um número só.
+Pista 2: Se der zero, a história muda.
 Pista 3: Numa matriz 2x2, calcula-se ad − bc.
 Pista 4: Serve para calcular áreas de paralelogramos e de triângulos.
 Pista 5: A Matriz do PAS 3 os cita com matrizes e sistemas lineares.";"Determinantes
 
 Conceitos vizinhos aceitos como ""quase"":
 - Números complexos: Também é da Matemática do PAS 3, mas trata de outro tipo de número.";"O determinante associa um número a uma matriz quadrada e mede, por exemplo, áreas. A Matriz do PAS 3 cita o tema (Matemática, PAS3MAT7).";"Matriz PAS 3, Matemática, PAS3MAT7";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k61";"PAS 3";"Pista 1: Os pontos viram números e as figuras viram equações.
-Pista 2: Une álgebra e geometria no plano cartesiano.
+"Caso do Dia (Matemática)";"k61";"PAS 3";"Pista 1: Ponto vira par de números; figura vira conta.
+Pista 2: Descartes e seu plano estão no centro disso.
 Pista 3: Calcula distâncias, retas e circunferências por coordenadas.
 Pista 4: É a base do funcionamento de mapas e de GPS.
 Pista 5: A Matriz do PAS 3 escreve 'Geometria ___'.";"Geometria analítica
 
 Conceitos vizinhos aceitos como ""quase"":
 - Determinantes: É uma ferramenta usada em cálculos de áreas por coordenadas, mas não é a área da Matemática.";"A geometria analítica estuda figuras por meio de coordenadas e equações. A Matriz do PAS 3 cita o tema (Matemática, PAS3MAT1 e PAS3MAT4).";"Matriz PAS 3, Matemática, PAS3MAT1 e PAS3MAT4";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Matemática)";"k62";"PAS 3";"Pista 1: Expressões com várias potências de x somadas.
-Pista 2: Têm grau, coeficientes e raízes.
+"Caso do Dia (Matemática)";"k62";"PAS 3";"Pista 1: Somas de x com expoentes diferentes.
+Pista 2: Quanto maior o expoente, maior o que se chama de grau.
 Pista 3: Podem ser divididos como se faz com números inteiros.
 Pista 4: Fatorar um polinômio ajuda a achar suas raízes.
 Pista 5: A Matriz do PAS 3 os lista com equações algébricas.";"Polinômios
 
 Conceitos vizinhos aceitos como ""quase"":
 - Números complexos: Também é da Matemática do PAS 3, mas trata de outro tipo de número.";"Polinômios são expressões com potências de uma variável, com grau, coeficientes e raízes. A Matriz do PAS 3 cita o tema (Matemática, PAS3MAT10 e PAS3MAT11).";"Matriz PAS 3, Matemática, PAS3MAT10 e PAS3MAT11";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Sociologia)";"k63";"PAS 3";"Pista 1: O poder tem limites, e a lei vale também para quem manda.
-Pista 2: Combina eleições livres com respeito a direitos e leis.
+"Caso do Dia (Sociologia)";"k63";"PAS 3";"Pista 1: Mandar não significa fazer o que quiser.
+Pista 2: A lei vale para todos, inclusive para quem governa.
 Pista 3: A Constituição de 1988 o declara logo no primeiro artigo.
 Pista 4: Garante direitos fundamentais e separação dos poderes.
 Pista 5: A Matriz do PAS 3 o cita em Humanidades.";"Estado Democrático de Direito
 
 Conceitos vizinhos aceitos como ""quase"":
 - Filosofia política: É a área que discute o poder, e não a forma de organização descrita na Constituição.";"O Estado Democrático de Direito submete o poder à lei e garante direitos fundamentais. A Matriz do PAS 3 cita o tema (Humanidades, conhecimento essencial 25).";"Matriz PAS 3, Humanidades, conhecimento essencial 25";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Geografia)";"k64";"PAS 3";"Pista 1: Países vizinhos combinam regras para negociar entre si.
-Pista 2: Reduzem tarifas de comércio entre os participantes.
+"Caso do Dia (Geografia)";"k64";"PAS 3";"Pista 1: Vizinhos que decidem facilitar as trocas entre si.
+Pista 2: Mercosul e União Europeia são exemplos.
 Pista 3: A União Europeia e o Mercosul são exemplos.
 Pista 4: Podem ser zona de livre comércio, união aduaneira ou mercado comum.
 Pista 5: A Matriz do PAS 3 os lista na Geografia da etapa.";"Blocos econômicos
 
 Conceitos vizinhos aceitos como ""quase"":
 - Organismos multilaterais: São organizações amplas de países, e não acordos comerciais regionais.";"Blocos econômicos são acordos entre países para facilitar o comércio e a cooperação. A Matriz do PAS 3 cita o tema (Humanidades, conhecimento essencial 23).";"Matriz PAS 3, Humanidades, conhecimento essencial 23";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Geografia)";"k65";"PAS 3";"Pista 1: Vários países sentam à mesma mesa para decidir regras comuns.
-Pista 2: A ONU é o mais conhecido.
+"Caso do Dia (Geografia)";"k65";"PAS 3";"Pista 1: Muitos países, uma só sala, regras para todos.
+Pista 2: ONU e OMC são os mais conhecidos.
 Pista 3: Outros cuidam de comércio, saúde e finanças, como OMC, OMS e FMI.
 Pista 4: Surgiram sobretudo depois da Segunda Guerra Mundial.
 Pista 5: A Matriz do PAS 3 os cita com geopolítica mundial.";"Organismos multilaterais
 
 Conceitos vizinhos aceitos como ""quase"":
 - Blocos econômicos: São acordos comerciais entre países vizinhos, e não organizações amplas de cooperação.";"Organismos multilaterais reúnem muitos países para tratar de temas comuns, como paz, saúde e comércio. A Matriz do PAS 3 cita o tema (Humanidades, conhecimento essencial 22).";"Matriz PAS 3, Humanidades, conhecimento essencial 22";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Geografia)";"k66";"PAS 3";"Pista 1: O celular no seu bolso foi projetado num país, montado em outro e feito com minérios de mais outro.
-Pista 2: Cada região se especializa numa etapa da produção.
+"Caso do Dia (Geografia)";"k66";"PAS 3";"Pista 1: Um produto nasce em um lugar, é montado em outro e vendido em um terceiro.
+Pista 2: Cada região do mundo faz a parte que lhe cabe na produção.
 Pista 3: Países centrais ficam com o projeto, e outros com a matéria-prima ou a montagem.
 Pista 4: Gera dependência e desigualdade entre países.
 Pista 5: A Matriz do PAS 3 a cita em Humanidades.";"Divisão internacional do trabalho
@@ -900,32 +900,32 @@ Pista 5: A Matriz do PAS 3 a cita em Humanidades.";"Divisão internacional do tr
 Conceitos vizinhos aceitos como ""quase"":
 - Imperialismo: Está na origem dessa divisão, mas o caso é a especialização entre países na produção.
 - Capitalismo: É o sistema maior em que a divisão acontece.";"A divisão internacional do trabalho distribui as etapas da produção entre países de modo desigual. A Matriz do PAS 3 cita o tema (Humanidades, conhecimento essencial 18).";"Matriz PAS 3, Humanidades, conhecimento essencial 18";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Filosofia)";"k67";"PAS 3";"Pista 1: Quem deve mandar, e por quê?
-Pista 2: Discute a origem e a justificação do poder.
+"Caso do Dia (Filosofia)";"k67";"PAS 3";"Pista 1: Quem manda? E por que devemos obedecer?
+Pista 2: Platão, Hobbes e Rousseau já discutiam isso.
 Pista 3: Trata de justiça, liberdade e leis.
 Pista 4: Platão, Hobbes e Rousseau fizeram parte dela.
 Pista 5: A Matriz do PAS 3 a abre a lista de Humanidades.";"Filosofia política
 
 Conceitos vizinhos aceitos como ""quase"":
 - Estado Democrático de Direito: É uma forma de organização do poder, e não a área que a discute.";"A filosofia política reflete sobre o poder, a justiça e a organização da vida coletiva. A Matriz do PAS 3 cita o tema (Humanidades, conhecimento essencial 01 e 02).";"Matriz PAS 3, Humanidades, conhecimento essencial 01 e 02";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k68";"PAS 3";"Pista 1: Os tentilhões de Galápagos ajudaram a contar essa história.
-Pista 2: Os seres vivos mudam ao longo das gerações.
+"Caso do Dia (Biologia)";"k68";"PAS 3";"Pista 1: Bicos de aves diferentes contaram uma história enorme.
+Pista 2: Um naturalista inglês deu nome ao que viu em uma viagem de navio.
 Pista 3: A seleção natural é um dos mecanismos.
 Pista 4: Foi proposta por Darwin, em 1859.
 Pista 5: A Matriz do PAS 3 a cita com especiação e genética de populações.";"Evolução
 
 Conceitos vizinhos aceitos como ""quase"":
 - Genética clássica: Também é da Biologia do PAS 3, mas trata da herança, e não da mudança das espécies.";"A evolução biológica explica a mudança das espécies ao longo do tempo, por seleção natural e outros mecanismos. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Biológicos 13).";"Matriz PAS 3, Ciências da Natureza, Biológicos 13";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k69";"PAS 3";"Pista 1: O corpo é uma orquestra com vários sistemas tocando juntos.
-Pista 2: Estuda como funcionam os órgãos e os sistemas do corpo humano.
+"Caso do Dia (Biologia)";"k69";"PAS 3";"Pista 1: Várias engrenagens trabalhando ao mesmo tempo.
+Pista 2: Coração, pulmão, rim e cérebro tocam juntos.
 Pista 3: Inclui os sistemas nervoso, circulatório, respiratório e digestório.
 Pista 4: Também o imunológico, o endócrino e o excretor.
 Pista 5: A Matriz do PAS 3 a lista em Biologia.";"Fisiologia humana
 
 Conceitos vizinhos aceitos como ""quase"":
 - Genética clássica: Também é da Biologia do PAS 3, mas trata da herança, e não do funcionamento do corpo.";"A fisiologia humana estuda o funcionamento dos sistemas do corpo. A Matriz do PAS 3 cita o tema (Ciências da Natureza, Biológicos 18).";"Matriz PAS 3, Ciências da Natureza, Biológicos 18";"Matriz PAS 3 (dez/2022). Os fatos das pistas são conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k70";"PAS 1";"Pista 1: Um processo que acontece em quase todo ser vivo, do que você comeu hoje até a cicatriz que fecha um corte.
-Pista 2: Antes dele, o material genético é duplicado.
+"Caso do Dia (Biologia)";"k70";"PAS 1";"Pista 1: Acontece agora, dentro de você, sem você pedir.
+Pista 2: Antes de começar, uma cópia é feita.
 Pista 3: Há dois tipos: um mantém o número de cromossomos; o outro o reduz à metade e produz gametas.
 Pista 4: Passa por fases com nomes como prófase, metáfase, anáfase e telófase.
 Pista 5: Os dois tipos se chamam mitose e meiose.";"Divisão celular
@@ -933,8 +933,8 @@ Pista 5: Os dois tipos se chamam mitose e meiose.";"Divisão celular
 Conceitos vizinhos aceitos como ""quase"":
 - Teoria celular: A Teoria Celular diz do que os seres vivos são feitos, não como as células se multiplicam.
 - Organelas citoplasmáticas: As organelas são peças da célula; a divisão cuida de como ela se multiplica.";"A célula copia o material genético e se divide: na mitose gera células iguais, na meiose gera gametas. A Matriz do PAS 1 cita Organização Nuclear e Divisão Celular e o Ciclo Celular.";"Matriz PAS 1, Ciências da Natureza, Biológicos 12 (Organização Nuclear e Divisão Celular); PAS1CN5 e PAS1CN9 (Ciclo Celular)";"Matriz PAS 1 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Física)";"k71";"PAS 2";"Pista 1: Existem desde o século XVIII e mudaram a forma de produzir e de viajar.
-Pista 2: Convertem calor em trabalho, mas nunca com rendimento de 100%.
+"Caso do Dia (Física)";"k71";"PAS 2";"Pista 1: Mudaram fábricas e viagens.
+Pista 2: Pegam o que vem do fogo e fazem algo andar.
 Pista 3: Parte do calor sempre é jogada fora para uma fonte fria.
 Pista 4: A locomotiva a vapor e o motor de um carro são exemplos.
 Pista 5: Funcionam em ciclos, como o ciclo de Carnot, que dá o limite teórico do rendimento.";"Máquinas térmicas
@@ -942,8 +942,8 @@ Pista 5: Funcionam em ciclos, como o ciclo de Carnot, que dá o limite teórico 
 Conceitos vizinhos aceitos como ""quase"":
 - Leis da Termodinâmica: As máquinas térmicas aplicam as Leis da Termodinâmica; a pergunta é sobre o equipamento, não sobre a lei.
 - Calorimetria: A calorimetria mede o calor trocado; a máquina térmica o converte em trabalho.";"Máquinas térmicas retiram calor de uma fonte quente, realizam trabalho e rejeitam calor para uma fonte fria. A Matriz do PAS 2 cita Máquinas Térmicas e Frigoríficas e liga o tema à Revolução Industrial.";"Matriz PAS 2, Ciências da Natureza, Físicos 01 (Máquinas Térmicas e Frigoríficas); PAS2CN1 e PAS2CN2";"Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k72";"PAS 2";"Pista 1: Mede algo que não se vê, só se sente: esquentar ou esfriar.
-Pista 2: Usa um recipiente isolado onde as trocas de calor ficam registradas.
+"Caso do Dia (Química)";"k72";"PAS 2";"Pista 1: Uma medição que não se enxerga, só se sente.
+Pista 2: Precisa de um recipiente que não deixa nada escapar.
 Pista 3: A grandeza central é o calor trocado, em joules ou calorias.
 Pista 4: O aparelho que mede o calor liberado ao queimar um alimento tem quase o mesmo nome.
 Pista 5: É a parte da Termoquímica que mede o calor das reações.";"Calorimetria
@@ -951,8 +951,8 @@ Pista 5: É a parte da Termoquímica que mede o calor das reações.";"Calorimet
 Conceitos vizinhos aceitos como ""quase"":
 - Lei de Hess: A Lei de Hess usa calores medidos para calcular outros; a medição em si é a calorimetria.
 - Leis da Termodinâmica: A Termodinâmica é a teoria; a calorimetria é a técnica que mede o calor trocado.";"A calorimetria mede o calor trocado em um processo, por exemplo numa reação química. A Matriz do PAS 2 a cita na Termoquímica.";"Matriz PAS 2, Ciências da Natureza, Químicos 08 (Termoquímica: Calorimetria)";"Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Física)";"k73";"PAS 2";"Pista 1: Um dos resultados que mais surpreenderam os físicos no começo do século XX.
-Pista 2: Um elétron, num experimento de duas fendas, pode produzir um padrão que lembra o de uma onda.
+"Caso do Dia (Física)";"k73";"PAS 2";"Pista 1: Os físicos ficaram sem saber como chamar algo que se comporta de dois jeitos.
+Pista 2: Um experimento com duas fendas é o símbolo dessa ideia.
 Pista 3: A luz também faz coisas de partícula, como arrancar elétrons de um metal.
 Pista 4: É uma ideia central da Mecânica Quântica sobre a natureza da matéria e da luz.
 Pista 5: Diz que luz e matéria se comportam ora como onda, ora como partícula.";"Dualidade onda-partícula
@@ -961,8 +961,8 @@ Conceitos vizinhos aceitos como ""quase"":
 - Ondulatória: A Ondulatória estuda ondas; a dualidade diz que a matéria também tem aspecto de onda.
 - Teoria da relatividade: A relatividade também é Física Moderna, mas trata de espaço e tempo.
 - Princípio da incerteza: O Princípio da Incerteza é outra ideia quântica, sobre limites de medição, não sobre a dupla natureza.";"Na Física Moderna, luz e matéria mostram aspectos de onda e de partícula, conforme o experimento. A Matriz do PAS 2 cita Interação Luz-Matéria e Dualidade Onda-Partícula.";"Matriz PAS 2, Ciências da Natureza, Físicos 04 (Interação Luz-Matéria; Dualidade Onda-Partícula)";"Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Física)";"k74";"PAS 2";"Pista 1: Estão nas câmeras, nos óculos e nos telescópios.
-Pista 2: Formam imagens que podem ser maiores, menores, direitas ou invertidas.
+"Caso do Dia (Física)";"k74";"PAS 2";"Pista 1: Estão nos óculos, no celular e no telescópio.
+Pista 2: Mudam o tamanho e a posição do que se vê.
 Pista 3: A posição do objeto em relação ao foco decide como a imagem sai.
 Pista 4: O olho humano funciona com uma delas, e os defeitos de visão se corrigem com outra.
 Pista 5: Podem ser convergentes ou divergentes; no caso dos espelhos, côncavos ou convexos.";"Espelhos e lentes
@@ -970,8 +970,8 @@ Pista 5: Podem ser convergentes ou divergentes; no caso dos espelhos, côncavos 
 Conceitos vizinhos aceitos como ""quase"":
 - Ótica geométrica: A Ótica Geométrica é a área; os espelhos e as lentes são os elementos que formam as imagens.
 - Ondulatória: A Ondulatória trata de ondas em geral; espelhos e lentes usam a luz como raios.";"Espelhos e lentes formam imagens pela reflexão e pela refração da luz. A Matriz do PAS 2 cita a conjugação de imagem em espelhos e lentes, a instrumentação ótica e o olho humano.";"Matriz PAS 2, Ciências da Natureza, Físicos 03 (Conjugação de Imagem em Espelhos e Lentes; Instrumentação Ótica; Olho Humano e Defeitos de Visão)";"Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k75";"PAS 2";"Pista 1: Quatro famílias de substâncias que você encontra do sal da cozinha ao limpa-vidros.
-Pista 2: Duas delas reagem entre si e formam água e um sal.
+"Caso do Dia (Química)";"k75";"PAS 2";"Pista 1: Quatro grupos que misturam sabão e vinagre.
+Pista 2: Alguns reagem entre si e dão água e sal.
 Pista 3: Uma deixa o papel de tornassol vermelho; outra o deixa azul.
 Pista 4: Entre os exemplos estão o ácido clorídrico, o hidróxido de sódio e o cloreto de sódio.
 Pista 5: São os ácidos, as bases, os sais e os óxidos.";"Funções inorgânicas
@@ -979,8 +979,8 @@ Pista 5: São os ácidos, as bases, os sais e os óxidos.";"Funções inorgânic
 Conceitos vizinhos aceitos como ""quase"":
 - Concentração de soluções: Soluções são misturas homogêneas; as funções inorgânicas classificam as substâncias que podem estar nelas.
 - Lei geral dos gases: Os gases são um estado da matéria; as funções classificam substâncias pela composição.";"As funções inorgânicas agrupam substâncias pelo comportamento: ácidos, bases, sais e óxidos. A Matriz do PAS 2 cita Compostos inorgânicos e Funções químicas.";"Matriz PAS 2, Ciências da Natureza, Químicos 06 (Compostos inorgânicos: Sais; Ácidos; Bases; Óxidos; Funções químicas)";"Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k76";"PAS 2";"Pista 1: Explicam por que se joga sal na estrada gelada e por que o sal faz a água ferver mais tarde.
-Pista 2: Dependem do número de partículas dissolvidas, não de qual substância é.
+"Caso do Dia (Química)";"k76";"PAS 2";"Pista 1: Sal na estrada, sal na panela: o efeito é parecido.
+Pista 2: Importa a quantidade do que se dissolve, não o que é.
 Pista 3: Mudam o ponto de congelamento e o de ebulição de um líquido.
 Pista 4: Uma delas é a pressão osmótica.
 Pista 5: As quatro são tonoscopia, ebulioscopia, crioscopia e osmometria.";"Propriedades coligativas
@@ -988,8 +988,8 @@ Pista 5: As quatro são tonoscopia, ebulioscopia, crioscopia e osmometria.";"Pro
 Conceitos vizinhos aceitos como ""quase"":
 - Concentração de soluções: Soluções são o sistema; as propriedades coligativas são o que muda nele quando se dissolve algo.
 - Lei geral dos gases: Os gases têm leis próprias; as propriedades coligativas são sobre líquidos com soluto.";"As propriedades coligativas dependem da quantidade de partículas do soluto, não da natureza dele. A Matriz do PAS 2 as cita em Soluções.";"Matriz PAS 2, Ciências da Natureza, Químicos 09 (Soluções: Propriedades coligativas de soluções)";"Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k77";"PAS 2";"Pista 1: São seres sem núcleo definido, muito antigos e presentes em quase todo lugar.
-Pista 2: Algumas causam doenças, outras fazem iogurte e ajudam a digestão.
+"Caso do Dia (Biologia)";"k77";"PAS 2";"Pista 1: Pequenas e muito antigas, estão por toda parte.
+Pista 2: Algumas fazem iogurte, outras fazem adoecer.
 Pista 3: Os antibióticos funcionam contra elas, mas não contra vírus.
 Pista 4: Tuberculose, cólera e tétano são doenças que elas provocam.
 Pista 5: São procariontes unicelulares, com formas como bacilo, coco e espirilo.";"Bactérias e bacterioses
@@ -997,8 +997,8 @@ Pista 5: São procariontes unicelulares, com formas como bacilo, coco e espirilo
 Conceitos vizinhos aceitos como ""quase"":
 - Vírus e viroses: Vírus também causam doenças, mas o antibiótico não age sobre eles.
 - Sistemática e taxonomia: A taxonomia classifica os seres vivos; a pergunta é sobre este grupo e suas doenças.";"As bactérias são procariontes unicelulares. Algumas causam as bacterioses, e os antibióticos agem sobre elas. A Matriz do PAS 2 cita Bactérias e bacterioses.";"Matriz PAS 2, Ciências da Natureza, Biológicos 11 (Bactérias e bacterioses); PAS2CN6 (Produção de antibióticos)";"Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k78";"PAS 2";"Pista 1: Estuda o começo de tudo, do primeiro dia até o bebê, o filhote ou a larva.
-Pista 2: Uma célula única se divide muitas vezes e forma um aglomerado.
+"Caso do Dia (Biologia)";"k78";"PAS 2";"Pista 1: O começo de todos, antes do nascimento.
+Pista 2: Uma célula vira muitas, e elas se organizam.
 Pista 3: Há fases chamadas mórula, blástula e gástrula.
 Pista 4: Os folhetos embrionários dão origem a todos os órgãos do corpo.
 Pista 5: É o estudo do desenvolvimento do embrião.";"Embriologia animal
@@ -1006,8 +1006,8 @@ Pista 5: É o estudo do desenvolvimento do embrião.";"Embriologia animal
 Conceitos vizinhos aceitos como ""quase"":
 - Genética clássica: A Genética estuda a herança; a embriologia, o desenvolvimento do embrião.
 - Evolução: A evolução trata de mudanças ao longo das gerações; a embriologia, do desenvolvimento de um indivíduo.";"A embriologia acompanha o desenvolvimento do embrião, da célula-ovo à formação dos órgãos. A Matriz do PAS 2 cita a Embriologia animal, incluindo a humana.";"Matriz PAS 2, Ciências da Natureza, Biológicos 13 (Zoologia: Embriologia animal, incluindo a humana)";"Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Literatura)";"k79";"PAS 2";"Pista 1: No Brasil, nasceu perto da Independência, na busca de uma identidade nacional.
-Pista 2: Valoriza a emoção, o indivíduo e a liberdade, contra a razão fria do período anterior.
+"Caso do Dia (Literatura)";"k79";"PAS 2";"Pista 1: Sentimento em primeiro lugar, razão em segundo.
+Pista 2: Nasceu junto com a ideia de nação.
 Pista 3: Teve fases: indianista, ultrarromântica e condoreira.
 Pista 4: Gonçalves Dias, Álvares de Azevedo e Castro Alves são nomes dessa escola e aparecem na lista do PAS 2.
 Pista 5: É o estilo de época que vem logo antes do Realismo.";"Romantismo
@@ -1015,8 +1015,8 @@ Pista 5: É o estilo de época que vem logo antes do Realismo.";"Romantismo
 Conceitos vizinhos aceitos como ""quase"":
 - Realismo: O Realismo veio depois, em reação ao idealismo romântico.
 - Parnasianismo: O Parnasianismo valoriza a forma e a objetividade, ao contrário da emoção romântica.";"O Romantismo é o estilo de época dos séculos XVIII e XIX que valoriza emoção, subjetividade e identidade nacional. A Matriz do PAS 2 o cita entre os estilos de época, e a lista de obras traz poetas dessa escola.";"Matriz PAS 2, Linguagens, conhecimento 17 (Estilos de época: Romantismo); Lista de obras do PAS 2 (prévia jun/2024), Literaturas 3, 6 e 9";"Matriz PAS 2 (dez/2022). Lista do PAS 2 (prévia jun/2024). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (História)";"k80";"PAS 2";"Pista 1: Existiu desde o primeiro navio negreiro e tomou muitas formas.
-Pista 2: Algumas eram silenciosas: manter a cultura, a língua e a religião vivas.
+"Caso do Dia (História)";"k80";"PAS 2";"Pista 1: Quem não podia ir embora encontrou outras formas de dizer não.
+Pista 2: Teve cantos, fugas e comunidades inteiras.
 Pista 3: Outras eram coletivas: revoltas, fugas e comunidades inteiras no meio do mato.
 Pista 4: Palmares é o exemplo mais conhecido de comunidade formada por quem fugia.
 Pista 5: Quilombos, revoltas e sabotagens são formas de resistir à escravidão.";"Resistência ao escravismo
@@ -1024,8 +1024,8 @@ Pista 5: Quilombos, revoltas e sabotagens são formas de resistir à escravidão
 Conceitos vizinhos aceitos como ""quase"":
 - Diáspora atlântica: A diáspora trata do deslocamento forçado de africanos; aqui o foco é como eles resistiram.
 - Colonização da América Portuguesa: A colonização é o processo maior; a resistência é uma das respostas a ele.";"Pessoas escravizadas resistiram de muitas formas, de gestos cotidianos a quilombos e revoltas. A Matriz do PAS 2 cita os movimentos de resistência ao escravismo e de resistência indígena.";"Matriz PAS 2, Humanidades, conhecimento 11 (Movimentos de resistência ao escravismo, movimentos de resistência indígenas)";"Matriz PAS 2 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Física)";"k81";"PAS 3";"Pista 1: Começa com algo que você já viu: o cabelo arrepiado depois de tirar um agasalho de lã.
-Pista 2: Cargas de mesmo sinal se repelem e de sinais opostos se atraem.
+"Caso do Dia (Física)";"k81";"PAS 3";"Pista 1: Um estalo ao tirar a blusa de lã.
+Pista 2: Cargas paradas se atraem ou se repelem.
 Pista 3: A força entre duas cargas cai com o quadrado da distância.
 Pista 4: A lei leva o sobrenome de um francês que mediu essa força com uma balança de torção.
 Pista 5: É o estudo das cargas elétricas em repouso.";"Eletrostática
@@ -1033,8 +1033,8 @@ Pista 5: É o estudo das cargas elétricas em repouso.";"Eletrostática
 Conceitos vizinhos aceitos como ""quase"":
 - Lei de Faraday: A Lei de Faraday trata de campos que variam no tempo, não de cargas em repouso.
 - Leis de Kirchhoff: Kirchhoff trata de circuitos com corrente, ou seja, cargas em movimento.";"A eletrostática estuda força, campo e potencial elétrico de cargas em repouso. A Matriz do PAS 3 cita Força, Campo e Potencial Elétrico.";"Matriz PAS 3, Ciências da Natureza, Físicos 01 (Eletrostática: Força, Campo e Potencial Elétrico)";"Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Física)";"k82";"PAS 3";"Pista 1: Uma força que age de longe e que as bússolas aproveitam há séculos.
-Pista 2: Existe em ímãs, mas também ao redor de fios com corrente.
+"Caso do Dia (Física)";"k82";"PAS 3";"Pista 1: Uma força invisível que escolhe para onde apontar.
+Pista 2: Aparece em ímãs e em fios com corrente.
 Pista 3: Os polos iguais se repelem e os diferentes se atraem, mas nunca aparecem sozinhos.
 Pista 4: A Terra se comporta como um grande ímã, e isso orienta a agulha da bússola.
 Pista 5: Estuda ímãs, campos e forças magnéticas.";"Magnetismo
@@ -1042,8 +1042,8 @@ Pista 5: Estuda ímãs, campos e forças magnéticas.";"Magnetismo
 Conceitos vizinhos aceitos como ""quase"":
 - Eletrostática: A eletrostática trata de cargas em repouso; o magnetismo, de ímãs e correntes.
 - Lei de Faraday: A Lei de Faraday liga magnetismo e corrente, mas é uma lei, não o fenômeno todo.";"O magnetismo trata de forças e campos magnéticos em ímãs e correntes. A Matriz do PAS 3 cita Força e Campo Magnético e as Propriedades Magnéticas dos Materiais.";"Matriz PAS 3, Ciências da Natureza, Físicos 02 (Magnetismo: Força e Campo Magnético)";"Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k83";"PAS 3";"Pista 1: Convertem energia química em energia elétrica sem precisar da tomada.
-Pista 2: Dois metais diferentes ficam ligados por uma solução.
+"Caso do Dia (Química)";"k83";"PAS 3";"Pista 1: Sem tomada, sem fio, e a lanterna acende.
+Pista 2: Dois metais diferentes fazem o serviço.
 Pista 3: Em um polo ocorre oxidação; no outro, redução.
 Pista 4: A experiência de Volta, de 1800, é uma das origens do dispositivo.
 Pista 5: Anodo e catodo são os polos, e o par zinco e cobre é o exemplo clássico.";"Pilhas
@@ -1051,8 +1051,8 @@ Pista 5: Anodo e catodo são os polos, e o par zinco e cobre é o exemplo cláss
 Conceitos vizinhos aceitos como ""quase"":
 - Eletrólise: A eletrólise faz o oposto: usa corrente elétrica para provocar uma reação.
 - Eletroquímica: A Eletroquímica é a área toda; a pilha é um dispositivo dela.";"Uma pilha usa uma reação de oxirredução espontânea para gerar corrente elétrica. A Matriz do PAS 3 cita Pilhas e a Experiência de Volta.";"Matriz PAS 3, Ciências da Natureza, Químicos 08 (Eletroquímica: Pilhas); PAS3CN12 (Experiência de Volta, Pilhas Eletroquímicas)";"Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k84";"PAS 3";"Pista 1: Usa corrente elétrica para fazer acontecer o que sozinho não aconteceria.
-Pista 2: Serve para obter metais como o alumínio e para dar brilho a joias.
+"Caso do Dia (Química)";"k84";"PAS 3";"Pista 1: A corrente elétrica obriga a química a fazer o que não faria sozinha.
+Pista 2: Foi assim que se conseguiu isolar metais difíceis.
 Pista 3: Pode ser feita com a substância derretida ou dissolvida em água.
 Pista 4: É o processo inverso ao que acontece numa pilha.
 Pista 5: A eletrólise ígnea e a aquosa são os dois tipos.";"Eletrólise
@@ -1060,24 +1060,24 @@ Pista 5: A eletrólise ígnea e a aquosa são os dois tipos.";"Eletrólise
 Conceitos vizinhos aceitos como ""quase"":
 - Pilhas: A pilha produz corrente a partir de uma reação; a eletrólise faz o contrário.
 - Eletroquímica: A Eletroquímica é a área; a eletrólise é um dos processos.";"Na eletrólise, uma corrente elétrica força uma reação química não espontânea. A Matriz do PAS 3 cita a Eletrólise ígnea e aquosa.";"Matriz PAS 3, Ciências da Natureza, Químicos 08 (Eletroquímica: Eletrólise ígnea e aquosa)";"Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k85";"PAS 3";"Pista 1: Mesma fórmula molecular, comportamentos diferentes.
-Pista 2: Duas substâncias podem ter os mesmos átomos e propriedades distintas.
+"Caso do Dia (Química)";"k85";"PAS 3";"Pista 1: Mesmos átomos, outro jeito de se arrumar.
+Pista 2: A mesma fórmula, mas com personalidades diferentes.
 Pista 3: O etanol e o éter dimetílico têm a mesma fórmula, C₂H₆O, mas são muito diferentes.
 Pista 4: Pode ser de cadeia, de posição, de função ou espacial.
 Pista 5: É quando compostos orgânicos distintos compartilham a mesma fórmula molecular.";"Isomeria
 
 Conceitos vizinhos aceitos como ""quase"":
 - Estequiometria: A estequiometria faz contas com fórmulas; a isomeria compara fórmulas iguais com estruturas diferentes.";"Isômeros têm a mesma fórmula molecular e estruturas diferentes. A Matriz do PAS 3 cita Isomeria na Química orgânica.";"Matriz PAS 3, Ciências da Natureza, Químicos 11 (Química orgânica: Isomeria)";"Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Química)";"k86";"PAS 3";"Pista 1: Estão na sua mochila, no seu tênis, na garrafa e na roupa.
-Pista 2: São cadeias enormes formadas pela repetição de unidades pequenas.
+"Caso do Dia (Química)";"k86";"PAS 3";"Pista 1: Quase tudo à sua volta tem isso.
+Pista 2: Uma fileira de pequenas peças iguais.
 Pista 3: Plásticos, borrachas e fibras sintéticas pertencem a esse grupo.
 Pista 4: O polietileno e o PVC são exemplos muito comuns.
 Pista 5: O nome vem do grego e quer dizer 'muitas partes'; as unidades que se repetem são os monômeros.";"Polímeros
 
 Conceitos vizinhos aceitos como ""quase"":
 - Isomeria: A isomeria compara estruturas com a mesma fórmula; os polímeros são cadeias de unidades que se repetem.";"Polímeros são macromoléculas formadas pela repetição de monômeros. A Matriz do PAS 3 cita Polímeros em Novos materiais.";"Matriz PAS 3, Ciências da Natureza, Químicos 12 (Novos materiais: Polímeros); PAS3CN4 e PAS3CN5";"Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k87";"PAS 3";"Pista 1: Explica como a informação para construir um ser vivo é guardada e usada.
-Pista 2: Uma molécula em forma de dupla hélice carrega o código.
+"Caso do Dia (Biologia)";"k87";"PAS 3";"Pista 1: Um código dentro de cada célula.
+Pista 2: Escrito com quatro letras, lido de três em três.
 Pista 3: A informação é copiada, lida e traduzida em proteínas.
 Pista 4: Seus passos principais são replicação, transcrição e tradução.
 Pista 5: Estuda DNA, RNA e a expressão dos genes.";"Genética molecular
@@ -1085,8 +1085,8 @@ Pista 5: Estuda DNA, RNA e a expressão dos genes.";"Genética molecular
 Conceitos vizinhos aceitos como ""quase"":
 - Genética clássica: A Genética clássica estuda a herança de características; a molecular, o DNA em si.
 - Evolução: A evolução trata de mudanças entre gerações; a genética molecular, da informação guardada no DNA.";"A genética molecular estuda como o DNA armazena, copia e expressa a informação. A Matriz do PAS 3 cita Genética molecular, Expressão Gênica e Mutações.";"Matriz PAS 3, Ciências da Natureza, Biológicos 16 (Genética molecular; Expressão Gênica; Mutações)";"Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Biologia)";"k88";"PAS 3";"Pista 1: Trabalha dia e noite sem você perceber, de olho em tudo o que entra no corpo.
-Pista 2: Reconhece o que é 'seu' e o que é estranho.
+"Caso do Dia (Biologia)";"k88";"PAS 3";"Pista 1: Uma guarda que nunca dorme.
+Pista 2: Aprende a reconhecer quem é de fora.
 Pista 3: Tem células de defesa que produzem anticorpos.
 Pista 4: É o princípio por trás das vacinas, que o treinam sem causar a doença.
 Pista 5: Defende o organismo contra vírus, bactérias e outros invasores.";"Sistema imunológico
@@ -1094,8 +1094,8 @@ Pista 5: Defende o organismo contra vírus, bactérias e outros invasores.";"Sis
 Conceitos vizinhos aceitos como ""quase"":
 - Vírus e viroses: Vírus são invasores; o sistema imunológico é quem os combate.
 - Fisiologia humana: A fisiologia humana é o conjunto de sistemas; aqui é o sistema de defesa.";"O sistema imunológico reconhece e combate agentes estranhos, e as vacinas o treinam. A Matriz do PAS 3 cita o sistema imunológico e o mecanismo de ação das vacinas.";"Matriz PAS 3, Ciências da Natureza, Biológicos 18 (Fisiologia Humana: sistema imunológico); PAS3CN7 (Mecanismo de ação das vacinas)";"Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Sociologia)";"k89";"PAS 3";"Pista 1: Cada vez mais gente a encontra no celular, em corrente de mensagem.
-Pista 2: Pode ser inocente ou ter dono e propósito político.
+"Caso do Dia (Sociologia)";"k89";"PAS 3";"Pista 1: Corre mais rápido que a verdade.
+Pista 2: Chega pelo celular, muitas vezes sem que você perceba.
 Pista 3: Se espalha rápido porque emociona e é fácil de compartilhar.
 Pista 4: Ameaça a confiança nas instituições e na ciência.
 Pista 5: São as notícias falsas e a manipulação deliberada de informação.";"Desinformação
@@ -1103,8 +1103,8 @@ Pista 5: São as notícias falsas e a manipulação deliberada de informação."
 Conceitos vizinhos aceitos como ""quase"":
 - Indústria cultural: A indústria cultural produz bens culturais em massa; a desinformação é conteúdo falso circulando.
 - Estado Democrático de Direito: O Estado democrático sofre com a desinformação, mas não se confunde com ela.";"Desinformação é informação falsa ou enganosa que circula, às vezes de propósito, e pressiona a democracia. A Matriz do PAS 3 cita Informação, desinformação, liberdades individuais e limites democráticos.";"Matriz PAS 3, Humanidades, conhecimento 10 (Informação, desinformação, liberdades individuais e limites democráticos)";"Matriz PAS 3 (dez/2022). Detalhes e exemplos: conhecimento geral, a confirmar.";"sim";"";""
-"Caso do Dia (Geografia)";"k90";"PAS 3";"Pista 1: Mapas que mostram quem manda onde, e por quê.
-Pista 2: Estuda disputas por território, recursos e influência.
+"Caso do Dia (Geografia)";"k90";"PAS 3";"Pista 1: Mapa e poder andam juntos.
+Pista 2: Disputas por território, petróleo e influência estão aí.
 Pista 3: Envolve Estados, alianças militares e blocos econômicos.
 Pista 4: A Guerra Fria, o Oriente Médio e as disputas pelo petróleo são exemplos.
 Pista 5: É a relação entre o espaço geográfico e o poder dos Estados.";"Geopolítica mundial

@@ -107,3 +107,30 @@
 /* contador de sequência: o dígito rolante não pode descer da linha do texto */
 #streak-n { display: inline-flex; align-items: center; line-height: 1; height: 1em; }
 #streak-n .fx-d { vertical-align: top; }
+
+/* aviso grande de fim de jogo */
+dialog.fim { border-width: 3px; width: min(94vw, 460px); max-height: 88vh; overflow: auto; }
+dialog.fim-ganhou { border-color: var(--ok); }
+dialog.fim-perdeu { border-color: var(--bad); }
+.fim .close { display: none; }
+.fim-corpo { display: grid; justify-items: center; gap: 8px; text-align: center; padding: 6px 2px; }
+.fim-ico { width: 84px; height: 84px; border-radius: 50%; display: grid; place-items: center; }
+.fim-ico svg { width: 52px; height: 52px; fill: none; stroke: currentColor; stroke-width: 3.4; stroke-linecap: round; stroke-linejoin: round; }
+.fim-ganhou .fim-ico { background: var(--okbg); color: var(--ok); }
+.fim-perdeu .fim-ico { background: var(--badbg); color: var(--bad); }
+.fim h2 { padding: 0; font-size: 2rem; line-height: 1.05; font-weight: 800; }
+.fim-ganhou h2 { color: var(--ok); }
+.fim-perdeu h2 { color: var(--bad); }
+.fim-rot { margin: 6px 0 0; color: var(--muted); font-size: .85rem; font-weight: 700; }
+.fim-resp { margin: 0; font-size: 1.35rem; font-weight: 800; line-height: 1.2; overflow-wrap: anywhere; }
+.fim-ver { margin: 0; color: var(--muted); }
+.fim-grupos { width: 100%; text-align: left; margin-top: 4px; }
+.fim .btn { width: 100%; margin-top: 8px; }
+@media (prefers-reduced-motion: no-preference) {
+  dialog.fim[open] { animation: fim-entra .45s cubic-bezier(.34, 1.56, .64, 1) both; }
+  dialog.fim-perdeu[open] { animation: fim-entra .45s cubic-bezier(.34, 1.56, .64, 1) both, fim-treme .5s .3s ease-out; }
+  .fim-ico { animation: fim-ico .6s .15s cubic-bezier(.34, 1.56, .64, 1) both; }
+  @keyframes fim-entra { from { opacity: 0; transform: translateY(24px) scale(.88); } to { opacity: 1; transform: none; } }
+  @keyframes fim-ico { from { transform: scale(0) rotate(-40deg); } to { transform: none; } }
+  @keyframes fim-treme { 20%, 60% { translate: -8px 0; } 40%, 80% { translate: 8px 0; } }
+}

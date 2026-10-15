@@ -20,6 +20,35 @@ export function abrirFolha(html) {
   $("#dlg-body").innerHTML = html;
   if (!dlg.open) dlg.showModal();
 }
+/** Aviso grande de fim de jogo: acertou ou errou, com a resposta (e, no Conexões, os quatro grupos). */
+export function abrirFim({ venceu, titulo, resposta, rotulo, veredito, extra = "", aoFechar }) {
+  const ico = venceu
+    ? '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>'
+    : '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>';
+  dlg.classList.toggle("fim-ganhou", venceu);
+  dlg.classList.toggle("fim-perdeu", !venceu);
+  dlg.classList.add("fim");
+  $("#dlg-body").innerHTML = `<div class="fim-corpo">
+    <div class="fim-ico">${ico}</div>
+    <h2 id="dlg-t">${esc(titulo)}</h2>
+    <p class="fim-rot">${esc(rotulo)}</p>
+    ${resposta ? `<p class="fim-resp">${esc(resposta)}</p>` : ""}
+    <p class="fim-ver">${esc(veredito)}</p>
+    ${extra ? `<div class="cx-done fim-grupos">${extra}</div>` : ""}
+    <button class="btn" data-fim-ok>Ver explicação</button>
+  </div>`;
+  fecharFim = aoFechar || null;
+  $("[data-fim-ok]").onclick = () => dlg.close();
+  if (!dlg.open) dlg.showModal();
+  $("[data-fim-ok]").focus({ preventScroll: true });
+}
+let fecharFim = null;
+dlg.addEventListener("close", () => {
+  dlg.classList.remove("fim", "fim-ganhou", "fim-perdeu");
+  const f = fecharFim;
+  fecharFim = null;
+  if (f) f();
+});
 $("#dlg-close").onclick = () => dlg.close();
 dlg.addEventListener("click", (e) => {
   if (e.target === dlg) dlg.close();

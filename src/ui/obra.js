@@ -49,12 +49,18 @@ export function telaObra(idx) {
   const n = s.guesses.length;
   const ganhou = s.status === "won";
   const tipo = ganhou ? (n <= 3 ? "ok" : "near") : "wrong";
-  const dicasLiberadas = fim ? P.dicas.length : n >= 4 ? 2 : n >= 2 ? 1 : 0;
-  const dicas = P.dicas.slice(0, dicasLiberadas).map((d, i) => `<li><b>Dica ${i + 1}:</b> ${esc(d)}</li>`).join("");
+  // pistas em ordem: dica 1 (2 palpites), categoria (3 palpites), dica 2 (4 palpites)
+  const pistas = [
+    { quando: 2, html: P.dicas[0] ? `<b>Dica 1:</b> ${esc(P.dicas[0])}` : "" },
+    { quando: 3, html: `<b>Categoria:</b> ${esc(secreta.categoria)}` },
+    { quando: 4, html: P.dicas[1] ? `<b>Dica 2:</b> ${esc(P.dicas[1])}` : "" },
+  ].filter((x) => x.html);
+  const dicas = pistas.filter((x) => fim || n >= x.quando).map((x) => `<li>${x.html}</li>`).join("");
+  const proxima = pistas.find((x) => n < x.quando);
 
   const entrada = fim
     ? ""
-    : `${campoBusca("Digite uma obra ou um autor…", "Seu palpite")}<p class="meta pequeno">Você tem ${MAX - n} ${MAX - n === 1 ? "palpite" : "palpites"}. A próxima dica abre ${n < 2 ? "depois de 2 palpites" : n < 4 ? "depois de 4 palpites" : "agora"}.</p>`;
+    : `${campoBusca("Digite uma obra ou um autor…", "Seu palpite")}<p class="meta pequeno">Você tem ${MAX - n} ${MAX - n === 1 ? "palpite" : "palpites"}. ${proxima ? `A próxima pista abre depois de ${proxima.quando} palpites.` : ""}</p>`;
 
   const resultado = fim
     ? painelResultado({

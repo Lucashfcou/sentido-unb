@@ -1,11 +1,11 @@
 // Peças compartilhadas pelos três jogos: cabeçalho, painel de resultado, navegação.
 import { fx } from "./fx.js";
 import { GAMES, PUZZLES } from "../jogos.js";
-import { edicao, indiceDeHoje, indicesDaEtapaAtual, etapaAtual } from "../state.js";
+import { edicao, indiceDeHoje, indicesDaEtapaAtual, etapaAtual, consumirConclusao } from "../state.js";
 import { ETAPAS } from "../lib/etapa.js";
 import { emitir } from "../lib/medicao.js";
 import { ICONES, ICONE_VOLTAR, SIM } from "../icons.js";
-import { $, main, esc, toast, copiar, abrirFolha } from "./dom.js";
+import { $, main, esc, toast, copiar, abrirFolha, abrirFim } from "./dom.js";
 
 export const ir = (caminho) => {
   location.hash = caminho;
@@ -66,14 +66,30 @@ export function painelResultado(p) {
   </section>`;
 }
 
-const animados = new Set();
-
 export function ligarResultado(gid, idx, texto) {
   const r = $("#result");
   if (!r) return;
-  if (!animados.has(`${gid}:${idx}`)) {
-    animados.add(`${gid}:${idx}`);
-    fx.depoisDoResultado(r, r.classList.contains("won"));
+  // reação só na hora em que o puzzle termina; ao reabrir um puzzle antigo, nada pula na tela
+  if (consumirConclusao(gid)) {
+    const venceu = r.classList.contains("won");
+    // lê os textos antes: a animação do título embaralha as letras por alguns instantes
+    const resposta = gid === "conex" ? "" : r.querySelector("h3")?.textContent || "";
+    const veredito = gid === "conex" && !venceu ? "Estes eram os quatro grupos." : r.querySelector(".verdict")?.textContent || "";
+    fx.depoisDoResultado(r, venceu);
+    const extra = gid === "conex" ? $(".cx-done", main)?.innerHTML || "" : "";
+    setTimeout(
+      () =>
+        abrirFim({
+          venceu,
+          titulo: venceu ? "Acertou!" : "Não foi dessa vez",
+          resposta,
+          rotulo: gid === "conex" ? (venceu ? "Os quatro grupos" : "Os grupos eram") : venceu ? "A resposta" : "A resposta era",
+          veredito,
+          extra,
+          aoFechar: () => r.scrollIntoView({ behavior: "smooth", block: "start" }),
+        }),
+      gid === "conex" ? 900 : 1100,
+    );
   }
   $("[data-share]", r).onclick = async () => {
     const n = etapaAtual();

@@ -58,7 +58,16 @@ export function registrarVisita() {
 }
 
 /** Chamado quando um puzzle termina: marca o dia e avisa a medição. */
+let recemConcluido = null;
+/** Verdadeiro uma única vez depois que um puzzle do jogo acabou de terminar (e não quando se reabre um puzzle antigo). */
+export function consumirConclusao(gid) {
+  const sim = recemConcluido === gid;
+  recemConcluido = null;
+  return sim;
+}
+
 export function concluir(gid, puzzleId, venceu) {
+  recemConcluido = gid;
   registrarDia(gid, puzzleId);
   emitir("concluiu", { jogo: gid, etapa: etapaAtual(), venceu });
 }
