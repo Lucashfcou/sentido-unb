@@ -90,9 +90,9 @@ export function validarObras(dados) {
     // A obra secreta precisa ter o que comparar.
     for (const c of ["categoria", "ano", "pais", "forma"]) if (o[c] === null) erros.push(`${at}: a obra secreta não tem '${c}' (nada para comparar)`);
     if (!(o.etapas || []).some((e) => etapasDe(e).some((n) => etapasDe(p.etapa).includes(n)))) erros.push(`${at}: a obra secreta não está na lista da etapa do puzzle (${p.etapa})`);
-    if (p.dicas.length !== 2 || !p.dicas.every(texto)) erros.push(`${at}: precisa de 2 dicas`);
+    if (p.dicas.length !== 5 || !p.dicas.every(texto)) erros.push(`${at}: precisa de 5 dicas`);
     const nomes = [o.titulo, ...o.apelidos].map(normalizar).filter((n) => n.length > 3);
-    p.dicas.forEach((d, i) => {
+    p.dicas.slice(0, 4).forEach((d, i) => {
       if (nomes.some((n) => normalizar(d).includes(n))) erros.push(`${at}: a dica ${i + 1} entrega a obra`);
     });
     for (const k of ["explain", "origem_pas", "fonte", "etapa"]) if (!texto(p[k])) erros.push(`${at}: falta ${k}`);

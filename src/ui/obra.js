@@ -5,8 +5,9 @@ import { estado, salvar, concluir } from "../state.js";
 import { compararObras, rotuloEpoca, CAMPOS_OBRA } from "../lib/obra.js";
 import { grelhaObra, montarTexto } from "../lib/partilha.js";
 import { SIM } from "../icons.js";
-import { $, main, esc, pintar, focarCampo } from "./dom.js";
+import { $, main, esc, pintar, focarCampo, abrirFolha } from "./dom.js";
 import { cabecalho, ligarCabecalho, painelResultado, ligarResultado, frase } from "./comum.js";
+import { fx } from "./fx.js";
 import { campoBusca, ligarBusca } from "./busca.js";
 import { indexarRespostas } from "../lib/busca.js";
 import { etapasDe } from "../lib/etapa.js";
@@ -49,18 +50,17 @@ export function telaObra(idx) {
   const n = s.guesses.length;
   const ganhou = s.status === "won";
   const tipo = ganhou ? (n <= 3 ? "ok" : "near") : "wrong";
-  // pistas em ordem: dica 1 (2 palpites), categoria (3 palpites), dica 2 (4 palpites)
-  const pistas = [
-    { quando: 2, html: P.dicas[0] ? `<b>Dica 1:</b> ${esc(P.dicas[0])}` : "" },
-    { quando: 3, html: `<b>Categoria:</b> ${esc(secreta.categoria)}` },
-    { quando: 4, html: P.dicas[1] ? `<b>Dica 2:</b> ${esc(P.dicas[1])}` : "" },
-  ].filter((x) => x.html);
-  const dicas = pistas.filter((x) => fim || n >= x.quando).map((x) => `<li>${x.html}</li>`).join("");
-  const proxima = pistas.find((x) => n < x.quando);
+  // cinco dicas, como no Caso do Dia: a primeira já aparece; cada palpite errado abre a próxima
+  const visiveis = fim ? P.dicas.length : Math.min(P.dicas.length, n + 1);
+  const dicas = P.dicas
+    .slice(0, visiveis)
+    .map((d, i) => `<li class="${i === visiveis - 1 && !fim ? "nova" : ""}"><b>Dica ${i + 1}:</b> ${esc(d)}</li>`)
+    .join("");
 
   const entrada = fim
     ? ""
-    : `${campoBusca("Digite uma obra ou um autor…", "Seu palpite")}<p class="meta pequeno">Você tem ${MAX - n} ${MAX - n === 1 ? "palpite" : "palpites"}. ${proxima ? `A próxima pista abre depois de ${proxima.quando} palpites.` : ""}</p>`;
+    : `${campoBusca("Digite uma obra ou um autor…", "Seu palpite")}<p class="meta pequeno">Você tem ${MAX - n} ${MAX - n === 1 ? "palpite" : "palpites"}. Cada erro abre uma dica nova.</p>
+       <div class="actions"><button class="btn ghost" data-lista>Ver todas as obras da lista</button></div>`;
 
   const resultado = fim
     ? painelResultado({
@@ -82,6 +82,7 @@ export function telaObra(idx) {
     ${resultado}
   </div>`);
   ligarCabecalho("obra");
+  if (n > 0 && !fim) fx.deslizar(main.querySelector(".dicas li.nova"));
 
   const registrar = (id) => {
     s.guesses.push(id);
@@ -100,6 +101,24 @@ export function telaObra(idx) {
       aoEscolher: registrar,
     });
     focarCampo($("#q", main));
+    $("[data-lista]", main).onclick = () => {
+      const ja = new Set(s.guesses);
+      const n1 = etapasDe(P.etapa)[0];
+      const obras = O.lista.filter((o) => o.etapas.includes(`PAS ${n1}`));
+      const cats = [...new Set(obras.map((o) => o.categoria))];
+      const corpo = cats
+        .map((c) => `<h3>${esc(c)}</h3><div class="lista-obras">${obras
+          .filter((o) => o.categoria === c)
+          .sort((x, y) => x.titulo.localeCompare(y.titulo, "pt-BR"))
+          .map((o) => `<button class="obra-item" data-id="${esc(o.id)}" ${ja.has(o.id) ? "disabled" : ""}><span>${esc(o.titulo)}</span><small>${esc(o.autor)}</small></button>`)
+          .join("")}</div>`)
+        .join("");
+      abrirFolha(`<h2 id="dlg-t">Obras da lista do PAS ${n1}</h2><p class="meta pequeno">Toque numa obra para usá-la como palpite.</p><div class="lista-geral">${corpo}</div>`);
+      $("#dlg-body").querySelectorAll("[data-id]").forEach((b) => (b.onclick = () => {
+        document.getElementById("dlg").close();
+        registrar(b.dataset.id);
+      }));
+    };
   } else {
     ligarResultado("obra", idx, montarTexto({
       jogo: "Qual é a obra?", numero: idx + 1, placar: ganhou ? `${n}/${MAX}` : `X/${MAX}`, grade: grelhaObra(P, O.porId, s.guesses, O.continentes), frase: frase("obra", tipo, idx),
